@@ -1,0 +1,601 @@
+{
+  "meta": {
+    "title": "Yan v Mainzeal Property and Construction Limited (in liquidation)",
+    "citation": "[2023] NZSC 113",
+    "court": "Supreme Court of New Zealand",
+    "date": "2023-08-25",
+    "judges": [
+      "Winkelmann CJ",
+      "William Young J",
+      "Glazebrook J",
+      "O’Regan J",
+      "Ellen France J"
+    ],
+    "outcome_summary": "Directors' appeals dismissed, liquidators' cross-appeal allowed, and directors ordered to contribute $39.8m to Mainzeal's assets with liability apportioned based on culpability.",
+    "parties": {
+      "appellants_or_plaintiffs": [
+        {
+          "name": "Richard Ciliang Yan",
+          "role": "Director of Mainzeal and representative of the shareholder"
+        },
+        {
+          "name": "Peter Gomm",
+          "role": "Director and CEO of Mainzeal"
+        },
+        {
+          "name": "Jennifer Mary Shipley",
+          "role": "Chair and Director of Mainzeal"
+        },
+        {
+          "name": "Clive William Charles Tilby",
+          "role": "Director of Mainzeal"
+        }
+      ],
+      "respondents_or_defendants": [
+        {
+          "name": "Mainzeal Property and Construction Limited (in liquidation)",
+          "role": "Company in liquidation"
+        },
+        {
+          "name": "Andrew James Bethell",
+          "role": "Liquidator"
+        },
+        {
+          "name": "Andrew McKay",
+          "role": "Liquidator"
+        }
+      ]
+    }
+  },
+  "overview": {
+    "summary": "Mainzeal operated as a major construction company while balance sheet insolvent for years, relying on unenforceable assurances of group support. After it collapsed into liquidation, liquidators sued the directors for breaches of s 135 (reckless trading) and s 136 (duty in relation to obligations) of the Companies Act 1993. The Supreme Court held that the directors breached s 135 by continuing to trade in a manner likely to create a substantial risk of serious loss to creditors, and breached s 136 by agreeing to incur new obligations without reasonable grounds to believe they would be met. The Court held that the appropriate measure of compensation for s 136 is the 'new debt' approach. Using its discretion under s 301, the Court ordered $39.8m in compensation, holding Mr Yan fully liable for this amount, while capping the liability of the other directors at $6.6m each due to their lesser culpability.",
+    "legal_issues": [
+      "What is the fault requirement for liability under s 135?",
+      "Can s 136 apply to a general course of trading or is it restricted to specific obligations?",
+      "What is the appropriate measure of compensation for breaches of ss 135 and 136?",
+      "Can the court use s 301 to apportion liability among directors based on culpability?"
+    ],
+    "topics": [
+      "companies_act_1993",
+      "s135",
+      "s136",
+      "s301",
+      "reckless_trading",
+      "insolvent_trading",
+      "directors_duties",
+      "compensation",
+      "net_deterioration",
+      "new_debt",
+      "letters_of_comfort",
+      "creditor_interests"
+    ]
+  },
+  "propositions": [
+    {
+      "id": "p1",
+      "proposition": "The fault requirement for a breach of s 135 is one of reasonableness (negligence), not subjective recklessness or irrationality, assessed on the facts the directors knew or should have known.",
+      "type": "ratio",
+      "section_refs": [
+        "s_liability_s135_law"
+      ],
+      "topics": [
+        "s135",
+        "fault_standard",
+        "negligence",
+        "business_judgment_rule"
+      ]
+    },
+    {
+      "id": "p2",
+      "proposition": "Directors of an insolvent or near-insolvent company must have at least substantial regard to the interests of creditors, and a long-term strategy of trading while balance sheet insolvent is generally unacceptable without reliable, enforceable support.",
+      "type": "ratio",
+      "section_refs": [
+        "s_liability_s135_application",
+        "s_implications"
+      ],
+      "topics": [
+        "s135",
+        "creditor_interests",
+        "insolvent_trading"
+      ]
+    },
+    {
+      "id": "p3",
+      "proposition": "Section 136 is not limited to specific obligations and can apply to a general course of trading where directors agree to the company incurring obligations without reasonable grounds to believe they will be honoured.",
+      "type": "ratio",
+      "section_refs": [
+        "s_liability_s136"
+      ],
+      "topics": [
+        "s136",
+        "duty_in_relation_to_obligations"
+      ]
+    },
+    {
+      "id": "p4",
+      "proposition": "The measure of loss for breach of s 135 is generally the net deterioration in the company's financial position between the breach date and liquidation.",
+      "type": "ratio",
+      "section_refs": [
+        "s_measurement_loss"
+      ],
+      "topics": [
+        "s135",
+        "compensation",
+        "net_deterioration"
+      ]
+    },
+    {
+      "id": "p5",
+      "proposition": "The appropriate measure of compensation for a breach of s 136 is generally the new debt measure, calculating the gross amount of unsatisfied obligations incurred after the breach.",
+      "type": "ratio",
+      "section_refs": [
+        "s_measurement_loss"
+      ],
+      "topics": [
+        "s136",
+        "compensation",
+        "new_debt"
+      ]
+    },
+    {
+      "id": "p6",
+      "proposition": "Section 301 of the Companies Act 1993 confers a broad discretion on the court to tailor compensation and apportion liability among directors based on their respective culpability.",
+      "type": "ratio",
+      "section_refs": [
+        "s_relief_s301"
+      ],
+      "topics": [
+        "s301",
+        "apportionment",
+        "culpability",
+        "discretion"
+      ]
+    }
+  ],
+  "reasoning_chains": [
+    {
+      "id": "rc1",
+      "question": "Were the directors liable under s 135?",
+      "section_sequence": [
+        "s_facts_early",
+        "s_facts_support",
+        "s_liability_s135_law",
+        "s_liability_s135_application"
+      ],
+      "conclusion": "Yes, by 31 January 2011 the directors breached s 135 by continuing to trade unreasonably while balance sheet insolvent relying on unenforceable support."
+    },
+    {
+      "id": "rc2",
+      "question": "Were the directors liable under s 136?",
+      "section_sequence": [
+        "s_liability_s136"
+      ],
+      "conclusion": "Yes, they breached s 136 regarding four major contracts entered into after January 2011, and all obligations incurred after 5 July 2012, as they lacked reasonable grounds to believe the debts would be paid."
+    },
+    {
+      "id": "rc3",
+      "question": "How should compensation be assessed for breaches of ss 135 and 136?",
+      "section_sequence": [
+        "s_measurement_loss",
+        "s_quantification"
+      ],
+      "conclusion": "Loss under s 135 is net deterioration (unproven here), while loss under s 136 is new debt. The new debt calculation resulted in $39.8m."
+    },
+    {
+      "id": "rc4",
+      "question": "Should liability be apportioned equally among the directors?",
+      "section_sequence": [
+        "s_relief_s301"
+      ],
+      "conclusion": "No, using the discretion under s 301, Mr Yan was held fully liable for the $39.8m due to high culpability, while the other directors' liabilities were capped at $6.6m each."
+    }
+  ],
+  "sections": [
+    {
+      "id": "s_intro",
+      "title": "Judgment Information and Table of Contents",
+      "anchor_start": 1,
+      "anchor_end": 14,
+      "paragraph_range": "",
+      "summary": "Metadata, header, and table of contents of the judgment.",
+      "topics": [
+        "administrative"
+      ],
+      "relevance": 1
+    },
+    {
+      "id": "s_introduction",
+      "title": "Introduction",
+      "anchor_start": 14,
+      "anchor_end": 19,
+      "paragraph_range": "[1]-[11]",
+      "summary": "The Supreme Court introduces the appeals concerning the collapse of Mainzeal. The Court outlines the liquidators' claims against the directors for reckless trading (s 135) and incurring obligations without reasonable grounds (s 136).",
+      "topics": [
+        "s135",
+        "s136",
+        "insolvent_trading"
+      ],
+      "relevance": 3,
+      "connects_to": []
+    },
+    {
+      "id": "s_facts_early",
+      "title": "Factual background: Early history and trading",
+      "anchor_start": 19,
+      "anchor_end": 52,
+      "paragraph_range": "[12]-[35]",
+      "summary": "Details Mainzeal's takeover by Richard Yan's interests, its relationship with parent Richina Pacific, the extraction of funds to China rendering Mainzeal balance sheet insolvent from 2005, and its subsequent poor trading performance. Outlines the 2009 restructuring that further isolated Mainzeal from asset-rich entities.",
+      "topics": [
+        "balance_sheet_insolvency",
+        "related_party_loans",
+        "corporate_restructuring"
+      ],
+      "relevance": 3,
+      "connects_to": []
+    },
+    {
+      "id": "s_facts_support",
+      "title": "Promises of shareholder support and window dressing",
+      "anchor_start": 52,
+      "anchor_end": 82,
+      "paragraph_range": "[36]-[50]",
+      "summary": "Details the letters of support relied upon by the directors, noting they were not contractually enforceable and were given by an entity without independent assets. Explains how the company attempted to manage irrecoverable loans through prepaid goods agreements and window dressing of financial statements.",
+      "topics": [
+        "letters_of_comfort",
+        "unenforceable_assurances",
+        "window_dressing"
+      ],
+      "relevance": 4,
+      "connects_to": [
+        "s_liability_s135_application"
+      ]
+    },
+    {
+      "id": "s_facts_2010",
+      "title": "Events in 2010",
+      "anchor_start": 82,
+      "anchor_end": 113,
+      "paragraph_range": "[51]-[68]",
+      "summary": "Describes the growing concerns in 2010 among directors and management regarding Mainzeal's negative equity and cash flow, as well as unresolved corporate governance disputes with the parent company regarding director duties and financial guarantees.",
+      "topics": [
+        "insolvency",
+        "corporate_governance"
+      ],
+      "relevance": 3,
+      "connects_to": []
+    },
+    {
+      "id": "s_facts_jan2011",
+      "title": "The position as at 31 January 2011",
+      "anchor_start": 113,
+      "anchor_end": 132,
+      "paragraph_range": "[69]-[72]",
+      "summary": "Summarises an external Ernst & Young draft report from January 2011 highlighting a lack of transparency, lack of an audit committee, and noting that the related-party loans were not collectible on demand.",
+      "topics": [
+        "auditor_warnings",
+        "related_party_loans"
+      ],
+      "relevance": 3,
+      "connects_to": [
+        "s_liability_s135_application"
+      ]
+    },
+    {
+      "id": "s_facts_collapse",
+      "title": "Events February 2011–February 2013",
+      "anchor_start": 132,
+      "anchor_end": 187,
+      "paragraph_range": "[73]-[99]",
+      "summary": "Chronicles the deterioration of Mainzeal leading to receivership. Records the entry into four major projects, the Siemens dispute, severe cash flow pressures by mid-2012, demands by BNZ for personal guarantees from Mr Yan, the failure of group support, and the ultimate collapse in February 2013.",
+      "topics": [
+        "four_major_projects",
+        "cash_flow_crisis",
+        "liquidation"
+      ],
+      "relevance": 4,
+      "connects_to": [
+        "s_liability_s136"
+      ]
+    },
+    {
+      "id": "s_lower_courts",
+      "title": "The High Court’s and Court of Appeal’s approach",
+      "anchor_start": 187,
+      "anchor_end": 197,
+      "paragraph_range": "[100]-[110]",
+      "summary": "Summarises the High Court decision (breach of s 135 but not s 136, $36m compensation based on entire deficiency) and the Court of Appeal decision (breaches of both ss 135 and 136, zero damages for s 135 due to lack of net deterioration, but 'new debt' compensation for s 136 sent back to High Court).",
+      "topics": [
+        "procedural_history"
+      ],
+      "relevance": 2,
+      "connects_to": []
+    },
+    {
+      "id": "s_legal_context_act",
+      "title": "Legal context and history: The 1993 Act",
+      "anchor_start": 197,
+      "anchor_end": 259,
+      "paragraph_range": "[111]-[125]",
+      "summary": "Reviews the statutory framework of the Companies Act 1993, particularly ss 131, 135, 136, 137, 138, 169, and 301, noting the tension between encouraging business risk and protecting creditors.",
+      "topics": [
+        "companies_act_1993",
+        "s135",
+        "s136",
+        "s301"
+      ],
+      "relevance": 4,
+      "connects_to": []
+    },
+    {
+      "id": "s_legal_history_s301",
+      "title": "Statutory antecedents and s 301 interpretation",
+      "anchor_start": 259,
+      "anchor_end": 343,
+      "paragraph_range": "[126]-[169]",
+      "summary": "Analyses the history of s 301 and its antecedents (s 320 and s 321 of the 1955 Act). The Court concludes that s 301 must be purposively interpreted to allow creditors to bring direct claims and obtain relief for breaches of ss 135 and 136, overcoming a drafting slip in the statute.",
+      "topics": [
+        "s301",
+        "s320_companies_act_1955",
+        "statutory_interpretation"
+      ],
+      "relevance": 5,
+      "connects_to": [
+        "s_relief_s301"
+      ],
+      "key_passages": [
+        {
+          "anchor_start": 323,
+          "anchor_end": 327,
+          "description": "Court's finding that s 301 allows direct claims by creditors for breaches of ss 135 and 136 due to a drafting slip."
+        }
+      ]
+    },
+    {
+      "id": "s_recent_cases",
+      "title": "Recent case law",
+      "anchor_start": 343,
+      "anchor_end": 402,
+      "paragraph_range": "[170]-[189]",
+      "summary": "Reviews recent UK Supreme Court cases (Sequana and Stanford) regarding the duty to consider creditor interests, but distinguishes them based on differences between the UK Insolvency Act and the NZ Companies Act. Reaffirms the Debut Homes approach that the NZ Act focuses more stringently on creditor protection.",
+      "topics": [
+        "creditor_interests",
+        "debut_homes",
+        "sequana"
+      ],
+      "relevance": 4,
+      "connects_to": []
+    },
+    {
+      "id": "s_liability_s135_law",
+      "title": "Liability under s 135: Legal test",
+      "anchor_start": 402,
+      "anchor_end": 443,
+      "paragraph_range": "[190]-[218]",
+      "summary": "The Court establishes the legal test for s 135. It rejects both subjective recklessness and an absolute objective standard. It holds that the fault requirement is based on negligence (unreasonableness), rejecting the US 'business judgment rule' of irrationality. It asserts that directors cannot balance losses on insolvency against the risk to new creditors.",
+      "topics": [
+        "s135",
+        "fault_standard",
+        "negligence",
+        "business_judgment_rule"
+      ],
+      "relevance": 5,
+      "connects_to": [
+        "s_liability_s135_application"
+      ],
+      "key_passages": [
+        {
+          "anchor_start": 430,
+          "anchor_end": 436,
+          "description": "The Court's conclusion on the objective/subjective elements of s 135, mandating a standard of reasonableness based on facts the directors knew or should have known."
+        }
+      ]
+    },
+    {
+      "id": "s_liability_s135_application",
+      "title": "Did the directors breach s 135?",
+      "anchor_start": 443,
+      "anchor_end": 488,
+      "paragraph_range": "[219]-[236]",
+      "summary": "Applies the s 135 test to Mainzeal. The Court finds the directors breached s 135 by 31 January 2011 because they continued trading while balance sheet insolvent, relying unreasonably on unenforceable assurances of support from a parent company with no assets, without seeking proper independent advice.",
+      "topics": [
+        "s135",
+        "breach_of_duty",
+        "unenforceable_assurances"
+      ],
+      "relevance": 5,
+      "connects_to": [
+        "s_liability_s135_law"
+      ]
+    },
+    {
+      "id": "s_liability_s136",
+      "title": "Liability under s 136",
+      "anchor_start": 488,
+      "anchor_end": 530,
+      "paragraph_range": "[237]-[268]",
+      "summary": "The Court holds that s 136 is not confined to specific obligations and applies to courses of trading. The Court finds the directors breached s 136 regarding four major medium-to-long term contracts entered after 31 January 2011, and all obligations incurred after 5 July 2012, as they lacked reasonable grounds to believe those debts would be paid.",
+      "topics": [
+        "s136",
+        "duty_in_relation_to_obligations",
+        "breach_of_duty"
+      ],
+      "relevance": 5,
+      "connects_to": [
+        "s_facts_collapse"
+      ]
+    },
+    {
+      "id": "s_implications",
+      "title": "Implications for the future of our approach to liability",
+      "anchor_start": 530,
+      "anchor_end": 541,
+      "paragraph_range": "[269]-[273]",
+      "summary": "The Court outlines guidelines for future directors. A long-term strategy of trading while balance sheet insolvent is generally unacceptable. Directors must constantly monitor solvency, take independent advice, and are allowed only a 'reasonable time' to take stock.",
+      "topics": [
+        "corporate_governance",
+        "insolvent_trading",
+        "taking_stock"
+      ],
+      "relevance": 4,
+      "connects_to": []
+    },
+    {
+      "id": "s_measurement_loss",
+      "title": "Measurement of loss in relation to ss 135 and 136",
+      "anchor_start": 541,
+      "anchor_end": 566,
+      "paragraph_range": "[274]-[296]",
+      "summary": "The Court determines the correct method to measure loss. For s 135, the standard is 'net deterioration' because the duty looks to creditors as a whole. For s 136, the 'new debt' approach is appropriate because the harm stems from incurring specific obligations that are unpaid.",
+      "topics": [
+        "compensation",
+        "net_deterioration",
+        "new_debt",
+        "s135",
+        "s136"
+      ],
+      "relevance": 5,
+      "connects_to": [
+        "s_quantification"
+      ],
+      "key_passages": [
+        {
+          "anchor_start": 555,
+          "anchor_end": 561,
+          "description": "Conclusion that net deterioration is the general measure for s 135."
+        },
+        {
+          "anchor_start": 562,
+          "anchor_end": 566,
+          "description": "Conclusion that new debt is the correct measure for s 136."
+        }
+      ]
+    },
+    {
+      "id": "s_quantification",
+      "title": "Quantification of loss",
+      "anchor_start": 566,
+      "anchor_end": 603,
+      "paragraph_range": "[297]-[318]",
+      "summary": "The Court calculates the compensation. Using the new debt approach for s 136 breaches, the total gross unpaid debt was $63.5m. Following liquidator concessions subtracting retentions ($18.1m) and expected dividends ($5.6m), the final loss is quantified at $39.8m.",
+      "topics": [
+        "quantification",
+        "damages",
+        "new_debt"
+      ],
+      "relevance": 4,
+      "connects_to": [
+        "s_measurement_loss",
+        "s_relief_s301"
+      ]
+    },
+    {
+      "id": "s_relief_s301",
+      "title": "Relief under s 301",
+      "anchor_start": 603,
+      "anchor_end": 663,
+      "paragraph_range": "[319]-[358]",
+      "summary": "The Court exercises its discretion under s 301 to apportion liability. Rejecting joint and several liability for the full amount due to differing culpability, the Court orders Mr Yan to pay the full $39.8m, while capping the liability of Dame Jenny Shipley, Mr Tilby, and Mr Gomm at $6.6m each.",
+      "topics": [
+        "s301",
+        "apportionment",
+        "culpability",
+        "discretion"
+      ],
+      "relevance": 5,
+      "connects_to": [
+        "s_quantification"
+      ],
+      "key_passages": [
+        {
+          "anchor_start": 659,
+          "anchor_end": 663,
+          "description": "The Court's final decision on apportionment, limiting the liability of the independent directors while holding Mr Yan fully liable."
+        }
+      ]
+    },
+    {
+      "id": "s_summary_disposition",
+      "title": "Summary and Disposition",
+      "anchor_start": 663,
+      "anchor_end": 921,
+      "paragraph_range": "[359]-[377]",
+      "summary": "The Court provides a summary of its holdings regarding ss 135, 136, and 301. It formally dismisses the directors' appeals, allows the liquidators' cross-appeal, and issues the final order for $39.8m compensation.",
+      "topics": [
+        "summary",
+        "disposition",
+        "costs"
+      ],
+      "relevance": 3,
+      "connects_to": []
+    }
+  ],
+  "legislation_referenced": [
+    {
+      "title": "Companies Act 1993",
+      "sections": [
+        "s131",
+        "s133",
+        "s135",
+        "s136",
+        "s137",
+        "s138",
+        "s169",
+        "s301"
+      ],
+      "relevance": "central"
+    },
+    {
+      "title": "Companies Act 1955",
+      "sections": [
+        "s320",
+        "s321",
+        "s468"
+      ],
+      "relevance": "supporting"
+    }
+  ],
+  "cases_cited": [
+    {
+      "name": "Madsen-Ries (as liquidators of Debut Homes Ltd (in liq)) v Cooper",
+      "citation": "[2020] NZSC 100",
+      "relationship": "applied",
+      "relevance_note": "Applied to confirm new debt approach for s 136 and general principles of insolvent trading."
+    },
+    {
+      "name": "BTI 2014 LLC v Sequana SA",
+      "citation": "[2022] UKSC 25",
+      "relationship": "considered",
+      "relevance_note": "Considered on the issue of when the duty to creditors arises, but distinguished due to statutory differences between UK and NZ."
+    },
+    {
+      "name": "Stanford International Bank Ltd (in liq) v HSBC Bank Plc",
+      "citation": "[2022] UKSC 34",
+      "relationship": "considered",
+      "relevance_note": "Considered regarding net loss to the company vs creditor interests."
+    },
+    {
+      "name": "Re William C Leitch Brothers Ltd (No 1) and (No 2)",
+      "citation": "[1932] 2 Ch 71; [1933] Ch 261",
+      "relationship": "considered",
+      "relevance_note": "Historical antecedent providing context for how compensation under s 301 and its predecessors should be treated."
+    },
+    {
+      "name": "Re Cyona Distributors Ltd",
+      "citation": "[1967] Ch 889",
+      "relationship": "considered",
+      "relevance_note": "Relied upon to interpret s 301 as allowing direct compensation to creditors."
+    },
+    {
+      "name": "Mason v Lewis",
+      "citation": "[2006] NZCA 55",
+      "relationship": "applied",
+      "relevance_note": "Applied for the proposition that net deterioration is the starting point for s 135 and that s 301 contains a discretion."
+    },
+    {
+      "name": "Re South Pacific Shipping Ltd (in liq)",
+      "citation": "(2004) 9 NZCLC 96-964",
+      "relationship": "considered",
+      "relevance_note": "Considered regarding the calculation of net deterioration."
+    }
+  ]
+}
