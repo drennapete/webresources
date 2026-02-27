@@ -1,0 +1,117 @@
+{
+  "1": {
+    "tag": "h1",
+    "text": "ralgh/gist:4532090",
+    "type": "heading"
+  },
+  "2": {
+    "tag": "div",
+    "text": "Last active\n          September 8, 2017 13:04\n            •\n            Report abuse",
+    "type": "container"
+  },
+  "3": {
+    "tag": "ul",
+    "text": "Subscribe",
+    "type": "list"
+  },
+  "4": {
+    "tag": "ul",
+    "text": "Download ZIP\n      \n\n  \n\n        \n        \n    \n        \n    \n    \n    \n        \n          \n        \n      \n        \n   ",
+    "type": "list"
+  },
+  "5": {
+    "tag": "ul",
+    "text": "Unstar\n      \n          \n          (1)\n      \n  \nUnstar this gist\n\n    \n      \n        \n      \n        \n      \n    Star\n",
+    "type": "list"
+  },
+  "6": {
+    "tag": "ul",
+    "text": "Embed\n\n  \n    \n      \n    \n\n\n    \n      \n  \n    \n      \n        Select an option\n      \n        \n    \n    \n      \n    \n ",
+    "type": "list"
+  },
+  "7": {
+    "tag": "h1",
+    "text": "Select an option",
+    "type": "heading"
+  },
+  "8": {
+    "tag": "ul",
+    "text": "Embed\n      Embed this gist in your website.\n\n  \n\n        \n    \n    \n    \n        \n          \n        \n      \n        \n ",
+    "type": "list"
+  },
+  "9": {
+    "tag": "h1",
+    "text": "Select an option",
+    "type": "heading"
+  },
+  "10": {
+    "tag": "ul",
+    "text": "Embed\n      Embed this gist in your website.\n\n  \n\n        \n    \n    \n    \n        \n          \n        \n      \n        \n ",
+    "type": "list"
+  },
+  "11": {
+    "tag": "div",
+    "text": "Starting this as a collection of useful data-uri strings.",
+    "type": "container"
+  },
+  "12": {
+    "tag": "table",
+    "text": "<!DOCTYPE html>\n        \n        \n          \n          <html lang=\"en\">\n        \n        \n          \n            <head>\n",
+    "type": "table"
+  },
+  "13": {
+    "tag": "h1",
+    "text": "Select a reply",
+    "type": "heading"
+  },
+  "14": {
+    "tag": "p",
+    "text": "We don’t support that file type.",
+    "type": "paragraph"
+  },
+  "15": {
+    "tag": "p",
+    "text": "Try again with GIF, JPEG, JPG, MOV, MP4, PNG, SVG, WEBM or WEBP.",
+    "type": "paragraph"
+  },
+  "16": {
+    "tag": "p",
+    "text": "Attaching documents requires write permission to this repository.",
+    "type": "paragraph"
+  },
+  "17": {
+    "tag": "p",
+    "text": "Try again with GIF, JPEG, JPG, MOV, MP4, PNG, SVG, WEBM or WEBP.",
+    "type": "paragraph"
+  },
+  "18": {
+    "tag": "p",
+    "text": "This file is empty.",
+    "type": "paragraph"
+  },
+  "19": {
+    "tag": "p",
+    "text": "Try again with a file that’s not empty.",
+    "type": "paragraph"
+  },
+  "20": {
+    "tag": "p",
+    "text": "This file is hidden.",
+    "type": "paragraph"
+  },
+  "21": {
+    "tag": "p",
+    "text": "Try again with another file.",
+    "type": "paragraph"
+  },
+  "22": {
+    "tag": "p",
+    "text": "Something went really wrong, and we can’t process that file.",
+    "type": "paragraph"
+  },
+  "23": {
+    "tag": "p",
+    "text": "Try again.",
+    "type": "paragraph"
+  }
+}

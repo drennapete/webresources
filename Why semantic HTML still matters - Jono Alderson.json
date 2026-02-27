@@ -1,0 +1,857 @@
+{
+  "1": {
+    "tag": "h1",
+    "text": "Why semantic HTML still matters",
+    "type": "heading"
+  },
+  "2": {
+    "tag": "p",
+    "text": "21st July, 2025",
+    "type": "paragraph"
+  },
+  "3": {
+    "tag": "p",
+    "text": "Somewhere along the way, we forgot how to write HTML – or why it mattered in the first place.",
+    "type": "paragraph"
+  },
+  "4": {
+    "tag": "p",
+    "text": "Modern development workflows prioritise components, utility classes, and JavaScript-heavy rendering. HTML becomes a bypr",
+    "type": "paragraph"
+  },
+  "5": {
+    "tag": "p",
+    "text": "And that shift comes at a cost – in performance, accessibility, resilience, and how machines (and people) interpret your",
+    "type": "paragraph"
+  },
+  "6": {
+    "tag": "p",
+    "text": "I’ve written elsewhere about how JavaScript is killing the web. But one of the most fixable, overlooked parts of that st",
+    "type": "paragraph"
+  },
+  "7": {
+    "tag": "p",
+    "text": "This piece is about what we’ve lost – and why it still matters.",
+    "type": "paragraph"
+  },
+  "8": {
+    "tag": "h2",
+    "text": "Semantic HTML is how machines understand meaning",
+    "type": "heading"
+  },
+  "9": {
+    "tag": "p",
+    "text": "HTML isn’t just how we place elements on a page. It’s a language – with a vocabulary that expresses meaning",
+    "type": "paragraph"
+  },
+  "10": {
+    "tag": "p",
+    "text": "Tags like <article>, <nav> and <section> aren’t decorative. They express intent. They signal hierarchy. They tell machin",
+    "type": "paragraph"
+  },
+  "11": {
+    "tag": "p",
+    "text": "Search engines, accessibility tools, AI agents, and task-based systems all rely on structural signals – sometimes explic",
+    "type": "paragraph"
+  },
+  "12": {
+    "tag": "p",
+    "text": "Semantic markup doesn’t guarantee better indexing or extraction – but it creates a foundation that systems can use, now ",
+    "type": "paragraph"
+  },
+  "13": {
+    "tag": "p",
+    "text": "If everything is a <div> or a <span>, then nothing is meaningful.",
+    "type": "paragraph"
+  },
+  "14": {
+    "tag": "h2",
+    "text": "It’s not just bad HTML – it’s meaningless markup",
+    "type": "heading"
+  },
+  "15": {
+    "tag": "p",
+    "text": "It’s easy to dismiss this as a purity issue. Who cares whether you use a <div> or a <section>, as long as it looks right",
+    "type": "paragraph"
+  },
+  "16": {
+    "tag": "p",
+    "text": "But this isn’t about pedantry. Meaningless markup doesn’t just make your site harder to read – it makes it harder to ren",
+    "type": "paragraph"
+  },
+  "17": {
+    "tag": "p",
+    "text": "This kind of abstraction leads to markup that often looks like this:",
+    "type": "paragraph"
+  },
+  "18": {
+    "tag": "pre",
+    "text": "<div class=\"tw-bg-white tw-p-4 tw-shadow tw-rounded-md\">\n  <div class=\"tw-flex tw-flex-col tw-gap-2\">\n    <div class=\"tw",
+    "type": "preformatted"
+  },
+  "19": {
+    "tag": "p",
+    "text": "Sure, this works. It’s styled. It renders. But it’s semantically dead.",
+    "type": "paragraph"
+  },
+  "20": {
+    "tag": "p",
+    "text": "It gives you no sense of what this content is. Is it a product listing? A blog post? A call to action?",
+    "type": "paragraph"
+  },
+  "21": {
+    "tag": "p",
+    "text": "You can’t tell at a glance – and neither can a screen reader, a crawler, or an agent trying to extract your pricing data",
+    "type": "paragraph"
+  },
+  "22": {
+    "tag": "p",
+    "text": "Here’s the same thing with meaningful structure:",
+    "type": "paragraph"
+  },
+  "23": {
+    "tag": "pre",
+    "text": "<article class=\"product-card\">\n  <header>\n    <p class=\"product-brand\">ACME Widget</p>\n    <h1 class=\"product-name\">Blue",
+    "type": "preformatted"
+  },
+  "24": {
+    "tag": "p",
+    "text": "Now it tells a story. There’s structure. There’s intent. You can target it in your CSS. You can extract it in a scraper.",
+    "type": "paragraph"
+  },
+  "25": {
+    "tag": "p",
+    "text": "Semantic HTML is the foundation of accessibility. Without structure and meaning, assistive technologies can’t parse your",
+    "type": "paragraph"
+  },
+  "26": {
+    "tag": "p",
+    "text": "That’s not to say frameworks are inherently bad, or inaccessible. Tailwind, atomic classes, and inline styles can absolu",
+    "type": "paragraph"
+  },
+  "27": {
+    "tag": "p",
+    "text": "But they’re tools, not answers. And when every component devolves into a soup of near-duplicate utility classes – tweake",
+    "type": "paragraph"
+  },
+  "28": {
+    "tag": "p",
+    "text": "This isn’t about abstraction. It’s about what you lose in the process.",
+    "type": "paragraph"
+  },
+  "29": {
+    "tag": "p",
+    "text": "And that loss doesn’t just hurt semantics – it hurts performance. In fact, it’s one of the biggest reasons the modern we",
+    "type": "paragraph"
+  },
+  "30": {
+    "tag": "h2",
+    "text": "Semantic rot wrecks performance",
+    "type": "heading"
+  },
+  "31": {
+    "tag": "p",
+    "text": "We’ve normalised the idea that HTML is just a render target – that we can throw arbitrary markup at the browser and trus",
+    "type": "paragraph"
+  },
+  "32": {
+    "tag": "p",
+    "text": "But that forgiveness has a cost.",
+    "type": "paragraph"
+  },
+  "33": {
+    "tag": "p",
+    "text": "Rendering engines are designed to be fault-tolerant. They’ll infer roles, patch up bad structure, and try to render thin",
+    "type": "paragraph"
+  },
+  "34": {
+    "tag": "p",
+    "text": "Let’s break down where and how the bloat hits hardest – and why it matters.",
+    "type": "paragraph"
+  },
+  "35": {
+    "tag": "h3",
+    "text": "Big DOMs are slow to render",
+    "type": "heading"
+  },
+  "36": {
+    "tag": "p",
+    "text": "Every single node in the DOM adds overhead. During rendering, the browser walks the DOM tree, builds the CSSOM, calculat",
+    "type": "paragraph"
+  },
+  "37": {
+    "tag": "p",
+    "text": "It’s not just about download size (though that matters too – more markup means more bytes, and potentially less efficien",
+    "type": "paragraph"
+  },
+  "38": {
+    "tag": "p",
+    "text": "Even simple interactions – like opening a modal or expanding a list – can trigger reflows that crawl through your bloate",
+    "type": "paragraph"
+  },
+  "39": {
+    "tag": "p",
+    "text": "You can see this in Chrome DevTools. Open the Performance tab, record a trace, and watch the flame chart light up every ",
+    "type": "paragraph"
+  },
+  "40": {
+    "tag": "blockquote",
+    "text": "Fun fact: parsing isn’t the bottleneck — browsers like Chromium can process HTML at tens of GB/s on modern CPUs. The rea",
+    "type": "blockquote"
+  },
+  "41": {
+    "tag": "p",
+    "text": "Fun fact: parsing isn’t the bottleneck — browsers like Chromium can process HTML at tens of GB/s on modern CPUs. The rea",
+    "type": "paragraph"
+  },
+  "42": {
+    "tag": "h3",
+    "text": "Complex trees cause layout thrashing",
+    "type": "heading"
+  },
+  "43": {
+    "tag": "p",
+    "text": "But it’s not just about how much markup you have – it’s about how it’s structured. Deep nesting, wrapper bloat, and over",
+    "type": "paragraph"
+  },
+  "44": {
+    "tag": "p",
+    "text": "Toggle a single class, and you might invalidate layout across the entire viewport. That change cascades through parent-c",
+    "type": "paragraph"
+  },
+  "45": {
+    "tag": "p",
+    "text": "And because this all happens in real time – on every interaction – it hits your frame budget. Targeting 60fps? That give",
+    "type": "paragraph"
+  },
+  "46": {
+    "tag": "p",
+    "text": "You’ll see it in Chrome’s DevTools – in the “Layout Shift Regions” or in the “Frames” graph as missed frames stack up.",
+    "type": "paragraph"
+  },
+  "47": {
+    "tag": "blockquote",
+    "text": "When you mutate the DOM, browsers don’t always re-layout the whole tree – there’s incremental layout processing. But dee",
+    "type": "blockquote"
+  },
+  "48": {
+    "tag": "p",
+    "text": "When you mutate the DOM, browsers don’t always re-layout the whole tree – there’s incremental layout processing. But dee",
+    "type": "paragraph"
+  },
+  "49": {
+    "tag": "h3",
+    "text": "Redundant CSS increases recalculation cost",
+    "type": "heading"
+  },
+  "50": {
+    "tag": "p",
+    "text": "A bloated DOM is bad enough – but bloated stylesheets make things even worse.",
+    "type": "paragraph"
+  },
+  "51": {
+    "tag": "p",
+    "text": "Modern CSS workflows – especially in componentised systems – often lead to duplication. Each component declares its own ",
+    "type": "paragraph"
+  },
+  "52": {
+    "tag": "p",
+    "text": "For example, here’s what that often looks like:",
+    "type": "paragraph"
+  },
+  "53": {
+    "tag": "pre",
+    "text": "/* button.css */.btn {\n  background-color: #006;\n  color: #fff;\n  font-weight: bold;\n}\n\n/* header.css */.header .btn {\n ",
+    "type": "preformatted"
+  },
+  "54": {
+    "tag": "p",
+    "text": "Each file redefines the same thing. The browser has to parse, apply, and reconcile all of it. Multiply this by hundreds ",
+    "type": "paragraph"
+  },
+  "55": {
+    "tag": "p",
+    "text": "Every time something changes (like a class toggle), the browser has to re-evaluate which rules apply where. More rules, ",
+    "type": "paragraph"
+  },
+  "56": {
+    "tag": "p",
+    "text": "Yes, atomic CSS systems like Tailwind can reduce file size and increase reuse. But only when used intentionally. When ev",
+    "type": "paragraph"
+  },
+  "57": {
+    "tag": "p",
+    "text": "The cost isn’t just size. It’s churn.",
+    "type": "paragraph"
+  },
+  "58": {
+    "tag": "blockquote",
+    "text": "Browsers match selectors from right to left (e.g., for div.card p span, they check → parent → etc). This is efficient fo",
+    "type": "blockquote"
+  },
+  "59": {
+    "tag": "p",
+    "text": "Browsers match selectors from right to left (e.g., for div.card p span, they check → parent → etc). This is efficient fo",
+    "type": "paragraph"
+  },
+  "60": {
+    "tag": "h3",
+    "text": "Autogenerated classes break caching and targeting",
+    "type": "heading"
+  },
+  "61": {
+    "tag": "p",
+    "text": "It’s become common to see class names like .sc-a12bc, .jsx-392hf, or .tw-abc123. These are often the result of CSS-in-JS",
+    "type": "paragraph"
+  },
+  "62": {
+    "tag": "p",
+    "text": "But this approach comes with a different kind of fragility.",
+    "type": "paragraph"
+  },
+  "63": {
+    "tag": "p",
+    "text": "If your classes are ephemeral – if they change with every build – then:",
+    "type": "paragraph"
+  },
+  "64": {
+    "tag": "ul",
+    "text": "Your analytics tags break.Your end-to-end tests need constant maintenance.Your caching strategies fall apart.Your markup",
+    "type": "list"
+  },
+  "65": {
+    "tag": "p",
+    "text": "From a performance perspective, that last point is critical. Caching only works when things are predictable. The browser",
+    "type": "paragraph"
+  },
+  "66": {
+    "tag": "p",
+    "text": "Worse, it forces tooling to rely on brittle workarounds. Want to target a button in your checkout funnel via your tag ma",
+    "type": "paragraph"
+  },
+  "67": {
+    "tag": "p",
+    "text": "This isn’t hypothetical. It’s a common pain point in modern frontend stacks, and one that bloats everything – code, tool",
+    "type": "paragraph"
+  },
+  "68": {
+    "tag": "p",
+    "text": "Predictable, semantic class names don’t just make your life easier. They make the web faster.",
+    "type": "paragraph"
+  },
+  "69": {
+    "tag": "h3",
+    "text": "Semantic tags can provide layout hints",
+    "type": "heading"
+  },
+  "70": {
+    "tag": "p",
+    "text": "Semantic HTML isn’t just about meaning or accessibility. It’s scaffolding. Structure. And that structure gives both you ",
+    "type": "paragraph"
+  },
+  "71": {
+    "tag": "p",
+    "text": "Tags like <main>, <nav>, <aside>, and <footer> aren’t just semantic – they’re block-level by default, and they naturally",
+    "type": "paragraph"
+  },
+  "72": {
+    "tag": "p",
+    "text": "When your layout has clear boundaries, the browser can scope its work more effectively. It can isolate style recalculati",
+    "type": "paragraph"
+  },
+  "73": {
+    "tag": "p",
+    "text": "More importantly: in the paint and composite phases, the browser can distribute rendering work across multiple threads. ",
+    "type": "paragraph"
+  },
+  "74": {
+    "tag": "p",
+    "text": "If everything is a giant stack of nested <div>s, there’s no clear opportunity for this kind of isolation. Every interact",
+    "type": "paragraph"
+  },
+  "75": {
+    "tag": "p",
+    "text": "Put simply: semantic tags help you work with the browser instead of fighting it. They’re not magic, but they make the ma",
+    "type": "paragraph"
+  },
+  "76": {
+    "tag": "h3",
+    "text": "Animations and the compositing catastrophe",
+    "type": "heading"
+  },
+  "77": {
+    "tag": "p",
+    "text": "Animations are where well-structured HTML either shines… or fails catastrophically.",
+    "type": "paragraph"
+  },
+  "78": {
+    "tag": "p",
+    "text": "Modern browsers aim to offload animation work to the GPU. That’s what enables silky-smooth transitions at 60fps or highe",
+    "type": "paragraph"
+  },
+  "79": {
+    "tag": "p",
+    "text": "If you animate something like top, left, width, or margin, you’re triggering the layout engine. That means recalculating",
+    "type": "paragraph"
+  },
+  "80": {
+    "tag": "p",
+    "text": "On a simple page? Maybe you get away with it.",
+    "type": "paragraph"
+  },
+  "81": {
+    "tag": "p",
+    "text": "On a deeply nested component with dozens of siblings and dependencies? Every animation becomes a layout thrash. And once",
+    "type": "paragraph"
+  },
+  "82": {
+    "tag": "p",
+    "text": "You can see this in DevTools’ Performance panel – layout recalculations, style invalidations, and paint operations light",
+    "type": "paragraph"
+  },
+  "83": {
+    "tag": "p",
+    "text": "Semantic HTML helps here too. Proper structural boundaries allow for more effective use of modern CSS containment strate",
+    "type": "paragraph"
+  },
+  "84": {
+    "tag": "p",
+    "text": "contain: layout; tells the browser it doesn’t need to recalculate layout outside the element.",
+    "type": "paragraph"
+  },
+  "85": {
+    "tag": "p",
+    "text": "will-change: transform; hints that a compositing layer is needed.",
+    "type": "paragraph"
+  },
+  "86": {
+    "tag": "p",
+    "text": "isolation: isolate; and contain: paint; can help prevent visual spillover and force GPU layers.",
+    "type": "paragraph"
+  },
+  "87": {
+    "tag": "p",
+    "text": "But these tools only work when your DOM is rational. If your animated component is nested inside an unpredictable pile o",
+    "type": "paragraph"
+  },
+  "88": {
+    "tag": "p",
+    "text": "That’s not a browser flaw. It’s a developer failure.",
+    "type": "paragraph"
+  },
+  "89": {
+    "tag": "p",
+    "text": "Animation isn’t just about what moves. It’s about what shouldn’t.",
+    "type": "paragraph"
+  },
+  "90": {
+    "tag": "blockquote",
+    "text": "Rendering and painting are parallel operations in modern engines. But DOM/CSS changes often force main-thread syncs, kil",
+    "type": "blockquote"
+  },
+  "91": {
+    "tag": "p",
+    "text": "Rendering and painting are parallel operations in modern engines. But DOM/CSS changes often force main-thread syncs, kil",
+    "type": "paragraph"
+  },
+  "92": {
+    "tag": "blockquote",
+    "text": "CSS layering via will-change: transform or the newer layer() syntax tells the GPU to handle composites separately. That ",
+    "type": "blockquote"
+  },
+  "93": {
+    "tag": "p",
+    "text": "CSS layering via will-change: transform or the newer layer() syntax tells the GPU to handle composites separately. That ",
+    "type": "paragraph"
+  },
+  "94": {
+    "tag": "h3",
+    "text": "CSS containment and visibility: powerful, but fragile",
+    "type": "heading"
+  },
+  "95": {
+    "tag": "p",
+    "text": "Modern CSS gives us powerful tools to manage performance – but they’re only effective when your HTML gives them room to ",
+    "type": "paragraph"
+  },
+  "96": {
+    "tag": "p",
+    "text": "Take contain. You can use contain: layout, paint, or even size to tell the browser “don’t look outside this box – nothin",
+    "type": "paragraph"
+  },
+  "97": {
+    "tag": "p",
+    "text": "But that only works when your markup has clear structural boundaries.",
+    "type": "paragraph"
+  },
+  "98": {
+    "tag": "p",
+    "text": "If your content is tangled in a nest of non-semantic wrappers, or if containers inherit unexpected styles or dependencie",
+    "type": "paragraph"
+  },
+  "99": {
+    "tag": "p",
+    "text": "Likewise, content-visibility: auto is one of the most underrated tools in the modern CSS arsenal. It lets the browser sk",
+    "type": "paragraph"
+  },
+  "100": {
+    "tag": "p",
+    "text": "But it comes with caveats. It requires predictable layout, scroll anchoring, and structural coherence. If your DOM is me",
+    "type": "paragraph"
+  },
+  "101": {
+    "tag": "p",
+    "text": "These aren’t magic bullets. They’re performance contracts. And messy markup breaks those contracts.",
+    "type": "paragraph"
+  },
+  "102": {
+    "tag": "p",
+    "text": "Semantic HTML – and a clean, well-structured DOM – is what makes these tools viable in the first place.",
+    "type": "paragraph"
+  },
+  "103": {
+    "tag": "figure",
+    "text": "MDN’s docs highlight how contain: content (shorthand for layout+paint+style) lets browsers optimize entire subtrees inde",
+    "type": "figure"
+  },
+  "104": {
+    "tag": "blockquote",
+    "text": "MDN’s docs highlight how contain: content (shorthand for layout+paint+style) lets browsers optimize entire subtrees inde",
+    "type": "blockquote"
+  },
+  "105": {
+    "tag": "p",
+    "text": "MDN’s docs highlight how contain: content (shorthand for layout+paint+style) lets browsers optimize entire subtrees inde",
+    "type": "paragraph"
+  },
+  "106": {
+    "tag": "h2",
+    "text": "Agents are the new users – and they care about structure",
+    "type": "heading"
+  },
+  "107": {
+    "tag": "p",
+    "text": "The web isn’t just for humans anymore.",
+    "type": "paragraph"
+  },
+  "108": {
+    "tag": "p",
+    "text": "Search engines were the first wave – parsing content, extracting meaning, and ranking based on structure and semantics. ",
+    "type": "paragraph"
+  },
+  "109": {
+    "tag": "p",
+    "text": "They look at your markup and ask:",
+    "type": "paragraph"
+  },
+  "110": {
+    "tag": "ul",
+    "text": "What is this?How is it structured?What’s important?How does it relate to everything else?",
+    "type": "list"
+  },
+  "111": {
+    "tag": "p",
+    "text": "A clean, semantic DOM answers those questions clearly. A soup of <div>s does not.",
+    "type": "paragraph"
+  },
+  "112": {
+    "tag": "p",
+    "text": "And when these agents have to choose between ten sites that all claim to sell the same widget, the one that’s easier to ",
+    "type": "paragraph"
+  },
+  "113": {
+    "tag": "p",
+    "text": "That’s not hypothetical. Google’s shopping systems, summarisation agents like Perplexity, AI browsers like Arc, and assi",
+    "type": "paragraph"
+  },
+  "114": {
+    "tag": "p",
+    "text": "If your markup can’t support that? You’re out of the conversation.",
+    "type": "paragraph"
+  },
+  "115": {
+    "tag": "p",
+    "text": "And yes – smart systems can and do infer structure when they have to. But that’s extra work. That’s imprecise. That’s ri",
+    "type": "paragraph"
+  },
+  "116": {
+    "tag": "p",
+    "text": "In a competitive landscape, well-structured markup isn’t just an optimisation – it’s a differentiator.",
+    "type": "paragraph"
+  },
+  "117": {
+    "tag": "h2",
+    "text": "Structure is resilience",
+    "type": "heading"
+  },
+  "118": {
+    "tag": "p",
+    "text": "Semantic HTML isn’t just about helping machines understand your content. It’s about building interfaces that hold togeth",
+    "type": "paragraph"
+  },
+  "119": {
+    "tag": "p",
+    "text": "Clean markup is easier to debug. Easier to adapt. Easier to progressively enhance. If your JavaScript fails, or your sty",
+    "type": "paragraph"
+  },
+  "120": {
+    "tag": "p",
+    "text": "That’s not just good practice. It’s how you build software for the real world.",
+    "type": "paragraph"
+  },
+  "121": {
+    "tag": "p",
+    "text": "Because real users have flaky connections. Real devices have limited power. Real sessions include edge cases you didn’t ",
+    "type": "paragraph"
+  },
+  "122": {
+    "tag": "p",
+    "text": "Semantic markup gives you a baseline. A fallback. A foundation.",
+    "type": "paragraph"
+  },
+  "123": {
+    "tag": "h2",
+    "text": "Structure isn’t optional",
+    "type": "heading"
+  },
+  "124": {
+    "tag": "p",
+    "text": "If you want to build for performance, accessibility, discoverability, or resilience – if you want your site to be fast, ",
+    "type": "paragraph"
+  },
+  "125": {
+    "tag": "p",
+    "text": "Don’t treat markup as an afterthought. Don’t let your tooling bury the structure. Don’t build interfaces that only work ",
+    "type": "paragraph"
+  },
+  "126": {
+    "tag": "p",
+    "text": "Semantic HTML is a foundation. It’s fast. It’s robust. It’s self-descriptive. It’s future-facing.",
+    "type": "paragraph"
+  },
+  "127": {
+    "tag": "p",
+    "text": "It doesn’t stop you using Tailwind. It doesn’t stop you using React. But it does ask you to be deliberate. To design you",
+    "type": "paragraph"
+  },
+  "128": {
+    "tag": "p",
+    "text": "This isn’t nostalgia. This is infrastructure.",
+    "type": "paragraph"
+  },
+  "129": {
+    "tag": "p",
+    "text": "And if the web is going to survive the next wave of complexity, automation, and expectation – we need to remember how to",
+    "type": "paragraph"
+  },
+  "130": {
+    "tag": "p",
+    "text": "That starts with remembering how to write HTML – and why we write it the way we do. Not as a byproduct of JavaScript, or",
+    "type": "paragraph"
+  },
+  "131": {
+    "tag": "div",
+    "text": "10 Comments",
+    "type": "container"
+  },
+  "132": {
+    "tag": "div",
+    "text": "Inline Feedbacks",
+    "type": "container"
+  },
+  "133": {
+    "tag": "div",
+    "text": "View all comments",
+    "type": "container"
+  },
+  "134": {
+    "tag": "div",
+    "text": "Simon",
+    "type": "container"
+  },
+  "135": {
+    "tag": "div",
+    "text": "Sep 11, 2025 6:15 pm",
+    "type": "container"
+  },
+  "136": {
+    "tag": "p",
+    "text": "Good article and I agree that semantic markup is a bit of a dead art. Two points though:",
+    "type": "paragraph"
+  },
+  "137": {
+    "tag": "p",
+    "text": "It’s slightly disingenuous in your example to imply that Tailwind or utility classes cannot be used with semantic markup",
+    "type": "paragraph"
+  },
+  "138": {
+    "tag": "p",
+    "text": "And I’ve been curious just how critical semantic markup is. For example if I made a very popular website with tables or ",
+    "type": "paragraph"
+  },
+  "139": {
+    "tag": "p",
+    "text": "For accessibility sake, you could also achieve the same with ARIA and role attributes. Personally that isn’t for me, and",
+    "type": "paragraph"
+  },
+  "140": {
+    "tag": "div",
+    "text": "Glen Ihrig",
+    "type": "container"
+  },
+  "141": {
+    "tag": "div",
+    "text": "Aug 14, 2025 3:01 am",
+    "type": "container"
+  },
+  "142": {
+    "tag": "p",
+    "text": "I program in Rust, where the argument against its use is that it takes too long to write. But the argument is favor is t",
+    "type": "paragraph"
+  },
+  "143": {
+    "tag": "p",
+    "text": "I suppose maybe it comes down to the expected longevity of the project. If it’s a quick POC (proof of concept), maybe “q",
+    "type": "paragraph"
+  },
+  "144": {
+    "tag": "div",
+    "text": "Jon",
+    "type": "container"
+  },
+  "145": {
+    "tag": "div",
+    "text": "Aug 9, 2025 5:47 pm",
+    "type": "container"
+  },
+  "146": {
+    "tag": "p",
+    "text": "I really like pico.css for this. It encourages proper layout. And now with Layering I can bring it in as a base layer an",
+    "type": "paragraph"
+  },
+  "147": {
+    "tag": "p",
+    "text": "Now, I just need to find a good lib for structuring the page. I can use vanilla CSS for some of it. But it is nice to ha",
+    "type": "paragraph"
+  },
+  "148": {
+    "tag": "div",
+    "text": "Danny Engelman",
+    "type": "container"
+  },
+  "149": {
+    "tag": "div",
+    "text": "Aug 6, 2025 6:43 pm",
+    "type": "container"
+  },
+  "150": {
+    "tag": "p",
+    "text": "Don’t know if I spammed you already. There is more to fighting the DIV-soup. I wrote a blog-post about the Custom Elemen",
+    "type": "paragraph"
+  },
+  "151": {
+    "tag": "div",
+    "text": "Shaji Ahmed",
+    "type": "container"
+  },
+  "152": {
+    "tag": "div",
+    "text": "Aug 5, 2025 8:50 am",
+    "type": "container"
+  },
+  "153": {
+    "tag": "p",
+    "text": "Interesting… as an experiment I started writing specifications for something similar for myself a few days ago to see ho",
+    "type": "paragraph"
+  },
+  "154": {
+    "tag": "p",
+    "text": "I build applications and most of the time I’m wrestling with div-itis and what not. I look around at all the nice compon",
+    "type": "paragraph"
+  },
+  "155": {
+    "tag": "p",
+    "text": "And like you said, it will be a lot simpler for AI to deal with semantic html than the mess it is right now.",
+    "type": "paragraph"
+  },
+  "156": {
+    "tag": "div",
+    "text": "MyQuests",
+    "type": "container"
+  },
+  "157": {
+    "tag": "div",
+    "text": "Jul 28, 2025 11:10 pm",
+    "type": "container"
+  },
+  "158": {
+    "tag": "p",
+    "text": "Absolutely spot on. Structure is the backbone of the web, not a luxury, but a necessity. This is a clear reminder that s",
+    "type": "paragraph"
+  },
+  "159": {
+    "tag": "div",
+    "text": "Ikenna Ene",
+    "type": "container"
+  },
+  "160": {
+    "tag": "div",
+    "text": "Jul 23, 2025 6:10 pm",
+    "type": "container"
+  },
+  "161": {
+    "tag": "p",
+    "text": "This is a very detailed analysis of the cost of poor design architecture. While semantics are great factor in render eff",
+    "type": "paragraph"
+  },
+  "162": {
+    "tag": "div",
+    "text": "Helena Plantin",
+    "type": "container"
+  },
+  "163": {
+    "tag": "div",
+    "text": "Reply to   Ikenna Ene",
+    "type": "container"
+  },
+  "164": {
+    "tag": "div",
+    "text": "Aug 9, 2025 9:58 am",
+    "type": "container"
+  },
+  "165": {
+    "tag": "p",
+    "text": "I do not understand the belief that semantic HTML should take a longer time to code than div?",
+    "type": "paragraph"
+  },
+  "166": {
+    "tag": "div",
+    "text": "Kim Krause Berg",
+    "type": "container"
+  },
+  "167": {
+    "tag": "div",
+    "text": "Jul 23, 2025 2:54 pm",
+    "type": "container"
+  },
+  "168": {
+    "tag": "p",
+    "text": "Bravo! So much in this article that’s vital and should be part of every design and QA methodology. This is one of the re",
+    "type": "paragraph"
+  },
+  "169": {
+    "tag": "div",
+    "text": "Curtis Osano",
+    "type": "container"
+  },
+  "170": {
+    "tag": "div",
+    "text": "Jul 22, 2025 11:58 am",
+    "type": "container"
+  },
+  "171": {
+    "tag": "p",
+    "text": "This is truly inspiring and will add this to minimum requirement for developers i work with. Div soups everywhere i look",
+    "type": "paragraph"
+  }
+}

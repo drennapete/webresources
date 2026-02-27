@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="airlock-source-url" content="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_todo_list_beginning">
+  <meta name="airlock-captured-at" content="2026-02-25T23:13:19.700Z">
+  <meta name="airlock-anchor-count" content="47">
+  <title>Beginning our React ToDo app - Learn web development | MDN</title>
+  <style>
+    body { max-width: 900px; margin: 2rem auto; padding: 0 1rem;
+           font-family: Georgia, serif; line-height: 1.6; color: #1a1a1a; }
+    table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
+    td, th { border: 1px solid #ccc; padding: 0.5rem; text-align: left; }
+    blockquote { border-left: 3px solid #ccc; margin-left: 0; padding-left: 1rem;
+                 color: #555; }
+    pre { background: #f5f5f5; padding: 1rem; overflow-x: auto; }
+    [data-al] { }
+  </style>
+</head>
+<body>
+
+        <ul class="a11y-menu" data-al="1">
+      <li><a href="#content">Skip to main content</a></li>
+      <li><a href="#search">Skip to search</a></li>
+    </ul>
+        <div class="page-layout__banner" data-scheme="">
+          <mdn-placement-top></mdn-placement-top>
+        </div>
+        
+        <div class="page-layout__main">
+      <div class="layout__2-sidebars-inline reference-layout">
+        <main id="content" class="layout__content">
+          <div class="layout__header reference-layout__header">
+            
+            
+            <mdn-survey></mdn-survey>
+            <h1 data-al="2">Beginning our React ToDo app</h1>
+             <section class="content-section">
+    
+    <ul class="prev-next" data-al="3"><li class="prev"><a class="button secondary" href="/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_getting_started"><span class="button-wrap"> Previous </span></a></li><li class="menu"><a class="button secondary" href="/en-US/docs/Learn_web_development/Core/Frameworks_libraries"><span class="button-wrap"> Overview: JavaScript frameworks and libraries</span></a></li><li class="next"><a class="button secondary" href="/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_components"><span class="button-wrap"> Next  </span></a></li></ul>
+<p data-al="4">Let's say that we've been tasked with creating a proof-of-concept in React – an app that allows users to add, edit, and delete tasks they want to work on, and also mark tasks as complete without deleting them. This article will walk you through the basic structure and styling of such an application, ready for individual component definition and interactivity, which we'll add later.</p>
+<div class="notecard note">
+<p data-al="5"><strong>Note:</strong>
+If you need to check your code against our version, you can find a finished version of the sample React app code in our <a href="https://github.com/mdn/todo-react" class="external" target="_blank">todo-react repository</a>. For a running live version, see <a href="https://mdn.github.io/todo-react/" class="external" target="_blank">https://mdn.github.io/todo-react/</a>.</p>
+</div>
+<figure class="table-container" data-al="6"><table data-al="7">
+  <tbody>
+    <tr>
+      <th scope="row">Prerequisites:</th>
+      <td>
+        Familiarity with the core <a href="/en-US/docs/Learn_web_development/Core/Structuring_content">HTML</a>,
+        <a href="/en-US/docs/Learn_web_development/Core/Styling_basics">CSS</a>, and
+        <a href="/en-US/docs/Learn_web_development/Core/Scripting">JavaScript</a> languages, and the <a href="/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line">terminal/command line</a>.
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Learning outcomes:</th>
+      <td>
+        Familiarity with our todo list case study, and getting the basic
+        <code>App</code> structure and styling in place.
+      </td>
+    </tr>
+  </tbody>
+</table></figure>
+  </section>
+          </div>
+          
+          <div class="layout__body reference-layout__body">
+            <section class="content-section" aria-labelledby="our_apps_user_stories">
+    <!--lit-part L2jdt4VaxHU=--><!--lit-node 0--><h2 id="our_apps_user_stories" class="heading" data-al="8"><!--lit-node 1--><a class="heading-anchor" href="#our_apps_user_stories">Our app's user stories</a></h2><!--/lit-part-->
+    <p data-al="9">In software development, a user story is an actionable goal from the perspective of the user. Defining user stories before we begin our work will help us focus our work. Our app should fulfill the following stories:</p>
+<p data-al="10">As a user, I can</p>
+<ul data-al="11">
+<li>read a list of tasks.</li>
+<li>add a task using the mouse or keyboard.</li>
+<li>mark any task as completed, using the mouse or keyboard.</li>
+<li>delete any task, using the mouse or keyboard.</li>
+<li>edit any task, using the mouse or keyboard.</li>
+<li>view a specific subset of tasks: All tasks, only the active task, or only the completed tasks.</li>
+</ul>
+<p data-al="12">We'll tackle these stories one-by-one.</p>
+  </section><section class="content-section" aria-labelledby="pre-project_housekeeping">
+    <!--lit-part e1kl7DiqR7I=--><!--lit-node 0--><h2 id="pre-project_housekeeping" class="heading" data-al="13"><!--lit-node 1--><a class="heading-anchor" href="#pre-project_housekeeping">Pre-project housekeeping</a></h2><!--/lit-part-->
+    <p data-al="14">Vite has given us some code that we won't be using at all for our project. The following terminal commands will delete it to make way for our new project. Make sure you're starting in the app's root directory!</p>
+<mdn-code-example class="brush: bash notranslate"></mdn-code-example>
+<div class="notecard note">
+<p data-al="15"><strong>Note:</strong>
+If you stopped your server to do the terminal tasks mentioned above, you'll have to start it again using <code>npm run dev</code>.</p>
+</div>
+  </section><section class="content-section" aria-labelledby="project_starter_code">
+    <!--lit-part /lXY9NJ9EHg=--><!--lit-node 0--><h2 id="project_starter_code" class="heading" data-al="16"><!--lit-node 1--><a class="heading-anchor" href="#project_starter_code">Project starter code</a></h2><!--/lit-part-->
+    <p data-al="17">As a starting point for this project, we're going to provide two things: an <code>App()</code> function to replace the one you just deleted, and some CSS to style your app.</p>
+  </section><section class="content-section" aria-labelledby="the_jsx">
+    <!--lit-part e3O2eMCrqVA=--><!--lit-node 0--><h3 id="the_jsx" class="heading" data-al="18"><!--lit-node 1--><a class="heading-anchor" href="#the_jsx">The JSX</a></h3><!--/lit-part-->
+    <p data-al="19">Copy the following snippet to your clipboard, then paste it into <code>App.jsx</code>:</p>
+<mdn-code-example class="brush: jsx notranslate"></mdn-code-example>
+<p data-al="20">Now open <code>index.html</code> and change the <a href="/en-US/docs/Web/HTML/Reference/Elements/title"><code>&lt;title&gt;</code></a> element's text to <code>TodoMatic</code>. This way, it will match the <a href="/en-US/docs/Web/HTML/Reference/Elements/Heading_Elements"><code>&lt;h1&gt;</code></a> at the top of our app.</p>
+<mdn-code-example class="brush: html notranslate"></mdn-code-example>
+<p data-al="21">When your browser refreshes, you should see something like this:</p>
+<p><img src="/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_todo_list_beginning/unstyled-app.png" alt="todo-matic app, unstyled, showing a jumbled mess of labels, inputs, and buttons" width="838" height="743" loading="lazy"></p>
+<p data-al="22">It's ugly, and doesn't function yet, but that's okay — we'll style it in a moment. First, consider the JSX we have, and how it corresponds to our user stories:</p>
+<ul data-al="23">
+<li>We have a <a href="/en-US/docs/Web/HTML/Reference/Elements/form"><code>&lt;form&gt;</code></a> element, with an <a href="/en-US/docs/Web/HTML/Reference/Elements/input/text"><code>&lt;input type="text"&gt;</code></a> for writing out a new task, and a button to submit the form.</li>
+<li>We have an array of buttons that will be used to filter our tasks.</li>
+<li>We have a heading that tells us how many tasks remain.</li>
+<li>We have our 3 tasks, arranged in an unordered list. Each task is a list item (<a href="/en-US/docs/Web/HTML/Reference/Elements/li"><code>&lt;li&gt;</code></a>), and has buttons to edit and delete it and a checkbox to check it off as done.</li>
+</ul>
+<p data-al="24">The form will allow us to <em>make</em> tasks; the buttons will let us <em>filter</em> them; the heading and list are our way to <em>read</em> them. The UI for <em>editing</em> a task is conspicuously absent for now. That's okay – we'll write that later.</p>
+  </section><section class="content-section" aria-labelledby="accessibility_features">
+    <!--lit-part FE22n14bB6k=--><!--lit-node 0--><h3 id="accessibility_features" class="heading" data-al="25"><!--lit-node 1--><a class="heading-anchor" href="#accessibility_features">Accessibility features</a></h3><!--/lit-part-->
+    <p data-al="26">You may notice some unusual markup here. For example:</p>
+<mdn-code-example class="brush: jsx notranslate"></mdn-code-example>
+<p data-al="27">Here, <code>aria-pressed</code> tells assistive technology (like screen readers) that the button can be in one of two states: <code>pressed</code> or <code>unpressed</code>. Think of these as analogs for <code>on</code> and <code>off</code>. Setting a value of <code>"true"</code> means that the button is pressed by default.</p>
+<p data-al="28">The class <code>visually-hidden</code> has no effect yet, because we have not included any CSS. Once we have put our styles in place, though, any element with this class will be hidden from sighted users and still available to assistive technology users — this is because these words are not needed by sighted users; they are there to provide more information about what the button does for assistive technology users that do not have the extra visual context to help them.</p>
+<p data-al="29">Further down, you can find our <a href="/en-US/docs/Web/HTML/Reference/Elements/ul"><code>&lt;ul&gt;</code></a> element:</p>
+<mdn-code-example class="brush: jsx notranslate"></mdn-code-example>
+<p data-al="30">The <code>role</code> attribute helps assistive technology explain what kind of element a tag represents. A <code>&lt;ul&gt;</code> is treated like a list by default, but the styles we're about to add will break that functionality. This role will restore the "list" meaning to the <code>&lt;ul&gt;</code> element. If you want to learn more about why this is necessary, you can check out <a href="https://www.scottohara.me/blog/2019/01/12/lists-and-safari.html" class="external" target="_blank">Scott O'Hara's article, "Fixing Lists"</a>.</p>
+<p data-al="31">The <code>aria-labelledby</code> attribute tells assistive technologies that we're treating our list heading as the label that describes the purpose of the list beneath it. Making this association gives the list a more informative context, which could help assistive technology users better understand the list's purpose.</p>
+<p data-al="32">Finally, the labels and inputs in our list items have some attributes unique to JSX:</p>
+<mdn-code-example class="brush: jsx notranslate"></mdn-code-example>
+<p data-al="33">The <code>defaultChecked</code> attribute in the <code>&lt;input /&gt;</code> tag tells React to check this checkbox initially. If we were to use <code>checked</code>, as we would in regular HTML, React would log some warnings into our browser console relating to handling events on the checkbox, which we want to avoid. Don't worry too much about this for now — we will cover this later on when we get to using events.</p>
+<p data-al="34">The <code>htmlFor</code> attribute corresponds to the <code>for</code> attribute used in HTML. We cannot use <code>for</code> as an attribute in JSX because <code>for</code> is a reserved word, so React uses <code>htmlFor</code> instead.</p>
+  </section><section class="content-section" aria-labelledby="a_note_on_boolean_attributes_in_jsx">
+    <!--lit-part G8t24oUzN2Q=--><!--lit-node 0--><h3 id="a_note_on_boolean_attributes_in_jsx" class="heading" data-al="35"><!--lit-node 1--><a class="heading-anchor" href="#a_note_on_boolean_attributes_in_jsx">A note on boolean attributes in JSX</a></h3><!--/lit-part-->
+    <p data-al="36">The <code>defaultChecked</code> attribute in the previous section is a boolean attribute – an attribute whose value is either <code>true</code> or <code>false</code>. Like in HTML, a boolean attribute is <code>true</code> if it's present and <code>false</code> if it's absent; the assignment on the right-hand side of the expression is optional. You can explicitly set its value by passing it in curly braces – for example, <code>defaultChecked={true}</code> or <code>defaultChecked={false}</code>.</p>
+<p data-al="37">Because JSX is JavaScript, there's a gotcha to be aware of with boolean attributes: writing <code>defaultChecked="false"</code> will set a <em>string</em> value of <code>"false"</code> rather than a <em>boolean</em> value. Non-empty strings are <a href="/en-US/docs/Glossary/Truthy">truthy</a>, so React will consider <code>defaultChecked</code> to be <code>true</code> and check the checkbox by default. This is not what we want, so we should avoid it.</p>
+<p data-al="38">If you'd like, you can practice writing boolean attributes with another attribute you may have seen before, <a href="/en-US/docs/Web/HTML/Reference/Global_attributes/hidden"><code>hidden</code></a>, which prevents elements from being rendered on the page. Try adding <code>hidden</code> to the <code>&lt;h1&gt;</code> element in <code>App.jsx</code> to see what happens, then try explicitly setting its value to <code>{false}</code>. Note, again, that writing <code>hidden="false"</code> results in a truthy value so the <code>&lt;h1&gt;</code> <em>will</em> hide. Don't forget to remove this code when you're done.</p>
+<div class="notecard note">
+<p data-al="39"><strong>Note:</strong>
+The <code>aria-pressed</code> attribute used in our earlier code snippet has a value of <code>"true"</code> because <code>aria-pressed</code> is not a true boolean attribute in the way <code>checked</code> is.</p>
+</div>
+  </section><section class="content-section" aria-labelledby="implementing_our_styles">
+    <!--lit-part JQR2DcW2bug=--><!--lit-node 0--><h3 id="implementing_our_styles" class="heading" data-al="40"><!--lit-node 1--><a class="heading-anchor" href="#implementing_our_styles">Implementing our styles</a></h3><!--/lit-part-->
+    <p data-al="41">Paste the following CSS code into <code>src/index.css</code>:</p>
+<mdn-code-example class="brush: css notranslate"></mdn-code-example>
+<p data-al="42">Save and look back at your browser, and your app should now have reasonable styling.</p>
+  </section><section class="content-section" aria-labelledby="summary">
+    <!--lit-part ftL4dvEqxtk=--><!--lit-node 0--><h2 id="summary" class="heading" data-al="43"><!--lit-node 1--><a class="heading-anchor" href="#summary">Summary</a></h2><!--/lit-part-->
+    <p data-al="44">Now our todo list app actually looks a bit more like a real app! The problem is: it doesn't actually do anything. We'll start fixing that in the next chapter!</p>
+<ul class="prev-next" data-al="45"><li class="prev"><a class="button secondary" href="/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_getting_started"><span class="button-wrap"> Previous </span></a></li><li class="menu"><a class="button secondary" href="/en-US/docs/Learn_web_development/Core/Frameworks_libraries"><span class="button-wrap"> Overview: JavaScript frameworks and libraries</span></a></li><li class="next"><a class="button secondary" href="/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_components"><span class="button-wrap"> Next  </span></a></li></ul>
+  </section> 
+      <section class="content-section article-footer" aria-labelledby="feedback">
+        <div class="article-footer__inner">
+          <div class="article-footer__svg-container"><!--lit-part +YwD1wS6984=--><svg xmlns="http://www.w3.org/2000/svg" width="162" height="162" fill="none" viewBox="0 0 162 162"><mask id="b" fill="#fff"><path d="M97.203 47.04c8.113-7.886 18.004-13.871 28.906-17.492a78 78 0 0 1 33.969-3.39c11.443 1.39 22.401 5.295 32.024 11.411s17.656 14.28 23.476 23.86c5.819 9.579 9.269 20.318 10.083 31.385a69.85 69.85 0 0 1-5.387 32.44c-4.358 10.272-11.115 19.443-19.747 26.801-8.632 7.359-18.908 12.709-30.034 15.637l-6.17-21.698c7.666-2.017 14.746-5.703 20.694-10.773 5.948-5.071 10.603-11.389 13.606-18.467a48.14 48.14 0 0 0 3.712-22.352c-.561-7.625-2.938-15.025-6.948-21.625s-9.544-12.226-16.175-16.44-14.181-6.904-22.065-7.863a53.75 53.75 0 0 0-23.405 2.336c-7.513 2.495-14.327 6.62-19.918 12.053z"></path></mask><path stroke="url(#a)" stroke-dasharray="6, 6" stroke-width="2" d="M97.203 47.04c8.113-7.886 18.004-13.871 28.906-17.492a78 78 0 0 1 33.969-3.39c11.443 1.39 22.401 5.295 32.024 11.411s17.656 14.28 23.476 23.86c5.819 9.579 9.269 20.318 10.083 31.385a69.85 69.85 0 0 1-5.387 32.44c-4.358 10.272-11.115 19.443-19.747 26.801-8.632 7.359-18.908 12.709-30.034 15.637l-6.17-21.698c7.666-2.017 14.746-5.703 20.694-10.773 5.948-5.071 10.603-11.389 13.606-18.467a48.14 48.14 0 0 0 3.712-22.352c-.561-7.625-2.938-15.025-6.948-21.625s-9.544-12.226-16.175-16.44-14.181-6.904-22.065-7.863a53.75 53.75 0 0 0-23.405 2.336c-7.513 2.495-14.327 6.62-19.918 12.053z" mask="url(#b)" style="stroke:url(#a)" transform="translate(-63.992 -25.587)"></path><ellipse cx="8.066" cy="111.597" fill="currentColor" rx="53.677" ry="53.699" transform="matrix(.71707 -.697 .7243 .6895 0 0)"></ellipse><g clip-path="url(#c)" transform="translate(-63.992 -25.587)"><path fill="#9abff5" d="m144.256 137.379 32.906 12.434a4.41 4.41 0 0 1 2.559 5.667l-9.326 24.679a4.41 4.41 0 0 1-5.667 2.559l-8.226-3.108-2.332 6.17c-.466 1.233-.375 1.883-1.609 1.417l-2.253-.527c-.411-.155-.95-.594-1.206-1.161l-4.734-10.484-12.545-4.741a4.41 4.41 0 0 1-2.559-5.667l9.325-24.679a4.41 4.41 0 0 1 5.667-2.559m9.961 29.617 8.227 3.108 3.264-8.638-.498-6.768-4.113-1.555.548 7.258-4.319-1.632zm-12.339-4.663 8.226 3.108 3.264-8.637-.498-6.769-4.113-1.554.548 7.257-4.319-1.632z"></path></g><g clip-path="url(#d)" transform="translate(-63.992 -25.587)"><path fill="#81b0f3" d="M135.35 60.136 86.67 41.654c-3.346-1.27-7.124.428-8.394 3.775L64.414 81.938c-1.27 3.347.428 7.125 3.774 8.395l12.17 4.62-3.465 9.128c-.693 1.826-1.432 2.457.394 3.15l3.014 1.625c.609.231 1.637.274 2.477-.104l15.53-6.983 18.56 7.047c3.346 1.27 7.124-.428 8.395-3.775l13.862-36.51c1.27-3.346-.428-7.124-3.775-8.395M95.261 83.207l-12.17-4.62 4.852-12.779 7.19-7.017 6.085 2.31-7.725 7.51 6.389 2.426zm18.255 6.93-12.17-4.62 4.852-12.778 7.189-7.017 6.085 2.31-7.725 7.51 6.39 2.426z"></path></g><defs><clipPath id="c"><path fill="#fff" d="m198.638 146.586-65.056-24.583-24.583 65.057 65.056 24.582z"></path></clipPath><clipPath id="d"><path fill="#fff" d="m66.438 14.055 96.242 36.54-36.54 96.243-96.243-36.54z"></path></clipPath><linearGradient id="a" x1="97.203" x2="199.995" y1="47.04" y2="152.793" gradientUnits="userSpaceOnUse"><stop stop-color="#086DFC"></stop><stop offset=".246" stop-color="#2C81FA"></stop><stop offset=".516" stop-color="#5497F8"></stop><stop offset=".821" stop-color="#80B0F6"></stop><stop offset="1" stop-color="#9ABFF5"></stop></linearGradient></defs></svg><!--/lit-part--></div>
+          <h2 id="feedback" data-al="46">Help improve MDN</h2>
+          <mdn-content-feedback locale="en-US"></mdn-content-feedback>
+          <a class="article-footer__contribute" href="/en-US/docs/MDN/Community/Getting_started">Learn how to contribute</a> <p class="article-footer__last-modified" data-al="47">
+    This page was last modified on <time datetime="2025-10-31T15:27:28.000Z">Oct 31, 2025</time> by <a href="/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_todo_list_beginning/contributors.txt">MDN contributors</a>.
+  </p> <div class="article-footer__links">
+    <a class="external" href="https://github.com/mdn/content/blob/main/files/en-us/learn_web_development/core/frameworks_libraries/react_todo_list_beginning/index.md?plain=1" title="Folder: en-us/learn_web_development/core/frameworks_libraries/react_todo_list_beginning (Opens in a new tab)" target="_blank" rel="noopener">View this page on GitHub</a> • <a class="external" href="https://github.com/mdn/content/issues/new?template=page-report.yml&amp;mdn-url=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FLearn_web_development%2FCore%2FFrameworks_libraries%2FReact_todo_list_beginning&amp;metadata=%3C%21--+Do+not+make+changes+below+this+line+--%3E%0A%3Cdetails%3E%0A%3Csummary%3EPage+report+details%3C%2Fsummary%3E%0A%0A*+Folder%3A+%60en-us%2Flearn_web_development%2Fcore%2Fframeworks_libraries%2Freact_todo_list_beginning%60%0A*+MDN+URL%3A+https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FLearn_web_development%2FCore%2FFrameworks_libraries%2FReact_todo_list_beginning%0A*+GitHub+URL%3A+https%3A%2F%2Fgithub.com%2Fmdn%2Fcontent%2Fblob%2Fmain%2Ffiles%2Fen-us%2Flearn_web_development%2Fcore%2Fframeworks_libraries%2Freact_todo_list_beginning%2Findex.md%0A*+Last+commit%3A+https%3A%2F%2Fgithub.com%2Fmdn%2Fcontent%2Fcommit%2F9f7e7e9075e9f2b1937d2c8000f52a8ff76bff52%0A*+Document+last+modified%3A+2025-10-31T15%3A27%3A28.000Z%0A%0A%3C%2Fdetails%3E" title="This will take you to GitHub to file a new issue." target="_blank" rel="noopener">Report a problem with this content</a>
+  </div>
+        </div>
+      </section>
+    
+          </div>
+        </main>
+        
+      </div>
+    </div>
+        <div class="page-layout__footer">
+      <mdn-placement-bottom></mdn-placement-bottom>
+      
+    </div>
+      
+    
+      
+    
+</body>
+</html>

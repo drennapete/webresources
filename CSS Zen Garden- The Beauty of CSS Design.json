@@ -1,0 +1,102 @@
+{
+  "1": {
+    "tag": "p",
+    "text": "A demonstration of what can be accomplished through CSS-based design. Select any style sheet from the list to load it in",
+    "type": "paragraph"
+  },
+  "2": {
+    "tag": "p",
+    "text": "Download the example html file and css file",
+    "type": "paragraph"
+  },
+  "3": {
+    "tag": "h3",
+    "text": "The Road to Enlightenment",
+    "type": "heading"
+  },
+  "4": {
+    "tag": "p",
+    "text": "Littering a dark and dreary road lay the past relics of browser-specific tags, incompatible DOMs, broken CSS support, an",
+    "type": "paragraph"
+  },
+  "5": {
+    "tag": "p",
+    "text": "We must clear the mind of the past. Web enlightenment has been achieved thanks to the tireless efforts of folk like the ",
+    "type": "paragraph"
+  },
+  "6": {
+    "tag": "p",
+    "text": "The CSS Zen Garden invites you to relax and meditate on the important lessons of the masters. Begin to see with clarity.",
+    "type": "paragraph"
+  },
+  "7": {
+    "tag": "h3",
+    "text": "So What is This About?",
+    "type": "heading"
+  },
+  "8": {
+    "tag": "p",
+    "text": "There is a continuing need to show the power of CSS. The Zen Garden aims to excite, inspire, and encourage participation",
+    "type": "paragraph"
+  },
+  "9": {
+    "tag": "p",
+    "text": "CSS allows complete and total control over the style of a hypertext document. The only way this can be illustrated in a ",
+    "type": "paragraph"
+  },
+  "10": {
+    "tag": "h3",
+    "text": "Participation",
+    "type": "heading"
+  },
+  "11": {
+    "tag": "p",
+    "text": "Strong visual design has always been our focus. You are modifying this page, so strong CSS skills are necessary too, but",
+    "type": "paragraph"
+  },
+  "12": {
+    "tag": "p",
+    "text": "You may modify the style sheet in any way you wish, but not the HTML. This may seem daunting at first if you’ve never wo",
+    "type": "paragraph"
+  },
+  "13": {
+    "tag": "p",
+    "text": "Download the sample HTML and CSS to work on a copy locally. Once you have completed your masterpiece (and please, don’t ",
+    "type": "paragraph"
+  },
+  "14": {
+    "tag": "h3",
+    "text": "Benefits",
+    "type": "heading"
+  },
+  "15": {
+    "tag": "p",
+    "text": "Why participate? For recognition, inspiration, and a resource we can all refer to showing people how amazing CSS really ",
+    "type": "paragraph"
+  },
+  "16": {
+    "tag": "h3",
+    "text": "Requirements",
+    "type": "heading"
+  },
+  "17": {
+    "tag": "p",
+    "text": "Where possible, we would like to see mostly CSS 1 & 2 usage. CSS 3 & 4 should be limited to widely-supported elements on",
+    "type": "paragraph"
+  },
+  "18": {
+    "tag": "p",
+    "text": "Luckily, designing this way shows how well various browsers have implemented CSS by now. When sticking to the guidelines",
+    "type": "paragraph"
+  },
+  "19": {
+    "tag": "p",
+    "text": "We ask that you submit original artwork. Please respect copyright laws. Please keep objectionable material to a minimum,",
+    "type": "paragraph"
+  },
+  "20": {
+    "tag": "p",
+    "text": "This is a learning exercise as well as a demonstration. You retain full copyright on your graphics (with limited excepti",
+    "type": "paragraph"
+  }
+}

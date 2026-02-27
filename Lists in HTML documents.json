@@ -1,0 +1,457 @@
+{
+  "1": {
+    "tag": "h1",
+    "text": "10 Lists",
+    "type": "heading"
+  },
+  "2": {
+    "tag": "p",
+    "text": "Contents",
+    "type": "paragraph"
+  },
+  "3": {
+    "tag": "ol",
+    "text": "Introduction to lists\n\nUnordered lists (UL),\nordered lists (OL), and list items (LI)\n\nDefinition lists: the \nDL, DT, and",
+    "type": "list"
+  },
+  "4": {
+    "tag": "ol",
+    "text": "Visual rendering of lists",
+    "type": "list"
+  },
+  "5": {
+    "tag": "h2",
+    "text": "10.1 Introduction to lists",
+    "type": "heading"
+  },
+  "6": {
+    "tag": "ul",
+    "text": "Unordered information.\n\nOrdered information.\n\nDefinitions.",
+    "type": "list"
+  },
+  "7": {
+    "tag": "p",
+    "text": "The previous list, for example, is an unordered list, created with the UL\nelement:",
+    "type": "paragraph"
+  },
+  "8": {
+    "tag": "pre",
+    "text": "<UL>\n<LI>Unordered information. \n<LI>Ordered information. \n<LI>Definitions. \n</UL>",
+    "type": "preformatted"
+  },
+  "9": {
+    "tag": "p",
+    "text": "An ordered list, created using the OL element, should contain information\nwhere order should be emphasized, as in a reci",
+    "type": "paragraph"
+  },
+  "10": {
+    "tag": "ol",
+    "text": "Mix dry ingredients thoroughly.\n\nPour in wet ingredients.\n\nMix for 10 minutes.\n\nBake for one hour at 300 degrees.",
+    "type": "list"
+  },
+  "11": {
+    "tag": "p",
+    "text": "Definition lists, created using the DL element, generally consist of a\nseries of term/definition pairs (although definit",
+    "type": "paragraph"
+  },
+  "12": {
+    "tag": "dt",
+    "text": "Lower cost",
+    "type": "term"
+  },
+  "13": {
+    "tag": "dd",
+    "text": "The new version of this product costs significantly less than the previous\none!",
+    "type": "definition"
+  },
+  "14": {
+    "tag": "dt",
+    "text": "Easier to use",
+    "type": "term"
+  },
+  "15": {
+    "tag": "dd",
+    "text": "We've changed the product so that it's much easier to use!",
+    "type": "definition"
+  },
+  "16": {
+    "tag": "dt",
+    "text": "Safe for kids",
+    "type": "term"
+  },
+  "17": {
+    "tag": "dd",
+    "text": "You can leave your kids alone in a room with this product and they won't\nget hurt (not a guarantee).",
+    "type": "definition"
+  },
+  "18": {
+    "tag": "p",
+    "text": "defined in HTML as:",
+    "type": "paragraph"
+  },
+  "19": {
+    "tag": "pre",
+    "text": "<DL>\n<DT><STRONG>Lower cost</STRONG>\n<DD>The new version of this product costs significantly less than the\nprevious one!",
+    "type": "preformatted"
+  },
+  "20": {
+    "tag": "p",
+    "text": "Lists may also be nested and different list types may be used together, as\nin the following example, which is a definiti",
+    "type": "paragraph"
+  },
+  "21": {
+    "tag": "dt",
+    "text": "The ingredients:",
+    "type": "term"
+  },
+  "22": {
+    "tag": "dd",
+    "text": "100 g. flour\n\n10 g. sugar\n\n1 cup water\n\n2 eggs\n\nsalt, pepper",
+    "type": "definition"
+  },
+  "23": {
+    "tag": "ul",
+    "text": "100 g. flour\n\n10 g. sugar\n\n1 cup water\n\n2 eggs\n\nsalt, pepper",
+    "type": "list"
+  },
+  "24": {
+    "tag": "dt",
+    "text": "The procedure:",
+    "type": "term"
+  },
+  "25": {
+    "tag": "dd",
+    "text": "Mix dry ingredients thoroughly.\n\nPour in wet ingredients.\n\nMix for 10 minutes.\n\nBake for one hour at 300 degrees.",
+    "type": "definition"
+  },
+  "26": {
+    "tag": "ol",
+    "text": "Mix dry ingredients thoroughly.\n\nPour in wet ingredients.\n\nMix for 10 minutes.\n\nBake for one hour at 300 degrees.",
+    "type": "list"
+  },
+  "27": {
+    "tag": "dt",
+    "text": "Notes:",
+    "type": "term"
+  },
+  "28": {
+    "tag": "dd",
+    "text": "The recipe may be improved by adding raisins.",
+    "type": "definition"
+  },
+  "29": {
+    "tag": "p",
+    "text": "The exact presentation of the three list types depends on the user agent. We\ndiscourage authors from using lists purely ",
+    "type": "paragraph"
+  },
+  "30": {
+    "tag": "h2",
+    "text": "10.2 \nUnordered lists (UL), ordered lists (OL), and list items (LI)",
+    "type": "heading"
+  },
+  "31": {
+    "tag": "pre",
+    "text": "<!ELEMENT UL - - (LI)+                 -- unordered list -->\n<!ATTLIST UL\n  %attrs;                              -- %cor",
+    "type": "preformatted"
+  },
+  "32": {
+    "tag": "p",
+    "text": "Start tag: required, End tag: \nrequired",
+    "type": "paragraph"
+  },
+  "33": {
+    "tag": "pre",
+    "text": "<!ELEMENT LI - O (%flow;)*             -- list item -->\n<!ATTLIST LI\n  %attrs;                              -- %coreattr",
+    "type": "preformatted"
+  },
+  "34": {
+    "tag": "p",
+    "text": "Start tag: required, End tag: \noptional",
+    "type": "paragraph"
+  },
+  "35": {
+    "tag": "p",
+    "text": "Attribute definitions",
+    "type": "paragraph"
+  },
+  "36": {
+    "tag": "dt",
+    "text": "type  =  \nstyle-information [CI]",
+    "type": "term"
+  },
+  "37": {
+    "tag": "dd",
+    "text": "Deprecated. This\nattribute sets the style of a list item. Currently available values are\nintended for visual user agents",
+    "type": "definition"
+  },
+  "38": {
+    "tag": "dt",
+    "text": "start = number [CN]",
+    "type": "term"
+  },
+  "39": {
+    "tag": "dd",
+    "text": "Deprecated. For\nOL\nonly. This attribute specifies the starting number of the first item in an\nordered list. The default ",
+    "type": "definition"
+  },
+  "40": {
+    "tag": "dt",
+    "text": "value = number [CN]",
+    "type": "term"
+  },
+  "41": {
+    "tag": "dd",
+    "text": "Deprecated. For\nLI\nonly. This attribute sets the number of the current list item. Note that while\nthe value of this attr",
+    "type": "definition"
+  },
+  "42": {
+    "tag": "dt",
+    "text": "compact [CI]",
+    "type": "term"
+  },
+  "43": {
+    "tag": "dd",
+    "text": "Deprecated. When\nset, this boolean attribute gives a hint to visual user agents to render the\nlist in a more compact way",
+    "type": "definition"
+  },
+  "44": {
+    "tag": "p",
+    "text": "Attributes defined elsewhere",
+    "type": "paragraph"
+  },
+  "45": {
+    "tag": "ul",
+    "text": "id, class (document-wide identifiers)\n\n\nlang (language\ninformation), dir (text\ndirection)\n\n\ntitle (element title)\n\nstyle",
+    "type": "list"
+  },
+  "46": {
+    "tag": "p",
+    "text": "Ordered and unordered lists are rendered in an identical manner except that\nvisual user agents number ordered list items",
+    "type": "paragraph"
+  },
+  "47": {
+    "tag": "p",
+    "text": "Both types of lists are made up of sequences of list items defined by the LI element (whose end tag may be\nomitted).",
+    "type": "paragraph"
+  },
+  "48": {
+    "tag": "p",
+    "text": "This example illustrates the basic structure of a list.",
+    "type": "paragraph"
+  },
+  "49": {
+    "tag": "pre",
+    "text": "<UL>\n   <LI> ... first list item...\n   <LI> ... second list item...\n   ...\n</UL>",
+    "type": "preformatted"
+  },
+  "50": {
+    "tag": "p",
+    "text": "Lists\nmay also be nested:",
+    "type": "paragraph"
+  },
+  "51": {
+    "tag": "p",
+    "text": "DEPRECATED EXAMPLE:",
+    "type": "paragraph"
+  },
+  "52": {
+    "tag": "pre",
+    "text": "<UL>\n     <LI> ... Level one, number one...\n     <OL> \n        <LI> ... Level two, number one...\n        <LI> ... Level ",
+    "type": "preformatted"
+  },
+  "53": {
+    "tag": "p",
+    "text": "Details about number order. In ordered\nlists, it is not possible to continue list numbering automatically from a\npreviou",
+    "type": "paragraph"
+  },
+  "54": {
+    "tag": "pre",
+    "text": "<ol>\n<li value=\"30\"> makes this list item number 30.\n<li value=\"40\"> makes this list item number 40.\n<li> makes this lis",
+    "type": "preformatted"
+  },
+  "55": {
+    "tag": "h2",
+    "text": "10.3 Definition lists: the \nDL, \nDT, and DD\nelements",
+    "type": "heading"
+  },
+  "56": {
+    "tag": "pre",
+    "text": "<!-- definition lists - DT for term, DD for its definition -->\n\n<!ELEMENT DL - - (DT|DD)+              -- definition lis",
+    "type": "preformatted"
+  },
+  "57": {
+    "tag": "p",
+    "text": "Start tag: required, End tag: \nrequired",
+    "type": "paragraph"
+  },
+  "58": {
+    "tag": "pre",
+    "text": "<!ELEMENT DT - O (%inline;)*           -- definition term -->\n<!ELEMENT DD - O (%flow;)*             -- definition descr",
+    "type": "preformatted"
+  },
+  "59": {
+    "tag": "p",
+    "text": "Start tag: required, End tag: \noptional",
+    "type": "paragraph"
+  },
+  "60": {
+    "tag": "p",
+    "text": "Attributes defined elsewhere",
+    "type": "paragraph"
+  },
+  "61": {
+    "tag": "ul",
+    "text": "id, class (document-wide identifiers)\n\n\nlang (language\ninformation), dir (text\ndirection)\n\n\ntitle (element title)\n\nstyle",
+    "type": "list"
+  },
+  "62": {
+    "tag": "p",
+    "text": "Definition lists vary only slightly from other types of lists in that list\nitems consist of two parts: a term and a desc",
+    "type": "paragraph"
+  },
+  "63": {
+    "tag": "p",
+    "text": "Here is an example:",
+    "type": "paragraph"
+  },
+  "64": {
+    "tag": "pre",
+    "text": "<DL>\n  <DT>Dweeb\n  <DD>young excitable person who may mature\n    into a <EM>Nerd</EM> or <EM>Geek</EM>\n\n  <DT>Hacker\n  <",
+    "type": "preformatted"
+  },
+  "65": {
+    "tag": "p",
+    "text": "Here is an example with multiple terms and descriptions:",
+    "type": "paragraph"
+  },
+  "66": {
+    "tag": "pre",
+    "text": "<DL>\n   <DT>Center\n   <DT>Centre\n   <DD> A point equidistant from all points\n              on the surface of a sphere.\n ",
+    "type": "preformatted"
+  },
+  "67": {
+    "tag": "p",
+    "text": "Another application of DL, for example, is for marking up dialogues, with\neach \nDT naming a speaker, and each DD contain",
+    "type": "paragraph"
+  },
+  "68": {
+    "tag": "h3",
+    "text": "10.3.1 Visual rendering of lists",
+    "type": "heading"
+  },
+  "69": {
+    "tag": "p",
+    "text": "Note. The following is an informative description of\nthe behavior of some current visual user agents when formatting lis",
+    "type": "paragraph"
+  },
+  "70": {
+    "tag": "p",
+    "text": "Visual user agents generally indent nested lists with respect to the current\nlevel of nesting.",
+    "type": "paragraph"
+  },
+  "71": {
+    "tag": "p",
+    "text": "For both \nOL and UL, the \ntype attribute specifies rendering options\nfor visual user agents.",
+    "type": "paragraph"
+  },
+  "72": {
+    "tag": "p",
+    "text": "For the \nUL element, possible values for the \ntype attribute are disc, square, and\ncircle. The default value depends on ",
+    "type": "paragraph"
+  },
+  "73": {
+    "tag": "p",
+    "text": "How each value is presented depends on the user agent. User agents should\nattempt to present a \"disc\" as a small filled-",
+    "type": "paragraph"
+  },
+  "74": {
+    "tag": "p",
+    "text": "A graphical user agent might render this as:",
+    "type": "paragraph"
+  },
+  "75": {
+    "tag": "p",
+    "text": "for the\nvalue \"disc\"\n\nfor\nthe value \"circle\"\n\nfor\nthe value \"square\"",
+    "type": "paragraph"
+  },
+  "76": {
+    "tag": "p",
+    "text": "For the \nOL element, possible values for the type\nattribute are summarized in the table below (they are case-sensitive):",
+    "type": "paragraph"
+  },
+  "77": {
+    "tag": "table",
+    "text": "Type\nNumbering style\n\n\n\n1\narabic numbers\n1, 2, 3, ...\n\n\n\na\nlower alpha\na, b, c, ...\n\n\n\nA\nupper alpha\nA, B, C, ...\n\n\n\ni\nl",
+    "type": "table"
+  },
+  "78": {
+    "tag": "p",
+    "text": "Note that the type attribute is \ndeprecated and list styles should be handled through style\nsheets.",
+    "type": "paragraph"
+  },
+  "79": {
+    "tag": "p",
+    "text": "For example, using CSS, one may specify that the style of numbers for list\nelements in a numbered list should be lowerca",
+    "type": "paragraph"
+  },
+  "80": {
+    "tag": "pre",
+    "text": "<STYLE type=\"text/css\">\nOL.withroman { list-style-type: lower-roman }\n</STYLE>\n<BODY>\n<OL class=\"withroman\">\n<LI> Step o",
+    "type": "preformatted"
+  },
+  "81": {
+    "tag": "p",
+    "text": "The rendering of a definition list also depends on the user agent. The\nexample:",
+    "type": "paragraph"
+  },
+  "82": {
+    "tag": "pre",
+    "text": "<DL>\n  <DT>Dweeb\n  <DD>young excitable person who may mature\n    into a <EM>Nerd</EM> or <EM>Geek</EM>\n\n  <DT>Hacker\n  <",
+    "type": "preformatted"
+  },
+  "83": {
+    "tag": "p",
+    "text": "might be rendered as follows:",
+    "type": "paragraph"
+  },
+  "84": {
+    "tag": "pre",
+    "text": "Dweeb\n       young excitable person who may mature into a Nerd or Geek\nHacker\n       a clever programmer\nNerd\n       tec",
+    "type": "preformatted"
+  },
+  "85": {
+    "tag": "h2",
+    "text": "10.4 The \nDIR and MENU\nelements",
+    "type": "heading"
+  },
+  "86": {
+    "tag": "p",
+    "text": "DIR and MENU are \ndeprecated.",
+    "type": "paragraph"
+  },
+  "87": {
+    "tag": "p",
+    "text": "See the Transitional DTD for the\nformal definition.",
+    "type": "paragraph"
+  },
+  "88": {
+    "tag": "p",
+    "text": "Attributes defined elsewhere",
+    "type": "paragraph"
+  },
+  "89": {
+    "tag": "ul",
+    "text": "id, class (document-wide identifiers)\n\n\nlang (language\ninformation), dir (text\ndirection)\n\n\ntitle (element title)\n\nstyle",
+    "type": "list"
+  },
+  "90": {
+    "tag": "p",
+    "text": "The \nDIR element was designed to be used for creating multicolumn\ndirectory lists. The MENU element was designed to be u",
+    "type": "paragraph"
+  },
+  "91": {
+    "tag": "p",
+    "text": "We strongly recommend using \nUL instead of these elements.",
+    "type": "paragraph"
+  }
+}

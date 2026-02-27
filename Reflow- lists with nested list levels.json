@@ -1,0 +1,237 @@
+{
+  "1": {
+    "tag": "h2",
+    "text": "Example lists with nested lists",
+    "type": "heading"
+  },
+  "2": {
+    "tag": "p",
+    "text": "The following two examples are meant to demonstrate why Success Criterion 1.4.10 Reflow allows for a whole list to scrol",
+    "type": "paragraph"
+  },
+  "3": {
+    "tag": "p",
+    "text": "Zooming in to 400% on an original browser viewport width of 1280 pixels, the difference between a list which allows two-",
+    "type": "paragraph"
+  },
+  "4": {
+    "tag": "ul",
+    "text": "In the first example, although the list is horizontally scrollable, you can scroll to the start of a nested list, identi",
+    "type": "list"
+  },
+  "5": {
+    "tag": "p",
+    "text": "Note that there are additional styling updates that one might make, or futher manipulations to the lists to present the ",
+    "type": "paragraph"
+  },
+  "6": {
+    "tag": "h3",
+    "text": "Example 1",
+    "type": "heading"
+  },
+  "7": {
+    "tag": "ul",
+    "text": "Make a list using one of the HTML list elements, or even an ARIA role=list container.\n              \n                  \n",
+    "type": "list"
+  },
+  "8": {
+    "tag": "p",
+    "text": "Make a list using one of the HTML list elements, or even an ARIA role=list container.",
+    "type": "paragraph"
+  },
+  "9": {
+    "tag": "ul",
+    "text": "There are three types of lists in HTML which can contain list items li elements.\n                      \n                ",
+    "type": "list"
+  },
+  "10": {
+    "tag": "p",
+    "text": "There are three types of lists in HTML which can contain list items li elements.",
+    "type": "paragraph"
+  },
+  "11": {
+    "tag": "ul",
+    "text": "the ul element\n                          the ol element\n                          the menu element",
+    "type": "list"
+  },
+  "12": {
+    "tag": "p",
+    "text": "the ul element",
+    "type": "paragraph"
+  },
+  "13": {
+    "tag": "p",
+    "text": "the ol element",
+    "type": "paragraph"
+  },
+  "14": {
+    "tag": "p",
+    "text": "the menu element",
+    "type": "paragraph"
+  },
+  "15": {
+    "tag": "p",
+    "text": "Another type of list, description lists, exist as well - but they do not contain list items (li elements).",
+    "type": "paragraph"
+  },
+  "16": {
+    "tag": "p",
+    "text": "Neither the start or end tags of any of the HTML list elements are omissible.",
+    "type": "paragraph"
+  },
+  "17": {
+    "tag": "ul",
+    "text": "The end tags of li elements can be omitted if the li element is immeditely followed by another li element or there is no",
+    "type": "list"
+  },
+  "18": {
+    "tag": "p",
+    "text": "The end tags of li elements can be omitted if the li element is immeditely followed by another li element or there is no",
+    "type": "paragraph"
+  },
+  "19": {
+    "tag": "p",
+    "text": "The list marker for each li element is initially based on the parent list element used.",
+    "type": "paragraph"
+  },
+  "20": {
+    "tag": "ul",
+    "text": "The list maker can be modified by using CSS,\n                            \n                                A list item's ",
+    "type": "list"
+  },
+  "21": {
+    "tag": "p",
+    "text": "The list maker can be modified by using CSS,",
+    "type": "paragraph"
+  },
+  "22": {
+    "tag": "ul",
+    "text": "A list item's ::marker can be styled similarly to other pseudo elements, like ::before and ::after. Use it to modify or ",
+    "type": "list"
+  },
+  "23": {
+    "tag": "p",
+    "text": "A list item's ::marker can be styled similarly to other pseudo elements, like ::before and ::after. Use it to modify or ",
+    "type": "paragraph"
+  },
+  "24": {
+    "tag": "p",
+    "text": "Using the ::before pseudo element, one can use the CSS counter and content properties to create custom incrementing nume",
+    "type": "paragraph"
+  },
+  "25": {
+    "tag": "p",
+    "text": "or the list marker can be modifed by using the type attribute, if the parent list element is an ol element. The type att",
+    "type": "paragraph"
+  },
+  "26": {
+    "tag": "p",
+    "text": "Validate your markup to make sure your lists are properly structured.",
+    "type": "paragraph"
+  },
+  "27": {
+    "tag": "h3",
+    "text": "Example 2",
+    "type": "heading"
+  },
+  "28": {
+    "tag": "ul",
+    "text": "Make a list using one of the HTML list elements, or even an ARIA role=list container.\n            \n                \n    ",
+    "type": "list"
+  },
+  "29": {
+    "tag": "p",
+    "text": "Make a list using one of the HTML list elements, or even an ARIA role=list container.",
+    "type": "paragraph"
+  },
+  "30": {
+    "tag": "ul",
+    "text": "There are three types of lists in HTML which can contain list items li elements.\n                    \n                  ",
+    "type": "list"
+  },
+  "31": {
+    "tag": "p",
+    "text": "There are three types of lists in HTML which can contain list items li elements.",
+    "type": "paragraph"
+  },
+  "32": {
+    "tag": "ul",
+    "text": "the ul element\n                        the ol element\n                        the menu element",
+    "type": "list"
+  },
+  "33": {
+    "tag": "p",
+    "text": "the ul element",
+    "type": "paragraph"
+  },
+  "34": {
+    "tag": "p",
+    "text": "the ol element",
+    "type": "paragraph"
+  },
+  "35": {
+    "tag": "p",
+    "text": "the menu element",
+    "type": "paragraph"
+  },
+  "36": {
+    "tag": "p",
+    "text": "Another type of list, description lists, exist as well - but they do not contain list items (li elements).",
+    "type": "paragraph"
+  },
+  "37": {
+    "tag": "p",
+    "text": "Neither the start or end tags of any of the HTML list elements are omissible.",
+    "type": "paragraph"
+  },
+  "38": {
+    "tag": "ul",
+    "text": "The end tags of li elements can be omitted if the li element is immeditely followed by another li element or there is no",
+    "type": "list"
+  },
+  "39": {
+    "tag": "p",
+    "text": "The end tags of li elements can be omitted if the li element is immeditely followed by another li element or there is no",
+    "type": "paragraph"
+  },
+  "40": {
+    "tag": "p",
+    "text": "The list marker for each li element is initially based on the parent list element used.",
+    "type": "paragraph"
+  },
+  "41": {
+    "tag": "ul",
+    "text": "The list maker can be modified by using CSS,\n                          \n                              A list item's ::ma",
+    "type": "list"
+  },
+  "42": {
+    "tag": "p",
+    "text": "The list maker can be modified by using CSS,",
+    "type": "paragraph"
+  },
+  "43": {
+    "tag": "ul",
+    "text": "A list item's ::marker can be styled similarly to other pseudo elements, like ::before and ::after. Use it to modify or ",
+    "type": "list"
+  },
+  "44": {
+    "tag": "p",
+    "text": "A list item's ::marker can be styled similarly to other pseudo elements, like ::before and ::after. Use it to modify or ",
+    "type": "paragraph"
+  },
+  "45": {
+    "tag": "p",
+    "text": "Using the ::before pseudo element, one can use the CSS counter and content properties to create custom incrementing nume",
+    "type": "paragraph"
+  },
+  "46": {
+    "tag": "p",
+    "text": "or the list marker can be modifed by using the type attribute, if the parent list element is an ol element. The type att",
+    "type": "paragraph"
+  },
+  "47": {
+    "tag": "p",
+    "text": "Validate your markup to make sure your lists are properly structured.",
+    "type": "paragraph"
+  }
+}

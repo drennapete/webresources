@@ -1,0 +1,959 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="airlock-source-url" content="https://gist.github.com/ralgh/4532090">
+  <meta name="airlock-captured-at" content="2026-02-25T23:15:50.515Z">
+  <meta name="airlock-anchor-count" content="23">
+  <title>Starting this as a collection of useful data-uri strings.</title>
+  <style>
+    body { max-width: 900px; margin: 2rem auto; padding: 0 1rem;
+           font-family: Georgia, serif; line-height: 1.6; color: #1a1a1a; }
+    table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
+    td, th { border: 1px solid #ccc; padding: 0.5rem; text-align: left; }
+    blockquote { border-left: 3px solid #ccc; margin-left: 0; padding-left: 1rem;
+                 color: #555; }
+    pre { background: #f5f5f5; padding: 1rem; overflow-x: auto; }
+    [data-al] { }
+  </style>
+</head>
+<body>
+
+    <div data-turbo-body="" class="logged-in env-production page-responsive" style="word-wrap: break-word;">
+      <div id="__primerPortalRoot__" role="region" style="z-index: 1000; position: absolute; width: 100%;" data-turbo-permanent=""></div>
+      
+
+    <div class="position-relative header-wrapper js-header-wrapper ">
+      <a href="#start-of-content" data-skip-target-assigned="false" class="p-3 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content">Skip to content</a>
+
+      <span data-view-component="true" class="progress-pjax-loader Progress position-fixed width-full">
+    <span style="width: 0%;" data-view-component="true" class="Progress-item progress-pjax-loader-bar left-0 top-0 color-bg-accent-emphasis"></span>
+</span>      
+      
+      
+
+<react-partial partial-name="keyboard-shortcuts-dialog" data-ssr="false" data-attempted-ssr="false" data-react-profiling="true" data-catalyst="" class="loaded">
+  
+  
+  <div data-target="react-partial.reactRoot"><div class="d-none"></div></div>
+</react-partial>
+
+
+
+
+
+      
+
+            
+
+
+
+      
+        
+          
+    </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+
+
+
+
+
+
+    <div id="js-flash-container" class="flash-container" data-turbo-replace="">
+
+
+
+
+  
+</div>
+
+
+    
+  <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjgxMTcxMyIsInQiOjE3NzIwNjEzNDZ9--488b17a8c1dcd43033219b7ad185a4a849f68d77a3bfdfac4482a9ccc6bf31ce" data-view-component="true" class="js-socket-channel" data-refresh-delay="500" data-catalyst="" data-throttle-delay="5000"></notification-shelf-watcher>
+  
+
+
+
+
+
+
+  <div class="application-main " data-commit-hovercards-enabled="" data-discussion-hovercards-enabled="" data-issue-and-pr-hovercards-enabled="" data-project-hovercards-enabled="">
+        <div itemscope="" itemtype="http://schema.org/Code">
+    <main id="gist-pjax-container">
+      
+
+
+
+<div class="gisthead pagehead pb-0 tmp-pt-3 tmp-mb-4">
+  <div class="px-0">
+    
+  
+<div class="tmp-mb-3 d-flex tmp-px-3 tmp-px-md-3 tmp-px-lg-5">
+  <div class="flex-auto min-width-0 width-fit tmp-mr-3">
+    <div class="d-flex">
+      <div class="d-none d-md-block">
+        <a class="mr-2 flex-shrink-0" data-hovercard-type="user" data-hovercard-url="/users/ralgh/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ralgh" aria-keyshortcuts="Alt+ArrowUp"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/525870?s=64&amp;v=4" width="32" height="32" alt="@ralgh"></a>
+      </div>
+      <div class="d-flex flex-column width-full">
+        <div class="d-flex flex-row width-full">
+          <h1 class="wb-break-word f3 text-normal mb-md-0 mb-1" data-al="1">
+            <span class="author"><a data-hovercard-type="user" data-hovercard-url="/users/ralgh/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ralgh" aria-keyshortcuts="Alt+ArrowUp">ralgh</a></span><!--
+                --><span class="mx-1 color-fg-muted">/</span><!--
+                --><strong itemprop="name" class="css-truncate-target mr-1" style="max-width: 410px"><a href="/ralgh/4532090">gist:4532090</a></strong>
+          </h1>
+        </div>
+
+        <div class="note m-0" data-al="2">
+          Last active
+          <relative-time tense="past" datetime="2017-09-08T13:04:19+12:00" data-view-component="true" title="Sep 8, 2017, 1:04 PM GMT+12">September 8, 2017 13:04</relative-time>
+            •
+            <a class="color-fg-muted" href="/contact/report-content?content_url=https%3A%2F%2Fgist.github.com%2F4532090&amp;report=ralgh+%28user%29">Report abuse</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <ul class="d-md-flex pagehead-actions float-none mr-2" data-al="3">
+      <li>
+            <div class="thread-subscription-status js-socket-channel js-updatable-content" data-replace-remote-form-target="" data-channel="eyJjIjoibGlzdC1zdWJzY3JpcHRpb246dXNlcjo1MjU4NzA6NjgxMTcxMyIsInQiOjE3NzIwNjEzNDd9--548be1b080e3c095bdd79a3d1a18ba5376b551dd3b3874d9ed452f4a6b190df7 eyJjIjoidGhyZWFkLXN1YnNjcmlwdGlvbjo0NTMyMDkwOjY4MTE3MTMiLCJ0IjoxNzcyMDYxMzQ3fQ==--5d96cfbf71a18c249f63ed00c1e54b13c52ba67dc78135f01eef4c579088dfeb" data-url="/ralgh/4532090/subscription">
+      <!-- '"` --><!-- </textarea></xmp> --><form data-replace-remote-form="true" class="thread-subscribe-form" data-turbo="false" action="/ralgh/4532090/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5AqVMONA0gTrLy8gx91xQU8e2K1v13dXj4RYhD8IeEAxTV2HCIVDRIvpIv4hnNHM6tq0RqlDLPmcG0JxR-I9bA" autocomplete="off">        <input type="hidden" name="repository_id" value="525870">
+        <input type="hidden" name="thread_id" value="4532090">
+        <input type="hidden" name="thread_class" value="Gist">
+        <input type="hidden" name="id" value="subscribe">
+        <button data-thread-subscribe-button="" data-disable-with="" aria-describedby="notification-subscribe-button-reason" type="submit" data-view-component="true" class="Button--secondary Button--small Button Button--fullWidth">  <span class="Button-content">
+      <span class="Button-visual Button-leadingVisual">
+        
+      </span>
+    <span class="Button-label">Subscribe</span>
+  </span>
+</button>
+</form>  </div>
+      </li>
+  </ul>
+  <div class="d-inline-block d-md-none ml-auto">
+    <action-menu data-select-variant="none" data-view-component="true" class="flex-self-start ml-auto d-inline-block" data-catalyst="" data-ready="true">
+  <focus-group direction="vertical" mnemonics="" retain="">
+    <button id="gist_options-button" popovertarget="gist_options-overlay" aria-controls="gist_options-list" aria-haspopup="true" aria-labelledby="tooltip-6833e9f2-bb38-4c64-94ee-7e1827e8ba49" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small">  
+</button>
+
+
+<anchored-position data-target="action-menu.overlay" id="gist_options-overlay" anchor="gist_options-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true" style="inset: -60px auto auto 0px;">
+  <div data-view-component="true" class="Overlay Overlay--size-auto">
+    
+      <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list data-catalyst="">
+  <div data-view-component="true">
+    <ul aria-labelledby="gist_options-button" id="gist_options-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap" data-al="4">
+        <li rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;DOWNLOAD_ZIP&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:4532090,&quot;originating_url&quot;:&quot;https://gist.github.com/ralgh/4532090&quot;,&quot;user_id&quot;:6811713}}" data-hydro-click-hmac="a92d4227f6b94d5063ad1baa1d13aab962d88e572d5ae736ee1751c02b5286c0" data-ga-click="Gist, download zip, location:gist overview" data-targets="action-list.items" data-item-id="download_from_gist_options" role="none" data-view-component="true" class="ActionListItem">
+    
+    
+    <a tabindex="-1" id="item-04f5abdd-bf02-438a-a6f6-3c2d39749961" href="/ralgh/4532090/archive/2d5bbda5100d973c7954e154ed52dd900e8e2e66.zip" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+        <span class="ActionListItem-visual ActionListItem-visual--leading">
+          
+        </span>
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Download ZIP
+</span>      
+</a>
+  
+</li>
+        
+        <li data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:4532090,&quot;originating_url&quot;:&quot;https://gist.github.com/ralgh/4532090&quot;,&quot;user_id&quot;:6811713}}" data-hydro-click-hmac="2f40dd28502c92a0e3f0438b32e13f374b375157e88525cac4c6d205f91f8efc" data-ga-click="Repository, click star button, action:gists/gists#show; text:Star" data-targets="action-list.items" data-item-id="star_from_gist_options" role="none" data-view-component="true" class="ActionListItem">
+    <!-- '"` --><!-- </textarea></xmp> --><form role="none" action="/ralgh/4532090/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JtQhDo-0kI3GPVkf4TrvsGMieI9mbYdMa8UTIxVElEJGbfsyQ7Fmw6ZtEabxekBJF-wO51P6k5gkhNTwv3zJog" autocomplete="off">
+        <input type="hidden" data-list-item-input="true" data-view-component="true">
+    
+    
+    <button tabindex="-1" id="item-12c6787a-97b4-4476-8762-02962f6c0c8b" type="submit" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+        <span class="ActionListItem-visual ActionListItem-visual--leading">
+          
+        </span>
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Star
+</span>      
+</button>
+</form>  
+</li>
+        <li data-targets="action-list.items" data-item-id="fork_from_gist_options" role="none" data-view-component="true" class="ActionListItem">
+    <!-- '"` --><!-- </textarea></xmp> --><form role="none" action="/ralgh/4532090/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="FVdUTfUbUYsesccSoTfQq67IYq5f7LxV58AL8fasZZGEx5q-d_P8YUR78R6GyXXSk3I2rKwoFZsiVxANueSCVw" autocomplete="off">
+        <input type="hidden" data-list-item-input="true" data-view-component="true">
+    
+    
+    <button tabindex="-1" id="item-90030805-2c60-4bd8-80e0-379a330529ac" type="submit" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+        <span class="ActionListItem-visual ActionListItem-visual--leading">
+          
+        </span>
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Fork
+</span>      
+</button>
+</form>  
+</li>
+</ul>    
+</div></action-list>
+
+
+</div>
+      
+</div></anchored-position>  </focus-group>
+</action-menu>  </div>
+  <ul class="d-md-flex d-none pagehead-actions float-none" data-al="5">
+
+
+      <li>
+          <div data-view-component="true" class="js-toggler-container starring-container">
+    <!-- '"` --><!-- </textarea></xmp> --><form class="starred js-social-form" data-turbo="false" action="/ralgh/4532090/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MobqRREBhRN6xghBvQcQ6htLklnWi0i4kUPSDXV0zfZWNAjlmXaImfcLvxKuLsCVA6Q22MBKxmGJ-EIR-0FZ2g">
+      <input type="hidden" name="context" value="gist">
+      <button id="gist-unstar-button" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:4532090,&quot;originating_url&quot;:&quot;https://gist.github.com/ralgh/4532090&quot;,&quot;user_id&quot;:6811713}}" data-hydro-click-hmac="2f40dd28502c92a0e3f0438b32e13f374b375157e88525cac4c6d205f91f8efc" data-ga-click="Repository, click star button, action:gists/gists#show; text:Star" aria-label="Unstar this gist (1 stars)" type="submit" data-view-component="true" class="btn-with-count js-toggler-target Button--secondary Button--small Button" aria-describedby="tooltip-84d350da-6255-4ea1-bc80-dfd0e418a1ac">  <span class="Button-content">
+      <span class="Button-visual Button-leadingVisual">
+        
+      </span>
+    <span class="Button-label">Unstar</span>
+      <span class="Button-visual Button-trailingVisual">
+          
+          <span class="sr-only">(<span title="1" data-view-component="true" class="Counter">1</span>)</span>
+      </span>
+  </span>
+</button><tool-tip id="tooltip-84d350da-6255-4ea1-bc80-dfd0e418a1ac" for="gist-unstar-button" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute" role="tooltip">Unstar this gist</tool-tip>
+</form>
+    <!-- '"` --><!-- </textarea></xmp> --><form class="unstarred js-social-form" data-turbo="false" action="/ralgh/4532090/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="h79V3Izq8ZmFsa-7-x3vjs6p11YcokAx1saCx4uL5B_nBo_gQO8H1-Xh5wLrXUB3umehPik1VOWZh0UUIbO5_w">
+      <input type="hidden" name="context" value="gist">
+      <button id="gist-star-button" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:4532090,&quot;originating_url&quot;:&quot;https://gist.github.com/ralgh/4532090&quot;,&quot;user_id&quot;:6811713}}" data-hydro-click-hmac="2f40dd28502c92a0e3f0438b32e13f374b375157e88525cac4c6d205f91f8efc" data-ga-click="Repository, click star button, action:gists/gists#show; text:Star" aria-label="Star this gist" type="submit" data-view-component="true" class="btn-with-count js-toggler-target Button--secondary Button--small Button" aria-describedby="tooltip-44a6d9d1-393a-4d57-b163-df48ea82283c">  <span class="Button-content">
+      <span class="Button-visual Button-leadingVisual">
+        
+      </span>
+    <span class="Button-label">Star</span>
+      <span class="Button-visual Button-trailingVisual">
+          
+          <span class="sr-only">(<span title="1" data-view-component="true" class="Counter">1</span>)</span>
+      </span>
+  </span>
+</button><tool-tip id="tooltip-44a6d9d1-393a-4d57-b163-df48ea82283c" for="gist-star-button" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute" role="tooltip">Star this gist</tool-tip>
+</form></div>
+      </li>
+        <li>
+            <!-- '"` --><!-- </textarea></xmp> --><form id="fork_form" data-turbo="false" action="/ralgh/4532090/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="d2eV3xVt9gLej88LuUetoKNMVDxvo_e2HXYkwHpEbdvm91ssl4Vb6IRF-QeeuQjZnvYAPpxnXnjY4T88NQyKHQ">
+    <button id="gist-fork-button" aria-label="Fork this gist" type="submit" data-view-component="true" class="btn-with-count Button--secondary Button--small Button" aria-describedby="tooltip-064c1329-33aa-4dc1-85cf-12867f9c2d8a">  <span class="Button-content">
+      <span class="Button-visual Button-leadingVisual">
+        
+      </span>
+    <span class="Button-label">Fork</span>
+      <span class="Button-visual Button-trailingVisual">
+          
+          <span class="sr-only">(<span title="0" data-view-component="true" class="Counter">0</span>)</span>
+      </span>
+  </span>
+</button><tool-tip id="tooltip-064c1329-33aa-4dc1-85cf-12867f9c2d8a" for="gist-fork-button" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute" role="tooltip">Fork this gist</tool-tip>
+</form>
+        </li>
+  </ul>
+</div>
+
+  <ul class="d-flex d-md-none tmp-px-3 mb-2 pagehead-actions float-none" data-al="6">
+    <li>
+      
+<div data-view-component="true" class="flex-items-center d-inline-flex">
+    <select-panel data-menu-input="gist-share-url-sized-down" id="select-panel-0992b609-e0b9-4635-9ff8-0b10a26c6553" anchor-align="start" anchor-side="outside-bottom" data-select-variant="single" data-fetch-strategy="local" data-open-on-load="false" data-dynamic-label="true" data-view-component="true" class="flex-shrink-0" data-catalyst="">
+  <dialog-helper>
+    <button id="select-panel-0992b609-e0b9-4635-9ff8-0b10a26c6553-button" aria-controls="select-panel-0992b609-e0b9-4635-9ff8-0b10a26c6553-dialog" aria-haspopup="dialog" aria-expanded="false" type="button" data-view-component="true" class="rounded-right-0 border-right-0 Button--secondary Button--small Button">  <span class="Button-content">
+    <span class="Button-label"><span class="color-fg-muted"> </span><span>
+           Embed
+</span></span>
+  </span>
+    <span class="Button-visual Button-trailingAction">
+      
+    </span>
+</button>
+
+    <dialog id="select-panel-0992b609-e0b9-4635-9ff8-0b10a26c6553-dialog" aria-labelledby="select-panel-0992b609-e0b9-4635-9ff8-0b10a26c6553-dialog-title" data-target="select-panel.dialog" style="position: absolute;" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait">
+      <div data-view-component="true" class="Overlay-header">
+  <div class="Overlay-headerContentWrap">
+    <div class="Overlay-titleWrap">
+      <h1 class="Overlay-title " id="select-panel-0992b609-e0b9-4635-9ff8-0b10a26c6553-dialog-title" data-al="7">
+        Select an option
+      </h1>
+        
+    </div>
+    <div class="Overlay-actionWrap">
+      <button data-close-dialog-id="select-panel-0992b609-e0b9-4635-9ff8-0b10a26c6553-dialog" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"></button>
+    </div>
+  </div>
+  
+</div>      <div data-view-component="true" class="Overlay-body p-0">
+        <focus-group direction="vertical" mnemonics="" retain="">
+          <live-region data-target="select-panel.liveRegion"></live-region>
+          <div data-fetch-strategy="local" data-target="select-panel.list" data-view-component="true">
+            <div id="select-panel-0992b609-e0b9-4635-9ff8-0b10a26c6553-body">
+                <action-list data-catalyst="">
+  <div data-view-component="true">
+    <ul aria-label="Select an option options" id="select-panel-0992b609-e0b9-4635-9ff8-0b10a26c6553-list" role="listbox" data-view-component="true" class="ActionListWrap p-2" data-al="8">
+        <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    
+    <button value="&lt;script src=&quot;https://gist.github.com/ralgh/4532090.js&quot;&gt;&lt;/script&gt;" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;EMBED&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:4532090,&quot;originating_url&quot;:&quot;https://gist.github.com/ralgh/4532090&quot;,&quot;user_id&quot;:6811713}}" data-hydro-click-hmac="b1d14d887baa0cd47d333f2190f3003ecf8ee5a979f23b581f26addaeaab3224" id="item-b29d70be-3af4-4eea-ac63-0ff6a5c62d57" type="button" role="option" aria-selected="true" data-view-component="true" class="ActionListContent" tabindex="0">
+        <span class="ActionListItem-visual ActionListItem-action--leading">
+          
+        </span>
+      <span data-view-component="true" class="ActionListItem-descriptionWrap">
+        <span data-view-component="true" class="ActionListItem-label">
+           Embed
+</span>      <span data-view-component="true" class="ActionListItem-description">Embed this gist in your website.</span>
+</span></button>
+  
+</li>
+        <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    
+    <button value="https://gist.github.com/ralgh/4532090" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;SHARE&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:4532090,&quot;originating_url&quot;:&quot;https://gist.github.com/ralgh/4532090&quot;,&quot;user_id&quot;:6811713}}" data-hydro-click-hmac="3d9bc38a0946ad12daa581d91b602eeb5e4ed39194d3637d520e04d8b0f4e4de" id="item-e483a3fc-93d1-4fa1-ae92-a12d6463f36b" type="button" role="option" aria-selected="false" data-view-component="true" class="ActionListContent" tabindex="-1">
+        <span class="ActionListItem-visual ActionListItem-action--leading">
+          
+        </span>
+      <span data-view-component="true" class="ActionListItem-descriptionWrap">
+        <span data-view-component="true" class="ActionListItem-label">
+           Share
+</span>      <span data-view-component="true" class="ActionListItem-description">Copy sharable link for this gist.</span>
+</span></button>
+  
+</li>
+        <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    
+    <button value="https://gist.github.com/4532090.git" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;USE_HTTPS&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:4532090,&quot;originating_url&quot;:&quot;https://gist.github.com/ralgh/4532090&quot;,&quot;user_id&quot;:6811713}}" data-hydro-click-hmac="b39fd0168fa1c45789cca7ed497da62dc1e37ac9d417d801b47258aceaa1d7d1" id="item-e0ac026a-62e6-493e-b167-e3d492a16b93" type="button" role="option" aria-selected="false" data-view-component="true" class="ActionListContent" tabindex="-1">
+        <span class="ActionListItem-visual ActionListItem-action--leading">
+          
+        </span>
+      <span data-view-component="true" class="ActionListItem-descriptionWrap">
+        <span data-view-component="true" class="ActionListItem-label">
+          Clone via HTTPS
+</span>      <span data-view-component="true" class="ActionListItem-description">Clone using the web URL.</span>
+</span></button>
+  
+</li>
+        <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    
+    <button value="git@gist.github.com:4532090.git" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;USE_SSH&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:4532090,&quot;originating_url&quot;:&quot;https://gist.github.com/ralgh/4532090&quot;,&quot;user_id&quot;:6811713}}" data-hydro-click-hmac="e948a0e2e8a108d7841044942a9d008e291cae95d2d022228557a738af392d60" id="item-2cf75cdc-5839-47fb-8350-b80b04b72ab9" type="button" role="option" aria-selected="false" data-view-component="true" class="ActionListContent" tabindex="-1">
+        <span class="ActionListItem-visual ActionListItem-action--leading">
+          
+        </span>
+      <span data-view-component="true" class="ActionListItem-descriptionWrap">
+        <span data-view-component="true" class="ActionListItem-label">
+          Clone via SSH
+</span>      <span data-view-component="true" class="ActionListItem-description">Clone with an SSH key and passphrase from your GitHub settings.</span>
+</span></button>
+  
+</li>
+</ul>    
+</div></action-list>
+
+            </div>
+            
+</div>        </focus-group>
+</div>      <div data-view-component="true" class="Overlay-footer Overlay-footer--alignEnd Overlay-footer--divided">        <a target="_blank" rel="noopener noreferrer" href="https://docs.github.com/articles/which-remote-url-should-i-use">Learn more about clone URLs</a>
+</div>
+</dialog>  </dialog-helper>
+</select-panel>    <primer-text-field class="FormControl width-full FormControl--fullWidth" data-catalyst="">
+      <label for="gist-share-url-sized-down" id="label-6a604fb5-d2af-4e95-b937-73ec6afa6d4f" class="sr-only FormControl-label">
+        Clone this repository at &amp;lt;script src=&amp;quot;https://gist.github.com/ralgh/4532090.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
+</label>    
+  <div class="FormControl-input-wrap FormControl-input-wrap--small">
+    
+      <input id="gist-share-url-sized-down" aria-label="Clone this repository at &amp;lt;script src=&amp;quot;https://gist.github.com/ralgh/4532090.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;" value="&lt;script src=&quot;https://gist.github.com/ralgh/4532090.js&quot;&gt;&lt;/script&gt;" readonly="readonly" data-autoselect="true" data-target="primer-text-field.inputElement " aria-describedby="validation-6a604fb5-d2af-4e95-b937-73ec6afa6d4f" class="form-control FormControl-monospace FormControl-input FormControl-small rounded-left-0 rounded-right-0 border-right-0" type="text" name="gist-share-url-sized-down">
+</div>
+      
+    
+</primer-text-field>
+  <span data-view-component="true">
+  <clipboard-copy id="clipboard-button" aria-label="Copy" for="gist-share-url-sized-down" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;COPY_URL&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:4532090,&quot;originating_url&quot;:&quot;https://gist.github.com/ralgh/4532090&quot;,&quot;user_id&quot;:6811713}}" data-hydro-click-hmac="2eb5a1a199fabcba2068eb22fc33131542d12b41b26c35e6575248fa56cfb6d9" type="button" data-view-component="true" class="rounded-left-0 Button--secondary Button--small Button" tabindex="0" role="button">
+      
+      
+</clipboard-copy>  <div aria-live="polite" aria-atomic="true" class="sr-only" data-clipboard-copy-feedback=""></div>
+</span>
+
+</div>
+    </li>
+    <li>
+        <button href="https://desktop.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;OPEN_IN_DESKTOP&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:4532090,&quot;originating_url&quot;:&quot;https://gist.github.com/ralgh/4532090&quot;,&quot;user_id&quot;:6811713}}" data-hydro-click-hmac="bdb400d6e47811ff5bad5212d33be5cb106628ed233ce6e2514e464f0b647587" data-platforms="windows,mac" id="icon-button-97b562ae-0ea8-40f1-8b22-dad5e4aa25ee" aria-labelledby="tooltip-9c387fa1-7a0a-40cc-ba91-2e31d27a9cae" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small js-remove-unless-platform">  
+</button>
+
+
+    </li>
+  </ul>
+
+<div class="d-flex flex-md-row flex-column px-0 tmp-pr-md-3 tmp-px-lg-5">
+  <div class="flex-md-order-1 flex-order-2 flex-auto">
+    
+
+  </div>
+
+  <div class="d-md-flex d-none flex-items-center flex-md-order-2 flex-order-1" data-multiple="">
+    
+<div data-view-component="true" class="flex-items-center d-inline-flex">
+    <select-panel data-menu-input="gist-share-url-original" id="select-panel-54b9195b-a7c3-4fe1-abf9-047b46f94db9" anchor-align="start" anchor-side="outside-bottom" data-select-variant="single" data-fetch-strategy="local" data-open-on-load="false" data-dynamic-label="true" data-view-component="true" class="flex-shrink-0" data-catalyst="">
+  <dialog-helper>
+    <button id="select-panel-54b9195b-a7c3-4fe1-abf9-047b46f94db9-button" aria-controls="select-panel-54b9195b-a7c3-4fe1-abf9-047b46f94db9-dialog" aria-haspopup="dialog" aria-expanded="false" type="button" data-view-component="true" class="rounded-right-0 border-right-0 Button--secondary Button--small Button">  <span class="Button-content">
+    <span class="Button-label"><span class="color-fg-muted"> </span><span>
+           Embed
+</span></span>
+  </span>
+    <span class="Button-visual Button-trailingAction">
+      
+    </span>
+</button>
+
+    <dialog id="select-panel-54b9195b-a7c3-4fe1-abf9-047b46f94db9-dialog" aria-labelledby="select-panel-54b9195b-a7c3-4fe1-abf9-047b46f94db9-dialog-title" data-target="select-panel.dialog" style="position: absolute;" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait">
+      <div data-view-component="true" class="Overlay-header">
+  <div class="Overlay-headerContentWrap">
+    <div class="Overlay-titleWrap">
+      <h1 class="Overlay-title " id="select-panel-54b9195b-a7c3-4fe1-abf9-047b46f94db9-dialog-title" data-al="9">
+        Select an option
+      </h1>
+        
+    </div>
+    <div class="Overlay-actionWrap">
+      <button data-close-dialog-id="select-panel-54b9195b-a7c3-4fe1-abf9-047b46f94db9-dialog" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"></button>
+    </div>
+  </div>
+  
+</div>      <div data-view-component="true" class="Overlay-body p-0">
+        <focus-group direction="vertical" mnemonics="" retain="">
+          <live-region data-target="select-panel.liveRegion"></live-region>
+          <div data-fetch-strategy="local" data-target="select-panel.list" data-view-component="true">
+            <div id="select-panel-54b9195b-a7c3-4fe1-abf9-047b46f94db9-body">
+                <action-list data-catalyst="">
+  <div data-view-component="true">
+    <ul aria-label="Select an option options" id="select-panel-54b9195b-a7c3-4fe1-abf9-047b46f94db9-list" role="listbox" data-view-component="true" class="ActionListWrap p-2" data-al="10">
+        <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    
+    <button value="&lt;script src=&quot;https://gist.github.com/ralgh/4532090.js&quot;&gt;&lt;/script&gt;" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;EMBED&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:4532090,&quot;originating_url&quot;:&quot;https://gist.github.com/ralgh/4532090&quot;,&quot;user_id&quot;:6811713}}" data-hydro-click-hmac="b1d14d887baa0cd47d333f2190f3003ecf8ee5a979f23b581f26addaeaab3224" id="item-5e57b3f3-8a63-445a-aa31-9de547fbc8ca" type="button" role="option" aria-selected="true" data-view-component="true" class="ActionListContent" tabindex="0">
+        <span class="ActionListItem-visual ActionListItem-action--leading">
+          
+        </span>
+      <span data-view-component="true" class="ActionListItem-descriptionWrap">
+        <span data-view-component="true" class="ActionListItem-label">
+           Embed
+</span>      <span data-view-component="true" class="ActionListItem-description">Embed this gist in your website.</span>
+</span></button>
+  
+</li>
+        <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    
+    <button value="https://gist.github.com/ralgh/4532090" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;SHARE&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:4532090,&quot;originating_url&quot;:&quot;https://gist.github.com/ralgh/4532090&quot;,&quot;user_id&quot;:6811713}}" data-hydro-click-hmac="3d9bc38a0946ad12daa581d91b602eeb5e4ed39194d3637d520e04d8b0f4e4de" id="item-580f9d86-9214-4646-93ee-692f53db8cf4" type="button" role="option" aria-selected="false" data-view-component="true" class="ActionListContent" tabindex="-1">
+        <span class="ActionListItem-visual ActionListItem-action--leading">
+          
+        </span>
+      <span data-view-component="true" class="ActionListItem-descriptionWrap">
+        <span data-view-component="true" class="ActionListItem-label">
+           Share
+</span>      <span data-view-component="true" class="ActionListItem-description">Copy sharable link for this gist.</span>
+</span></button>
+  
+</li>
+        <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    
+    <button value="https://gist.github.com/4532090.git" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;USE_HTTPS&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:4532090,&quot;originating_url&quot;:&quot;https://gist.github.com/ralgh/4532090&quot;,&quot;user_id&quot;:6811713}}" data-hydro-click-hmac="b39fd0168fa1c45789cca7ed497da62dc1e37ac9d417d801b47258aceaa1d7d1" id="item-951ce708-e8f3-4cde-8cc0-4fb38bf67361" type="button" role="option" aria-selected="false" data-view-component="true" class="ActionListContent" tabindex="-1">
+        <span class="ActionListItem-visual ActionListItem-action--leading">
+          
+        </span>
+      <span data-view-component="true" class="ActionListItem-descriptionWrap">
+        <span data-view-component="true" class="ActionListItem-label">
+          Clone via HTTPS
+</span>      <span data-view-component="true" class="ActionListItem-description">Clone using the web URL.</span>
+</span></button>
+  
+</li>
+        <li data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    
+    <button value="git@gist.github.com:4532090.git" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;USE_SSH&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:4532090,&quot;originating_url&quot;:&quot;https://gist.github.com/ralgh/4532090&quot;,&quot;user_id&quot;:6811713}}" data-hydro-click-hmac="e948a0e2e8a108d7841044942a9d008e291cae95d2d022228557a738af392d60" id="item-6833bfa3-769f-4d6c-bb79-ee89f82f1c22" type="button" role="option" aria-selected="false" data-view-component="true" class="ActionListContent" tabindex="-1">
+        <span class="ActionListItem-visual ActionListItem-action--leading">
+          
+        </span>
+      <span data-view-component="true" class="ActionListItem-descriptionWrap">
+        <span data-view-component="true" class="ActionListItem-label">
+          Clone via SSH
+</span>      <span data-view-component="true" class="ActionListItem-description">Clone with an SSH key and passphrase from your GitHub settings.</span>
+</span></button>
+  
+</li>
+</ul>    
+</div></action-list>
+
+            </div>
+            
+</div>        </focus-group>
+</div>      <div data-view-component="true" class="Overlay-footer Overlay-footer--alignEnd Overlay-footer--divided">        <a target="_blank" rel="noopener noreferrer" href="https://docs.github.com/articles/which-remote-url-should-i-use">Learn more about clone URLs</a>
+</div>
+</dialog>  </dialog-helper>
+</select-panel>    <primer-text-field class="FormControl width-full FormControl--fullWidth" data-catalyst="">
+      <label for="gist-share-url-original" id="label-2f7c9095-47ba-4c3c-b80e-d84415d5b705" class="sr-only FormControl-label">
+        Clone this repository at &amp;lt;script src=&amp;quot;https://gist.github.com/ralgh/4532090.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
+</label>    
+  <div class="FormControl-input-wrap FormControl-input-wrap--small">
+    
+      <input id="gist-share-url-original" aria-label="Clone this repository at &amp;lt;script src=&amp;quot;https://gist.github.com/ralgh/4532090.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;" value="&lt;script src=&quot;https://gist.github.com/ralgh/4532090.js&quot;&gt;&lt;/script&gt;" readonly="readonly" data-autoselect="true" data-target="primer-text-field.inputElement " aria-describedby="validation-2f7c9095-47ba-4c3c-b80e-d84415d5b705" class="form-control FormControl-monospace FormControl-input FormControl-small rounded-left-0 rounded-right-0 border-right-0" type="text" name="gist-share-url-original">
+</div>
+      
+    
+</primer-text-field>
+  <span data-view-component="true">
+  <clipboard-copy id="clipboard-button" aria-label="Copy" for="gist-share-url-original" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;COPY_URL&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:4532090,&quot;originating_url&quot;:&quot;https://gist.github.com/ralgh/4532090&quot;,&quot;user_id&quot;:6811713}}" data-hydro-click-hmac="2eb5a1a199fabcba2068eb22fc33131542d12b41b26c35e6575248fa56cfb6d9" type="button" data-view-component="true" class="rounded-left-0 Button--secondary Button--small Button" tabindex="0" role="button">
+      
+      
+</clipboard-copy>  <div aria-live="polite" aria-atomic="true" class="sr-only" data-clipboard-copy-feedback=""></div>
+</span>
+
+</div>
+
+    <div class="ml-2">
+        <button href="https://desktop.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;OPEN_IN_DESKTOP&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:4532090,&quot;originating_url&quot;:&quot;https://gist.github.com/ralgh/4532090&quot;,&quot;user_id&quot;:6811713}}" data-hydro-click-hmac="bdb400d6e47811ff5bad5212d33be5cb106628ed233ce6e2514e464f0b647587" data-platforms="windows,mac" id="icon-button-26a8757e-ac81-4a9a-9673-e7f506ad8ce4" aria-labelledby="tooltip-fdf7fb2f-d696-4736-8e53-f3a9a6fc09cc" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small js-remove-unless-platform">  
+</button>
+
+
+    </div>
+
+    <div class="ml-2">
+      <a class="btn btn-sm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;DOWNLOAD_ZIP&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:4532090,&quot;originating_url&quot;:&quot;https://gist.github.com/ralgh/4532090&quot;,&quot;user_id&quot;:6811713}}" data-hydro-click-hmac="a92d4227f6b94d5063ad1baa1d13aab962d88e572d5ae736ee1751c02b5286c0" data-ga-click="Gist, download zip, location:gist overview" href="/ralgh/4532090/archive/2d5bbda5100d973c7954e154ed52dd900e8e2e66.zip">Download ZIP</a>
+    </div>
+  </div>
+</div>
+
+
+  </div>
+</div>
+
+<div class="container-lg px-3">
+  <div class="repository-content gist-content">
+    
+  <div>
+      <div itemprop="about" data-al="11">
+    Starting this as a collection of useful data-uri strings. 
+  </div>
+
+        
+<div class="js-gist-file-update-container js-task-list-container">
+      <div id="file-gistfile1-html" class="file my-2">
+      <div class="file-header d-flex flex-md-items-center flex-items-start">
+        <div class="file-actions flex-order-2 pt-0">
+          <a href="/ralgh/4532090/raw/2d5bbda5100d973c7954e154ed52dd900e8e2e66/gistfile1.html" data-view-component="true" class="Button--secondary Button--small Button">  <span class="Button-content">
+    <span class="Button-label">Raw</span>
+  </span>
+</a>
+
+        </div>
+        <div class="file-info tmp-pr-4 d-flex flex-md-items-center flex-items-start flex-order-1 flex-auto">
+          <span class="mr-1">
+            
+          </span>
+          <a class="wb-break-all" href="#file-gistfile1-html">
+            <strong class="user-select-contain gist-blob-name css-truncate-target">
+              gistfile1.html
+            </strong>
+          </a>
+        </div>
+      </div>
+    
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-html  gist-border-0" style="overflow: auto" tabindex="0" role="region" aria-label="gistfile1.html content, created by ralgh on 07:20AM on January 15, 2013.">
+
+        
+<div class="js-blob-code-container blob-code-content">
+
+  
+
+
+  <table data-hpc="" class="highlight tab-size js-file-line-container" data-tab-size="4" data-paste-markdown-skip="" data-tagsearch-path="gistfile1.html" data-al="12">
+        <tbody><tr>
+          <td id="file-gistfile1-html-L1" class="blob-num js-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="file-gistfile1-html-LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">&lt;!DOCTYPE html<span class="pl-kos">&gt;</span></span></td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L2" class="blob-num js-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="file-gistfile1-html-LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-kos">&lt;</span><span class="pl-ent">html</span> <span class="pl-c1">lang</span>="<span class="pl-s">en</span>"<span class="pl-kos">&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L3" class="blob-num js-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="file-gistfile1-html-LC3" class="blob-code blob-code-inner js-file-line">  <span class="pl-kos">&lt;</span><span class="pl-ent">head</span><span class="pl-kos">&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L4" class="blob-num js-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="file-gistfile1-html-LC4" class="blob-code blob-code-inner js-file-line">  <span class="pl-kos">&lt;</span><span class="pl-ent">title</span><span class="pl-kos">&gt;</span>Tiny data-uri image strings<span class="pl-kos">&lt;/</span><span class="pl-ent">title</span><span class="pl-kos">&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L5" class="blob-num js-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="file-gistfile1-html-LC5" class="blob-code blob-code-inner js-file-line">  <span class="pl-kos">&lt;</span><span class="pl-ent">style</span><span class="pl-kos">&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L6" class="blob-num js-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="file-gistfile1-html-LC6" class="blob-code blob-code-inner js-file-line">  .<span class="pl-c1">image-sample</span>{</td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L7" class="blob-num js-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="file-gistfile1-html-LC7" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1">border</span><span class="pl-kos">:</span> <span class="pl-c1">1<span class="pl-smi">px</span></span> solid;</td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L8" class="blob-num js-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="file-gistfile1-html-LC8" class="blob-code blob-code-inner js-file-line">  }</td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L9" class="blob-num js-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="file-gistfile1-html-LC9" class="blob-code blob-code-inner js-file-line">  <span class="pl-kos">&lt;/</span><span class="pl-ent">style</span><span class="pl-kos">&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L10" class="blob-num js-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="file-gistfile1-html-LC10" class="blob-code blob-code-inner js-file-line">  <span class="pl-kos">&lt;/</span><span class="pl-ent">head</span><span class="pl-kos">&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L11" class="blob-num js-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="file-gistfile1-html-LC11" class="blob-code blob-code-inner js-file-line">  <span class="pl-kos">&lt;</span><span class="pl-ent">body</span><span class="pl-kos">&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L12" class="blob-num js-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="file-gistfile1-html-LC12" class="blob-code blob-code-inner js-file-line">  <span class="pl-kos">&lt;</span><span class="pl-ent">h1</span><span class="pl-kos">&gt;</span>Tiny data-uri image strings<span class="pl-kos">&lt;/</span><span class="pl-ent">h1</span><span class="pl-kos">&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L13" class="blob-num js-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="file-gistfile1-html-LC13" class="blob-code blob-code-inner js-file-line">  </td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L14" class="blob-num js-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="file-gistfile1-html-LC14" class="blob-code blob-code-inner js-file-line">  <span class="pl-kos">&lt;</span><span class="pl-ent">h2</span><span class="pl-kos">&gt;</span>Smallest Transparent GIF image data-uri<span class="pl-kos">&lt;/</span><span class="pl-ent">h2</span><span class="pl-kos">&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L15" class="blob-num js-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="file-gistfile1-html-LC15" class="blob-code blob-code-inner js-file-line">  <span class="pl-kos">&lt;</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span>Credit for this image goes to <span class="pl-kos">&lt;</span><span class="pl-ent">a</span> <span class="pl-c1">href</span>="<span class="pl-s">http://probablyprogramming.com/2009/03/15/the-tiniest-gif-ever</span>"<span class="pl-kos">&gt;</span>this article<span class="pl-kos">&lt;/</span><span class="pl-ent">a</span><span class="pl-kos">&gt;</span>.<span class="pl-kos">&lt;/</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L16" class="blob-num js-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="file-gistfile1-html-LC16" class="blob-code blob-code-inner js-file-line">  <span class="pl-kos">&lt;</span><span class="pl-ent">pre</span><span class="pl-kos">&gt;</span>data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==<span class="pl-kos">&lt;/</span><span class="pl-ent">pre</span><span class="pl-kos">&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L17" class="blob-num js-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="file-gistfile1-html-LC17" class="blob-code blob-code-inner js-file-line">  <span class="pl-c">&lt;!-- credit: http://probablyprogramming.com/2009/03/15/the-tiniest-gif-ever --&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L18" class="blob-num js-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="file-gistfile1-html-LC18" class="blob-code blob-code-inner js-file-line">  <span class="pl-kos">&lt;</span><span class="pl-ent">img</span> <span class="pl-c1">src</span>="<span class="pl-s">data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==</span>" <span class="pl-c1">alt</span>="<span class="pl-s">Smallest Transparent GIF data-uri</span>" <span class="pl-c1">class</span>="<span class="pl-s">image-sample</span>" <span class="pl-c1">height</span>="<span class="pl-s">100</span>" <span class="pl-c1">width</span>="<span class="pl-s">100</span>" <span class="pl-kos">/&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L19" class="blob-num js-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="file-gistfile1-html-LC19" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L20" class="blob-num js-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="file-gistfile1-html-LC20" class="blob-code blob-code-inner js-file-line">  <span class="pl-kos">&lt;</span><span class="pl-ent">h2</span><span class="pl-kos">&gt;</span>Smallest Transparent PNG<span class="pl-kos">&lt;/</span><span class="pl-ent">h2</span><span class="pl-kos">&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L21" class="blob-num js-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="file-gistfile1-html-LC21" class="blob-code blob-code-inner js-file-line">  <span class="pl-kos">&lt;</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span>Credit <span class="pl-kos">&lt;</span><span class="pl-ent">a</span> <span class="pl-c1">href</span>="<span class="pl-s">https://gist.github.com/3063613</span>"<span class="pl-kos">&gt;</span>this gist<span class="pl-kos">&lt;/</span><span class="pl-ent">a</span><span class="pl-kos">&gt;</span><span class="pl-kos">&lt;/</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L22" class="blob-num js-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="file-gistfile1-html-LC22" class="blob-code blob-code-inner js-file-line">  <span class="pl-kos">&lt;</span><span class="pl-ent">pre</span><span class="pl-kos">&gt;</span>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjYAAAAAIAAeIhvDMAAAAASUVORK5CYII%3D<span class="pl-kos">&lt;/</span><span class="pl-ent">pre</span><span class="pl-kos">&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L23" class="blob-num js-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="file-gistfile1-html-LC23" class="blob-code blob-code-inner js-file-line">  <span class="pl-kos">&lt;</span><span class="pl-ent">img</span> <span class="pl-c1">src</span>="<span class="pl-s">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjYAAAAAIAAeIhvDMAAAAASUVORK5CYII%3D</span>" <span class="pl-c1">alt</span>="<span class="pl-s">Smallest Transparent PNG data-uri</span>" <span class="pl-c1">class</span>="<span class="pl-s">image-sample</span>" <span class="pl-c1">height</span>="<span class="pl-s">100</span>" <span class="pl-c1">width</span>="<span class="pl-s">100</span>" <span class="pl-kos">/&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L24" class="blob-num js-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="file-gistfile1-html-LC24" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L25" class="blob-num js-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="file-gistfile1-html-LC25" class="blob-code blob-code-inner js-file-line">	</td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L26" class="blob-num js-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="file-gistfile1-html-LC26" class="blob-code blob-code-inner js-file-line"><span class="pl-kos">&lt;/</span><span class="pl-ent">body</span><span class="pl-kos">&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-gistfile1-html-L27" class="blob-num js-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="file-gistfile1-html-LC27" class="blob-code blob-code-inner js-file-line"><span class="pl-kos">&lt;/</span><span class="pl-ent">html</span><span class="pl-kos">&gt;</span></td>
+        </tr>
+  </tbody></table>
+</div>
+
+
+    </div>
+
+  </div>
+
+</div>
+
+
+        <a name="comments"></a>
+        <div class="js-quote-selection-container" data-quote-markdown=".js-comment-body">
+          <div class="js-discussion js-socket-channel" data-channel="eyJjIjoibWFya2VkLWFzLXJlYWQ6NjgxMTcxMyIsInQiOjE3NzIwNjEzNDZ9--e27c27f1156e291630be85cb01968515c58dc100873fb861413aa1a7e207d806" data-channel-target="MDQ6R2lzdDQ1MzIwOTA=">
+            <div class="tmp-ml-md-6 tmp-pl-md-3 ml-0 pl-0">
+              
+
+
+
+<!-- Rendered timeline since 2017-09-07 18:04:19 -->
+<div id="partial-timeline-marker" class="js-timeline-marker js-updatable-content" data-last-modified="Fri, 08 Sep 2017 01:04:19 GMT">
+</div>
+
+            </div>
+
+            <div class="discussion-timeline-actions">
+                <div class="pl-0 tmp-pl-md-6 tmp-ml-md-3 ml-0 js-comment-container">
+  <div class="d-md-block d-none">
+    <span class="timeline-comment-avatar "><a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/drennapete/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/drennapete" aria-keyshortcuts="Alt+ArrowUp"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/6811713?s=80&amp;v=4" width="40" height="40" alt="@drennapete"></a></span>
+  </div>
+
+  <!-- '"` --><!-- </textarea></xmp> --><form class="js-new-comment-form js-needs-timeline-marker-header" data-turbo="false" action="/ralgh/4532090/comments" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ho4NG9wcoRx3QtpQeWcqE0usSs4JfXMZMTzBrB3jLWm8Y_p30Mu-C6X6_sITFqiYN3TnZgzQdPsRRkWzomz-dg">
+    <div class="tmp-my-3">
+      
+
+<label for="new_comment_field" data-view-component="true" class="sr-only position-absolute">Comment</label>
+<tab-container class="js-previewable-comment-form write-selected Box CommentBox" data-preview-url="/preview?markdown_unsupported=false&amp;subject=4532090&amp;subject_type=Gist">
+  <input type="hidden" value="vc9kJ7DVZyBbQEXjk_s261kTfctCS1_nvU-ljQXVMTrQheHSPFvtPrRg0l9xiR1Kl-uQXLJBdD1Db68L2tyeWw" data-csrf="true" class="js-data-preview-url-csrf">
+  <div class="tabnav CommentBox-header width-full">
+      <div class="tabnav-tabs" role="tablist" aria-label="Add a comment">
+        <button type="button" class="btn-link tabnav-tab write-tab js-write-tab" role="tab" id="write_tab_previewable-comment-form-component-991b07d6-519f-4689-8f27-a9a436301c5b" data-analytics-event="{&quot;category&quot;:&quot;comment_box&quot;,&quot;action&quot;:&quot;WRITE_TAB&quot;,&quot;label&quot;:null}" aria-selected="true" tabindex="0">
+          Write
+        </button>
+        <button type="button" class="btn-link tabnav-tab preview-tab js-preview-tab" role="tab" id="preview_tab_previewable-comment-form-component-991b07d6-519f-4689-8f27-a9a436301c5b" data-analytics-event="{&quot;category&quot;:&quot;comment_box&quot;,&quot;action&quot;:&quot;PREVIEW_TAB&quot;,&quot;label&quot;:null}" aria-selected="false" tabindex="-1">
+          Preview
+        </button>
+      </div>
+    <markdown-toolbar role="presentation" for="new_comment_field" data-no-focus="true" data-view-component="true" class="CommentBox-toolbar">
+  <action-bar role="toolbar" data-view-component="true" class="ActionBar overflow-visible" data-catalyst="" style="overflow: visible;">
+  <div data-target="action-bar.itemContainer" data-view-component="true" class="ActionBar-item-container">
+      <div data-targets="action-bar.items" data-view-component="true" class="ActionBar-item" style="visibility: visible;"><button id="action-bar-b430a530-de87-4c10-9c12-d5e50f4272e1" data-md-button="header-3" data-analytics-event="{&quot;category&quot;:&quot;comment_box&quot;,&quot;action&quot;:&quot;HEADING&quot;,&quot;label&quot;:null}" aria-labelledby="tooltip-ce4e7c91-8349-46c2-b44c-ad68149f1f34" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium" tabindex="0">  
+</button>
+</div>
+      <div data-targets="action-bar.items" data-view-component="true" class="ActionBar-item" style="visibility: visible;"><button id="action-bar-d379f5e5-4318-42e2-a0a7-e83c4eeeb1b0" data-md-button="bold" data-hotkey-scope="new_comment_field" data-hotkey="Control+b" data-analytics-event="{&quot;category&quot;:&quot;comment_box&quot;,&quot;action&quot;:&quot;BOLD&quot;,&quot;label&quot;:null}" aria-labelledby="tooltip-26013eea-3c1c-4de0-870a-a140e619e5bd" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium" tabindex="-1">  
+</button>
+</div>
+      <div data-targets="action-bar.items" data-view-component="true" class="ActionBar-item" style="visibility: visible;"><button id="action-bar-efe5e9ee-ce00-425c-912b-6ff9d91f2cd3" data-md-button="italic" data-hotkey-scope="new_comment_field" data-hotkey="Control+i" data-analytics-event="{&quot;category&quot;:&quot;comment_box&quot;,&quot;action&quot;:&quot;ITALIC&quot;,&quot;label&quot;:null}" aria-labelledby="tooltip-956b1085-f2fa-4bd7-b12b-36caa7cb8df4" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium" tabindex="-1">  
+</button>
+</div>
+      <div data-targets="action-bar.items" data-view-component="true" class="ActionBar-item" style="visibility: visible;"><button id="action-bar-5661d263-dd26-4bcd-9bdd-8fb2ccb34934" data-md-button="quote" data-hotkey-scope="new_comment_field" data-hotkey="Control+Shift+&gt;" data-analytics-event="{&quot;category&quot;:&quot;comment_box&quot;,&quot;action&quot;:&quot;QUOTE&quot;,&quot;label&quot;:null}" aria-labelledby="tooltip-86907eda-e4ac-41ec-bda2-42eeeace5fd8" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium" tabindex="-1">  
+</button>
+</div>
+      <div data-targets="action-bar.items" data-view-component="true" class="ActionBar-item" style="visibility: visible;"><button id="action-bar-01af1492-a63f-4ddc-8795-5a6a04713304" data-md-button="code" data-hotkey-scope="new_comment_field" data-hotkey="Control+e" data-analytics-event="{&quot;category&quot;:&quot;comment_box&quot;,&quot;action&quot;:&quot;CODE&quot;,&quot;label&quot;:null}" aria-labelledby="tooltip-6f32380f-3951-4ec7-a303-96175d88a312" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium" tabindex="-1">  
+</button>
+</div>
+      <div data-targets="action-bar.items" data-view-component="true" class="ActionBar-item" style="visibility: visible;"><button id="action-bar-1436bd33-85f3-4b6c-8568-46f70f74c531" data-md-button="link" data-hotkey-scope="new_comment_field" data-hotkey="Control+k" data-analytics-event="{&quot;category&quot;:&quot;comment_box&quot;,&quot;action&quot;:&quot;LINK&quot;,&quot;label&quot;:null}" aria-labelledby="tooltip-93e97be7-9ce8-44a2-bf91-4e398ce8fdbd" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium" tabindex="-1">  
+</button>
+</div>
+      
+      <div data-targets="action-bar.items" data-view-component="true" class="ActionBar-item" style="visibility: visible;"><button id="action-bar-10d64eb4-95ed-4e8e-aa96-e6bc844837ae" data-md-button="ordered-list" data-hotkey-scope="new_comment_field" data-hotkey="Control+Shift+&amp;" data-analytics-event="{&quot;category&quot;:&quot;comment_box&quot;,&quot;action&quot;:&quot;ORDERED_LIST&quot;,&quot;label&quot;:null}" aria-labelledby="tooltip-68c7a770-1328-405f-8cb8-df98d5896787" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium" tabindex="-1">  
+</button>
+</div>
+      <div data-targets="action-bar.items" data-view-component="true" class="ActionBar-item" style="visibility: visible;"><button id="action-bar-2de14a36-ac53-4360-93ec-b415605ca103" data-md-button="unordered-list" data-hotkey-scope="new_comment_field" data-hotkey="Control+Shift+*" data-analytics-event="{&quot;category&quot;:&quot;comment_box&quot;,&quot;action&quot;:&quot;UNORDERED_LIST&quot;,&quot;label&quot;:null}" aria-labelledby="tooltip-a3865376-9d08-47c9-8916-b4f4c9937c92" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium" tabindex="-1">  
+</button>
+</div>
+      <div data-targets="action-bar.items" data-view-component="true" class="ActionBar-item" style="visibility: visible;"><button id="action-bar-bc84e7e4-e0fc-468f-aad2-1b54b0f8b4d6" data-md-button="task-list" data-hotkey-scope="new_comment_field" data-hotkey="Control+Shift+L" data-analytics-event="{&quot;category&quot;:&quot;comment_box&quot;,&quot;action&quot;:&quot;TASK_LIST&quot;,&quot;label&quot;:null}" aria-labelledby="tooltip-8a00016e-d036-45f6-a828-863fab312f64" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium" tabindex="-1">  
+</button>
+</div>
+      
+      <div data-targets="action-bar.items" data-view-component="true" class="ActionBar-item" style="visibility: visible;"><button id="action-bar-e1090ace-4f9f-4802-a47d-d3511fe1022e" data-analytics-event="{&quot;category&quot;:&quot;comment_box&quot;,&quot;action&quot;:&quot;ATTACH_FILES&quot;,&quot;label&quot;:null}" data-file-attachment-for="fc-new_comment_field" aria-labelledby="tooltip-6498878d-f8bb-454d-92c2-afa753e589e2" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium" tabindex="-1">  
+</button>
+</div>
+      <div data-targets="action-bar.items" data-view-component="true" class="ActionBar-item" style="visibility: visible;"><button id="action-bar-098c2c87-9be3-4f33-a66c-bf467b1287c1" data-md-button="mention" data-analytics-event="{&quot;category&quot;:&quot;comment_box&quot;,&quot;action&quot;:&quot;MENTION&quot;,&quot;label&quot;:null}" aria-labelledby="tooltip-01a993b4-7b48-4e25-8988-9310edf5b3f7" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium" tabindex="-1">  
+</button>
+</div>
+      <div data-targets="action-bar.items" data-view-component="true" class="ActionBar-item" style="visibility: visible;"><button id="action-bar-bb664811-3ae2-4218-90d7-72c3cdd1a49e" data-md-button="ref" data-analytics-event="{&quot;category&quot;:&quot;comment_box&quot;,&quot;action&quot;:&quot;REFERENCE&quot;,&quot;label&quot;:null}" aria-labelledby="tooltip-a7a0fa17-c7f0-4186-99c8-01112d172318" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium" tabindex="-1">  
+</button>
+</div>
+</div>    </action-bar></markdown-toolbar>
+
+<dialog-helper>
+  <dialog id="saved_replies_menu_new_comment_field-dialog" aria-modal="true" aria-labelledby="saved_replies_menu_new_comment_field-dialog-title" aria-describedby="saved_replies_menu_new_comment_field-dialog-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-medium Overlay--motion-scaleFade Overlay--placement-bottom-whenNarrow js-saved-reply-container Overlay--disableScroll">
+    <div data-view-component="true" class="Overlay-header">
+  <div class="Overlay-headerContentWrap">
+    <div class="Overlay-titleWrap">
+      <h1 class="Overlay-title " id="saved_replies_menu_new_comment_field-dialog-title" data-al="13">
+        Select a reply
+      </h1>
+        
+    </div>
+    <div class="Overlay-actionWrap">
+      <button data-close-dialog-id="saved_replies_menu_new_comment_field-dialog" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"></button>
+    </div>
+  </div>
+  
+</div>
+      <scrollable-region data-labelled-by="saved_replies_menu_new_comment_field-dialog-title" data-catalyst="" style="overflow: auto;">
+        <div data-view-component="true" class="Overlay-body">    <include-fragment aria-label="Loading" role="menuitem" loading="lazy" src="/settings/replies?context=none" data-nonce="v2:ef6d0787-a53e-feff-57a8-5fcfa82a9806" data-view-component="true" class="js-saved-reply-include-fragment">
+  
+      <span data-view-component="true">
+      <span class="sr-only">Loading</span>
+</span>
+
+  
+</include-fragment></div>
+      </scrollable-region>
+      <div data-view-component="true" class="Overlay-footer Overlay-footer--alignEnd Overlay-footer--divided">    <a href="/settings/replies?return_to=1" data-view-component="true" class="Button--invisible Button--medium Button Button--fullWidth">  <span class="Button-content Button-content--alignStart">
+      <span class="Button-visual Button-leadingVisual">
+        
+      </span>
+    <span class="Button-label">Create a new saved reply</span>
+  </span>
+</a>
+</div>
+</dialog></dialog-helper>
+
+
+  </div>
+
+  
+
+  <file-attachment class="js-upload-markdown-image is-default" input="fc-new_comment_field" role="tabpanel" aria-labelledby="write_tab_previewable-comment-form-component-991b07d6-519f-4689-8f27-a9a436301c5b" data-tab-container-no-tabstop="true" data-subject-type="Gist" data-subject-param="4532090" data-upload-container-type="gist" data-upload-container-id="4532090" data-upload-policy-url="/upload/policies/assets"><input type="hidden" value="omvCIYnOM53cTtc8U3lEG54WYmmtXbfIyR7uCcaTGlPqqzG1-WJx2axwFIO-hr5ngZgYqxjkOnQoeFaBT6Vg8Q" data-csrf="true" class="js-data-upload-policy-url-csrf">
+    <div class="js-write-bucket position-relative">
+
+      <text-expander keys=": @" data-mention-url="/ralgh/4532090/suggestions?target=user" data-emoji-url="/ralgh/4532090/suggestions">
+          
+                      <div class="CommentBox-container">
+            <textarea name="comment[body]" id="new_comment_field" placeholder=" " class="js-comment-field js-paste-markdown js-task-list-field js-quick-submit FormControl-textarea CommentBox-input js-size-to-fit size-to-fit js-session-resumable" data-target="copilot-mentions-hint.inputField" dir="auto" aria-describedby="placeholder_previewable-comment-form-component-991b07d6-519f-4689-8f27-a9a436301c5b"></textarea>
+            
+          </div>
+
+
+      </text-expander>
+        
+        <div class="file-attachment-errors">
+          <x-banner data-dismiss-scheme="none" data-view-component="true" data-catalyst="">
+  <div data-view-component="true" class="rounded-bottom-2 bad-file repository-required Banner flash Banner--error flash-error Banner--full flash-full border-bottom-0">
+      <div class="Banner-visual">
+        
+      </div>
+    <div data-view-component="true" class="Banner-message">
+      <p class="Banner-title" data-target="x-banner.titleText" data-al="14">We don’t support that file type.</p>
+        <p data-al="15">Try again with GIF, JPEG, JPG, MOV, MP4, PNG, SVG, WEBM or WEBP.</p>
+</div></div></x-banner>
+          <x-banner data-dismiss-scheme="none" data-view-component="true" data-catalyst="">
+  <div data-view-component="true" class="rounded-bottom-2 bad-permissions Banner flash Banner--error flash-error Banner--full flash-full border-bottom-0">
+      <div class="Banner-visual">
+        
+      </div>
+    <div data-view-component="true" class="Banner-message">
+      <p class="Banner-title" data-target="x-banner.titleText" data-al="16">Attaching documents requires write permission to this repository.</p>
+        <p data-al="17">Try again with GIF, JPEG, JPG, MOV, MP4, PNG, SVG, WEBM or WEBP.</p>
+</div></div></x-banner>
+          <x-banner data-dismiss-scheme="none" data-view-component="true" data-catalyst="">
+  <div data-view-component="true" class="rounded-bottom-2 too-big js-upload-too-big Banner flash Banner--error flash-error Banner--full flash-full border-bottom-0">
+      <div class="Banner-visual">
+        
+      </div>
+    <div data-view-component="true" class="Banner-message">
+      <p class="Banner-title" data-target="x-banner.titleText"></p>
+</div></div></x-banner>
+          <x-banner data-dismiss-scheme="none" data-view-component="true" data-catalyst="">
+  <div data-view-component="true" class="rounded-bottom-2 empty Banner flash Banner--error flash-error Banner--full flash-full border-bottom-0">
+      <div class="Banner-visual">
+        
+      </div>
+    <div data-view-component="true" class="Banner-message">
+      <p class="Banner-title" data-target="x-banner.titleText" data-al="18">This file is empty.</p>
+        <p data-al="19">Try again with a file that’s not empty.</p>
+</div></div></x-banner>
+          <x-banner data-dismiss-scheme="none" data-view-component="true" data-catalyst="">
+  <div data-view-component="true" class="rounded-bottom-2 hidden-file Banner flash Banner--error flash-error Banner--full flash-full border-bottom-0">
+      <div class="Banner-visual">
+        
+      </div>
+    <div data-view-component="true" class="Banner-message">
+      <p class="Banner-title" data-target="x-banner.titleText" data-al="20">This file is hidden.</p>
+        <p data-al="21">Try again with another file.</p>
+</div></div></x-banner>
+          <x-banner data-dismiss-scheme="none" data-view-component="true" data-catalyst="">
+  <div data-view-component="true" class="rounded-bottom-2 failed-request Banner flash Banner--error flash-error Banner--full flash-full border-bottom-0">
+      <div class="Banner-visual">
+        
+      </div>
+    <div data-view-component="true" class="Banner-message">
+      <p class="Banner-title" data-target="x-banner.titleText" data-al="22">Something went really wrong, and we can’t process that file.</p>
+        <p data-al="23">Try again.</p>
+</div></div></x-banner>
+        </div>
+    </div>
+
+    <div class="pr-2 pl-2 pb-2 d-flex flex-items-center">
+      <div data-view-component="true" class="border-right color-border-muted d-inline-block mr-1 pr-2">
+        <a href="https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" target="_blank" rel="noopener noreferrer" data-ga-click="Markdown Toolbar, click, help" data-analytics-event="{&quot;category&quot;:&quot;comment_box&quot;,&quot;action&quot;:&quot;MARKDOWN_BUTTON&quot;,&quot;label&quot;:null}" data-view-component="true" class="Button--invisible Button--small Button">  <span class="Button-content">
+      <span class="Button-visual Button-leadingVisual">
+        
+      </span>
+    <span class="Button-label">Markdown is supported</span>
+  </span>
+</a>
+</div>        <button data-file-attachment-for="fc-new_comment_field" data-analytics-event="{&quot;category&quot;:&quot;comment_box&quot;,&quot;action&quot;:&quot;UPLOAD_BUTTON&quot;,&quot;label&quot;:null}" type="button" data-view-component="true" class="Button--invisible Button--small Button">  <span class="Button-content">
+      <span class="Button-visual Button-leadingVisual">
+        
+      </span>
+    <span class="Button-label">Paste, drop, or click to add files</span>
+  </span>
+</button>
+    </div>
+</file-attachment>
+  
+
+  
+</tab-container>
+
+      <input type="hidden" name="timestamp" value="1772061346631" autocomplete="off" class="form-control"><input type="hidden" name="timestamp_secret" value="fa3b5763bd0d22a6bb76e05c857dccfe8cbdd903c6f1e2ccaf5046c26a061a7e" autocomplete="off" class="form-control">
+      <div id="partial-new-comment-form-actions" class="d-flex flex-items-center flex-justify-end gap-2 my-2">
+  <button data-disable-with="" data-disable-invalid="" type="submit" data-view-component="true" class="Button--primary Button--medium Button">  <span class="Button-content">
+    <span class="Button-label">Comment</span>
+  </span>
+</button>
+</div>
+
+    </div>
+</form></div>
+
+              
+            </div>
+          </div>
+        </div>
+</div>
+  </div>
+</div><!-- /.container -->
+
+    </main>
+  </div>
+
+  </div>
+
+          
+
+
+
+    <ghcc-consent id="ghcc" class="position-fixed bottom-0 left-0" style="z-index: 999999" data-locale="en" data-initial-cookie-consent-allowed="" data-cookie-consent-required="false" data-catalyst=""></ghcc-consent>
+
+
+
+
+  
+
+    
+
+    
+
+    
+
+
+
+    
+
+
+    </div>
+    <div id="js-global-screen-reader-notice" class="sr-only mt-n1" aria-live="polite" aria-atomic="true"></div>
+    <div id="js-global-screen-reader-notice-assertive" class="sr-only mt-n1" aria-live="assertive" aria-atomic="true"></div>
+  
+
+
+
+</body>
+</html>

@@ -1,0 +1,237 @@
+{
+  "1": {
+    "tag": "ul",
+    "text": "Skip to main content\n      Skip to search",
+    "type": "list"
+  },
+  "2": {
+    "tag": "h1",
+    "text": "Beginning our React ToDo app",
+    "type": "heading"
+  },
+  "3": {
+    "tag": "ul",
+    "text": "Previous  Overview: JavaScript frameworks and libraries Next",
+    "type": "list"
+  },
+  "4": {
+    "tag": "p",
+    "text": "Let's say that we've been tasked with creating a proof-of-concept in React – an app that allows users to add, edit, and ",
+    "type": "paragraph"
+  },
+  "5": {
+    "tag": "p",
+    "text": "Note:\nIf you need to check your code against our version, you can find a finished version of the sample React app code i",
+    "type": "paragraph"
+  },
+  "6": {
+    "tag": "figure",
+    "text": "Prerequisites:\n      \n        Familiarity with the core HTML,\n        CSS, and\n        JavaScript languages, and the ter",
+    "type": "figure"
+  },
+  "7": {
+    "tag": "table",
+    "text": "Prerequisites:\n      \n        Familiarity with the core HTML,\n        CSS, and\n        JavaScript languages, and the ter",
+    "type": "table"
+  },
+  "8": {
+    "tag": "h2",
+    "text": "Our app's user stories",
+    "type": "heading"
+  },
+  "9": {
+    "tag": "p",
+    "text": "In software development, a user story is an actionable goal from the perspective of the user. Defining user stories befo",
+    "type": "paragraph"
+  },
+  "10": {
+    "tag": "p",
+    "text": "As a user, I can",
+    "type": "paragraph"
+  },
+  "11": {
+    "tag": "ul",
+    "text": "read a list of tasks.\nadd a task using the mouse or keyboard.\nmark any task as completed, using the mouse or keyboard.\nd",
+    "type": "list"
+  },
+  "12": {
+    "tag": "p",
+    "text": "We'll tackle these stories one-by-one.",
+    "type": "paragraph"
+  },
+  "13": {
+    "tag": "h2",
+    "text": "Pre-project housekeeping",
+    "type": "heading"
+  },
+  "14": {
+    "tag": "p",
+    "text": "Vite has given us some code that we won't be using at all for our project. The following terminal commands will delete i",
+    "type": "paragraph"
+  },
+  "15": {
+    "tag": "p",
+    "text": "Note:\nIf you stopped your server to do the terminal tasks mentioned above, you'll have to start it again using npm run d",
+    "type": "paragraph"
+  },
+  "16": {
+    "tag": "h2",
+    "text": "Project starter code",
+    "type": "heading"
+  },
+  "17": {
+    "tag": "p",
+    "text": "As a starting point for this project, we're going to provide two things: an App() function to replace the one you just d",
+    "type": "paragraph"
+  },
+  "18": {
+    "tag": "h3",
+    "text": "The JSX",
+    "type": "heading"
+  },
+  "19": {
+    "tag": "p",
+    "text": "Copy the following snippet to your clipboard, then paste it into App.jsx:",
+    "type": "paragraph"
+  },
+  "20": {
+    "tag": "p",
+    "text": "Now open index.html and change the <title> element's text to TodoMatic. This way, it will match the <h1> at the top of o",
+    "type": "paragraph"
+  },
+  "21": {
+    "tag": "p",
+    "text": "When your browser refreshes, you should see something like this:",
+    "type": "paragraph"
+  },
+  "22": {
+    "tag": "p",
+    "text": "It's ugly, and doesn't function yet, but that's okay — we'll style it in a moment. First, consider the JSX we have, and ",
+    "type": "paragraph"
+  },
+  "23": {
+    "tag": "ul",
+    "text": "We have a <form> element, with an <input type=\"text\"> for writing out a new task, and a button to submit the form.\nWe ha",
+    "type": "list"
+  },
+  "24": {
+    "tag": "p",
+    "text": "The form will allow us to make tasks; the buttons will let us filter them; the heading and list are our way to read them",
+    "type": "paragraph"
+  },
+  "25": {
+    "tag": "h3",
+    "text": "Accessibility features",
+    "type": "heading"
+  },
+  "26": {
+    "tag": "p",
+    "text": "You may notice some unusual markup here. For example:",
+    "type": "paragraph"
+  },
+  "27": {
+    "tag": "p",
+    "text": "Here, aria-pressed tells assistive technology (like screen readers) that the button can be in one of two states: pressed",
+    "type": "paragraph"
+  },
+  "28": {
+    "tag": "p",
+    "text": "The class visually-hidden has no effect yet, because we have not included any CSS. Once we have put our styles in place,",
+    "type": "paragraph"
+  },
+  "29": {
+    "tag": "p",
+    "text": "Further down, you can find our <ul> element:",
+    "type": "paragraph"
+  },
+  "30": {
+    "tag": "p",
+    "text": "The role attribute helps assistive technology explain what kind of element a tag represents. A <ul> is treated like a li",
+    "type": "paragraph"
+  },
+  "31": {
+    "tag": "p",
+    "text": "The aria-labelledby attribute tells assistive technologies that we're treating our list heading as the label that descri",
+    "type": "paragraph"
+  },
+  "32": {
+    "tag": "p",
+    "text": "Finally, the labels and inputs in our list items have some attributes unique to JSX:",
+    "type": "paragraph"
+  },
+  "33": {
+    "tag": "p",
+    "text": "The defaultChecked attribute in the <input /> tag tells React to check this checkbox initially. If we were to use checke",
+    "type": "paragraph"
+  },
+  "34": {
+    "tag": "p",
+    "text": "The htmlFor attribute corresponds to the for attribute used in HTML. We cannot use for as an attribute in JSX because fo",
+    "type": "paragraph"
+  },
+  "35": {
+    "tag": "h3",
+    "text": "A note on boolean attributes in JSX",
+    "type": "heading"
+  },
+  "36": {
+    "tag": "p",
+    "text": "The defaultChecked attribute in the previous section is a boolean attribute – an attribute whose value is either true or",
+    "type": "paragraph"
+  },
+  "37": {
+    "tag": "p",
+    "text": "Because JSX is JavaScript, there's a gotcha to be aware of with boolean attributes: writing defaultChecked=\"false\" will ",
+    "type": "paragraph"
+  },
+  "38": {
+    "tag": "p",
+    "text": "If you'd like, you can practice writing boolean attributes with another attribute you may have seen before, hidden, whic",
+    "type": "paragraph"
+  },
+  "39": {
+    "tag": "p",
+    "text": "Note:\nThe aria-pressed attribute used in our earlier code snippet has a value of \"true\" because aria-pressed is not a tr",
+    "type": "paragraph"
+  },
+  "40": {
+    "tag": "h3",
+    "text": "Implementing our styles",
+    "type": "heading"
+  },
+  "41": {
+    "tag": "p",
+    "text": "Paste the following CSS code into src/index.css:",
+    "type": "paragraph"
+  },
+  "42": {
+    "tag": "p",
+    "text": "Save and look back at your browser, and your app should now have reasonable styling.",
+    "type": "paragraph"
+  },
+  "43": {
+    "tag": "h2",
+    "text": "Summary",
+    "type": "heading"
+  },
+  "44": {
+    "tag": "p",
+    "text": "Now our todo list app actually looks a bit more like a real app! The problem is: it doesn't actually do anything. We'll ",
+    "type": "paragraph"
+  },
+  "45": {
+    "tag": "ul",
+    "text": "Previous  Overview: JavaScript frameworks and libraries Next",
+    "type": "list"
+  },
+  "46": {
+    "tag": "h2",
+    "text": "Help improve MDN",
+    "type": "heading"
+  },
+  "47": {
+    "tag": "p",
+    "text": "This page was last modified on Oct 31, 2025 by MDN contributors.",
+    "type": "paragraph"
+  }
+}

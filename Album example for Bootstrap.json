@@ -1,0 +1,62 @@
+{
+  "1": {
+    "tag": "h1",
+    "text": "Album example",
+    "type": "heading"
+  },
+  "2": {
+    "tag": "p",
+    "text": "Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not ",
+    "type": "paragraph"
+  },
+  "3": {
+    "tag": "p",
+    "text": "Main call to action\n            Secondary action",
+    "type": "paragraph"
+  },
+  "4": {
+    "tag": "p",
+    "text": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit",
+    "type": "paragraph"
+  },
+  "5": {
+    "tag": "p",
+    "text": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit",
+    "type": "paragraph"
+  },
+  "6": {
+    "tag": "p",
+    "text": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit",
+    "type": "paragraph"
+  },
+  "7": {
+    "tag": "p",
+    "text": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit",
+    "type": "paragraph"
+  },
+  "8": {
+    "tag": "p",
+    "text": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit",
+    "type": "paragraph"
+  },
+  "9": {
+    "tag": "p",
+    "text": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit",
+    "type": "paragraph"
+  },
+  "10": {
+    "tag": "p",
+    "text": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit",
+    "type": "paragraph"
+  },
+  "11": {
+    "tag": "p",
+    "text": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit",
+    "type": "paragraph"
+  },
+  "12": {
+    "tag": "p",
+    "text": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit",
+    "type": "paragraph"
+  }
+}
