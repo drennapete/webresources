@@ -1,0 +1,2066 @@
+**You are here:**  [NZLII](https://www.nzlii.org/) >> [Databases](https://www.nzlii.org/databases.html) >> [Supreme Court of New Zealand](https://www.nzlii.org/cgi-bin/sinodisp/nz/cases/NZSC/) >> [2023](https://www.nzlii.org/cgi-bin/sinodisp/nz/cases/NZSC/2023/) >> **\[2023\] NZSC 113**
+
+[Database Search](https://www.nzlii.org/form/search1.html?mask=nz/cases/NZSC) | [Name Search](https://www.nzlii.org/form/search1.html?mask=nz/cases/NZSC&title=1) | [Recent Decisions](https://www.nzlii.org/cgi-bin/sinodisp/nz/cases/NZSC/recent.html) | [Noteup](https://www.nzlii.org/form/search/?method=boolean&query=NZSC+2023+113%20or%202023+NZSC+113) | [LawCite](https://www.nzlii.org/cgi-bin/LawCite/?cit=2023+NZSC+113) | [Download](https://www.nzlii.org/cgi-bin/sinodisp/nz/cases/NZSC/2023/113.txt) | [Context](#disp1 "First Hit") | [No Context](https://www.nzlii.org/cgi-bin/sinodisp/nz/cases/NZSC/2023/113.html?query=title(%222023%20NZSC%20113%22)&nocontext=1 "Turn Context Off") | [Help](https://www.nzlii.org/nzlii/help/cases.html "Help")
+---
+
+## Yan v Mainzeal Property and Construction Limited (in liquidation) \[[![](https://www.nzlii.org/images/displeft.png)](#disp0 "Previous Hit") **2023\] NZSC 113** [![](https://www.nzlii.org/images/dispright.png)](#disp2 "Next Hit"); 1 NZLR 296 (25 August 2023)
+
+Last Updated: 4 April 2025
+
+For a Court ready (fee required) version please follow this [link.](https://www.nzlii.org/nz/cases/NZSC/2023/https://www.lawreports.nz/yan-v-mainzeal-property-and-construction-ltd-in-liq-2023-1-nzlr-296/?query=title(%222023%20NZSC%20113%22))
+
+<table><tbody><tr valign="top"><td valign="top" width="559"><br></td></tr><tr valign="top"><td valign="top" width="559"><div><b>IN THE SUPREME COURT OF NEW ZEALAND</b><br><br><a name="jurisdiction"></a><a name="judgmentLocation"></a><b>I TE KŌTI MANA NUI O AOTEAROA</b></div></td></tr><tr valign="top"><td valign="top" width="559"><div align="right"><b>SC 48/2021</b><br><a name="MNCNumber"></a><b>SC 52/2021</b><br><b><a title="Previous Hit" href="#disp1" name="disp2"><img src="/images/displeft.png" border="0"></a><b>&nbsp;<a class="autolink_findcases" title="View Case" href="http://www.nzlii.org/nz/cases/NZSC/2023/113.html">[2023] NZSC 113</a>&nbsp;</b><a title="Next Hit" href="#disp3"><img src="/images/dispright.png" border="0"></a></b></div></td></tr></tbody></table>
+
+<table><tbody><tr valign="top"><td valign="middle" width="90"><br></td><td valign="top" width="178"><div><br>BETWEEN</div></td><td valign="top" width="289"><div><br>RICHARD CILIANG YAN<br>First Appellant<br><br>PETER GOMM<br>Second Appellant<br><br>JENNIFER MARY SHIPLEY<br>Third Appellant<br><br>CLIVE WILLIAM CHARLES TILBY<br>Fourth Appellant</div></td></tr><tr valign="top"><td valign="middle" width="90"><br></td><td valign="top" width="178"><div></div><div>AND</div></td><td valign="top" width="289"><div><br>MAINZEAL PROPERTY AND CONSTRUCTION LIMITED (IN LIQUIDATION)<br>First Respondent<br><br>ANDREW JAMES BETHELL AND ANDREW MCKAY<br>Second Respondents<br></div></td></tr></tbody></table>
+
+<table><tbody><tr valign="top"><td valign="top" width="133"><div><br>Hearing:<br><br>Further Submissions:</div></td><td valign="top" width="426"><div><br>7–11 March 2022<br><br><br>22 November 2022 and 2 March 2023</div></td></tr><tr valign="top"><td valign="top" width="133"><div><br>Court:</div></td><td valign="top" width="426"><div><br>Winkelmann CJ, William Young, Glazebrook, O’Regan and Ellen France JJ</div></td></tr><tr valign="top"><td valign="top" width="133"><div><br>Counsel:</div></td><td valign="top" width="426"><div><br>D J Chisholm KC, T P Mullins and T Hu for Mr Yan<br>J E Hodder KC, M D Arthur and J Marcetic for Mr Gomm, Dame Jennifer Shipley and Mr Tilby<br>M D O’Brien KC, Z G Kennedy and M D Pascariu for Mainzeal Property and Construction Ltd (in liq) and Messrs Bethell and McKay</div></td></tr><tr valign="top"><td valign="top" width="133"><div><br>Judgment:</div></td><td valign="top" width="426"><div><br>25 August 2023</div></td></tr></tbody></table>
+
+  
+
+**JUDGMENT OF THE COURT**
+
+  
+**A The appeals by the directors are dismissed.**
+
+**B The cross-appeal by the liquidators is allowed to the extent that in lieu of the remittal of the proceedings back to the High Court, we order the directors to contribute to the assets of Mainzeal $39.8 million together with interest at prescribed rates since 28 February 2013 with the liabilities of Dame Jennifer Shipley and Messrs Tilby and Gomm each limited to $6.6 million and interest.**
+
+**C The directors are to pay costs in the sum of $65,000 together with reasonable disbursements.**  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+
+**REASONS**  
+(Given by Winkelmann CJ and William Young J)  
+  
+**Table of Contents**  
+
+<table><tbody><tr valign="top"><td valign="top" width="462"><br></td><td valign="top" width="81"><div align="right"><b>Para No</b></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b>Introduction</b></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref138322281?query=title(%222023%20NZSC%20113%22)">[1]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b>Factual background</b></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849063?query=title(%222023%20NZSC%20113%22)">[12]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>Takeover by interests associated with Mr Richard Yan</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849075?query=title(%222023%20NZSC%20113%22)">[13]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>Relationship between Mainzeal and its controlling shareholders</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849085?query=title(%222023%20NZSC%20113%22)">[15]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>Funds extracted from Mainzeal for use in China</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref142299899?query=title(%222023%20NZSC%20113%22)">[20]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>Trading 2005–2012</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref138323210?query=title(%222023%20NZSC%20113%22)">[24]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>Balance sheet solvency/insolvency</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849126?query=title(%222023%20NZSC%20113%22)">[31]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>Promises of shareholder support</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849140?query=title(%222023%20NZSC%20113%22)">[36]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>Mainzeal’s strategy for dealing with the irrecoverable loans</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849153?query=title(%222023%20NZSC%20113%22)">[45]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>Window dressing</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849165?query=title(%222023%20NZSC%20113%22)">[50]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>Events in 2010</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849393?query=title(%222023%20NZSC%20113%22)">[51]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>The position as at 31 January 2011</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849416?query=title(%222023%20NZSC%20113%22)">[69]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>Events February 2011–February 2013</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849429?query=title(%222023%20NZSC%20113%22)">[73]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b>The High Court’s approach</b></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref143010317?query=title(%222023%20NZSC%20113%22)">[100]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b>The Court of Appeal’s approach</b></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849459?query=title(%222023%20NZSC%20113%22)">[106]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b>Legal context and history</b></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref138322241?query=title(%222023%20NZSC%20113%22)">[111]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b><i>Preliminaries</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref138322960?query=title(%222023%20NZSC%20113%22)">[112]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>The 1993 Act and relevant principles and features of company law</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849518?query=title(%222023%20NZSC%20113%22)">[115]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b><i>The statutory antecedents of ss 135, 136 and 301</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849546?query=title(%222023%20NZSC%20113%22)">[126]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b><i>Judicial recognition of a requirement for directors to have regard to</i><br><i>the interests of creditors</i></div></td><td valign="top" width="81"><div align="right"><br><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849579?query=title(%222023%20NZSC%20113%22)">[142]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b><i>The report and recommendations of the Law Commission</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849566?query=title(%222023%20NZSC%20113%22)">[144]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b><i>The Parliamentary process in relation to the 1993 Act</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849590?query=title(%222023%20NZSC%20113%22)">[149]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b><i>Section 301 as enacted</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849603?query=title(%222023%20NZSC%20113%22)">[155]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>Recent case law</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref138322738?query=title(%222023%20NZSC%20113%22)">[170]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b>Debut Homes</div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref138322738?query=title(%222023%20NZSC%20113%22)">[170]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b>BTI 2014 LLC v Sequana SA</div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849638?query=title(%222023%20NZSC%20113%22)">[178]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b>Stanford International Bank Ltd (in liq) v HSBC Bank Plc</div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849653?query=title(%222023%20NZSC%20113%22)">[185]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b><i>Where we get to</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849662?query=title(%222023%20NZSC%20113%22)">[189]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b>Liability under s 135</b></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref142299782?query=title(%222023%20NZSC%20113%22)">[190]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b><i>The directors’ arguments as to how s 135 should be applied</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref142299782?query=title(%222023%20NZSC%20113%22)">[190]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b><i>The liquidators’ arguments as to how s 135 should be applied</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849701?query=title(%222023%20NZSC%20113%22)">[194]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b><i>Our approach to the application of s 135: overview</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref142300596?query=title(%222023%20NZSC%20113%22)">[195]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b>Fault requirement</div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref142300629?query=title(%222023%20NZSC%20113%22)">[200]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b>Can directors balance loss on insolvency against risk of loss of<br>trading on?</div></td><td valign="top" width="81"><div align="right"><br><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849753?query=title(%222023%20NZSC%20113%22)">[212]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b>Our approach compared to that adopted in <i>Sequana </i>and <i>Stanford</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849785?query=title(%222023%20NZSC%20113%22)">[217]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b><i>Did the directors breach s 135?</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849801?query=title(%222023%20NZSC%20113%22)">[219]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b>Mainzeal’s position in 2010</div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849813?query=title(%222023%20NZSC%20113%22)">[221]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b>Steps taken by the directors to address Mainzeal’s problems</div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849824?query=title(%222023%20NZSC%20113%22)">[222]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b>Reliance by the directors on assurances of support</div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849835?query=title(%222023%20NZSC%20113%22)">[226]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b>Other issues as to governance</div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849849?query=title(%222023%20NZSC%20113%22)">[230]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b>Our conclusions as to breach of s 135</div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849861?query=title(%222023%20NZSC%20113%22)">[234]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b>Liability under s 136</b></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849878?query=title(%222023%20NZSC%20113%22)">[237]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b></b><i>Approach of the Court of Appeal</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849878?query=title(%222023%20NZSC%20113%22)">[237]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>Directors’ argument as to the scope of liability under s 136</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref142300991?query=title(%222023%20NZSC%20113%22)">[240]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>Our approach to the scope of liability under s 136</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849920?query=title(%222023%20NZSC%20113%22)">[242]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>The directors’ arguments as to the application of s 136 in this case</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849938?query=title(%222023%20NZSC%20113%22)">[250]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>How the case was pleaded and run</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849946?query=title(%222023%20NZSC%20113%22)">[251]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>Our approach: the four major projects</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849961?query=title(%222023%20NZSC%20113%22)">[256]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>Our approach: all obligations incurred after 5 July 2012</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140849972?query=title(%222023%20NZSC%20113%22)">[259]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b>Implications for the future of our approach to liability under ss 135 and 136</b></div></td><td valign="top" width="81"><div align="right"><br><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref138322713?query=title(%222023%20NZSC%20113%22)">[269]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b>Measurement of loss in relation to ss 135 and 136: principles and quantification</b></div></td><td valign="top" width="81"><div align="right"><br><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140850000?query=title(%222023%20NZSC%20113%22)">[274]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>The issues</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140850000?query=title(%222023%20NZSC%20113%22)">[274]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>Our approach to assessing loss</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140850023?query=title(%222023%20NZSC%20113%22)">[277]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i></i>Practice under s 320 of the 1955 Act (and equivalent legislation)</div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref142301162?query=title(%222023%20NZSC%20113%22)">[278]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i></i>Net deterioration and s 135</div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref142301180?query=title(%222023%20NZSC%20113%22)">[280]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i></i>Net deterioration or new debt under s 136</div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140850123?query=title(%222023%20NZSC%20113%22)">[290]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>Quantification of loss</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140850153?query=title(%222023%20NZSC%20113%22)">[297]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div>The approach of the Court of Appeal to quantification</div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140850164?query=title(%222023%20NZSC%20113%22)">[298]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i></i>The parties’ contentions</div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140850187?query=title(%222023%20NZSC%20113%22)">[305]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div>Our approach to quantifying compensation</div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref142301280?query=title(%222023%20NZSC%20113%22)">[309]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b>Relief under s 301</b></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140850212?query=title(%222023%20NZSC%20113%22)">[319]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>The issue</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140850212?query=title(%222023%20NZSC%20113%22)">[319]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>The parties’ contentions</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref142301314?query=title(%222023%20NZSC%20113%22)">[322]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>Approach in the lower Courts</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140850237?query=title(%222023%20NZSC%20113%22)">[326]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>The legal context</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140850254?query=title(%222023%20NZSC%20113%22)">[330]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div>Approach taken under s 321 of the 1955 Act and similar provisions</div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140850254?query=title(%222023%20NZSC%20113%22)">[330]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div>Approach taken under s 320 of the 1955 Act</div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140850275?query=title(%222023%20NZSC%20113%22)">[334]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i></i>May a company in liquidation bring proceedings as a plaintiff<br>under ss 135 and 136?</div></td><td valign="top" width="81"><div align="right"><br><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref142301435?query=title(%222023%20NZSC%20113%22)">[336]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i></i>Authorities as to the scope of the s 301 discretion</div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref142301456?query=title(%222023%20NZSC%20113%22)">[341]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>Our approach as to the nature of the discretion</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140850326?query=title(%222023%20NZSC%20113%22)">[343]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><i>Application of the discretion in this case</i></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref142301484?query=title(%222023%20NZSC%20113%22)">[352]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b>Summary</b></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref143093551?query=title(%222023%20NZSC%20113%22)">[359]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b>Concluding comments</b></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140850394?query=title(%222023%20NZSC%20113%22)">[376]</a></div></td></tr><tr valign="top"><td valign="top" width="462"><div><b>Disposition</b></div></td><td valign="top" width="81"><div align="right"><a class="autolink_findcases" href="/nz/cases/NZSC/2023/2023_113.html#_Ref140850402?query=title(%222023%20NZSC%20113%22)">[377]</a></div></td></tr></tbody></table>
+
+**Introduction**
+
+-   \[1\] The issues in this appeal are of fundamental importance to the business community. They involve the scope and application of duties under [ss 135](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s135.html) and [136](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s136.html) of the [Companies Act 1993](http://www.nzlii.org/nz/legis/consol_act/ca1993107/index.html) (the 1993 Act) — provisions that address the interests of creditors — and how compensation for breach of these duties should be assessed. These issues arise in the context of the failure of a major New Zealand construction company, Mainzeal Property and Construction Ltd (Mainzeal), which was placed in receivership and liquidation in February 2013.<sup>[\[1\]](#fn1)</sup> By the conclusion of the receivership, the receivers had paid the secured creditor, Bank of New Zealand (BNZ), and preferential creditors in full. However, the shortfall owed to unsecured creditors in the liquidation is approximately $110 million.
+-   \[2\] For many years Mainzeal had traded in a difficult industry while balance sheet insolvent. From 2008 it generated, at best, limited operating profits but, more usually, losses. In permitting Mainzeal to continue to trade in those circumstances, the directors relied substantially on assurances of support from associated companies. A central focus of this appeal is the directors’ reliance on these assurances of support as a primary basis for continued trading.
+-   \[3\] The liquidators brought claims alleging, amongst other things, that from January 2011, Mr Richard Yan, Dame Jenny Shipley, and Messrs Clive Tilby and Peter Gomm, as directors of Mainzeal (the directors),<sup>[\[2\]](#fn2)</sup> had agreed to:
+
+> (a) the business of the company being carried on in a manner likely to create a substantial risk of serious loss to creditors, in breach of s 135 of the 1993 Act; and
+> 
+> (b) the company incurring obligations to creditors when they did not believe on reasonable grounds that the company would be able to perform those obligations when required to do so, in breach of s 136 of the 1993 Act.
+
+-   \[4\] In the High Court, Cooke J dismissed the s 136 claim but allowed the s 135 claim, concluding that the directors had been in breach of that section by no later than 31 January 2011.<sup>[\[3\]](#fn3)</sup> For that breach, he awarded compensation of $36 million, representing approximately one third of the $110 million owed to unsecured creditors.
+-   \[5\] The directors appealed to the Court of Appeal.<sup>[\[4\]](#fn4)</sup> The liquidators cross‑appealed, seeking a larger award of compensation under s 135, a finding that the directors had also breached s 136 and compensation for that breach.
+-   \[6\] As to the s 135 claim, the Court of Appeal agreed with Cooke J that the directors of Mainzeal breached s 135 of the 1993 Act by no later than 31 January 2011.<sup>[\[5\]](#fn5)</sup> However, for reasons to which we will come shortly, it held that the liquidators had not established losses for which compensation could be awarded under s 135.<sup>[\[6\]](#fn6)</sup>
+-   \[7\] On the liquidators’ cross-appeal, the Court of Appeal held that the directors breached s 136 by entering into (a) obligations incurred in respect of four major projects entered into after 31 January 2011 (the four major projects) and (b) all obligations incurred from 5 July 2012 onwards.<sup>[\[7\]](#fn7)</sup> It held that for those breaches of s 136, compensation should be fixed by reference to the amount of the debts incurred after the relevant breach dates, to the extent that those debts remain unsatisfied after allowing for any dividends in the liquidation.<sup>[\[8\]](#fn8)</sup> It remitted the proceedings to the High Court to determine the amount of the relevant new debt and to decide whether, in the exercise of a discretion conferred by s 301 of the 1993 Act, that amount or a lesser sum should be awarded as compensation.<sup>[\[9\]](#fn9)</sup>
+-   \[8\] There are appeals and a cross-appeal to this Court against the Court of Appeal judgment.<sup>[\[10\]](#fn10)</sup> The submissions for Mr Yan were presented by Messrs Chisholm KC and Mullins. Submissions for the remaining directors were advanced by Mr Hodder KC. Broadly speaking, where the submissions were sufficiently aligned we refer to them as being made collectively by the directors.
+-   \[9\] The directors seek to reverse the findings of liability under ss 135 and 136 and argue that, in any event, the liquidators did not establish losses for which compensation may be awarded. The liquidators argue that the Court of Appeal findings that the directors had breached ss 135 and 136, and its general approach to compensation for breach of the latter section, should be upheld. They also seek compensation for breach of s 135. The liquidators ask that this Court fix compensation in respect of both claims rather than referring the issue back to the High Court.
+-   \[10\] The theme that runs through the arguments as to the application of ss 135, 136 and 301 of the 1993 Act is the extent to which, and how, they provide protection for creditors. The directors say that these provisions should be interpreted as protecting the interests of the company as a going concern and as primarily directed to preventing directors taking illegitimate risks. They maintain that applying the provisions in ways that focus on the interests of creditors is inimical to key premises that underpin the 1993 Act: limited liability, that directors’ duties are owed to the company, and respect for the business judgment of directors around assessment of risk and reward. In contrast, the liquidators say that the purposes of ss 135, 136 and 301 extend to protecting the interests of creditors, particularly in situations of questionable (or worse) solvency and that such purposes are material to decisions as to liability and assessment of compensation.
+-   \[11\] A substantial part of this judgment addresses the provenance of ss 135, 136 and 301 and the company law context in which they operate. In that part we discuss the statutory antecedents of these provisions, the associated case law, the reform proposals developed by the Law Commission in the late 1980s and the rather confused legislative history of the 1993 Act. We group all this together under the heading “Legal context and history”.<sup>[\[11\]](#fn11)</sup> But, before we engage in that exercise, it is necessary to attend to preliminary matters — the factual background and the approaches of the High Court and Court of Appeal.
+
+**Factual background**
+
+-   \[12\] Mainzeal was incorporated in 1987. At that time, Mainzeal’s holding company, Mainzeal Group Ltd (Mainzeal Group), was listed on the New Zealand Stock Exchange. Mainzeal Group had interests in a number of sectors, including, via its subsidiary Mair Astley Holdings Ltd, the leather industry. Its construction activities were carried on through Mainzeal.
+
+_Takeover by interests associated with Mr Richard Yan_
+
+-   \[13\] In 1995 a majority interest in Mainzeal Group was acquired by an investment consortium (REH Capital Ltd) which was represented and largely controlled by Mr Yan. Mr John Walker, a New York lawyer, was also involved in this investment consortium, at least from 2004 onwards.
+-   \[14\] REH Capital’s investment focus was China where it had, along with other investments, interests in the leather industry. Mr Yan’s primary reason for investing in Mainzeal Group was Mair Astley Holdings’ involvement in the leather industry in New Zealand. The acquisition of Mainzeal (as a wholly‑owned subsidiary of Mainzeal Group) was an incidental consequence of the pursuit of this strategic objective.
+
+_Relationship between Mainzeal and its controlling shareholders_
+
+-   \[15\] In 1996, Mainzeal Group was renamed Richina Pacific Ltd (Richina Pacific) with Mainzeal remaining as a subsidiary. In 2003, as part of a group restructuring, Richina Pacific was removed from the New Zealand Companies Register, while a new company with the same name was registered in Bermuda and listed on the New Zealand Stock Exchange. Mainzeal became a wholly‑owned subsidiary of the Bermuda company. In these reasons, reference to Richina Pacific in relation to events that occurred after 2003 are to that Bermuda company.
+-   \[16\] Following the restructuring in 2003, the Richina Pacific board decided that Mainzeal should be administered for operational purposes by a separate board of directors. In April 2004, a new Mainzeal board was established. The directors of Mainzeal, who are parties to the appeals and cross-appeal, are:<sup>[\[12\]](#fn12)</sup>
+
+> (a) Dame Jenny Shipley, who was the Chair. She was also appointed to the Richina Pacific board and the board of another associated company. Dame Jenny has had a lengthy career in politics, including service as Prime Minister of New Zealand between 1997 and 1999. After retiring from politics, she has served on the boards of a number of companies.
+> 
+> (b) Mr Tilby, who was appointed as a director of Mainzeal in 2004. Mr Tilby was a consultant with significant governance experience in the construction industry.
+> 
+> (c) Mr Yan, who was a director of Mainzeal in April 2004 but resigned from its board in November 2004. In 2006 he and his family came to live in New Zealand, and in April 2009 he again became a Mainzeal director. Throughout the relevant period, Mr Yan was also a director of Richina Pacific.
+> 
+> (d) Mr Gomm, who started working for Mainzeal as its Chief Operating Officer in May 2007. He became the Chief Executive Officer in April 2009 and a member of the board in June 2009.
+
+In April 2012, Sir Paul Collins became a member of the board. The claim against him that was pursued at trial was dismissed and he is not a party to the present appeals and cross-appeal. He does, however, feature in our narrative of the events that led to the collapse of Mainzeal.
+
+-   \[17\] A charter was agreed in 2004 between the Richina Pacific and Mainzeal boards to formalise the relationship between them. Under the charter Richina Pacific would exercise control over dividends to be paid by Mainzeal and the flow of loan funds between Mainzeal and other companies in the Richina Pacific group. It was agreed that if Mainzeal required additional capital, it would have to “compete with other demands from other subsidiaries or from initiatives within the \[Richina Pacific\] corporate group”.
+-   \[18\] The Richina Pacific group was restructured in 2006 and 2009:
+
+> (a) In 2006, a company that later changed its name to Richina Global Real Estate Ltd (RGREL)<sup>[\[13\]](#fn13)</sup> was interposed in the ownership structure between Richina Pacific and Mainzeal. Richina Pacific, however, remained Mainzeal’s ultimate parent company.
+> 
+> (b) In 2009, a limited liability partnership, Richina (NZ) LP, acquired RGREL and, through RGREL, Mainzeal. From this point, there was no direct connection between Mainzeal and the companies in the Richina Pacific group which had substantial assets.
+
+-   \[19\] These changes in ownership structure were significant to what later happened. As we come on to discuss, for the purposes of the audit of Mainzeal’s 2008 financial statements, Richina Pacific had provided a letter of support to the board of Mainzeal whereas, after the 2009 restructuring, similar letters came from Richina Pacific (NZ) LP. Unlike Richina Pacific, Richina (NZ) LP had no substantial assets that were independent of Mainzeal. As well, at the time of the 2009 restructuring, Dame Jenny stepped down from the board of Richina Pacific, while remaining Chair of Mainzeal. The effect of this was that she was removed from the discussion and decision‑making that took place at the parent group level.
+
+_Funds extracted from Mainzeal for use in China_
+
+-   \[20\] During the years that ended on 31 December 2004 and 2005 Mainzeal advanced approximately $34.0 million<sup>[\[14\]](#fn14)</sup> to Richina Pacific subsidiaries, in particular to MLG Limited (MLG). The money received by MLG was transferred to Richina Pacific and, amongst other things, used to fund acquisitions in China.
+-   \[21\] There is no hint in documents generated at the time that the funds extracted were not repayable. Indeed, the expectation, as recorded, was that they would be repaid. But, in relation to the money advanced to MLG, there was no corresponding receivable owed by Richina Pacific to MLG. This is because the money MLG received from Mainzeal was paid to Richina Pacific not as an advance, but rather through a buy-back by MLG of shares held in it by Richina Pacific.<sup>[\[15\]](#fn15)</sup> More generally, MLG did not have sufficient assets to repay the advances from Mainzeal. As well, Chinese exchange controls in place at that time made it difficult for Richina Pacific to remit funds to New Zealand.
+-   \[22\] Mainzeal continued to provide funds to other companies in the wider Richina Pacific group, a pattern that only changed from 1 May 2012 onwards in circumstances we later discuss, from which point in time there was a net flow of funds into Mainzeal from the group.
+-   \[23\] Interest was not paid to Mainzeal on the related-party advances but rather accrued and was recorded as owing in its financial statements. We also note that Mainzeal’s 2004 financial statements recorded that it had forgiven a debt of $5.5 million owed to it by Richina Pacific. These financial statements also recorded what was described as a capital call option for $5.5 million in favour of Mainzeal, but this apparent option was not mentioned in subsequent financial statements.
+
+_Trading 2005–2012_
+
+-   \[24\] Revenue and operating profit (losses) for Mainzeal between 2005 and 2012 were as follows:
+
+<table border="1"><tbody><tr valign="top"><td valign="top" width="93"><div><b>Year</b></div></td><td valign="top" width="273"><div><b>Revenue from construction contracts</b></div></td><td valign="top" width="178"><div><b>Operating profit (loss)</b></div></td></tr><tr valign="top"><td valign="top" width="93"><div>2005</div></td><td valign="top" width="273"><div>$432.2 million</div></td><td valign="top" width="178"><div>($12.1 million)</div></td></tr><tr valign="top"><td valign="top" width="93"><div>2006</div></td><td valign="top" width="273"><div>$451.9 million</div></td><td valign="top" width="178"><div>$12.2 million</div></td></tr><tr valign="top"><td valign="top" width="93"><div>2007</div></td><td valign="top" width="273"><div>$288.7 million</div></td><td valign="top" width="178"><div>$2.5 million</div></td></tr><tr valign="top"><td valign="top" width="93"><div>2008</div></td><td valign="top" width="273"><div>$270.0 million</div></td><td valign="top" width="178"><div>($2.4 million)</div></td></tr><tr valign="top"><td valign="top" width="93"><div>2009</div></td><td valign="top" width="273"><div>$378.8 million</div></td><td valign="top" width="178"><div>$0.9 million</div></td></tr><tr valign="top"><td valign="top" width="93"><div>2010</div></td><td valign="top" width="273"><div>$340.7 million</div></td><td valign="top" width="178"><div>($1.0 million)</div></td></tr><tr valign="top"><td valign="top" width="93"><div>2011</div></td><td valign="top" width="273"><div>$382.1 million</div></td><td valign="top" width="178"><div>($10.1 million)</div></td></tr><tr valign="top"><td valign="top" width="93"><div>2012</div></td><td valign="top" width="273"><div>$333.3 million</div></td><td valign="top" width="178"><div>($13.2 million)</div></td></tr></tbody></table>
+
+-   \[25\] We add some explanation of these figures. Mainzeal’s balance date was 31 December. The figures for 2005 through to 2011 are taken from the statutory accounts. Those for the year ended 31 December 2012 are from management accounts. Between $10–$11 million should be added to the losses of $13.2 million recorded in those management accounts. These were costs funded by Mainzeal but incurred by an associated company for the remediation of leaky buildings for which Mainzeal was liable. For reasons that are not clear, the costs met by Mainzeal were treated in the management accounts as advances to that associated company rather than as expenses. Adding in this figure, losses for the year ending 31 December 2012 were around $24 million and the accounts should have shown this.
+-   \[26\] It should be noted:
+
+> (a) Operating profit (loss) figures are on an EBIT basis and thus exclude interest. These figures provide the best guidance about Mainzeal’s trading position as they do not include the interest that was accruing but not being paid on the related-party advances.
+> 
+> (b) Such operating profits as were generated represented comparatively small percentages of revenue, emphasising that Mainzeal was operating on fine margins.
+> 
+> (c) The substantial profit in 2006 included a one-off apparent revenue boost in excess of $7 million associated with the liquidation of one of Mainzeal’s subsidiaries.
+
+-   \[27\] There are three other features of Mainzeal’s trading that warrant mention.
+-   \[28\] The first is that Mainzeal had a history of not being able to accurately predict its future trading. The expert evidence for the liquidators at trial, which the trial Judge accepted, was that Mainzeal failed to meet its budgeted EBIT figures every year between 2006 and 2012.<sup>[\[16\]](#fn16)</sup> There was a good deal of evidence at trial as to this. For present purposes it is sufficient to note that Mr Richard Westlake, an expert witness called by the directors as to corporate governance, agreed that, in light of that evidence, it would have been appropriate for the directors to view these forecasts “with a degree of healthy scepticism”.
+-   \[29\] Secondly, Mainzeal was able to operate with negative working capital (in other words with a ratio of current assets to current liabilities of less than one). This is because it was able to convert its own progress payment claims into cash more quickly than it was required to pay out on the claims of its subcontractors. That it could do so was, in part, a function of the way the retentions system worked. Retentions are money due under construction contracts (in this case by Mainzeal to subcontractors) but withheld as security for performance by subcontractors of their obligations. Such retentions are customarily paid out at the end of the defects liability period. But, as well, Mainzeal was sometimes able to structure contracts so as to entitle it to payments that were in advance of work carried out.<sup>[\[17\]](#fn17)</sup> The working capital advantages of this business model were appreciated by Mr Yan, who noted in the Richina Pacific annual report for 2003 that:
+
+Like most construction companies, Mainzeal generates income from two distinct but related sources. First, it generates revenue, and hopefully also profits, by constructing buildings. Second, it generates interest income from the negative working capital it holds in the business. ... Mainzeal employs little equity capital and as a result, as long as it makes an overall operating profit, which it has with only one exception in the past 10 years, the return on capital invested in this business can be excellent. With such potentially outstanding economics, the critical factor becomes how do we contain as much as possible the downside risk in this business?
+
+Not explicit in what he said is who was to be protected by containment of the “downside risk”.
+
+-   \[30\] A third feature is that, as is common in the building industry, Mainzeal was often required to provide bonds guaranteeing performance of its contractual obligations. Richina Pacific assisted Mainzeal in this regard, either providing guarantees to the parties who did provide the bonds or, on occasion, providing bonds itself. This did not involve Richina Pacific providing funds to Mainzeal, but it did involve it taking on significant contingent liabilities for Mainzeal’s benefit.
+
+_Balance sheet solvency/insolvency_
+
+-   \[31\] Since the loans to related companies were irrecoverable, Mainzeal was balance sheet insolvent from 2005, albeit this was not apparent from its financial statements.<sup>[\[18\]](#fn18)</sup> We can illustrate this by reference to the financial statements for the year ending 31 December 2008.
+-   \[32\] For this year, Mainzeal reported net assets of $21.2 million. This figure, however, reflected an assumption that inter-company debts of approximately some $39.4 million were expected to be recovered in full. If these were disregarded, Mainzeal would have had a balance sheet deficit of approximately $18.2 million. No provision was made in the company’s financial statements to reflect the risk that the advances would not be recovered.
+-   \[33\] That there was a capital deficiency was recognised in 2008 as part of the work carried out for the 2009 restructuring. PwC, engaged to assist with that restructuring, advised as follows:
+
+**The New Zealand Division**
+
+1.  The New Zealand Division will essentially comprise Mainzeal. Mainzeal’s balance sheet is in a deficit position (excluding its intercompany advance) and it requires the support of the \[Richina Pacific\] Group to operate in the short term. Consequently, to enable it to operate as a stand‑alone division, it requires a cash injection from the Group. We are advised that this will be \[e\]ffected through the issue of preference shares ...which are intended to qualify for treatment as equity of \[RGREL\] and the New Zealand Division. Following the investment in preference shares, it is intended that the New Zealand Division will be able to operate independently from the remainder of \[Richina Pacific\].
+2.  The issue of preference shares should be undertaken prior to amalgamation and be sufficient to deal with Mainzeal’s deficit.
+-   \[34\] The proposed arrangements were set out in an investment statement to the public shareholders. This recorded that the value of the preference shares would be USD 13.5 million. When the restructuring scheme was implemented, however, the redeemable preference shares that were issued and recorded in RGREL’s accounts were not called up. This is because Richina Pacific decided not to proceed with the cash injection. PwC had served as auditors of both Richina Pacific and Mainzeal for the 2007 and 2008 financial years and, as we have just noted, had recommended the cash injection. In May 2009 PwC raised concerns in the draft audit report for Richina Pacific about the failure to capitalise Mainzeal and the need for greater transparency on related-party transactions. Although PwC ultimately gave an unqualified audit opinion in relation to the 2008 financial statements, it was then replaced by Ernst & Young as the auditors.
+-   \[35\] A separate threat to Mainzeal’s solvency came from leaky building claims. By 2009, Mainzeal was facing a number of such claims. These were usually referred to in board papers and minutes as “legacy claims”. They were recognised in the financial statements but only by provisioning calculated by reference to costs that were expected to be incurred in the following year. Although the auditors appear to have been satisfied that this provisioning complied with the relevant accounting standards, it resulted in the financial statements substantially understating the likely liabilities associated with these claims. And as an associated consequence, the financial statements did not reveal the full extent of Mainzeal’s financial vulnerability.
+
+_Promises of shareholder support_
+
+-   \[36\] Fundamental to the willingness of the directors to continue to trade, notwithstanding the poor trading results and the persistent balance sheet insolvency, was their understanding that Mr Yan and the Richina Pacific group of companies would stand behind Mainzeal if required. As we have already mentioned,<sup>[\[19\]](#fn19)</sup> to a certain extent Richina Pacific did provide support to Mainzeal, most notably in relation to bonds. As well, from May 2012 it advanced nearly $9 million to Mainzeal (in circumstances that we will come to shortly<sup>[\[20\]](#fn20)</sup>).
+-   \[37\] Assurances of support were provided in connection with Mainzeal’s audited financial statements. Thus, Note 15 to those financial statements for 2008 was in these terms:
+
+**15\. Continued parent support**
+
+The considered view of the Directors of \[Mainzeal\] is that, after making due enquiry there is a reasonable expectation that the Company has adequate resources to continue operations at existing levels for the next 12 months from the date of the audit report. \[Richina Pacific\], the ultimate Parent, has undertaken to provide financial assistance to the Company, if necessary, to ensure that the Company will meet its debts as they fall due.
+
+This Note was based on a formal letter of support provided by Richina Pacific for the 2008 year in which Richina Pacific undertook that it would provide sufficient financial assistance, as and when it was needed, to enable Mainzeal to continue operations and fulfil all financial obligations for at least the next 12 months. This letter was addressed to Mainzeal’s directors and was associated with the directors’ formal representations to the auditors that Mainzeal was a going concern. There was no apparent intent to create enforceable obligations owed by Richina Pacific. It was common ground in this proceeding that this and subsequent similar assurances of support were not contractually enforceable.<sup>[\[21\]](#fn21)</sup>
+
+-   \[38\] In the 2008 financial statements, tax losses that had been earlier recognised as an asset were no longer so recognised. The evidence of Mr Bethell, one of the liquidators, was that this new approach reflected uncertainty as to whether there would be sufficient probable future income to enable the tax losses to be utilised — if tax losses could not be utilised then they could not properly have a value attributed to them in the accounts.
+-   \[39\] Note 15 to the 2009 financial statements was in similar terms to the corresponding Note to the 2008 financial statements regarding assurances of financial support, save that it referred to a letter of comfort from the shareholders of RGREL. As noted earlier, by this stage RGREL was owned by Richina (NZ) LP. So, it was the latter company that provided the letter of comfort. The wording of that letter was essentially the same as the letter provided in 2008 by Richina Pacific. There was also an “Emphasis of Matter” in the 2009 audit report:
+
+**Emphasis of Matter**
+
+We draw attention to Note 15 of the financial statements which describes the continued support of the shareholders of \[RGREL\], the immediate parent company. The financial statements have been prepared on the going concern basis, the validity of which depends upon the continued financial support by the shareholders of the immediate parent company. The financial statements do not include any adjustments that would result should the support of the shareholders of the immediate parent company be discontinued. Our opinion is not qualified in respect of this matter.
+
+-   \[40\] The inclusion of this Emphasis of Matter signified that the validity of the going concern assumption depended on continued financial support from shareholders of the immediate parent company. Similar letters of support from Richina (NZ) LP were referred to in subsequent financial statements (that is the financial statements for the 2010 and 2011 years). The audit reports in relation to those financial statements each contained a similar Emphasis of Matter.
+-   \[41\] Richina (NZ) LP did not have the assets to make good on the support that was promised. So common sense suggests that its letters of support could not provide much assurance that Mainzeal remained a going concern.
+-   \[42\] Although in their evidence the directors said they relied on the letters of support from Richina (NZ) LP (largely on the basis that these letters implied the support of Richina Pacific), they also placed considerable emphasis on more general and informal assurances of support, said by them to have been given by Messrs Yan and Walker. What we have seen of how Mr Walker dealt with this issue in writing (an example of which is referred to at [\[60\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142287068?query=title(%222023%20NZSC%20113%22)) below) suggests that any indications about support he may have given would have been guarded, or as he might say, expressed in a “lawyerly” way. However, the evidence makes it clear that assurances of support were given by Mr Yan, and sometimes these were expressed in unconditional terms. Very much in issue in the litigation, however, is whether such assurances (whether in the letters of support or informally) as were given could reasonably have been relied on by the directors. This is for reasons associated with:
+
+> (a) the practicalities of getting money out of China;
+> 
+> (b) the potential for argument that the assurances were conditional (either explicitly or perhaps by implication) on Mainzeal being profitable and/or a going concern;
+> 
+> (c) the unenforceability of the assurances; and
+> 
+> (d) the steps taken by Richina Pacific to exclude or limit the prospect of legal liability to provide support to Mainzeal (including by way of repayment of debts owed to Mainzeal).
+
+-   \[43\] When we come to describe events in 2010 to 2012, we will refer to email correspondence that throws some light on the nature and reliability of such assurances. But at this point we note that the board minutes for the RGREL board meeting on 28 April 2009 (attended by Mr Yan) record:
+
+**3.8 Support of Mainzeal by Richina Pacific Limited**
+
+\[Mr Yan\] reaffirmed that the support of Mainzeal is ongoing, however the directive is for Mainzeal to be self-sufficient and to grow to become a much stronger stand-alone viable entity.
+
+-   \[44\] This was referred to in a report by Mainzeal to the Richina Pacific board meeting in May 2009 in this way:
+
+The principles of operation now adopted by the Mainzeal senior management team, is that Mainzeal is a standalone business entity which has to be financially self-sufficient from \[Richina Pacific\]. There is one exception, the need for the \[Richina Pacific\] Guarantee to support the availability of performance bonds ...
+
+_Mainzeal’s strategy for dealing with the irrecoverable loans_
+
+-   \[45\] With the Richina Pacific group apparently unwilling or unable either to procure repayment of the loans from Mainzeal to related parties or to inject further capital in Mainzeal, the Mainzeal board put in place arrangements under which building materials from China would be supplied to Mainzeal with the purchase costs offset against the money owed by MLG. As we understand the evidence, this started in 2009 with supplies coming through King Façade Ltd (King Façade),<sup>[\[22\]](#fn22)</sup> an associated company, being used for work at Baradene College.
+-   \[46\] As we come to, these arrangements became more formal at the end of 2011, following a report by Ernst & Young, with:
+
+> (a) the restructure of MLG’s debt to Mainzeal, by then of some $33.1 million, so that it no longer accrued interest, and was repayable in 10 years’ time, subject to MLG’s profitability;
+> 
+> (b) Mainzeal assigning the right to receive these repayments to Richina Pacific (China) Investments Ltd (CHC), a substantial member of the Richina Pacific group; and
+> 
+> (c) in exchange, CHC agreeing to supply building materials to Mainzeal under a forward purchase agreement.
+
+A schedule prepared at the time contemplated an effective elimination of the intra‑group debt through the supply of these materials over a three-year period, ending in 2014.
+
+-   \[47\] This arrangement dealt with the difficulty of the related-party advances in a way that seemed to step around the foreign exchange restrictions in China. An obligation to pay money to Mainzeal in New Zealand was replaced with an arrangement for the supply of goods.<sup>[\[23\]](#fn23)</sup>
+-   \[48\] There were, however, as the High Court and Court of Appeal observed, distinct disadvantages to the arrangement.<sup>[\[24\]](#fn24)</sup> Solvency issues would persist until sufficient materials had been supplied to make good the deficit in Mainzeal’s net asset position. As well, the arrangement tied Mainzeal to a single supplier of building products, with the associated supply and quality risks. While the agreement was reflected in the accounts, with pre-paid goods recorded as an asset replacing the corresponding related-party loans, the value of the agreement depended upon Mainzeal remaining a going concern in need of building materials. There was no right to seek a cash payment in lieu of materials should Mainzeal cease trading. As it happened, there were substantial issues with the materials that were supplied under the agreement, to the point that the supplies appeared to have been of no material financial benefit to Mainzeal given supply delays and product defects. By way of example, in October 2012, Mr Gomm reported to the board an assessment of losses in relation to the goods supplied by King Façade of $6 million, which was approximately the same as the value of the goods that had been offset against the pre-paid goods agreement.
+-   \[49\] As Cooke J pointed out, notwithstanding these arrangements, between December 2006 and December 2012, the related-party receivables (including the value attributed to pre‑paid building materials from 2011) increased from $36.2 million to $60.8 million, at least according to the unaudited management accounts for the year ending 31 December 2012.<sup>[\[25\]](#fn25)</sup>
+
+_Window dressing_
+
+-   \[50\] There were three respects in which the accounts of RGREL and Mainzeal were subject to what was described in the judgments below and, in at least one respect, in Mainzeal board papers, as “window dressing”:
+
+> (a) In late 2009, it was contemplated that Mainzeal might be required to produce its accounts and those of RGREL to counterparties on major contracts. It was in this context that in October 2009, the directors discussed moving “‘paper equity’ into the NZ division (and out of the China division) which will assist with the technical solvency issues the division currently faces”. This was effected by an agreement under which CHC was to transfer shares in a Chinese entity to RGREL. This transaction was reflected in RGREL’s balance sheet (in the form of an asset described as “land use rights”). But to be effective this transfer required regulatory approval in China, which was never sought. So RGREL’s balance sheet was not, in reality, improved. This transaction was eventually cancelled in October 2012.
+> 
+> (b) Despite Richina Pacific having decided not to capitalise RGREL using the redeemable preference shares mechanism (referred to above at [\[34\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322405?query=title(%222023%20NZSC%20113%22))), the subscription agreement for redeemable preference shares between RGREL and Richina Pacific remained in place, albeit that the obligations (to purchase shares if called upon) under it were assigned, eventually, to Richina (NZ) LP. This latter company had no assets independent of RGREL or Mainzeal, with the result that it would not have been able to honour those obligations. Nonetheless, in its financial statements for the 2009, 2010 and 2011 years, RGREL recorded a right to call on the redeemable preference shares.
+> 
+> (c) In the board papers for the Mainzeal board meeting of 19 November 2010 the directors discussed proposals that “\[a\]ll available cash \[be\] deposited with Mainzeal at half year and year end for window dressing purposes”. It is no coincidence that $5.3 million by way of apparent repayment of advances was received by Mainzeal on 31 December 2010 with this repayment substantially reversed (by payments back) shortly afterwards. Nor is it a coincidence that the same thing happened at the end of 2011, when $6.4 million was repaid on 31 December 2011, only for it to be in effect reversed by payments the other way shortly afterwards. The significance of this is that in the financial statements for the years ending 31 December 2010 and 2011, the related-party advances were recorded at figures that had been artificially reduced by transactions that took place on the balance date and were then promptly reversed. In her evidence Dame Jenny declined to accept the obvious in relation to these transactions. But the purpose and effect of these transactions is perfectly clear, as Cooke J concluded,<sup>[\[26\]](#fn26)</sup> and his finding of fact on this issue was not challenged before us.
+
+_Events in 2010_
+
+-   \[51\] Around this time the directors began to focus on issues of solvency. Mr Gomm’s report to the board meeting held on 22 January 2010 referred to balance sheet solvency issues in this way:
+
+**KPI 8 – Mainzeal Balance Sheet**
+
+-   Negative circa US$10m.
+-   The market perception as being driven by competitors and feedback from clients, is that we are totally dependent upon the support of \[Richina Pacific\]. Any matter that is perceived to be a negative outcome for \[Richina Pacific\] is also a major issue for Mainzeal. The health of both entities is very closely linked.
+-   The plans to strengthen the Mainzeal balance sheet are welcomed, and from a strategic point of view, the communication to the market needs to be managed to achieve positive support.
+
+The reference to “\[n\]egative circa US$10m” is to the net asset position if related-party loans were disregarded.
+
+-   \[52\] Starting in February 2010, and continuing throughout the rest of the year, the board papers and minutes of Mainzeal and the communications from Mainzeal (predominantly, but not only, originating with Dame Jenny) to Messrs Yan and Walker reveal considerable anxiety amongst Mainzeal directors and Mr Reegan Pearce (Mainzeal’s Chief Financial Officer) about:
+
+> (a) the negative balance sheet;
+> 
+> (b) movements of cash between Mainzeal and other Richina Pacific group companies; and
+> 
+> (c) public perceptions as to the substantiality of Richina Pacific and Mainzeal.
+
+-   \[53\] In February 2010, the board resolved that a schedule of cash movements between Richina Pacific group companies and Mainzeal, including dates and explanations for those movements, should be tabled for each board meeting. The minutes of that board meeting also record a question as to whose “overall duty” it was to make sure the New Zealand division was solvent “going forward”.
+-   \[54\] Dame Jenny followed the meeting up with an email (of 19 February 2010) to Messrs Yan and Walker. She said that Mainzeal needed to present accounts to confirm financial strength and recorded her understanding that Mainzeal still enjoyed the support of Richina Pacific for bonding purposes. She reported the directors’ resolution as to cash movements and recorded her expectation that such movements were occurring in accordance with an agreed authorisation and governance framework. She continued:
+
+Mainzeal Directors wish to clarify \[whose\] overall duty is it to make sure that the NZ division is operating while solvent going forward on who are the Directors who carry this obligation? Both \[Mr Tilby\] and I feel we need a full understanding of this in terms of meeting our legal obligations.
+
+...
+
+We would appreciate it if as part of the finalizing of the separation of the NZ interests from the China interests that the matters above can be cleared up in writing so that we are clear about how inter company arrangements will occur and who has director responsibilities in each of these cases.
+
+-   \[55\] No substantive response to this email having been received, Dame Jenny emailed Mr Walker again on 27 February 2010, emphasising that the issues were “very important” and commenting that she was “personally not comfortable with things as they are”.
+-   \[56\] These issues raised by Dame Jenny were still outstanding as at 12 August 2010, when Mainzeal directors were advised of requests for the transfer of $1.2 million to Richina Pacific. This request was explained by Mr Yan in an email to the other directors of the same day:
+
+We are simply managing the group’s cash now on a \[centralised\] basis and will formalize this arrangement by working with BNZ to have group treasury within this coming month so we will permanently eliminate any “related party” issues going forward and all cash will be managed by \[Richina Pacific\], rather \[than\] Mainzeal although \[Richina Pacific\] will \[guarantee\] sufficient cash for all its operating businesses.
+
+-   \[57\] This request prompted emails of 13 August 2010 from Dame Jenny and Mr Tilby to Mr Yan recording concerns. Mr Yan responded in this way:
+
+Mainzeal has always operated and \[continues\] to operate under a shareholder/parent \[guarantee\] and all the cash are shareholders’ cash. There is no issue of independent director liability as Mainzeal is a wholly owned subsidiary and NOT an independent company as such. Under the \[guarantee\], the group has always been willing and so far able and will only be more able going forward to \[guarantee\] all its obligations.
+
+As I have repeatedly explained in the past \[Richina Pacific\] does have issues of taking money out of China but it did large amounts last year when Mainzeal needed them so now Mainzeal \[has\] the cash and we have found a solution for taking cash out through King Façade, we are simply dealing with a time issue.
+
+Again, there are no independence issues here as it is ultimately the shareholders who are on the hook for everything. Mainzeal is in no way compromised and \[Richina Pacific\] has always supported it to the full extent even during its more dire situations.
+
+The reference to King Façade is to the prepaid goods arrangement discussed earlier. The assertion that “large amounts” of money had been provided by Richina Pacific to Mainzeal is simply wrong. Between 2006 and May 2012, the overall flow of funds between Mainzeal and Richina Pacific group companies was the other way and during the 2009 financial (and calendar) year, related-party advances increased.
+
+-   \[58\] Mr Yan’s email revealed several troubling misunderstandings. First, Mainzeal was at the time using creditors’ funds as working capital and was balance sheet insolvent, so the cash being withdrawn could not sensibly be regarded as “shareholders’ cash”. Secondly, Mainzeal was a company in its own right, and its directors had duties under the 1993 Act, including under ss 135 and 136. Thirdly, there was no guarantee which placed shareholders “on the hook for everything”.
+-   \[59\] The cashflow register provided at the board’s next meeting recorded that the requested advance of $1.2 million had been made on 16 August 2010.
+-   \[60\] On 26 August 2010 Mr Walker provided a more general response to the directors’ concerns. He described a proposed structure for the wider group. He also confirmed that, if it was necessary to do so to win business, Mainzeal could make available audited financial statements of “the relevant entities” (which we take to be Mainzeal and RGREL) on a confidential basis. The email dealt, in some detail, with inter‑company advances. It then went on to say:<sup>[\[27\]](#fn27)</sup>
+
+... At appropriate and convenient occasions, \[Mr\] Wallace \[a co-director of Richina Pacific\] and I would like to have conversations with the two of you to learn first‑hand your views regarding Mainzeal and its businesses and management. _However, we believe that it is the role and responsibility of the Mainzeal Board to make going concern, solvency and similar determinations with respect to Mainzeal._
+
+I hope the above is a helpful step toward addressing the issues you have raised. Of course, I am happy to discuss any of this further with you. \[Richina Pacific’s\] corporate structure continues to evolve, and it is most important that appropriate governance procedures accompany the restructuring.
+
+-   \[61\] The response, contradictory in several respects to that of Mr Yan, provided no comfort that there would be any more formalised support from Richina Pacific, and made clear that it was for the Mainzeal directors to attend to insolvency and going concern issues. The Mainzeal minutes for a board meeting on the same date recorded that Messrs Yan and Walker would work further on the paper recording the governance arrangements.
+-   \[62\] On 5 October 2010 a series of resolutions and letters that had been prepared by Richina Pacific staff were sent to Messrs Walker and Yan. They included promises of support from CHC to RGREL and from RGREL to Mainzeal, and a resolution of the Mainzeal directors accepting the support that was offered. These documents were not related to an audit process and are expressed in language that is redolent of contractual commitment. If completed, they would have provided a substantial basis for legal argument that CHC and RGREL were contractually committed to provide financial support to Mainzeal, commitments that would have been significant as CHC had substantial assets. These documents were premised on centralised management and control of Mainzeal’s assets and business.
+-   \[63\] The next Mainzeal board meeting took place on 13 October 2010. The minutes record a discussion about governance as follows:<sup>[\[28\]](#fn28)</sup>
+
+<table><tbody><tr valign="top"><td valign="top" width="367"><div><b>Governance ([Mr Yan] on teleconference)</b></div><ul><li style="text-indent:0pt; margin-top:0pt; margin-bottom:0pt;">- [Mr Yan] discussed his views on the governance issues and the fact that nothing has changed.</li></ul><div>...</div><ul><li style="text-indent:0pt; margin-top:0pt; margin-bottom:0pt;">- Board agreed that the governance structure had to be formalised prior to Christmas in conjunction with [RGREL].</li><li style="text-indent:0pt; margin-top:0pt; margin-bottom:0pt;">- [Mr Pearce, the CFO] to track down the original Mainzeal Board charter to review and update as necessary</li><li style="text-indent:0pt; margin-top:0pt; margin-bottom:0pt;">- Authority limits need to be circulated as a refresher.<br></li></ul></td><td valign="top" width="85"><div><br><br><br><b>RP/RY/PG</b><br><br><br><b>RP</b></div></td></tr></tbody></table>
+
+-   \[64\] Following that meeting, on 24 October 2010, Dame Jenny emailed Messrs Yan and Walker, identifying certain matters that “need attention”. The first was that the “\[g\]overnance relationship needs to be addressed and finalised prior to Christmas”. In response, Mr Walker said this was being worked on, and he attached the draft resolutions and letters to which we have just referred at [\[62\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142301761?query=title(%222023%20NZSC%20113%22)). There was an issue at trial as to whether the proposed letters and supporting resolutions were ever executed. Both the High Court and Court of Appeal found that they were not, and that this reflected a deliberate decision by Richina Pacific and Messrs Yan[\[29\]](#fn29)nd Walker.<sup>29</sup> This finding of fact was not challenged before us and we adopt it.
+-   \[65\] The failure to address governance issues and directors’ obligations under the new structure was, by this time, causing Mr Pearce significant concern. In an email to Mr Walker following the board meeting on 13 October 2010, Mr Pearce raised several issues, including in relation to Mr Yan’s comment that “nothing has changed”. Mr Pearce said:
+
+The main point that continues to require agreement is what exactly are the directors obligations and duties under the new structure that you have previously addressed in an email.
+
+...
+
+As you know governance is all about transparency and my fear ... is that if this is not adequately sorted out and agreed then \[Dame Jenny\] and \[Mr Tilby\] may ultimately resign which \[Mr Gomm\] and I certainly don’t want to happen.
+
+He went on to note that it would be “interesting” whether Ernst & Young would regard the related-party balances as impaired “should we not be able to \[adequately convince\] them that they have the ability to be repaid”. He also reported that Mr Yan wished to handle this issue himself with Ernst & Young during the audit and did not want others involved.
+
+-   \[66\] When Mr Pearce did not receive a substantive response from Mr Walker, he followed up in a further email dated 12 November 2010. He said that he remained “deeply concerned about the activities that are happening down here”. Referring to continuing cashflows out of Mainzeal and the lack of control over these, he said, “as CFO this is alarm bell material for me” and “I know this is blunt but I find the whole thing nothing short of frightening”.
+-   \[67\] The board papers for the Mainzeal board meeting on 10 December 2010 provide context for Mr Pearce’s concerns. These record that as at 31 October 2010, Mainzeal had working capital of negative $29 million and negative equity of $24.4 million and that the overall trends in respect of each of these had been worsening since the beginning of the calendar year.
+-   \[68\] Mr Walker responded on 13 November 2010. He said that it was “important for the Mainzeal Board to have a full and frank discussion with \[Mr Yan\] regarding the concerns from Mainzeal’s perspective, including from the perspective of Directors’ obligations”. He also said that he had discussed the position with Mr Yan, who had agreed the issue needed to be taken seriously.
+
+_The position as at 31 January 2011_
+
+-   \[69\] In late 2010, Mainzeal sought the advice of Ernst & Young as to governance issues and the directors’ responsibilities following the 2009 restructuring (discussed at [\[18\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref141091025?query=title(%222023%20NZSC%20113%22))–[\[19\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref141091043?query=title(%222023%20NZSC%20113%22)) above). A draft report was provided in January 2011.
+-   \[70\] In the draft report, Ernst & Young highlighted the lack of transparency in the relationship between Mainzeal and other group companies and in Mainzeal’s balance sheet, the effect on Mainzeal of intra-group cash transfers, and the absence of an audit committee. It set out the following “Specific high level findings”:  -   The independent directors of \[Mainzeal\] are not directors of the parent company, \[RGREL\] (or other NZ group companies). There are no independent directors at the parent company level. This may raise the perception that the independent directors of \[Mainzeal\] are unable to exercise any effective influence \[on\] the operations of \[Mainzeal\], its structure or its balance sheet due to the influence of its shareholder. This may be exacerbated by the external perception that the current group structure is “too hard to understand”.
+
+Under the constitution of \[Mainzeal\], directors may, when exercising powers or performing duties as a director, act in a manner he or she thinks is in the best interests of the parent, even though it may not be in the best interests of \[Mainzeal\]. As the independent directors are not directors of the parent or any other group company, this may place them in a position where they are not able to independently assess what is in the best interests of the parent and therefore may be at risk of being compromised in their actions.
+
+_Recommendation: Consider the structure of the NZ Group (\[RGREL\] group) thereby enabling all NZ operations to be transparent to the independent directors. This would enable all NZ operations to be viewed externally in a more holistic manner._
+
+-   All assets of \[Mainzeal\] and the NZ Group are not independently verifiable or transparent. The NZ Group, through \[Mainzeal\], has significant related party loans with a sister company, MLG. The auditor’s report for the group and for \[Mainzeal\] has an emphasis of matter regarding future parent company support, primarily due to the inability to independently verify the collectability of these loans. In this regard we note that MLG is not audited.
+
+_Recommendation: Consider the financial structure of the NZ Group, bringing all assets under the control of the audited group. This may require a review of the mechanism utilised for transferring cash reserves via the centralised treasury, i.e. utilisation of dividend payments rather than inter-company transfers._
+
+-   The above related party loans have arisen due to inter-group cash transfers. Beyond the immediate NZ Group there is no clear visibility of these transfers. We understand that these loans arise through the operation of a centralised treasury function. The circumstances set out above arise due to the manner of the operation of this function, i.e. once the monies leave \[RGREL\] group all visibility is lost.
+
+_..._
+
+-   The current board charter for \[Mainzeal\] was last updated in February, 2004. At this time the group structure was different to that which now exists. The continued relevance of the charter needs to be considered.
+
+_Recommendation: Undertake a review of the \[Mainzeal\] board charter in conjunction with a review of the group structure._
+
+-   There is currently no audit committee specifically constituted to consider financial matters, particularly the annual financial statements of \[Mainzeal\] or the NZ Group. Whilst the board fulfils the role of the committee, the operation of a specific committee in our view raises the significance of the process of considering the financial statements. Further, the \[Mainzeal\] independent directors do not have formal visibility of the group financial statements. This could have an impact where a \[Mainzeal\] customer wishes to consider the NZ Group financial position.
+
+_Recommendation: Constitute a formal audit committee at a NZ Group level. Note this committee may operate as an extension of board procedure, however it should be a formal process operating under a specific audit committee charter._
+
+-   No formal risk management framework is in place for \[Mainzeal\] (or the NZ Group). We understand that plans are in place \[to\] formalise a risk committee for projects.
+
+_Recommendation: The plans for the risk committee for projects should be continued with. Further, oversight of risk at a board level should be considered._
+
+As it happened, none of these recommendations was implemented.
+
+-   \[71\] The report went on:
+
+The centralised treasury function originates from \[Mainzeal\]. Transfers of cash occur for the most part from \[Mainzeal\] to other group and cross-group companies (where the ultimate ownership is not clear and the ultimate utilisation of the cash is not known). The issue however is not with the transfer or the authorisation of the transfer. The issue is that the resultant receivable held by \[Mainzeal\] is NOT collectible when demanded.
+
+-   \[72\] The report also set out a Mainzeal “self-assessment” prepared by the CEO and CFO in relation to certain matters, including Mainzeal’s relationship with its parent companies. It records “\[c\]onfusion as to what is the ‘ultimate’ parent company”. In response to a question about the financial strength and capacity of the parent company, the self-assessment notes that the “\[p\]arent company relies on sister company in China” and that the strength of parent company support is “\[c\]onditional on getting funds out of China”.
+
+_Events February 2011–February 2013_
+
+-   \[73\] Mainzeal’s audited financial statements for the year ending 31 December 2010 were signed off by the directors, and by Ernst & Young as auditors, in April 2011. The financial statements recorded an operating loss of $1 million. They also recorded a profit before tax of $1.8 million after taking into account the accrued and capitalised interest of $2.8 million on inter-company loans. Excluding that interest accrual, the company made a loss.
+-   \[74\] The financial statements recorded net assets of some $26.3 million. Receivables of some $44.6 million included debts of $30 million owed by MLG and $12 million owed by RGREL. If the obligations owed by related companies are disregarded, there was a deficit in shareholder funds of approximately $18.3 million. As was the case with the financial statements for the 2009 year, an Emphasis of Matter in the audit report made it clear that the going concern assumption depended on continuation of shareholder support.
+-   \[75\] In the email to Mr Walker referred to at [\[65\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142577422?query=title(%222023%20NZSC%20113%22)) above, Mr Pearce recorded Mr Yan’s indication that he alone would deal with the auditors about whether the related parties advances were impaired. Mr Yan addressed this issue in a representation letter of 28 April 2011 to the auditors on behalf of Mainzeal’s directors in which he gave an unconditional assurance that “\[a\]ll accounts receivable ... are properly described in the financial statements”, are “recorded at their net realisable value” and that “\[a\]dequate provision \[had\] been made for uncollectible debts”. It is difficult to reconcile that assurance with:
+
+> (a) the January 2011 draft Ernst & Young report having noted three months earlier that the “receivable” held by Mainzeal resulting from transfers of cash to related companies “is NOT collectible when demanded”; and
+> 
+> (b) an Ernst & Young draft report of 15 July 2011, around three months later, recording that MLG did “not currently have sufficient available funds to repay” the money it owed Mainzeal were it to be called upon to do so.
+
+-   \[76\] From late 2011 to late 2012, Mainzeal entered into the four major projects, referred to above at [\[7\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref139461467?query=title(%222023%20NZSC%20113%22)), and which we further discuss in relation to the s 136 claim. These four major projects were:
+
+> (a) the Wigram Museum contract, entered into in November 2011;
+> 
+> (b) the Manukau Institute of Technology contract, entered into in February 2012;
+> 
+> (c) the ANZ Tory Street contract, entered into around October 2012; and
+> 
+> (d) the Ministry of Justice Manukau Precinct contract, entered into in November 2012.
+
+-   \[77\] By April 2012, Mainzeal was running into cashflow difficulties. This was associated with the start of what was to become a major dispute with Siemens (NZ) Ltd (Siemens), a company with which Mainzeal had a significant construction contract. We will come back shortly to how this dispute played out.<sup>[\[30\]](#fn30)</sup>
+-   \[78\] Sir Paul Collins was appointed to the board in April 2012. Within a few weeks of appointment, he advised Dame Jenny and Messrs Yan, Tilby and Gomm that Mainzeal ideally needed $20 million that could be introduced by way of preference share capital or subordinated debt.
+-   \[79\] The 2011 financial statements, approved in May 2012, recorded an operating loss of $10.5 million and, after allowing for finance income (the vast bulk of which was from related parties) and finance costs, an overall loss of $6.3 million.
+-   \[80\] At the board meeting on 23 May 2012 there was discussion of a significant cashflow gap (of $7–7.5 million) caused by the Siemens dispute. BNZ was not prepared to extend Mainzeal’s facilities. In the face of this, Richina Pacific provided assistance with money pursuant to standby letters of credit, a funding mechanism that had been approved by the Chinese authorities. Between May and December 2012 a net $9 million was provided in this way, as advances. This money helped with Mainzeal’s cashflow difficulties but not its solvency.
+-   \[81\] Around the same time, discussions commenced in relation to proposed restructuring that would involve Mainzeal shifting its assets and business into new entities. The purpose was to make Mainzeal less of a target for leaky building claims. As we have noted, Mainzeal was facing a number of such claims, the provisioning for which was distinctly less than its anticipated liabilities. Because the proposed entities outside of Mainzeal would not be subject to leaky building claims, they would be better positioned to deal with banks, those providing bonds and others. The internal reports as to how this proposal might be implemented recognised the risk that such implementation might fall foul of [s 346](http://www.nzlii.org/nz/legis/consol_act/pla2007179/s346.html) of the [Property Law Act 2007](http://www.nzlii.org/nz/legis/consol_act/pla2007179/index.html), given Mainzeal’s then financial position and the potential for prejudicial effect on creditors. This risk was addressed in only general terms (for instance, along the lines that all transfers of assets out of Mainzeal would have to be at fair value). The first steps in the proposed restructuring were taken at the end of December 2012 with a new company, Mainzeal Group Ltd (not to be confused with the earlier company of the same name), replacing RGREL as the immediate parent of Mainzeal and a corresponding migration of directors to it. However, of more significance for present purposes is the way in which the rationale for the restructure was expressed in the first of the board papers that addressed it:
+
+Richina has rightly questioned the legitimacy of providing further capital into a company that cannot provide certainty of returns in the face of what appears to be a never ending and ever increasing legacy tail.
+
+This comment had obvious bearing on the reliability of assurances of support.
+
+-   \[82\] By June 2012, overdue accounts represented almost half of accounts payable. The minutes of a meeting held on 26 June 2012 indicate that the directors were concerned about solvency, noting the need for a full assessment of “solvency going forward 12-18 months”. And at a board meeting on the following day, Mr Pearce referred to “\[e\]xtreme cashflow pressures ... covered by temporary banking facilities on a month by month basis”.
+-   \[83\] In an email he sent to Mr Yan on 4 July 2012, before the next day’s board meeting, Sir Paul noted that Mainzeal was in a “precarious position to say the least”. BNZ’s conditions for continued funding of Mainzeal’s working capital now included daily cashflow reports and monthly reviews. In addition, BNZ required personal guarantees from Mr Yan and his family trust supported by a second mortgage over a Remuera home owned by that trust. Mr Yan’s wife was also a trustee of the family trust.
+-   \[84\] In another email Sir Paul sent to Mr Yan on 5 July 2012, shortly before the meeting, Sir Paul commented:
+
+Richard – if its any consolation the guarantee and the second mortgage are in effect a zero sum game as in a receivership/liquidation ... BNZ with security over the assets would always get their money out – it’s all the unsecured creditors who are seriously exposed.
+
+-   \[85\] On the same day, also just before the meeting, Mr Yan emailed Mr Walker, saying:
+
+Dear John,
+
+We are struggling mightily with Mainzeal right now - we have an unresolved dispute with Siemens for up to $22 million and also a few late projects that are burning cash. Luckily BNZ head visited Shanghai with me so there is a chance they will bail us out one more month otherwise it is all over!!
+
+We have a Board meeting today and need to make some tough decisions!! Not sure how it all plays out yet. I thought we never have this again but it is almost ground hogs day with Vector!!
+
+Tomorrow we have another mediation on a Wellington leaky building. ...
+
+No good news I’m afraid.
+
+The reference to “Vector” is to losses incurred by Mainzeal in relation to the construction of the Vector Arena. There was no detailed evidence as to the extent of any assistance Richina Pacific may have provided to Mainzeal in relation to these losses. And, as we have noted, between 2006 and May 2012, the overall flow of funds was out of, rather than into, Mainzeal and Cooke J concluded that the evidence did not support “Mr Yan’s claim that significant financial resources were put into Mainzeal to rescue it in the earlier years”.<sup>[\[31\]](#fn31)</sup>
+
+-   \[86\] Also on the same day, and before the meeting, Mr Yan wrote to the other directors:<sup>[\[32\]](#fn32)</sup>
+
+... Of course, for me to give a personal guarantee will have very significant impact on the family should things further worsen. \[My wife\] clearly feels extremely uncertain with the operating viability of Mainzeal now having attended a number of board meetings and being faced with continuous issues and many surprises even in the short period she has attended the meetings.
+
+From my perspective Mainzeal is now absolutely exhausting all our ability to fund outside of China a combination of the sudden needs as well as very poor performance record as reflected in accounts and consistent huge variation to forecast which limits people's appetite to fund NZ even with cash as security as their offshore entities cannot lend money even fully secured if knowing it has to resort back to security. ...
+
+Still, saying no \[that is to providing a guarantee and security\] would mean an immediate liquidation of Mainzeal and other than the financial losses it impacts everything Richina has worked for and now Minister McCully is visiting Shanghai next Tuesday just to see NZ House and make a decision on NZ Week so we have too much at stake.
+
+-   \[87\] As we will explain in further detail, the date from which the Court of Appeal found a breach of [s 136](http://www.nzlii.org/nz/legis/consol_act/pla2007179/s136.html) in respect of all obligations subsequently incurred is 5 July 2012, the day of the board meeting just discussed.<sup>[\[33\]](#fn33)</sup>
+-   \[88\] As he indicated he would in the above email, Mr Yan provided the second mortgage, but it caused him significant concern, a concern that, as we will explain, ultimately precipitated the collapse of Mainzeal.
+-   \[89\] On 10 July 2012 Sir Paul emailed Mr Yan to say:
+
+I would have to say I’m at my wits end. I joined the board under the impression Mainzeal was solvent - I accept Siemens came from left field but equally I accepted all your representations re support and more recently redomiciling in NZ later this year and taking out the BNZ. As you will well appreciate I have dealt with a lot of bad news stories over the years and have found that matters can be worked through when you have all the cards on the table. I don’t have that confidence here. ...
+
+In response, Mr Yan continued to maintain that everything was manageable as Mainzeal was “meeting all BNZ requirements now” and that from his perspective “nothing \[has\] changed”.
+
+-   \[90\] In an email of 27 August 2012 to Mr Pearce, Mr Yan said:
+
+Is Mainzeal saying on top of all the cash shortfalls in NZ, China has to fund another $8 million???? How can we burn through cash like this? How is that sustainable??? I'm really speechless - how could we have such a bottomless hole?????
+
+-   \[91\] In September and October 2012, Mainzeal was unsuccessful in two adjudications under the [Construction Contracts Act 2002](http://www.nzlii.org/nz/legis/consol_act/cca2002284/index.html) in relation to its dispute with Siemens. It began selling assets to deal with cashflow difficulties.
+-   \[92\] At the end of October 2012 BNZ agreed to continue its facility of $12 million until the end of 2012 and Richina Pacific agreed to put in further funds. As a condition of continuing to provide funds to Mainzeal, BNZ required Mainzeal to appoint PwC to undertake an independent assessment of Mainzeal’s financial position, funding requirements and ongoing viability.
+-   \[93\] On 1 December 2012, Mr Yan emailed Mr Walker referring to difficulties in securing continued support from BNZ. He then went on:
+
+... we have one last try Monday so Mainzeal will either go under this week, or just before Christmas if we can't save it!
+
+Not sure as I have just landed back to Auckland and of course I will do all I can but only worth saving if we can if it is indeed viable medium term.
+
+Will keep you posted and let's speak before we make any final decisions.
+
+-   \[94\] On the same day, Sir Paul emailed the other directors to say that other specialist advice on solvency was needed. He said that if Mainzeal did not have BNZ’s support, the company was insolvent, and a receiver should be appointed. He also said that Mainzeal needed additional equity of no less than $10 million. The specialist adviser retained was Mr Michael Arthur, a lawyer. The effect of the advice from Mr Arthur was recorded in the minutes of the 4 December 2012 board meeting:
+
+**4\. INDEPENDENT LEGAL ADVICE**
+
+Michael Arthur (MA) addressed the meeting in his role as independent legal advisor to the Board. His advice to Directors was to attend to the responsibilities laid out in his email of 3 December (4 items listed below):
+
+1.  Obtain, and critically consider, good and reliable information and advice.
+2.  Monitor closely, and with increased frequency, performance of the company against cash-flow projections. Essentially, the same question (whether on-going trading is prudent) should be asked repeatedly, as all new information becomes available.
+3.  Ensure that any third party commitments, on which the Board is relying, are documented in a legally binding way.
+4.  Consider very carefully any significant new obligation. Specifically, does the Board reasonably consider that the obligation will be met when it falls due?
+
+In addition to the above, MA provided further clarification with respect to solvency considerations and any plans to trade out established for Directors.
+
+These are summarised as follows:
+
+-   The Courts are sympathetic to Directors’ rights to trade out of difficult business situations; that they should be given reasonable time to do so (months generally, not days or years). Normally trading out required committing more equity to the company.
+-   In deciding to trade further, Directors had to consider the risk of injury to the “body” of creditors but do not need to base key decisions on the needs of individual creditors.
+-   Ask always, “Do I/we have the information that I need, do I trust it?”
+-   Have more regular meetings and ask the right questions.
+-   If other members in the group are being required to support, the interests of those Boards need to be considered and their approval obtained.
+
+(Note: this seems not to be an issue in our situation).
+
+-   With regard to email item 3 above, all commitments from the shareholder or others need to be legally structured and specific to each pledge made. \[Richina Pacific’s in house lawyer\] will draft the necessary commitments for Board approval.
+
+MA stressed how important it was to get PWC validation of any plan going forward.
+
+-   \[95\] On 8 December 2012, Mr Yan emailed Sir Paul:
+
+If we could take more cash out this year we would have!!! It is NOT for lack of trying. We just can NOT. There are simply no more routes than providing materials through \[King Façade\]. The ... $3 million was already a very BIG stretch but we had no choice.
+
+All we can do is now trying our best. I spoke to Peter \[Gomm\] in the office and again emphasized to him that China can and will do everything to help but Mainzeal must be a going concern and that's why it is so important that we demonstrate why its new business model makes it very sustainable backed by numbers!!
+
+We will be able to see how that stacks up Monday!!
+
+-   \[96\] Later that month the dispute with Siemens was finally resolved. BNZ had imposed as a condition of continued support that an overall settlement be reached with Siemens. The settlement with Siemens was on terms the directors regarded as very disadvantageous. And, although the settlement eased the cashflow difficulties, the company remained under significant financial pressure.
+-   \[97\] On 18 December 2012 PwC produced parts of its report in draft. These highlighted significant concerns, including the reliability of Mainzeal’s cashflow forecasting, the impact of legacy claims and the recoverability of debts owed by related entities. The draft report described the outlook for the Mainzeal Group for the next 12 months as “very uncertain”, with management’s ability to execute the business plan over that period dependent on many factors, such as completion of certain asset sales, resolution of legacy claims, and “\[a\]n equity injection to recapitalise the Group to a level commensurate with its scale of operation”.
+-   \[98\] The collapse of Mainzeal came about in the following way:
+
+> (a) In December 2012 and January 2013, Dame Jenny was in contact with Messrs Walker and Yan, seeking commitments in writing in relation to further equity/capital and the supply of building materials from China.
+> 
+> (b) On 22 January 2013, Mr Yan told Dame Jenny that unless he could secure a release of the mortgage for his wife, he would cease all support for the company.
+> 
+> (c) A letter of 29 January 2013 from Mr Yan to Mainzeal confirmed that support for Mainzeal would not be provided and expressed the view “that this means that each of \[Mainzeal\] and MLG will not be able to pay its debts as they fall due, will be unable to meet the solvency test under the [Companies Act](http://www.nzlii.org/nz/legis/consol_act/ca1993107/index.html) and is therefore no longer a going concern”.
+> 
+> (d) Mr Yan’[s 22](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s22.html) January ultimatum was withdrawn once Dame Jenny drew Mr Walker’s attention to it. As well, the uncompromising letter of 29 January from Mr Yan was followed by letters on 31 January from CHC offering to provide further support and from Richina Pacific, signed by Mr Walker to the Mainzeal directors and BNZ, setting out the support that would be available from the Chinese companies if BNZ was willing to continue to support Mainzeal. It was, however, too late, as Mr Yan’[s 29](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s29.html) January letter had already been shared with BNZ.
+> 
+> (e) By letter dated 31 January 2013, BNZ advised that it was suspending any further drawings on its facilities. This triggered Mainzeal’s demise. Receivers were appointed on 6 February 2013 and Mainzeal was placed into liquidation on 28 February 2013.
+
+-   \[99\] Following Mainzeal’s collapse Dame Jenny contacted Messrs Yan and Walker urging them, but without avail, to ensure that the receivables owing to Mainzeal and money owed to staff and subcontractors would be paid.
+
+**The High Court’s approach**
+
+-   \[100\] Cooke J rejected the claim under [s 136.](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s136.html) This was for reasons that were in part a consequence of the way the case had been pleaded and run at trial and, in other respects, based on his view of the operation of [s 136.](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s136.html) He considered the section required focus on particular obligations Mainzeal entered into under specific construction contracts and that the case had not been pleaded or proved on that basis.<sup>[\[34\]](#fn34)</sup> He further found: <sup>[\[35\]](#fn35)</sup>
+
+...there is no reason to conclude that the directors either did not believe that those obligations would be fulfilled, or to conclude that the reasons for believing they would be fulfilled were unreasonable.
+
+-   \[101\] The Judge did conclude, however, that the directors had acted in breach of their duties under [s 135](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s135.html) not to cause, allow or agree to the business of the company being carried on in a manner likely to create a substantial risk of serious loss to the company’s creditors. In his view, this state of affairs commenced in mid-2010. The liquidators’ pleadings contended that the breaches occurred from 31 January 2011, or alternatively 31 July 2011. The Judge accepted that breaches occurred at the first of those dates.<sup>[\[36\]](#fn36)</sup>
+-   \[102\] The Judge dealt with three possible measures of loss:
+
+> (a) The entire deficiency. This refers to the total amount of unpaid debt on liquidation.
+> 
+> (b) Net deterioration. This is the extent, if any, that the financial position of the company deteriorated between breach and liquidation dates. This is assessed by comparing the assumed financial position of the company if liquidated at the breach date and the actual position on liquidation. As this suggests, the approach assumes that the alternative to continued trading in breach of [ss 135](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s135.html) and/or 136 was liquidation. Net deterioration provides a measure of the loss caused to the company by the relevant breach. However, net deterioration can also be seen as measuring the loss suffered by the creditors collectively.
+> 
+> (c) New debt. On this approach, the relevant loss for the purposes of a breach of [ss 135](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s135.html) and [136](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s136.html) is the gross amount of debt that (a) was taken on in breach of [ss 135](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s135.html) and [136](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s136.html) and (b) remained unpaid at the date of liquidation.
+
+-   \[103\] The liquidators’ approach at trial was that loss for breaches of [ss 135](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s135.html) and [136](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s136.html) should be calculated on a new debt basis, or, in the alternative, net deterioration.<sup>[\[37\]](#fn37)</sup> They did not seek to recover loss calculated by reference to the entire deficiency. However, that was the approach that the Judge took.
+-   \[104\] He saw the directors’ breaches, including the failure to apply pressure on Richina Pacific soon enough, as a material cause of the company failing. He was of the view that if the directors had applied sufficient pressure prior to the end of January 2011, the company would have been adequately capitalised, albeit he considered that the availability of relief did not depend on that factual finding.<sup>[\[38\]](#fn38)</sup> On the basis that the directors’ actions were a material cause of Mainzeal’s failure, they were potentially liable for the entire deficiency of approximately $110 million. He concluded that appropriate compensation was one third of that deficiency — expressed in rounded figures, $36 million<sup>[\[39\]](#fn39)</sup> — and that Mr Yan should be liable for the full amount of $36 million and the other directors should have their liability capped at $6 million each.<sup>[\[40\]](#fn40)</sup>
+-   \[105\] In reaching this conclusion, he held that a new debt approach to quantum was not available under [s 135.](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s135.html) As well, he found on the facts that the liquidators could not make out a claim for relief based on a net deterioration in the financial position of Mainzeal between breach and liquidation dates.<sup>[\[41\]](#fn41)</sup>
+
+**The Court of Appeal’s approach**
+
+-   \[106\] For reasons that were substantially similar to those of Cooke J, the Court of Appeal concluded that the directors had breached [s 135](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s135.html) no later than 31 January 2011.<sup>[\[42\]](#fn42)</sup> The Court however considered that Cooke J’s approach to quantum had not been available given the way the case had been pleaded and run.<sup>[\[43\]](#fn43)</sup> In any event the Court was not satisfied that pressure from the directors on Richina Pacific, in say 2010, would have resulted in Mainzeal being recapitalised and not later failing, which it saw as a precondition to imposing liability calculated by reference to the entire deficiency.<sup>[\[44\]](#fn44)</sup> In effect, the Court of Appeal rejected the view that the relevant counterfactual was of a properly capitalised Mainzeal trading successfully rather than failing. This left liquidation at breach date as the counterfactual relevant to assessment of quantification. On this basis, quantum for breach of [s 135](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s135.html) should have been assessed by reference to the net deterioration, if any, between 31 January 2011 (being the breach date) and 28 February 2013 (the date of liquidation). The Court concluded a net deterioration had not been established on the evidence.<sup>[\[45\]](#fn45)</sup> In agreement with Cooke J, the Court rejected a new debt calculation approach under [s 135.](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s135.html)<sup>[\[46\]](#fn46)</sup>
+-   \[107\] As to [s 136](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s136.html), the Court thought it obvious that the directors had agreed to new obligations being entered into after 31 January 2011.<sup>[\[47\]](#fn47)</sup> Those obligations included those associated with the four major projects to principals, subcontractors and suppliers. The Court said that since the directors believed Mainzeal would be able to meet new obligations entered into after 31 January 2011 — that had not been challenged by the liquidators — the issue for the Court was therefore whether there were reasonable grounds for that belief.<sup>[\[48\]](#fn48)</sup>
+-   \[108\] On the basis that collapse of Mainzeal was not imminent at 31 January 2011, the Court was of the view that the directors had reasonable grounds for their belief that short-term obligations would be honoured. But it held that there were not reasonable grounds in relation to the medium to long‑term obligations entered into after 31 January 2011 associated with the four major projects.<sup>[\[49\]](#fn49)</sup> As well, it concluded, there was a breach of [s 136](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s136.html) in relation to all obligations incurred after 5 July 2012.<sup>[\[50\]](#fn50)</sup>
+-   \[109\] Applying this Court’s decision in _Madsen-Ries (as liquidators of Debut Homes Ltd (in liq)) v Cooper_ (_Debut Homes_),<sup>[\[51\]](#fn51)</sup> the Court of Appeal concluded that the new debt approach was available in relation to a claim for breach of [s 136.](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s136.html)<sup>[\[52\]](#fn52)</sup> Such an award of compensation would fairly reflect the harm to the new creditors. The loss to the creditors was treated as harm to the company for the purpose of the [s 136](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s136.html) duty, and thus for assessing compensation.
+-   \[110\] For reasons with which we engage later in this judgment, the Court concluded that it did not have sufficient information to assess the amount of the relevant new debt.<sup>[\[53\]](#fn53)</sup> So it referred that issue back to the High Court, along with whether compensation should be fixed by reference to that amount or reduced in the exercise of the [s 301](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s301.html) discretion and how liability should be apportioned between the directors.<sup>[\[54\]](#fn54)</sup>
+
+**Legal context and history**
+
+-   \[111\] As we have already noted, fundamental to the issues we must determine is the extent to which the courts should have regard to the interests of creditors when applying [ss 135](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s135.html), [136](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s136.html) and [301](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s301.html). In this section of the judgment, we provide context we regard as critical to answering this question.
+
+_Preliminaries_
+
+-   \[112\] The duties of directors and the rights and interests of company creditors have their origins in common law and equitable principles. These were initially developed to address the mid‑nineteenth century proliferation of joint stock companies with limited liability and separate legal personalities. The associated legal principles have been restated, varied and supplemented by legislation. In the result, the law we must apply, while largely statutory, is closely associated with its common law and equitable origins.<sup>[\[55\]](#fn55)</sup>
+-   \[113\] Interpreting and applying the open‑textured statutory language must be informed by a good understanding of the policy issues that are engaged. However, there is the potential for tension between policy considerations: most particularly for the purposes of this case, the desirability of encouraging the taking of business risk and associated with that, allowing directors a wide discretion in matters of business judgment, as against providing protection for creditors. In some instances, the way in which the relevant provisions are expressed may leave resolution of conflicting policy considerations substantially to the courts. But in other situations, careful analysis of the relevant provisions and the associated legislative scheme and purpose may show that the tension in issue has already been resolved by the legislature.
+-   \[114\] Relevant to how [ss 135](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s135.html), [136](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s136.html) and [301](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s301.html) are interpreted is where they sit within the scheme of the 1993 Act and how they fit in with certain general principles and features of company law. Also material is the provenance of these sections, particularly their legislative antecedents; how those antecedents were applied by the courts, including the extent to which they were seen as requiring directors to have regard to the interests of creditors; the approach of the Law Commission in the 1989 report that resulted in the 1993 Act; and the later legislative history. Subsequent significant judicial decisions, _Debut Homes_, _BTI 2014 LLC v Sequana SA_ and _Stanford International Bank Ltd (in liq) v HSBC Bank plc_ also warrant discussion.<sup>[\[56\]](#fn56)</sup> In this part we address each of these subjects in turn.
+
+_The 1993 Act and relevant principles and features of company law_
+
+-   \[115\] It is elementary that a company is a legal entity with legal personality separate from shareholders and, as a corollary, its shareholders are not personally responsible for its liabilities.
+-   \[116\] The business and affairs of a company are the collective responsibility of its directors. As will be apparent, they owe the company the duties specified in ss 135 and 136, but there are other duties and provisions relevant to this appeal.
+-   \[117\] The core fiduciary duty of directors is set out in s 131(1):<sup>[\[57\]](#fn57)</sup>  1.  **Duty of directors to act in good faith and in best interests of company**
+
+> (1) Subject to this section, a director of a company, when exercising powers or performing duties, must act in good faith and in what the director believes to be the best interests of the company.
+
+-   \[118\] Section 133 provides that a director must exercise their powers for proper purposes.
+-   \[119\] Sections 135 to 137 read as follows:
+
+**135 Reckless trading**
+
+A director of a company must not—
+
+> (a) agree to the business of the company being carried on in a manner likely to create a substantial risk of serious loss to the company’s creditors; or
+> 
+> (b) cause or allow the business of the company to be carried on in a manner likely to create a substantial risk of serious loss to the company’s creditors.
+
+**136 Duty in relation to obligations**
+
+A director of a company must not agree to the company incurring an obligation unless the director believes at that time on reasonable grounds that the company will be able to perform the obligation when it is required to do so.
+
+**137 Director’s duty of care**
+
+A director of a company, when exercising powers or performing duties as a director, must exercise the care, diligence, and skill that a reasonable director would exercise in the same circumstances taking into account, but without limitation,—
+
+(a) the nature of the company; and
+
+(b) the nature of the decision; and
+
+> (c) the position of the director and the nature of the responsibilities undertaken by him or her.
+
+-   \[120\] Section 138 addresses the extent to which, when exercising their powers, directors may rely on information supplied by others. It provides:
+
+**138 Use of information and advice**
+
+(1) Subject to subsection (2), a director of a company, when exercising powers or performing duties as a director, may rely on reports, statements, and financial data and other information prepared or supplied, and on professional or expert advice given, by any of the following persons:
+
+> (a) an employee of the company whom the director believes on reasonable grounds to be reliable and competent in relation to the matters concerned:
+> 
+> (b) a professional adviser or expert in relation to matters which the director believes on reasonable grounds to be within the person’s professional or expert competence:
+> 
+> (c) any other director or committee of directors upon which the director did not serve in relation to matters within the director’s or committee’s designated authority.
+
+(2) Subsection (1) applies to a director only if the director—
+
+(a) acts in good faith; and
+
+> (b) makes proper inquiry where the need for inquiry is indicated by the circumstances; and
+
+(c) has no knowledge that such reliance is unwarranted.
+
+-   \[121\] Section 169 specifies whether duties are owed to shareholders or the company. Section 169(3) provides:
+
+> (3) Without limiting subsection (1), the duties of directors set out in—
+> 
+> > (a) section 90 (which relates to the duty to supervise the share register); and
+> > 
+> > (b) section 140 (which relates to the duty to disclose interests); and
+> > 
+> > (c) section 148 (which relates to the duty to disclose share dealings)—
+
+are duties owed to shareholders, while the duties of directors set out in—
+
+> (d) section 131 (which relates to the duty of directors to act in good faith and in the best interests of the company); and
+> 
+> (e) section 133 (which relates to the duty to exercise powers for a proper purpose); and
+> 
+> (f) section 135 (which relates to reckless trading); and
+> 
+> (g) section 136 (which relates to the duty not to agree to a company incurring certain obligations); and
+> 
+> (h) section 137 (which relates to a director’s duty of care); and
+> 
+> (i) section 145 (which relates to the use of company information)—
+
+are duties owed to the company and not to shareholders.
+
+There is nothing in the section to suggest that duties are owed to creditors.
+
+-   \[122\] Section 301, under which the liquidators claim in this proceeding, applies to companies in liquidation and enables the liquidators, creditors and shareholders to bring proceedings against directors and others. It reads as follows:  1.  **Power of court to require persons to repay money or return property**
+
+(1) If, in the course of the liquidation of a company, it appears to the court that a person who has taken part in the formation or promotion of the company, or a past or present director, manager, administrator, liquidator, or receiver of the company, has misapplied, or retained, or become liable or accountable for, money or property of the company, or been guilty of negligence, default, or breach of duty or trust in relation to the company, the court may, on the application of the liquidator or a creditor or shareholder,—
+
+> (a) inquire into the conduct of the promoter, director, manager, administrator, liquidator, or receiver; and
+> 
+> (b) order that person—
+> 
+> > (i) to repay or restore the money or property or any part of it with interest at a rate the court thinks just; or
+> > 
+> > (ii) to contribute such sum to the assets of the company by way of compensation as the court thinks just; or
+> 
+> > (c) where the application is made by a creditor, order that person to pay or transfer the money or property or any part of it with interest at a rate the court thinks just to the creditor.
+
+> (2) This section has effect even though the conduct may constitute an offence.
+> 
+> (3) An order for payment of money under this section is deemed to be a final judgment within the meaning of [section 17(1)(a)](http://www.nzlii.org/nz/legis/consol_act/ia2006149/s17.html) of the [Insolvency Act 2006](http://www.nzlii.org/nz/legis/consol_act/ia2006149/index.html).
+> 
+> (4) In making an order under subsection (1) against a past or present director, the court must, where relevant, take into account any action that person took for the appointment of an administrator to the company under [Part 15A.](http://www.nzlii.org/nz/legis/consol_act/ia2006149/index.html#p15a)
+
+-   \[123\] The 1993 Act contains a number of mechanisms designed to enable a company facing financial difficulties to resolve them and continue trading, including: compromises with creditors (Part 14), court-approved arrangements, amalgamations and compromises (Part 15) and voluntary administration (Part 15A). In all of this, allowance is made for the interests of creditors. Under Part 16 a liquidator may be appointed by shareholders by special resolution or appointed by the court, on the application of certain persons including a shareholder, a director or a creditor. The principal duty of a liquidator of a company is to take possession of, protect, realise, and distribute the company’s assets or their proceeds to the creditors of the company in accordance with the regime prescribed by the Act.<sup>[\[58\]](#fn58)</sup> The liquidator applies the proceeds of realisation of the company’s assets to meet claims in the statutory order of priority, set out in Part 16. Overall, the statutory regime for liquidations is based upon the pari passu principle, requiring equal treatment of creditors in like positions and facilitating the orderly and efficient realisation of the company’s assets for distribution to creditors.<sup>[\[59\]](#fn59)</sup>
+-   \[124\] Part 16 also contains provisions designed to ensure that the pari passu regime for payment of unsecured creditors is not circumvented by payments made, and securities granted, in the period prior to liquidation.<sup>[\[60\]](#fn60)</sup>
+-   \[125\] Also material is the long title to the 1993 Act, which is in these terms:
+
+An Act to reform the law relating to companies, and, in particular,—
+
+> (a) to reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; and
+> 
+> (b) to provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; and
+> 
+> (c) to define the relationships between companies and their directors, shareholders, and creditors; and
+> 
+> (d) to encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; and
+> 
+> (e) to provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
+
+_The statutory antecedents of ss 135, 136 and 301_
+
+-   \[126\] Sections 135, 136 and, in part, s 301 of the 1993 Act can be traced back to the recommendations for the imposition of liability on directors for fraudulent trading made in the 1926 Report by the Company Law Amendment Committee (Greene Report)<sup>[\[61\]](#fn61)</sup> and their implementation in the United Kingdom by the Companies Act 1929 (UK).<sup>[\[62\]](#fn62)</sup> New Zealand first provided for such liability in s 268 of the [Companies Act 1933](http://www.nzlii.org/nz/legis/hist_act/ca193324gv1933n29179/index.html) (1933 Act), a provision modelled on the United Kingdom provision and carried forward as s 320 of the [Companies Act 1955](http://www.nzlii.org/nz/legis/consol_reg/ca1955lr1994357/index.html) (1955 Act). Section 320(1), as enacted in 1955, read as follows:
+
+If in the course of the winding up of a company it appears that any business of the company has been carried on with intent to defraud creditors of the company or creditors of any other person or for any fraudulent purpose, the Court, on the application of the Official Assignee or the liquidator or any creditor or contributory of the company, may, if it thinks proper so to do, declare that any persons who were knowingly parties to the carrying on of the business in manner aforesaid shall be personally responsible, without any limitation of liability, for all or any of the debts or other liabilities of the company as the Court may direct. ...
+
+-   \[127\] In 1980, a new s 320(1) was enacted:<sup>[\[63\]](#fn63)</sup>
+
+(1) If in the course of the winding up of a company it appears that—
+
+(a) Any person was, while an officer of the company, knowingly a party to the contracting of a debt by the company and did not, at the time the debt was contracted, honestly believe on reasonable grounds that the company would be able to pay the debt when it fell due for payment as well as all its other debts (including future and contingent debts); or
+
+(b) Any person was, while an officer of the company, knowingly a party to the carrying on of any business of the company in a reckless manner; or
+
+(c) Any person was knowingly a party to the carrying on of any business of the company with intent to defraud creditors of the company or creditors of any other person or for any fraudulent purpose,—
+
+the Court, on the application of ... the liquidator or any creditor ... of the company, may, if it thinks it proper to do so, declare that the person shall be personally responsible, without any limitation of liability, for all or any part of the debts and other liabilities of the company as the Court may direct. ...
+
+-   \[128\] Liability under s 320(1), in both its iterations, was sui generis. Liability arose directly under it and was not premised on any other statutory or common law duty. Resort to s 320 was only possible during the winding up of a company and did not confer a right of action which could be enforced directly by the company.
+-   \[129\] There was judicial debate as to what might be entailed by a declaration that the officer of the company “be personally responsible ... for all or any part of the debts and other liabilities of the company as the court may direct”, in particular whether this contemplated that the officers would be directly liable to creditors and, if not, the basis upon which relief should awarded.
+-   \[130\] These issues were first addressed in the 1930s in two connected cases concerning the English provision from which s 268 of the 1933 Act and s 320 of the 1955 Act were drawn. In the first_, Re William C Leitch Brothers Ltd (No 1)_, Maugham J concluded that the section envisaged that a judgment would issue for an identified sum of money.<sup>[\[64\]](#fn64)</sup> That sum would usually, although not necessarily always, be limited to the value of the debts of those who had been defrauded. The Judge left it to be determined in separate proceedings who should be the beneficiaries of his judgment. In the second, _Re William C Leitch Brothers Ltd (No 2)_, Eve J discussed how recoveries were to be dealt with under the section.<sup>[\[65\]](#fn65)</sup> He said:<sup>[\[66\]](#fn66)</sup>
+
+It may well be that the liability it imposes is measured by the debts of the defrauded creditors. But this is not of itself a ground for holding that the ordinary rules of equality are to be disregarded and a preference created in favour of the defrauded class.
+
+He concluded that funds recovered under the judgment were to be applied for the benefit of all creditors and not just those who advanced credit to the company at the time when its business was conducted with intent to defraud creditors.<sup>[\[67\]](#fn67)</sup>
+
+-   \[131\] In 1967, in _Re Cyona Distributors Ltd_, a different approach was adopted by a majority in the Court of Appeal.<sup>[\[68\]](#fn68)</sup> Under this approach the court could impose a direct liability on company officers to meet particular debts. In explaining this, Lord Denning MR said:<sup>[\[69\]](#fn69)</sup>
+
+... An order can be made either at the suit of the liquidator, etc., or of a _creditor_. ... The court has full power to direct its destination. The words are quite general: “all or any of the debts or other liabilities of the company as the court shall direct.” By virtue of these words the court can order the sum to go in discharge of the debt of any particular creditor; or that it shall go to a particular class of creditors; or to the liquidator so as to go into the general assets of the company, so long as it does not exceed the total of the debts or liabilities. Of course, when an application is made by a liquidator, the court will usually order the sum to go into the general assets, as Eve J did in _In re William C Leitch Bros Ltd_ _(No 2)_, but I do not think it is bound to do so. Certainly when an application is made by a creditor who has been defrauded, the court has power, I think, to order the sum to be paid to that creditor. In short, I think the words of the section are to be given their full width. When a creditor applies, as the commissioners did here, he applies on his own account. He does not apply as being under a trust for the other creditors or for anyone else. He is the master of his own application. He can discontinue his application, if he likes, without getting the sanction of the liquidator. But no doubt the liquidator should always be made a party to the proceedings, so that the interests of the other creditors can be safeguarded.
+
+Danckwerts LJ agreed with Lord Denning MR.<sup>[\[70\]](#fn70)</sup>
+
+-   \[132\] The approach of Lord Denning MR and Danckwerts LJ was arguably more in keeping with the language of the section than the approach in _Leitch (No 2)._ But their reasons for not applying the _Leitch_ cases were not entirely convincing. Dissenting on this point (but not the outcome) Russell LJ said he would have applied the approach in _Leitch (No 2)_ because it was consistent with the overall scheme of pari passu distribution of assets on a liquidation, an approach to distribution that was subject only to carefully defined preferential claims.<sup>[\[71\]](#fn71)</sup>
+-   _\[133\] Re Cyona_ involved unusual facts and no order under the equivalent of s 320 was made.
+-   \[134\] In the later case of _Re Gerald Cooper Chemicals Ltd_, in the context of a strike‑out application, Templeman J took what, in substance, was the same approach as that taken in _Re Cyona_ to the ability of a creditor to seek direct relief.<sup>[\[72\]](#fn72)</sup> However, the facts of _Re Gerald Cooper_ were again somewhat unusual, involving a fraud on a single creditor in circumstances where the creditor would have had common law or equitable claims for fraud against those who were responsible. Although _Re Cyona_ was cited in argument, Templeman J did not refer to it, or indeed to the _Leitch_ cases.
+-   \[135\] The New Zealand cases decided under s 320 generally applied the _Leitch_ decisions. In _Re Casual Capers Ltd (in liq),_ a case involving a liquidator’s s 320 application, Bisson J adopted the same approach as that of Maugham J and Eve J, holding that while the amount to be awarded under s 320 was in the general discretion of the court, it must be for a specific sum, and would usually be limited to the debts of the defrauded creditors.<sup>[\[73\]](#fn73)</sup> He said that money recovered by the liquidator would form part of the general assets of the company and be available for all creditors in the winding up.<sup>[\[74\]](#fn74)</sup> The Judge did not refer to _Re Cyona_.
+-   \[136\] As we will discuss shortly, there were some subsequent cases in which _Re Cyona_ was referred to. We will, however, defer discussion of these cases as they post-date the Law Commission’s report on company law which is best reviewed in light of the case law as it was at the time it was published.<sup>[\[75\]](#fn75)</sup>
+-   \[137\] Also relevant to the legislative history of ss 135, 136 and especially s 301, is s 321(1) of the 1955 Act.<sup>[\[76\]](#fn76)</sup> This subsection (following an amendment in 1980) was in these terms:<sup>[\[77\]](#fn77)</sup>
+
+If in the course of winding up a company it appears that any person who has taken part in the formation or promotion of the company, or any past or present director, manager, or liquidator, or receiver, or any officer of the company, has misapplied or retained or become liable or accountable for any money or property of the company, or been guilty of any negligence, default, or breach of duty or trust in relation to the company, the Court may, on the application of the Official Assignee, the liquidator, or any creditor or contributory, examine into the conduct of the promoter, director, manager, liquidator, receiver, or officer, and compel him to repay or restore the money or property or any part thereof respectively with interest at such rate as the Court thinks just, or to contribute such sum to the assets of the company by way of compensation in respect of the misapplication, retainer, negligence, default, or breach of duty or trust as the Court thinks just.
+
+-   \[138\] As will be apparent, much of the language of s 301 of the 1993 Act is derived from this provision. We will come back to discuss this later when we discuss the application of s 301 to the facts of this case. For present purposes, what is significant is that s 321 of the 1955 Act offered what was seen as a summary process to pursue claims in liquidation for breaches of existing duties outside of the section itself that were owed to the company. In contrast to s 320, it did not create new rights of action. An application to the court under this section was often referred to as a “misfeasance summons”.
+-   \[139\] Assuming the view of the majority in _Re Cyona_ and of Templeman J in _Re Gerald Cooper_ was correct, ss 320 and 321 operated together in a reasonably coherent way. Misconduct by directors or other officers of a company that directly harmed the interests of creditors (being conduct identified in s 320(1)) could result in the court providing relief direct to the creditors who were harmed, whereas misconduct that affected the company directly (and creditors only indirectly) could be addressed under s 321 by the grant of relief to the company.
+-   \[140\] The alternative approach reflected in the _Leitch_ cases also produced a coherent, albeit different, picture. Under both sections, relief could only be granted in favour of the liquidator irrespective of who applied, but under s 320 it was to be calculated by reference to the loss to the creditors.
+-   \[141\] There is one other relevant point which emerges from the English cases. Because the right of action under provisions such as s 320 was vested in the liquidator (and arguably the creditors) rather than the company and could be exercised only in the course of winding up, it was well-arguable that compensation recovered was not an asset of the company and for this reason would not be subject to charges in favour of secured creditors.<sup>[\[78\]](#fn78)</sup>
+
+_Judicial recognition of a requirement for directors to have regard to the interests of creditors_
+
+-   \[142\] Directors’ duties are primarily owed to the company.<sup>[\[79\]](#fn79)</sup> That said, the interests of a solvent company and its shareholders are sufficiently aligned to see the duties owed to the company as requiring directors to have regard to the interests of shareholders. A related point is that the courts have also recognised that in circumstances of doubtful solvency, actual insolvency or inevitable insolvent liquidation, directors may be required to have regard to the interests of creditors — although exactly how that requirement should be formulated has been an issue of contention. The details and implications of this requirement are of significance to the outcome of the appeals and cross-appeal, and we discuss them later in some detail.<sup>[\[80\]](#fn80)</sup> It is important to note at this point that any requirement to have regard to the interests of creditors was a subset of the duties owed by directors to the company.
+-   \[143\] Judicial recognition of the obligation to consider the interests of creditors emerged in New Zealand and elsewhere in the latter part of the last century. Important instances of this are the New Zealand case, _Nicholson v Permakraft (NZ) Ltd_,<sup>[\[81\]](#fn81)</sup> the Australian decision, _Kinsela v Russell Kinsela Pty Ltd (in liq)_<sup>[\[82\]](#fn82)</sup> and in the United Kingdom, _West Mercia Safetywear Ltd (in liq) v Dodd_.<sup>[\[83\]](#fn83)</sup> We will discuss more recent developments a little later in these reasons.<sup>[\[84\]](#fn84)</sup> But what is primarily material for present purposes is that these cases provided part of the context that the Law Commission addressed in its 1989 report on reform of company law, to which we now turn.
+
+_The report and recommendations of the Law Commission_
+
+-   \[144\] We have just reviewed the state of the law as it was in 1989 when the Law Commission issued its report on a proposed major reform of company law, _Company Law: Reform and Restatement_.<sup>[\[85\]](#fn85)</sup> That report attached a draft of a proposed new [Companies Act](http://www.nzlii.org/nz/legis/consol_reg/ca1955lr1994357/index.html).<sup>[\[86\]](#fn86)</sup>
+-   \[145\] In this report, the Law Commission expressed a strong policy preference against providing for duties to be owed directly by directors to the creditors of a company:
+
+217 In particular, we are of the view that it is wrong in principle to impose fiduciary duties upon directors which are owed directly to creditors of the company. Any such extension of directors’ duties would unacceptably dilute the scheme of director accountability under the draft Act.
+
+...
+
+219 Directors owe a specific duty to the company not to take unreasonable risks of breaching the solvency test (section 105). Where that duty is breached, liability is owed to the company and may be enforced by the company or by a shareholder suing derivatively or, after insolvency, by the liquidator. Creditors will not have standing to obtain a remedy for breaches of the solvency duties owed to the company. To provide such a remedy would be to undermine the statutory system for liquidations. ...
+
+220 This is an area of law which has recently been considered in New Zealand and Australia in _Nicholson v Permakraft (NZ) Limited_ ... and _Kinsela v Russell Kinsela Pty Limited_ ... The draft Act is consistent with these cases but in so far as they may suggest that in cases of near insolvency creditors are owed and can enforce duties directly against directors, the draft Act would depart from them.
+
+-   \[146\] The Law Commission’s draft Act recognised the interests of creditors, but, as between creditors and directors, this was only to a limited extent. Section 103 of the draft Act provided that directors could, when exercising powers or performing duties, have regard to the interests of creditors or employees but clarified that this did not limit the fundamental duty of the director to act in the best interests of the company. As well, s 105 of the draft Act was in these terms:
+
+**105 Solvency**
+
+(1) A director of a company must not agree to the company entering into a contract or arrangement or acting in any other manner unless he or she believes at that time on reasonable grounds that the act concerned does not involve an unreasonable risk of causing the company to fail to satisfy the solvency test.
+
+(2) A director of a company must not agree to the company incurring an obligation unless he or she believes at that time on reasonable grounds that the company will be able to perform the obligation when required to do so.
+
+-   \[147\] Although the language of s 105(2) was borrowed from s 320(1) of the 1955 Act (and is very similar to what now appears in s 136), s 105 was squarely addressed to solvency rather than creditor protection, with the Law Commission noting of it:<sup>[\[87\]](#fn87)</sup>
+
+This provision restricts the scope of the existing section 320, which is considered to go too far in undermining the position of the company as a vehicle for the taking of business risk.
+
+The Law Commission also noted:<sup>[\[88\]](#fn88)</sup>
+
+... a creditor cannot claim damages for breach of the Act while the company is solvent. Upon insolvency, the statutory regime imposed for the orderly realisation of the assets of failed companies will prevent an individual claim.
+
+And much later in the report:<sup>[\[89\]](#fn89)</sup>
+
+Permitting creditors to have standing to recover loss from directors would undermine the statutory system of liquidation and dilute director accountability by upsetting the hierarchy of responsibility imposed by the draft Act.
+
+-   \[148\] As these comments indicate, the draft Act did not contain a provision equivalent to s 320 of the 1955 Act — the reckless trading provision. Nor was s 321 carried through in that draft.
+
+_The Parliamentary process in relation to the 1993 Act_
+
+-   \[149\] The commencement of the legislative process in relation to enactment of the 1993 Act was the introduction of the Companies Bill 1990. This largely, but by no means completely, followed the form of the Law Commission’s draft.
+-   \[150\] For example, the proposed s 103 was not carried forward in the Bill as introduced. But a new provision was added in the form of cl 113, in these terms:
+
+**113 Reckless trading** – A director of a company must not—
+
+(a) Agree to the business of the company being carried on recklessly; or
+
+(b) Cause or allow the business of the company to be carried on recklessly.
+
+As to this, the explanatory note to the Bill as introduced stated:<sup>[\[90\]](#fn90)</sup>
+
+_Clause 113_ requires directors not to agree, cause, or allow the business of the company to be carried on recklessly. This provision (which is based on section 320 (1) (b) of the [Companies Act 1955](http://www.nzlii.org/nz/legis/consol_reg/ca1955lr1994357/index.html)) is in substitution for a provision proposed by the Law Commission requiring directors not to risk insolvency unreasonably.
+
+-   \[151\] Clause 114 was in the same terms as what is now s 136.
+-   \[152\] The Bill also included cl 264 which was in substantially the same terms as s 321(1) of the 1955 Act. As to this, the explanatory note stated:<sup>[\[91\]](#fn91)</sup>
+
+This Part of the Bill also carries forward ... certain other provisions from the [Companies Act 1955](http://www.nzlii.org/nz/legis/consol_reg/ca1955lr1994357/index.html) that are not included in the Law Commission's draft bill and which will enable recovery of property and money by companies in liquidation in certain cases.
+
+Not carried forward at that stage was s 320(1) of the 1955 Act.<sup>[\[92\]](#fn92)</sup>
+
+-   \[153\] The Select Committee stage of the legislative process produced further significant amendments. In the Bill as it emerged from the Justice and Law Reform Committee, cl 113 had been replaced with the text that now appears in s 135.<sup>[\[93\]](#fn93)</sup> The Select Committee recorded a criticism that “the term ‘reckless trading’ is unclear” and recommended:<sup>[\[94\]](#fn94)</sup>
+
+... that the term “recklessly” be omitted and that, instead, the phrase broadly reflecting judicial interpretation, “in a manner likely to create a substantial risk of serious loss to the creditors”, be substituted.
+
+We will discuss later the “judicial interpretation” referred to.
+
+-   \[154\] As well, cl 264 was amended to the form enacted as s 301, by, amongst other things, the inclusion of a new subs (c) which read:<sup>[\[95\]](#fn95)</sup>
+
+Where the application is made by a creditor, order that person to pay or transfer the money or property or any part of it with interest at a rate the Court thinks just to the creditor.
+
+No explanation was provided by the Select Committee for the amendments to cl 264.
+
+_Section 301 as enacted_
+
+-   \[155\] As mentioned above, the text of s 301 is drawn substantially from s 321 of the 1955 Act but with the important difference that under s 301(1)(c), a creditor may in some circumstances recover relief directly. This element of s 301 appears to have been derived from the former s 320 of the 1955 Act, albeit that the language is different.
+-   \[156\] Section 301 deals with two types of wrongdoing:
+
+> (a) In the first, a person involved in the affairs of the company has misapplied or retained or become liable or accountable for any money or property of the company.
+> 
+> (b) In the second, a person involved in the affairs of the company has been guilty of any negligence, default, or breach of duty or trust in relation to the company.
+
+-   \[157\] Proceedings can be brought by a liquidator, creditor or shareholder. In such proceedings the court can require the defendant:<sup>[\[96\]](#fn96)</sup>
+
+> (a) in the case of money or property which an officer of the company has “misapplied, or retained, or become liable or accountable for”, to repay or restore the money or property or any part of it with interest at a rate the court thinks just; or
+> 
+> (b) to contribute such sum to the assets of the company by way of compensation as the court thinks just.
+
+Additionally, if a creditor is the applicant, the court can require the defendant “to pay or transfer the money or property or any part of it with interest at a rate the court thinks just to the creditor”.<sup>[\[97\]](#fn97)</sup>
+
+-   \[158\] On the language of the section, construed in a purely syntactical way:
+
+> (a) it is open to a creditor to sue a defendant who has misapplied or retained or become liable or accountable for any money or property of the company and, if successful, obtain relief in the form of direct payment or transfer of the money or property; but
+> 
+> (b) although a creditor can, in s 301 proceedings, invoke a breach of ss 135 and 136, it is not open to the court to provide relief directly in favour of the creditor in relation to compensation for breach of those provisions.
+
+-   \[159\] There is conflicting High Court authority as to the scope for awarding of relief direct to creditors under s 301, with at least one decision supporting the view that s 301 provides for direct claims by creditors in relation to compensation for breaches of directors’ duties<sup>[\[98\]](#fn98)</sup> and other decisions to the effect that direct claims by creditors are confined to misapplied money or property.<sup>[\[99\]](#fn99)</sup>
+-   \[160\] Given the way the section reads, it is understandable that some judges have concluded that s 301 does not provide for direct creditor claims in relation to compensation. But, on the other hand, so construed, the section is not particularly coherent, and, for this and other reasons, there is a strong basis for adopting a purposive interpretation.
+-   \[161\] There is no sensible reason why a creditor should have a direct claim for relief in relation to misapplied company money or property but no such claim for relief in relation to breaches of duty that have directly harmed the creditor. It would work far more logically the other way around.
+-   \[162\] Allowing direct claims by creditors for breach of directors’ duties would also be more consistent with the structure of ss 320 and 321 of the 1955 Act from which s 301 is derived. This is because:
+
+> (a) The words “has misapplied, or retained, or become liable or accountable for, money or property of the company” in s 301 are derived from s 321 of the 1955 Act. Under s 321, a claim could be made by, inter alia, a liquidator or creditor, but recoveries obtained were for the benefit only of the company.
+> 
+> (b) The words “guilty of negligence, default, or breach of duty or trust in relation to the company” in s 301 are also derived from s 321 of the 1955 Act. However, in the context of s 301, “breach of duty” encompasses breaches of ss 135 and 136 which, as will be apparent, cover much the same ground as s 320 of the 1955 Act. And, as will be appreciated, the language of s 320 (as applied in _Re Cyona_) provided for claims by creditors for payment of money owed to them by the company.
+> 
+> (c) It is logical to assume that the purpose of s 301 was to duplicate in the 1993 Act key features of the scheme of both ss 320 and 321 of the 1955 Act from which it was derived — a general rule that claims for wrongs done to the company should result in relief for the company only, but that claims affecting directly the interests of creditors could result in relief being granted direct to creditors. On this basis, it is also logical to construe s 301 as providing for direct claims by creditors in respect of claims premised on prejudice to them, which is the case with claims under s 135 and 136.
+
+-   \[163\] We think it clear that the language of s 301(1)(c) is the result of a drafting slip, with the words “or transfer the money or property” being erroneously used rather than a reference to compensation under s 301(1)(b)(ii). To give effect to the legislative purpose, either s 301(1)(c) should be construed as referring to “such sum” and thus to compensation under s 301(1)(b) or, alternatively, “transfer the money or property” in s 301(1)(c) should be construed as encompassing money awarded by way of compensation. Either way, we are satisfied that s 301 allows for a direct claim by creditors for breaches of ss 135 and 136 for losses that they have suffered as a result of those breaches.
+-   \[164\] Our approach to s 301(1)(c) is supported by the analysis in a recent article by William Porter.<sup>[\[100\]](#fn100)</sup> In that article, Mr Porter suggests the rationale for the amendments made by the Select Committee to cl 264, the clause in the Companies Bill that became s 301, is explained in the following summary of submissions prepared for the Select Committee by the Department of Justice:<sup>[\[101\]](#fn101)</sup>
+
+**Clause 264 – Power of Court to Require Persons to Repay Money or Property**
+
+> **(a) Fraudulent and Reckless Trading**
+
+Two submissions were concerned that the clause did not carry forward the fraudulent and reckless trading provisions in section 320 of the [Companies Act 1955](http://www.nzlii.org/nz/legis/consol_reg/ca1955lr1994357/index.html) which provides personal liability for such trading.
+
+**Comment**
+
+Clauses 113 and 114 \[now ss 135 and 136\] are the successors to section 320 of the [Companies Act 1955](http://www.nzlii.org/nz/legis/consol_reg/ca1955lr1994357/index.html) and it would be unnecessary duplication and cause confusion to carry forward the provisions of section 320 in addition to clause 113 and 114.
+
+> **(b) Application of compensation**
+
+One submission suggests that the court have a discretion to award all or any of the compensation to any creditor who brought the proceedings or funded the liquidator bringing the proceedings.
+
+**Comment**
+
+There are English cases indicating that in such circumstances the courts can award the compensation to the creditor. There is no direct authority on the point in New Zealand because, as noted by Tipping J in Marshall Futures Limited v Marshall [\[1991\] NZHC 2244](http://www.nzlii.org/nz/cases/NZHC/1991/2244.html "View Case"); [\[1992\] 1 NZLR 316](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b1992%5d%201%20NZLR%20316?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord"), all the cases brought under the present sections 319 and 320 are brought by the company’s liquidator. It is suggested that this matter be put beyond doubt by giving the court a discretion to award the compensation wholly or in part to a creditor bringing a recovery action.
+
+-   \[165\] The reference in the Department of Justice’s summary to _Marshall Futures Ltd v Marshall_ requires some explanation. In that case, Tipping J, without deciding the issue, expressed a preference for the approach adopted by Lord Denning MR and Danckwerts LJ in _Re Cyona_ that a direct claim by a creditor or creditors was allowed under the s 320 of the 1955 Act.<sup>[\[102\]](#fn102)</sup> He said it was “more natural to take the view that the section \[s 320 of the 1955 Act\] is aimed at personal responsibility to the creditor rather than to the company”, although he noted that where the applicant was a creditor the liquidator should be notified of the proceedings.<sup>[\[103\]](#fn103)</sup> The reference in the Department of Justice’s summary to “English cases indicating that in such circumstances the courts can award the compensation to the creditor” is presumably to _Re Cyona_ and _Re Gerald Cooper_ (which had also been referred to by Tipping J in _Marshall Futures_)_._
+-   \[166\] As Mr Porter points out, these references, explicitly to _Marshall Futures_ and implicitly to _Re Cyona_ and _Re Gerald Cooper_, strongly suggest that the legislative purposes of s 301 included providing for direct claims by creditors.<sup>[\[104\]](#fn104)</sup> Mr Porter argues that, given the legislative history to which he refers, the amendments to what is now s 301 proposed by the Select Committee and ultimately enacted were made to allow for the approach adopted in _Re Cyona_ and tentatively approved in _Marshall Futures_ and, in particular, to provide for creditors to be able to obtain compensation for breaches of duty (most particularly breaches of duty that relate to their interests). As we have just explained, we agree with that analysis.
+-   \[167\] For the sake of completeness at least, we refer to later developments:
+
+> (a) Section 332 of the Companies Act 1948 (UK) which was in issue in _Re Cyona_ and _Re Gerald Cooper_ was replaced by s 213 of the Insolvency Act 1986 (UK) under which only a liquidator can apply and any money recovered supplements the assets of the company.
+> 
+> (b) In 1992, in _Re Esal Commodities Ltd_, Lindsay J concluded that the remarks of Lord Denning MR and Dankwerts LJ in _Re Cyona_, to the effect that the section enabled a creditor to procure payment directly in its own favour, had been obiter and wrong.<sup>[\[105\]](#fn105)</sup> Lindsay J’s judgment was affirmed in same year by the Court of Appeal.<sup>[\[106\]](#fn106)</sup> As _Re Esal_ was decided in November 1992, it was not referred to in the Department of Justice’s summary of submissions which was prepared two months earlier, in September 1992.
+> 
+> (c) In a 2003 judgment of the English Court of Appeal, the approach of Lord Denning MR and Danckwerts LJ in _Re Cyona_ was said to have departed from the prevailing view of s 332, albeit with the Court noting that the judgment’s effect has been overtaken by s 213 of the Insolvency Act (UK), but not suggesting that it had been wrongly decided.<sup>[\[107\]](#fn107)</sup>
+
+Although these cases make for interesting reading, we do not see them as material to the legislative purpose underlying s 301 which, in our view, was to give effect to the approach adopted in _Re Cyona_ and preferred in _Marshall Futures_.
+
+-   \[168\] As will be obvious, our conclusion that the creditors may recover directly in relation to claims under ss 135 and 136 provides some support for the availability of new debt-based assessments of quantum in proceedings for breach of those sections.
+-   \[169\] Later in these reasons we will revert to a further issue as to s 301 — the extent to which relief under s 301 is a matter of discretion and the considerations relevant to the exercise of that discretion.<sup>[\[108\]](#fn108)</sup> But for now, we address how ss 135, 136 and 301, and their broadly equivalent English provisions, have been interpreted in recent decisions.
+
+_Recent case law_
+
+Debut Homes
+
+-   \[170\] The operation of ss 135, 136 and 301 was addressed in _Debut Homes_.<sup>[\[109\]](#fn109)</sup>
+-   \[171\] Debut Homes was a building company controlled by Mr Cooper, its sole director. Having run into financial difficulties, it adopted, from 31 October 2012, a strategy of completing its existing developments and using the proceeds of sale to discharge debts of the company which Mr Cooper had guaranteed. It did not account for GST on the sales. At the time when this strategy was adopted Mr Cooper recognised that the company was unsalvageable.<sup>[\[110\]](#fn110)</sup> On liquidation (7 March 2014), the company owed approximately $410,000 to Mr and Mrs Cooper (and an associated trust), at least $28,700 in trade debts incurred after 31 October 2012, and GST of $450,000 — a figure that had been contributed to substantially by GST that had been incurred but not paid on sales completed after 31 October 2012.<sup>[\[111\]](#fn111)</sup>
+-   \[172\] This Court was of the view that Mr Cooper had acted in breach of ss 135 and 136.<sup>[\[112\]](#fn112)</sup>
+-   \[173\] As to s 135, the Court said:<sup>[\[113\]](#fn113)</sup>
+
+\[70\] In this case Mr Cooper did not consider that Debut’s financial position was salvageable. He knew at the beginning of November 2012 that completing the properties would lead to a GST shortfall of at least $300,000. To continue trading in such circumstances must be a breach of s 135. Loss to creditors in this case was not merely a “substantial risk”. It was a certainty. And $300,000 must be a “serious loss”.
+
+\[71\] That the GST on future sales was not a current obligation at the end of October 2012 is beside the point ... Section 135 is necessarily forward‑looking.
+
+\[72\] It is also not an answer to s 135 that completing the properties was a sensible business decision in that it had the potential to benefit some of the creditors by providing higher returns than immediate liquidation would have done. It is not possible to compartmentalise creditors in this fashion. If continued trading would result in a shortfall, as Mr Cooper knew it would, then there was a breach of s 135, whether or not some creditors would be better off and whether or not any overall deficit was projected to be reduced.
+
+\[73\] There is nothing in the wording of s 135 that envisages a comparative exercise between immediate liquidation and continued trading, where continued trading would still result in a deficit. This is particularly the case where continued trading is undertaken in a manner that means creditors will not be paid in accordance with the statutory priorities that would arise in liquidation. In this case, as the High Court found, there was a deliberate strategy to put the whole risk of loss on Inland Revenue. This was despite the fact that GST on sales made by Debut would have, if Debut had been liquidated, ranked above unsecured trade debts.
+
+-   \[174\] As to liability under s 136:
+
+\[94\] We also accept the submission of the liquidators and the Attorney‑General that it is clear from the existence of s 136 that it is not legitimate to enter into a course of action to ensure some creditors have a higher return where this is at the expense of incurring new liabilities which will not be paid. In other words, it is not legitimate to “rob Peter to pay Paul”. This is also clear from the scheme of the Act, including the statutory priorities.
+
+\[95\] In this case Mr Cooper knew from the beginning of November 2012 that there would be a GST shortfall and nothing that occurred after that point suggested that this assessment was inaccurate. This means that there must have been a breach of s 136 when the relevant properties were sold and the GST debts incurred. ...
+
+-   \[175\] As to relief, the Court observed:<sup>[\[114\]](#fn114)</sup>
+
+\[164\] In terms of a breach of s 135, we accept that in most cases the appropriate starting point would be an amount equal to the deterioration in the company’s financial position between the date when trading should have ceased and the date of actual liquidation (the net deficiency approach). This is because the section looks at the creditors and the business as a whole.
+
+\[165\] We do not, however, consider that the same measure of compensation would necessarily respond adequately to breaches of s 136. The breach of duty under s 136 is the incurring of obligations without a reasonable belief that they will be met. This section therefore concentrates on individual creditors. Section 136 is, however, like s 135 and others, framed as a duty to the company. It follows that Parliament must have considered any breach of the duty would harm the company. It is therefore appropriate that any relief ordered should operate to reverse that harm and thus be restitutionary in nature.
+
+\[166\] In cases where the breach is of s 136, limiting compensation to the net deficiency (the usual measure for s 135) would not respond to the breach and make good the harm, especially in cases where new obligations are incurred and used to pay other debts (“robbing Peter to pay Paul”). There is much force in the liquidators’ submission that limiting compensation to the net increase in amounts owing would provide directors with the perverse incentive to continue to trade in breach of s 136 as long as they are careful to make sure that the net deficit remains constant. If relief under s 301 is calculated on a net deficiency basis in such cases, there would be no deterrent effect and directors would not properly be held to account. Nor would the harm to the company be reversed.
+
+...
+
+\[167\] This case involves breaches of ss 131, 135 and 136. We consider that a restitutionary measure of relief would appropriately respond to the nature and combination of the breaches. This is because of the following factors:
+
+(a) continued trading involved satisfying current debts by incurring new obligations, knowing the new creditors would not be paid (“robbing Peter to pay Paul”);
+
+(b) Mr Cooper did not take the interests of all creditors into account (and this was exacerbated by the conflict of interest); and
+
+(c) Mr Cooper had a deliberate strategy to place all of the deficit on Inland Revenue, contrary to the statutory priorities.
+
+-   \[176\] Although we will come back to discuss _Debut Homes_ later in these reasons, we observe that the Court adopted a starting point of all new debts incurred and not paid between the breach date and date of liquidation from which it made certain allowances under s 301. This illustrates that “restitutionary” was used by the Court as denoting an obligation to make good to the company the loss to the creditors. Using the terminology adopted in these reasons, the Court adopted a new debt approach to the assessment of quantum.
+-   \[177\] Against this background, _Debut Homes_ stands as authority for the propositions that:
+
+> (a) for the purposes of s 136, the harm to the company is the incurring of debts in breach of that section and all that flows from that;
+> 
+> (b) it is therefore appropriate that relief ordered should operate to reverse that harm; and
+> 
+> (c) on the facts of _Debut Homes,_ this could be achieved by starting with all debts incurred and not paid between the breach date and date of liquidation.
+
+BTI 2014 LLC v Sequana SA
+
+-   \[178\] In a judgment delivered on 5 October 2022, _BTI 2014 LLC v Sequana SA_, the Supreme Court of the United Kingdom reviewed the content and jurisprudential basis of the requirement for directors to have regard to the interests of creditors.<sup>[\[115\]](#fn115)</sup> The facts of that case and the issue before the Supreme Court were well-removed from those we must address, and we do not discuss them.
+-   \[179\] What is primarily of relevance for present purposes is the approach taken in _Sequana_ to the requirement of directors to have regard to the interests of creditors. This was explained by Lord Reed P in this way:
+
+\[47\] ... So long as a company is financially stable, and is therefore able to pay its creditors in a timely manner, the interests of its shareholders as a whole, understood as a continuing body, can be treated as the company’s interests for the purposes of the directors’ duty to act in its interests. It is the shareholders whose interests are affected by fluctuations in its profits and reserves, as they are the persons entitled to share in its distributions and its surplus assets. ... \[S\]o long as the company is financially stable, the creditors’ interests do not require to be considered as a discrete aspect of the company’s interests for the purposes of the directors’ fiduciary duty to the company. It is sufficient for the directors to promote the interests of the shareholders in order for the company’s business to be carried on over the long term and for the company’s debts to be paid as part of the conduct of its business.
+
+\[48\] That situation alters if the company is insolvent or bordering on insolvency. As losses are incurred, and the company’s surplus of assets over liabilities disappears, the company’s creditors as a whole become persons with a distinct interest (possibly, depending on the gravity of the company’s financial difficulties, the predominant interest) in its affairs, as they are dependent on its residual assets, or on the possibility of a turnaround in its fortunes, for repayment. I refer to the creditors “as a whole” for two reasons. First, individual creditors may be in different positions, and may even have conflicting interests: that may be the position, for example, of secured creditors as compared with unsecured creditors. Secondly, the interests of the company cannot be confined to the interests of current creditors as at the time of a given decision by the directors, any more than they can be confined to the interests of current shareholders. Since the identities of the company’s creditors constantly change so long as debts continue to be incurred and discharged, any consideration of the company’s long term interests ... must include consideration of the interests of its creditors as a class rather than as a fixed group of individuals.
+
+-   \[180\] There are other aspects of the reasoning in _Sequana_ that are of assistance in this case. A policy consideration that underlies the _Sequana_ reasoning is that as the financial affairs of a company deteriorate the economic stake (which is not a proprietary interest) that the creditors have in the company’s residual asset increases.<sup>[\[116\]](#fn116)</sup> As will become apparent, we see this policy consideration as underpinning ss 135 and 136 and 301. We also agree with the approach taken in _Sequana_ that judicial resolution of the tension between this consideration and other conflicting policy factors must be consistent with the text and the purpose of these provisions and the scheme of the legislation as a whole. As confirmed in _Sequana,_ there is a need for courts to ensure that they develop company law in ways that are congruent with the legislative framework.<sup>[\[117\]](#fn117)</sup> This means that where the legislation properly construed shows that a balance has been struck by the legislature between conflicting policy considerations, that balance must be respected by the courts.
+-   \[181\] The details of the reasoning in _Sequana_ are linked to the statutory scheme the Court was addressing and in particular s 214 of the Insolvency Act (UK). Subsections (1)–(3) of that section provide:
+
+**214 Wrongful trading**.
+
+(1) Subject to subsection (3) below, if in the course of the winding up of a company it appears that subsection (2) of this section applies in relation to a person who is or has been a director of the company, the court, on the application of the liquidator, may declare that that person is to be liable to make such contribution (if any) to the company’s assets as the court thinks proper.
+
+(2) This subsection applies in relation to a person if—
+
+(a) the company has gone into insolvent liquidation,
+
+> (b) at some time before the commencement of the winding up of the company, that person knew or ought to have concluded that there was no reasonable prospect that the company would avoid going into insolvent liquidation or entering insolvent administration, and
+
+(c) that person was a director of the company at that time;
+
+but the court shall not make a declaration under this section in any case where the time mentioned in paragraph (b) above was before 28th April 1986.
+
+(3) The court shall not make a declaration under this section with respect to any person if it is satisfied that after the condition specified in subsection (2)(b) was first satisfied in relation to him that person took every step with a view to minimising the potential loss to the company’s creditors as (on the assumption that he had knowledge of the matter mentioned in subsection (2)(b)) he ought to have taken.
+
+...
+
+-   \[182\] With the caveat that fraudulent trading is dealt with separately under s 213 of the Insolvency Act (UK), s 214 corresponds, but only at a very high level of generality, to ss 135 and 136 of the 1993 Act. It will be observed that the liability threshold under s 214 is crossed only if the director knew or ought to have known that there was no reasonable prospect of avoiding insolvent liquidation. On this basis, a director will not be liable in relation to company debt unless, at the time it was incurred, it was practically inevitable that it would not be paid. This threshold is distinctly higher than that implied by:
+
+> (a) s 135, which is triggered by a company carrying on business in a manner likely to create a substantial risk of serious loss to creditors (something that is likely to occur before liquidation becomes practically inevitable); and
+> 
+> (b) s 136, which is premised on the view that directors should not be party to a company incurring debts unless they believe on reasonable grounds that they will be paid, also likely to be the situation before liquidation is practically inevitable.
+
+As well, there is the defence under s 214(3) which at least suggests that proper implementation of a reasonable strategy of minimising loss to creditors (treated collectively) will avoid liability. As we explain later, we do not see these aspects of the s 214 regime as applicable to the operation of ss 135 and 136. Accordingly, we derive only limited assistance from those parts of the _Sequana_ reasoning that are shaped by s 214.
+
+-   \[183\] Before us, counsel for the directors relied very much on the view, as expressed by Lord Reed P, that creditors should be treated “as a whole” or as “a class”. Also relied on were views expressed in _Sequana_ that:
+
+> (a) limited liability is a statutory right, not a privilege predicated on certain solvency;
+> 
+> (b) it is only when insolvent liquidation is inevitable that creditor interests become paramount; and
+> 
+> (c) directors should be accorded a wide discretion in matters of business judgment, including decisions to trade on.
+
+-   \[184\] We take no issue with the proposition that limited liability is a statutory right, rather than a privilege predicated on certain solvency. That proposition, however, is far from controlling in the present context given the duties to which directors are subject, including (although not confined to) those under ss 135 and 136. As to the other aspects of the reasoning relied on by the directors:
+
+> (a) We are not called upon in this case to decide whether, and at what point, the interests of creditors become paramount. Rather we are required to interpret and apply ss 135 and 136. We propose to do this on the basis that, in the circumstances in which those sections are likely to be engaged, directors are required to have at least substantial regard for the interests of creditors, a policy consideration that is plainly material to the way those sections should be applied.
+> 
+> (b) As to the treatment of creditors (including whether they should be treated as a class) and the approach the courts should take to directors’ decision-making, we must apply the statutory scheme of the 1993 Act which, as we have highlighted, is different to that set out in s 214 of the Insolvency Act (UK). This is particularly so with s 136 which plainly envisages looking at particular obligations and creditors.
+
+Stanford International Bank Ltd (in liq) v HSBC Bank plc<sup>[\[118\]](#fn118)</sup>
+
+-   \[185\] As was so with _Sequana_, this judgment dealt with a factual background and issues that bear no similarity to those that we must deal with. There was, however, interesting discussion of _West Mercia,_<sup>[\[119\]](#fn119)</sup> particularly in the concurring reasons of Lord Leggatt and dissenting reasons of Lord Sales.
+-   \[186\] In his reasons, Lord Leggatt emphasised that, aside from cases involving unlawful preferences or fraud, the basic principle is that it is net loss to the company that determines the appropriate award of damages for breaches of duty to the company.<sup>[\[120\]](#fn120)</sup> He considered that any alternative approach in the case of a “creditor duty” would cut across the law of insolvency and blur what he saw as an appropriate distinction between losses by the company (which could be recovered against directors) and losses by the creditors (for which compensation was not available).<sup>[\[121\]](#fn121)</sup>
+-   \[187\] Lord Sales took a different approach. He emphasised the representative responsibilities of the company and the Supreme Court’s discussion in _Sequana_ of the fundamental changes to those responsibilities that occur when a company is insolvent or on the verge of insolvent liquidation.<sup>[\[122\]](#fn122)</sup> The company, and therefore the loss it suffers, should not be treated in the abstract or purely on a balance sheet approach. Where a company is “hopelessly insolvent” the company’s interests are the same as those of the creditors as a class and therefore a payment to a group of creditors that harms the overall interests of creditors represents a loss to the company itself.<sup>[\[123\]](#fn123)</sup>
+-   \[188\] As was the case with _Sequana_, the reasons in _Stanford_ are of interest and are relevant to some of the policy considerations we must assess. But the reality that they address a statutory framework that differs significantly from the 1993 Act limits their direct relevance to the outcome of this litigation.
+
+_Where we get to_
+
+-   \[189\] Out of the material we have just reviewed, a number of propositions emerge that bear on the legal issues we must determine:
+
+> (a) When applying the statutory provisions as to directors’ duties, judges must keep the legislative framework in mind. Careful analysis of the relevant provisions and the associated relevant scheme and purpose will indicate how tension between competing policy considerations — and in particular the desirability of leaving business judgment to directors as against the protection of creditors — has been resolved by the legislature.<sup>[\[124\]](#fn124)</sup>
+> 
+> (b) Under the regime as envisaged by the Law Commission, but not implemented in the 1993 Act, a claim against directors based on the harm to creditors would not have been possible in relation to s 105(1) of the Law Commission’s draft Act (corresponding loosely to s 135) and would have been difficult to maintain under s 105(2) (which corresponds closely to s 136); this because the Law Commission’s draft sections were addressed to the maintenance of solvency and there was no equivalent of s 320 of the 1955 Act or what became s 301 of the 1993 Act.
+> 
+> (c) It is true that aspects of the Law Commission’s draft that reflected its narrow approach to directors’ liability were carried through into the 1993 Act: for instance, the long title reference to business judgment and s 169(3). But the differences between the Law Commission’s draft and the 1993 Act reflect a policy in respect of creditor protection that differs significantly from that pursued by the Law Commission:
+> 
+> > (i) As noted, s 105(1) of the Law Commission’s draft was clearly directed towards protecting the company’s solvency and there was no direct reference to creditors. But in the 1993 Act, the (loosely) corresponding provision, s 135, is aimed at mitigating the risk of serious losses to creditors and providing a remedy where such losses have occurred. Section 135 was in part derived from s 320 of the 1955 Act under which compensation was calculated by reference to the losses of creditors.<sup>[\[125\]](#fn125)</sup>
+> > 
+> > (ii) The point emerges perhaps more clearly in relation to s 136. Its precursor in the Law Commission’s draft was s 105(2), a subsection in a section headed “Solvency”. In light of this, and the general approach of the Law Commission, the purpose of s 105(2) would appear to have been to protect solvency rather than creditors. An argument for such a purpose in relation to s 136 as enacted (which, as we will come to, was advanced to us by Mr Hodder) is far less compelling. There is no direct connection in the statutory text between s 136 and the maintenance of solvency. When s 136 is read in light of that, and in conjunction with s 135, it is reasonable to infer that its purpose was to provide protection for creditors against the conduct it addresses.
+> > 
+> > (iii) On our construction of s 301, its purposes include providing for claims by creditors which, most plausibly, would be in respect of harm they have suffered.
+> 
+> (d) Consistent with the policy choices made in the 1993 Act, _Debut Homes_ represents an approach that, in relation to liability under ss 135 and 136 and quantum under s 136, takes substantial account of the interests of creditors.
+
+**Liability under s 135**
+
+_The directors’ arguments as to how s 135 should be applied_
+
+-   \[190\] Mr Hodder argued that the purpose of s 135 is to protect against conduct that is “truly irrational or reckless or conflicted”. He argued that s 135 is properly read in the context of the 1993 Act’s long title, particularly the reference to “business judgment” and prevention of the abuse of management power. In s 135 litigation the court’s role must be one of review of rationality, not assessing with hindsight the correctness, of business judgment. In arguing for this liability threshold under s 135, Mr Hodder placed heavy reliance on what is known in the United States as the “business judgment rule”. In doing so, he referred us to the principles of corporate governance published in January 1994 by the American Law Institute (ALI).<sup>[\[126\]](#fn126)</sup> This was based on a draft published in 1992, and thus in existence prior to the enactment of the 1993 Act. Section 4.01(a) of the ALI principles prescribes a duty of care similar to those provided for in the 1993 Act, but this is subject to the business judgment rule set out in section 4.01(c) of the principles::
+
+**4.01 Duty of Care of Directors and Officers; the Business Judgment Rule**
+
+(a) A director or officer has a duty to the corporation to perform the director's or officer's functions in good faith, in a manner that he or she reasonably believes to be in the best interests of the corporation, and with the care that an ordinarily prudent person would reasonably be expected to exercise in a like position and under similar circumstances. This Subsection (a) is subject to the provisions of Subsection (c) (the business judgment rule) where applicable.
+
+...
+
+(c) A director or officer who makes a business judgment in good faith fulfils the duty under this Section if the director or officer:
+
+(1) is not interested ... in the subject of the business judgment;
+
+(2) is informed with respect to the subject of the business judgment to the extent the director or officer reasonably believes to be appropriate under the circumstances; and
+
+(3) rationally believes that the business judgment is in the best interests of the corporation.
+
+-   \[191\] The business judgment rule provides protection from liability for business judgment decisions made in good faith by directors or officers who reasonably believed themselves to be appropriately informed and rationally believed that the decision was in the best interests of the company. Under the business judgment rule, liability depends on irrationality rather than unreasonableness, an approach that is said to recognise the expertise that directors may have and also to protect them from the risk of hindsight bias by judges.<sup>[\[127\]](#fn127)</sup> Mr Hodder drew an analogy with the approach to judicial review of decisions on the basis of irrationality. He also suggested that where the directors have particular expertise, that should be allowed for in how the court scrutinises the directors’ decision — the more expertise, the lesser the scrutiny required.
+-   \[192\] Mr Hodder sought to reinforce this argument by relying on the section heading to s 135, “reckless trading”. He said that in this phrase, “reckless” carries its dictionary definition of acting without thought or care for consequences and therefore supports a high threshold for liability.
+-   \[193\] Mr Hodder also argued that liability under s 135 should depend on the court being able to identify an alternative to insolvent liquidation that could have been achieved by the directors or perhaps an outcome for the company (and creditors) that would have been better than the ultimate result.
+
+_The liquidators’ arguments as to how s 135 should be applied_
+
+-   \[194\] The liquidators argued that s 135 should generally be applied objectively, in accordance with its text. Nevertheless, they suggest that in applying s 135 courts should be guided by what directors of good standing would have done in the circumstances. This means, they say, that a legitimate risk is one that a reasonable director would consider to be reasonable or acceptable. Risks resulting from adoption of a long‑term policy of trading while insolvent are not legitimate. The liquidators submit that no latitude should be allowed to directors in respect of such a policy.
+
+_Our approach to the application of s 135: overview_
+
+-   \[195\] Directors of a company in financial difficulty face uncomfortable choices. Cessation of business on liquidation is likely to precipitate losses for the company and its creditors which would not be incurred were the company to trade on. On that analysis the losses might be avoidable. Such avoidable losses may be substantial. It is plausible to assume that the stricter the approach to the liability of directors, the greater the risk of unnecessary liquidations and associated losses to creditors and shareholders. As well, the more scope for successful litigation against directors, the greater the likelihood of limiting the pool of those who are willing to become directors.
+-   \[196\] There are, however, policy factors that go the other way. These include information asymmetry as to the solvency of a company between its directors and most creditors; the potential for companies to trade in ways that have been seen as illegitimate since 1933 (when the precursor to s 320 of the 1955 Act was enacted); and the recognition that when a company is insolvent (or near insolvent), its creditors have at least a significant economic stake in its affairs. These factors have resulted in the recognition of an obligation on directors of companies of doubtful solvency (or worse) to take into account the interests of creditors in discharge of their duties to the company.<sup>[\[128\]](#fn128)</sup> This obligation is established by the cases to which we have already referred, and we see the enactment of s 135 (along with ss 136 and 301) as a legislative adoption of the associated policy considerations. In this respect, we consider that these provisions represent a policy judgement by the legislature that we must apply.
+-   \[197\] There are further particular policy considerations that justify careful scrutiny of decisions made by directors of insolvent companies. In advance of liquidation, directors of an insolvent company may be too close to the company to be able to act impartially and, in particular, in the interests of creditors where that is required. Additionally, shareholder‑appointed directors are not well-placed to make decisions as to the future of a company in which the primary economic stakeholders are the creditors. Indeed, they may face incentives to prefer other interests, including in some cases their own, to those of creditors.<sup>[\[129\]](#fn129)</sup>
+
+The words of the section: “likely to create a substantial risk of serious loss to the company’s creditors”
+
+-   \[198\] “Risk” generally is a product of the probability of an adverse contingency occurring and the severity of the consequences of that contingency should it occur. In this context, “substantial” refers to probability of loss to creditors and “serious” to the extent of that loss. For this reason, “likely” might be thought to introduce an element of tautology. However, in company with Cooke J and the Court of Appeal, we see it as adding emphasis to the probability of substantial risk of serious loss.<sup>[\[130\]](#fn130)</sup>
+-   \[199\] In most circumstances, a risk of the magnitude just described will engage s 135. This is appropriate as those who extend credit to a company will generally not anticipate exposure to risk that goes beyond the usual vagaries of commercial life. That said, the business of a company may carry a recognised heightened risk of loss — in respect of which potential creditors (or some of them) may be able to protect themselves (for instance by not extending credit or doing so only on terms that reflect the risk). In such a case, the recognised heightened risk of loss may provide a baseline against which the language of s 135 should be applied. This, however, is not an issue in this case. How s 135 will work in such a situation is better determined against the facts of a case in which the issue actually arises.
+
+Fault requirement
+
+-   \[200\] Possible interpretations of s 135 sit on a continuum:
+
+> (a) At one end is an entirely subjective approach under which liability would arise only if a director recognises that certain trading activity is likely to create a substantial risk of serious loss to creditors and, despite such recognition, nonetheless agrees to the company engaging in, or causes or allows it to engage in, that activity. This approach draws some support from the “reckless trading” heading to s 135 and in what might be implicit in the use of the words “agree” and “cause or allow”.
+> 
+> (b) At the other end is a literal, or fully objective, approach; the likelihood of substantial risk of serious loss to creditors associated with trading activity is assessed objectively without regard to what the director knew or ought to have known. All that has to be shown is that the director agreed to, allowed or caused trading in that way. This approach would be similar to that adopted by the criminal law in relation to strict liability.
+
+-   \[201\] We do not see either of these approaches as tenable.
+-   \[202\] It will be recalled that s 320(1)(b) provided for liability for a director who had “knowingly \[been\] a party to the carrying on of any business of the company in a reckless manner”. The words “knowingly”, “party” and “reckless” could have been read as creating a subjective liability threshold, that is, as postulated above at [\[200\](a)](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143507549?query=title(%222023%20NZSC%20113%22)). That, however, was not the test that the courts applied. As the 1988 judgment of Eichelbaum J in _Re Bennett, Keane & White Ltd (in liq)_ _(No 2)_ shows, s 320(1)(b) was applied broadly without a requirement for subjective recklessness to be [\[131\]](#fn131)ablished.<sup>131</sup> The explanation for the shift in wording from cl 113 of the Bill as introduced to what became s 135 was that the new language — “in a manner likely to create a substantial risk of serious loss to the creditors” — was consistent with the existing “judicial interpretation” of [\[132\]](#fn132)20(1)(b).<sup>132</sup> For this reason, we do not see the scope of s 135 as limited by the more pejorative connotations that “reckless” can convey, namely indifference to a recognised risk.
+-   \[203\] We regard the “reckless trading” heading to s 135 as an artefact of the legislative history. We have set out above cl 113 of the Bill as introduced, which in revised form became s 135.<sup>[\[133\]](#fn133)</sup> Clause 113 was directed to what was described as conduct “carried on recklessly” with the result that the “reckless trading” heading correlated to the substance of the clause. But despite later changes in wording the heading remained the same.
+-   \[204\] A fully subjective approach would be inconsistent with the overall scheme of the 1993 Act, which requires that directors exercise reasonable skill, care and diligence in the particular circumstances.<sup>[\[134\]](#fn134)</sup>
+-   \[205\] We also reject what we have described as the fully objective approach under which a director might be liable for reckless trading despite having acted without fault. For instance, in a situation in which the chief executive of a company is engaged in fraudulent activity of a kind that exposes the company to risks within s 135, a strictly objective approach would hold the directors liable under s 135 (as having allowed the company to continue to trade with a fraudulent chief executive in place) irrespective of whether they had grounds to suspect fraud or whether they could, through good governance, have prevented it.<sup>[\[135\]](#fn135)</sup> Such a result would be inconsistent with the standard of care imposed by s 137 (under which the directors would not be liable) and sit awkwardly with s 138 which provides for certain categories of information and advice on which directors may safely rely.
+-   \[206\] Sitting in the middle of the continuum we have postulated are two possible fault-based approaches; one based on what Mr Hodder says is a business judgment test under which liability depends on irrationality, the other on negligence. For reasons that follow, we adopt the second of these approaches.
+-   \[207\] Mr Hodder’s business judgment test argument would have been much stronger had the structure of ss 135 and 136 followed the form of s 401(a) and (c) of the ALI’s principles. That would have made it clear that — subject to satisfaction of the preconditions of good faith, no conflict of interest and adequate information — irrationality would have to be shown to establish liability. As it happens, a business judgment rule drawn substantially from the ALI principles was inserted into the Australian Corporations Act 2001.<sup>[\[136\]](#fn136)</sup> An equivalent provision is conspicuously absent from the 1993 Act despite the ALI principles having been brought to the attention of the Select Committee.
+-   \[208\] At a general level, adopting a standard of irrationality is inconsistent with the standard of care required under s 137 of the 1993 Act — to act with the skill, care and diligence of a reasonable director. And an irrationality standard would not fit easily with the language of ss 135 and 136.
+1.  One of the difficulties with a business judgment rule as proposed by Mr Hodder is to distinguish in a practical way between “rational” and “reasonable”.<sup>[\[137\]](#fn137)</sup> Interestingly, Canadian courts that have adopted what they call “the business judgment rule” tend to express the test under it in terms of reasonableness. Thus, in what is perhaps the leading case on this point, _Maple Leaf Foods Inc v Schneider Corp_, the Ontario Court of Appeal observed:<sup>[\[138\]](#fn138)</sup>
+
+The court looks to see that the directors made a _reasonable_ decision _not a perfect_ decision. Provided the decision taken is within a range of reasonableness, the court ought not to substitute its opinion for that of the board even though subsequent events may have cast doubt on the board's determination. As long as the directors have selected one of several reasonable alternatives, deference is accorded to the board's decision. ... The fact that alternative transactions were rejected by the directors is irrelevant unless it can be shown that a particular alternative was definitely available and clearly more beneficial to the company than the chosen transaction ...
+
+Despite the use of “deference” and the expression “clearly more beneficial”, this language appears to postulate liability based on unreasonableness.
+
+-   \[210\] Interestingly, the discussion of the business judgment rule in the Law Commission’s report concluded in this way:  1.  The Law Commission agrees that it is proper to permit a substantial area of discretion to those who manage a company and who must be entrusted with discretionary powers. The test for intervention, where a decision is made in good faith, is one of reasonableness. No more precise test is practicable.
+
+This approach is at least broadly consistent with the one we propose to adopt.
+
+-   \[211\] We conclude as follows:
+
+> (a) An objective approach is to be taken in determining whether the business of the company was carried on in the prohibited manner (so that subjective awareness of the likelihood of substantial risk or serious loss is not necessary).
+> 
+> (b) However, when assessing whether the actions of the directors in agreeing to, or causing or allowing that trading were in breach of s 135, the courts will proceed on the basis of those facts and circumstances of which the directors were aware, or should have been aware, if exercising appropriate care, skill and diligence. The reference to “business judgment” in the long title of the 1993 Act is consistent with a focus on the reasonableness of the directors’ actions on the basis of the material they had, or should have had, if exercising the required standard of skill, care and diligence.
+> 
+> (c) As to the levels of care, skill and diligence required, the more complex the company the higher the level of skill and diligence expected of a director. This point was made by Clarke and Sheller JJ in _Daniels v Anderson_ in the context of the common law duty of care:<sup>[\[139\]](#fn139)</sup>
+
+A person who accepts the office of director of a particular company undertakes the responsibility of ensuring that he or she understands the nature of the duty a director is called upon to perform. That duty will vary according to the size and business of the particular company and the experience or skills that the director held himself or herself out to have in support of appointment to the office. None of this is novel. It turns upon the natural expectations and reliance placed by shareholders on the experience and skill of a particular director.
+
+We discuss the implications of this approach at [\[269\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322713?query=title(%222023%20NZSC%20113%22))–[\[272\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322722?query=title(%222023%20NZSC%20113%22)).
+
+Can directors balance loss on insolvency against risk of loss on trading on?
+
+-   \[212\] Mr Hodder’s argument that liability under s 135 requires the court to identify an alternative to liquidation that could have been achieved by the directors shades into the issue we address later as to the appropriate basis for assessing compensation under s 135. If a net deterioration approach is adopted, a director in breach of s 135 will not be liable to pay compensation unless the position of the creditors deteriorated after the breach date. But when addressed in terms of what the directors should have done — which is what is material in terms of liability — Mr Hodder’s argument involves a question of principle: whether it is appropriate for directors of an insolvent company to continue to trade despite substantial risk of serious loss to the company’s creditors in the future on the basis that the alternative is likely to be substantial loss to the company’s existing creditors. Mr Hodder would say that such a trade-off is appropriate if directors know that ceasing trading will realise substantial losses and consider that continuing trading will create a possibility of reducing or eliminating such losses.
+-   \[213\] We reject this argument. It may have had some cogency had s 135 contained a provision along the lines of s 214(3) of the Insolvency Act (UK).<sup>[\[140\]](#fn140)</sup> But, as will be apparent, it does not contain such a provision. And in _Debut Homes_ a similar argument was rejected by this Court, albeit in the context of a company that was unsalvageable.<sup>[\[141\]](#fn141)</sup>
+-   \[214\] We are of the view that the s 135 standard — whether the manner of trading creates a substantial risk of serious loss to creditors — proceeds, at least in part, on the premise that it is undesirable for a company to trade on in circumstances in which those who deal with it in the future are exposed to substantial risk of serious loss; this irrespective of the benefit trading on may confer on existing creditors.
+-   \[215\] Having said that, we accept that the directors of an insolvent, or nearly insolvent, company are entitled to time to take stock of the situation of the company and, for this purpose, to obtain advice. For this reason, in the short term (determined by reference to what would be a reasonable time to take such stock), trading while insolvent may well be legitimate. The purpose of this assessment is to identify whether there is a path forward for the company so that the directors can be satisfied that trading on is not likely to create a substantial risk of serious loss to creditors. The period of time for directors to take stock will be what is reasonable in the particular circumstances (including the complexity of the company’s affairs and the urgency of the presenting situation).
+-   \[216\] Assurances of support on which the directors can reasonably rely may be material to whether they can be appropriately satisfied that continued trading will not breach s 135. If assurances were not legally binding or practically enforceable and were not honoured (as in this case), there are likely to be questions as to the reasonableness of reliance on them.
+
+Our approach compared to that adopted in _Sequana_ and _Stanford_
+
+-   \[217\] The approach to s 135 just outlined is consistent with the principle upheld in _Sequana_ and _Stanford,_ that in circumstances of near or actual insolvency, directors are required to have at least substantial regard to the interests of creditors. It does, however, differ from what was said in those judgments as to when liability will be incurred. This difference results from the requirement to give effect to ss 135, 136 and 301 of the 1993 Act, which create a legal framework that is not the same as that under s 214 of the Insolvency Act (UK).
+-   \[218\] As to the differences between the New Zealand and United Kingdom legislation:
+
+> (a) Sections 135 and 136 contemplate liability arising in relation to events that may occur well before it becomes apparent that there is no reasonable prospect of the company avoiding liquidation. In this respect these sections differ considerably from s 214 of the Insolvency Act.
+> 
+> (b) Sections 135 and 136 of the 1993 Act are closely derived from s 320 of the 1955 Act and thus, ultimately, the Companies Act 1929 (UK) as enacted following the Greene Report. Section 214 of the Insolvency Act is far less closely derived from the 1929 Act and its successors.
+> 
+> (c) Section 135 is focused on the interests of creditors and (as we come to) s 136 on the interests of particular creditors in a way that s 214 of the Insolvency Act is not.
+
+_Did the directors breach s 135?_
+
+-   \[219\] It is plain that the directors agreed to Mainzeal carrying on the business in the manner in which it did from 31 January 2011. That leaves in play questions whether first, that manner of carrying on business made it likely that there would be a substantial risk of serious loss to creditors (see [\[211\](a)](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref141462275?query=title(%222023%20NZSC%20113%22)) and [\[211\](b)](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142305205?query=title(%222023%20NZSC%20113%22)) above) and secondly, the directors acted unreasonably in the sense set out at [\[211\](b)](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142305205?query=title(%222023%20NZSC%20113%22)) above. If these questions are answered in the affirmative, it follows that the directors were in breach of s 135 in agreeing to Mainzeal carrying on trading. As will be apparent, the issues relevant to these questions overlap and their resolution turns on evaluative assessments.
+-   \[220\] We propose to discuss the relevant issues, and provide our answers to the questions we have identified above, under the following headings:
+
+> (a) Mainzeal’s position in 2010;
+> 
+> (b) steps taken by the directors to address Mainzeal’s problems;
+> 
+> (c) reliance by the directors on assurances of support;
+> 
+> (d) other issues as to governance; and
+> 
+> (e) our conclusions as to breach of s 135.
+
+Mainzeal’s position in 2010
+
+-   \[221\] The critical facts that emerge from the narrative set out earlier are as follows:
+
+> (a) From 2005 Mainzeal had traded while balance sheet insolvent. This is because the related parties to whom loans had been made were not in a position to repay them. That Mainzeal was balance sheet insolvent was explicitly recognised in the board papers for the January 2010 meeting.
+> 
+> (b) From 2008 Mainzeal had generated little, if anything, in the way of operating profit (both absolutely and as a proportion of turnover).
+> 
+> (c) As the Court of Appeal observed, the risk of significant cashflow issues was always present for a construction company with high turnover, low margins and significant project risks.<sup>[\[142\]](#fn142)</sup>
+> 
+> (d) The 2008 PwC assessment noted that additional capital was required. At no time was the additional capital provided.
+> 
+> (e) The Emphasis of Matter in the audit report in relation to the 2009 financial statements indicated that the going concern assumption in relation to Mainzeal was dependent on continued financial support. That assessment coincided with Mainzeal’s understanding of how the market perceived Mainzeal, as was noted in the board papers for the January 2010 board meeting.
+> 
+> (f) After the 2009 restructuring, letters of support were not provided by asset‑owning companies in the Richina Pacific group. Instead, they came from Richina (NZ) LP which did not have the assets to make good on its assurances.
+> 
+> (g) From 2009, and particularly as 2010 progressed, Mainzeal began to face leaky building (or “legacy”) claims. These were provisioned for only in relation to the costs (mainly legal) likely to be incurred in the following year. These claims posed a substantial risk to Mainzeal’s solvency, independent of the irrecoverable related-party loans, a risk that became more serious as time went by.
+> 
+> (h) The directors were well aware of all of these facts. In particular, they recognised the related parties did not have the assets to repay the advances that had been made to them and that Mainzeal was balance sheet insolvent. As well, they had no reason to suppose that Richina (NZ) LP would have been able, from its own assets, to make good on the support that it had promised. That there was a potential for additional leaky building claims was reasonably obvious.
+
+Steps taken by the directors to address Mainzeal’s problems
+
+-   \[222\] The directors did, to some extent, seek to resolve the issues we have identified. As we have noted, there were attempts in 2010 to obtain more formalised governance arrangements in relation particularly to responsibility for solvency and the related issue of group support for Mainzeal. As well, in 2011, the pre-paid goods agreement was entered into.
+-   \[223\] As to solvency and support, the directors did not press their concerns to a logical conclusion. They never received an unequivocal commitment (or refusal of such a commitment) from Mr Yan and Richina Pacific to capitalise the company or otherwise address its insolvency. The pre-paid goods arrangements were not an adequate substitute for repayment of the related-party loans or recapitalisation of Mainzeal and therefore did not sufficiently address the associated solvency issues.<sup>[\[143\]](#fn143)</sup> So, the directors could not have reasonably seen the arrangement as obviating the need for recapitalisation.
+-   \[224\] In those circumstances, the critical issue of solvency remained unresolved and, as we see it, the decisions made by the directors to trade on were essentially taken by default, trading-on being just the other side of the coin to not forcing the issue with Mr Yan and Richina Pacific.
+-   \[225\] Trading projections prepared by Mainzeal’s management did show a profitable pathway forward. But there had been a history of trading projections not being met and of minimal profits, or more usually losses.<sup>[\[144\]](#fn144)</sup> Mainzeal was operating on a large turnover but with limited margins and this left ample scope for things that could, and did, go wrong. Past trading had not produced the kind of profit that could turn the fortunes of the company around — quite the opposite. As we have noted, the directors’ expert witness on corporate governance noted that directors should have viewed these forecasts with “a degree of healthy scepticism”.
+
+Reliance by the directors on assurances of support
+
+-   \[226\] The relevant assurances of support consisted of the formal letters of support provided for audit purposes and informal assurances of support provided by Mr Yan. Examples of such informal assurances appear in the email correspondence referred to at [\[56\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138323223?query=title(%222023%20NZSC%20113%22))–[\[57\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138323230?query=title(%222023%20NZSC%20113%22)). As well, we accept that there were a number of assurances given orally by Mr Yan.
+-   \[227\] Both Cooke J and the Court of Appeal were of the view that the directors could not reasonably rely on these assurances of support.<sup>[\[145\]](#fn145)</sup> As to this:
+
+> (a) The finding of Cooke J on this issue was essentially factual in nature and was upheld by the Court of Appeal.
+> 
+> (b) There are, therefore, now concurrent findings of fact that the directors could not reasonably rely on these assurances.
+> 
+> (c) Although the primary facts were not substantially in dispute, the finding of Cooke J was inevitably influenced by the impressions on his mind of a lengthy trial, including what he made of the key protagonists. That being so, these concurrent findings are entitled to substantial respect on this second appeal.
+
+In any event, as will become apparent, on this issue we are of the same view as Cooke J and the Court of Appeal.
+
+-   \[228\] Relevant to the reasonableness of reliance on these assurances of support are the following considerations:
+
+> (a) There was a history of Richina Pacific taking care to avoid any legal liability associated with Mainzeal. Examples of this include: the 2004 forgiveness by Mainzeal of $5.5 million owed by Richina Pacific; the disappearance from the financial statements of the $5.5 million capital call option; the removal of funds from Mainzeal through intermediaries (MLG and RGREL) thus resulting in no direct liability from Richina Pacific to Mainzeal; the elimination of the receivable from Richina Pacific to MLG by the share buy‑back arrangement; the assignments of the obligations in relation to the subscription agreement for preference shares to be issued by RGREL to Richina Pacific so that the obligations in relation to them wound up with Richina (NZ) LP, which was not in a position to meet them; and the deliberate decision taken in, or just after, October 2010 not to complete the draft documents that, if completed, would in all probability have been effective to create contractual commitments on the part of CHC and RGREL to support Mainzeal.
+> 
+> (b) The restructuring in 2009 separated Mainzeal from the asset holding companies in the group. The separation between Mainzeal and the asset holding companies in the group was not accidental. Nor was the absence of letters of support from asset holding companies in the group. Both Courts below concluded that this was the result of conscious decisions.<sup>[\[146\]](#fn146)</sup> The effect, and it must have also been a purpose, was to limit the risks to the Richina Pacific group associated with Mainzeal. That the asset holding companies in the Richina Pacific group did not provide even unenforceable letters of comfort in relation to Mainzeal cast a major shadow over the extent to which it was reasonable to rely on informal assurances of support of uncertain scope from Mr Yan.
+> 
+> (c) Considerations of the kind that might make reliance on unenforceable letters of support reasonable, such as the reputational risks to a publicly listed company of the failure of a subsidiary, did not apply after Richina Pacific was delisted from the New Zealand Stock Exchange.
+> 
+> (d) The fact that Dame Jenny ceased to be a director of Richina Pacific at the time of the restructuring meant that she was no longer well-placed to understand the commercial substance underpinning the assurances in terms of the willingness of Richina Pacific to honour them.
+> 
+> (e) The email exchange in 2010 provided further grounds for caution in relation to the assurances of support. It is true that in the emails referred to at [\[56\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138323223?query=title(%222023%20NZSC%20113%22))–[\[57\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138323230?query=title(%222023%20NZSC%20113%22)), Mr Yan gave what were, ostensibly, unconditional assurances of support, but the tenor of the email exchange as a whole provided no basis for confidence that such assurances could be relied on. As we have noted, the emails mischaracterised the factual and legal situation.
+> 
+> (f) More generally, and applicable to the oral as well as written assurances, it must have been evident to the directors that Mr Yan and Richina Pacific had not backed their assurances of support with anything tangible (in the form of recapitalisation or legally binding assurances) that could be relied upon if the need arose.
+> 
+> (g) As the Court of Appeal pointed out, the willingness of the Chinese entities within the group to provide support would be doubtful in the circumstances in which such support would most likely be needed, that is if Mainzeal came to be under serious financial pressure, in particular when there was serious occasion to doubt whether Mainzeal remained a going concern.<sup>[\[147\]](#fn147)</sup> The concerns expressed by Mr Yan in late 2012 were reasonably predictable.
+> 
+> (h) We attach particular weight to the fact that the future of Mainzeal was very vulnerable to the actions and decisions of a single man — Mr Yan. He could be expected to act generally in accordance with the interests of the Richina Pacific group. As to this, the communications between Mainzeal and Mr Yan in August 2010 revealed attitudes to corporate governance on the part of Mr Yan that could hardly have been reassuring for the directors.
+> 
+> (i) As well, Mr Walker’s email of 26 August 2010 made it clear that it was the directors’ role to make going concern, solvency and related determinations with respect to Mainzeal. There was nothing in this email to suggest that relevant to those determinations was a willingness on the part of Richina Pacific to ensure that the assurances in the letters of support would be honoured.
+
+-   \[229\] There are two considerations that provide some support for the reasonableness of the directors’ reliance on the assurances of support. The first is that Richina Pacific’s exposure in relation to bonds meant that it was not in a position to walk away unscathed from a Mainzeal collapse. The second is the $9 million that was provided by way of advances after the beginning of May 2012.<sup>[\[148\]](#fn148)</sup> Money advanced to Mainzeal from related entities in 2012 was taken into account by Cooke J and discounted as justifying reliance in the overall circumstances.<sup>[\[149\]](#fn149)</sup> We agree. As Cooke J put it: “Without a legally binding commitment, or even a clearly articulated one, such support was always ultimately at the option of the Richina Pacific group. It was never assured.”<sup>[\[150\]](#fn150)</sup>
+
+Other issues as to governance
+
+-   \[230\] A point that was much commented on in the evidence is that Mainzeal’s board papers and minutes indicate an extremely operational focus. They are not indicative of much attention being paid to broader strategic issues the company faced. This view of the material was largely accepted by Mr Westlake, the directors’ expert witness on governance. By way of example, there is nothing in the board papers and minutes that suggests careful and collegial board consideration of the reliability of the assurances of support that the directors were relying on or of the implications for Mainzeal if such support was not forthcoming when required. In other words, there was no taking stock of the kind that we would have expected.
+-   \[231\] An associated aspect of Mainzeal’s governance that warrants notice involves the very limited extent to which the directors sought professional or expert advice. As we have already mentioned, in late 2010, the directors sought corporate governance advice from Ernst & Young. This advice was provided in draft in January 2011 but the recommendations were never implemented. It was not until late 2012 when, at the insistence of BNZ, the directors first sought external advice on Mainzeal’s financial situation.<sup>[\[151\]](#fn151)</sup> And prior to December 2012, no external legal advice was taken in relation to solvency and the directors’ obligations under ss 135 and 136. We think it most unlikely that professional, and particularly legal, advice taken in around January 2011 as to solvency and the implications of ss 135 and 136 would have encouraged reliance on unenforceable assurances of support or continuation of a policy of trading while insolvent. Had such advice been sought and given in the terms that we think is likely, it would have:
+
+> (a) been a trigger for Dame Jenny and Messrs Gomm and Tilby to press Mr Yan and Richina Pacific more firmly in relation to the future of Mainzeal; and
+> 
+> (b) made it distinctly more difficult than it turned out to be for Mr Yan to maintain continuance of the status quo (trading while insolvent in reliance on unenforceable assurances of support).
+
+-   \[232\] The High Court Judge was critical of the failure to take, in a timely way, external legal advice as to the implications of the solvency issues the company was facing and the directors’ duties under ss 135 and 136.<sup>[\[152\]](#fn152)</sup> We agree with his criticism.
+-   \[233\] Also associated with the operational focus of the directors is that although from 2005, when Mainzeal became insolvent, the directors were required to have regard to the interests of creditors, we have seen no evidence in the contemporaneous material that they did so prior to mid-2012. To the contrary, there is at least an appearance of disregard for their interests. As the liquidators noted in their written submissions:
+
+Mainzeal’s negative balance sheet was seen as a risk only because it potentially hindered Mainzeal’s ability to win work. The solutions adopted by the Board ... were not solutions to the underlying problem of insolvent trading. They merely continued to mask it and to facilitate it.
+
+There is substance to this contention. Much of the material in the board papers that deals with solvency is addressed to market perceptions. There was a likelihood that potential counterparties aware of Mainzeal’s balance sheet weakness would not contract with it; a potential recognised by the directors as evidenced by the window dressing of the accounts of RGREL and Mainzeal. This suggests an awareness by the directors that counterparties (who were necessarily potential creditors should Mainzeal fail) were taking on rather more risk than they had bargained on in dealing with Mainzeal.
+
+Our conclusions as to breach of s 135
+
+-   \[234\] We are left with the view that the position of the company as it was in 2010 was such that, without a substantial injection of capital or assurances of support on which reliance could reasonably be placed, continued trading posed a likelihood of substantial risk of serious loss to creditors. The directors ought to have recognised this. The assurances of support and the limited actions the directors took were insufficient to reduce the risk to the extent required to ensure compliance with s 135. In not recognising this, the directors acted unreasonably. Therefore, we are satisfied that the directors agreed to Mainzeal trading in a manner likely to create (and that did create) substantial risk of serious loss to creditors.
+-   \[235\] We agree with Cooke J and the Court of Appeal that the future of the company should have been more directly addressed in 2010, with the underlying concerns pursued until they were resolved, one way or another.<sup>[\[153\]](#fn153)</sup> This would have involved, as the Court of Appeal suggested, pressuring Mr Yan to come up with his best offer on how the issues affecting Mainzeal could be sorted out.<sup>[\[154\]](#fn154)</sup> That pressure could have been reinforced by explicit threats by the directors to resign or to put the company into wind-down mode (which, if the latter had been implemented, would have been likely to result in collapse). We accept that it is uncertain what the outcome of such an exercise would have been. Perhaps, as Cooke J thought, Richina Pacific would have provided the required legally binding support.<sup>[\[155\]](#fn155)</sup> Possibly, as the Court of Appeal thought likely, Mr Yan may have come up with something less, but still better than the status quo.<sup>[\[156\]](#fn156)</sup> In January 2013, when under pressure in relation to BNZ, Messrs Yan and Walker were able to come up with something reasonably substantial. It is certainly possible that something similar may have resulted from substantial pressure in 2011. Whatever the outcome, the directors would at least then have been in a position to make an informed decision about whether to continue to allow the company to trade on. Instead, they allowed it to continue to trade on as before without having achieved a resolution.
+-   \[236\] Cooke J was of the view that the directors were in breach of s 135 from mid‑2010.<sup>[\[157\]](#fn157)</sup> He found a breach date of 31 January 2011 because that was the first in time of the breach dates alleged by the liquidators,<sup>[\[158\]](#fn158)</sup> an approach that the Court of Appeal did not disagree with.<sup>[\[159\]](#fn159)</sup> It may be, as Cooke J indicated, that the directors were in breach significantly earlier than 31 January 2011,<sup>[\[160\]](#fn160)</sup> but, given the way the case was pleaded and run at trial, it is appropriate to take 31 January 2011 as the breach date. In conformity with the findings of the High Court and Court of Appeal, we hold that from 31 January 2011, the directors adopted a trading policy that was “likely to create a substantial risk of serious loss to the company’s creditors” and were thus in in breach of s 135.
+
+**Liability under s 136**
+
+_Approach of the Court of Appeal_
+
+-   \[237\] It will be recalled that the Court of Appeal found that by 31 January 2011 the directors knew the company was vulnerable to failure at any time and that if it stopped trading there would a be significant deficit to creditors.<sup>[\[161\]](#fn161)</sup> Because the directors had no occasion to consider that collapse was imminent (that is, “in the coming months”),<sup>[\[162\]](#fn162)</sup> they continued to have reasonable grounds to believe that short term obligations would be met. But this was not the case with medium to long‑term obligations. This meant that in relation to the four major projects that were entered into after 31 January 2011, the directors did not have reasonable grounds to believe that the company would honour the associated obligations that would fall due in the medium to long term.
+-   \[238\] The Court also held that given the precarious state of the company as at 5 July 2012, the directors did not have reasonable grounds to believe that any obligations entered into subsequently would be honoured.<sup>[\[163\]](#fn163)</sup>
+-   \[239\] The Court concluded that relief could be granted under s 136 even though it related to what in effect was a course of trading, rather than particular obligations:
+
+\[280\] It is of course the case that s 136 can apply to a decision to enter into a specific obligation that the company is unable to perform when it falls due. But there is nothing in the text of s 136, or in the Act more generally, to suggest that the provision should be confined to decisions to enter into specific transactions. The purpose of the provision is to discourage directors from agreeing to the company incurring obligations where they do not believe the company will be able to perform the obligations when required to do so, or where there are no reasonable grounds for such a belief. ... That concern may arise in relation to a specific obligation, or it may arise in relation to a specific class of transactions, or transactions generally.
+
+_Directors’ argument as to the scope of liability under 136_
+
+-   \[240\] The directors contend that on the Court of Appeal approach to s 136 there is substantial, if not complete, overlap between the operation of ss 135 and 136. They maintain that on the language of s 136 liability depends on an affirmative act of agreement by the directors to incurring the particular obligation (or obligations) in issue rather than a general, implied, agreement to continue trading.
+-   \[241\] As well, with a view to limiting the scope of liability under s 136 and at the same time reducing the overlap with s 135, Mr Hodder suggested that for the purposes of s 136 “obligation” should be read down to exclude obligations of the sort that are incurred in the course of ordinary trading. Mr Hodder proposed as an obvious example of an obligation outside the ordinary course of trading one that would have the potential to bring the company down, albeit he accepted that liability under s 136 may not always be limited to obligations of that kind. Although it was not a feature of the directors’ argument, it has been suggested elsewhere that liability under s 136 should be confined to obligations on “capital account”.<sup>[\[164\]](#fn164)</sup>
+
+_Our approach to the scope of liability under s 136_
+
+-   \[242\] The language of s 136 is largely derived from s 320(1) of the 1955 Act (as amended in 1980). The purpose of s 320(1) was creditor protection. And as our earlier discussion of the legislative history indicates, the same is true of s 136.
+-   \[243\] The critical words in s 136 are “believes at that time on reasonable grounds that the company will be able to perform the obligation when it is required to do so”. The meaning to be attributed to “believes” is material, even though the beliefs of the directors were not explicitly challenged. This is because it provides contextual assistance as to what constitutes reasonable grounds.
+-   \[244\] As a matter of ordinary English usage, “believes” can connote a conviction that something is true, although when used in this sense it is often in reference to something (for instance pertaining to religion) that is not susceptible of proof. Where “believes” is used in relation to a future state of affairs (about which there can be little or no scope for absolute confidence) and particularly in relation to the inherently uncertain future of a business (as it is in s 136), it must mean something less than conviction. On the other hand, it would be an unnatural interpretation of “believes”, particularly when linked with “on reasonable grounds” as it is in s 136, to construe it as meaning merely “hopes”. Looked at in this way, we consider that s 136 is premised on the basis that directors ought not to commit a company to obligations unless confident on reasonable grounds that they will be honoured.<sup>[\[165\]](#fn165)</sup>
+-   \[245\] The test just postulated is rather more exacting from the point of view of directors than that under s 214 of the Insolvency Act (UK) and therefore as envisaged in _Sequana_ and _Stanford_. Under s 214, liability is not triggered until it is practically inevitable that there will be an insolvent liquidation. But s 136 is worded so as to contemplate liability in wider circumstances. Encouraging risk-taking and recognising the importance of business judgment are not the only policy considerations involved. Providing appropriate protection for creditors is also important. A creditor providing goods, services or money to a company is likely to assume that the directors would not permit the company to incur the corresponding obligations unless confident on reasonable grounds that they would be honoured. Such an assumption is encouraged by the provisions of ss 135, 136 and 137. On its wording, s 136 appears to reflect a decision by the legislature to place rather more weight on creditor protection (and less on promoting risk-taking and respecting business judgment) than s 214 of the Insolvency Act (UK).
+-   \[246\] As will be apparent, we are of the view that s 136 should be construed by reference to the ordinary meaning of the statutory language. It is not easy to come up with a construction of s 136 that is acceptably consistent with its text but would narrow its application along the lines suggested by Mr Hodder. Reading s 136 down would also be inconsistent with the legislative history of ss 135, 136 and 301, which is premised on an approach to director liability and creditor protection that is more focused on creditors than that proposed by the Law Commission. And it would be inconsistent with the policy choice apparent on the face of s 136 that in cases of doubtful (or worse) solvency, directors should pay at least substantial regard to the interests of creditors.
+-   \[247\] Coming now more directly to the arguments advanced on behalf of the directors, we accept that there will be some cross-over between liability under ss 135 and 136, but do not see that as a reason to read down the plain words of s 136.<sup>[\[166\]](#fn166)</sup> If we were to read s 136 as Mr Hodder suggests, there would still be substantial overlap between ss 137 and 136. This is because conduct of the kind to which Mr Hodder suggests s 136 should be confined would almost always breach s 137. Further, and perhaps more importantly, on the approach we take as to how compensation for breaches of ss 135 and 136 should be calculated (explained later at [\[280\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142301180?query=title(%222023%20NZSC%20113%22))–[\[296\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142305424?query=title(%222023%20NZSC%20113%22))), the sections operate in different ways, with s 136 providing a basis for relief where individual creditors, but not necessarily creditors viewed as a collective, have been prejudiced.
+-   \[248\] We also are unpersuaded by the suggestion that agreement for the purposes of s 136 requires some act of specific agreement to the particular obligation in issue. Under s 136, liability depends on the director agreeing to the incurring of an obligation. As the singular includes the plural, “obligation” is to be read as “obligations”. In this context, we see “agree” (the word used in s 136) as having its ordinary meaning, on which basis agreement to the continuation of trading may be taken as extending to the incurring of obligations that are the inevitable corollary of that continuation of trading.
+-   \[249\] For these reasons just discussed, and in conformity with the approach of the Court of Appeal, we conclude that s 136 should be construed in accordance with the usual meaning of its statutory text, is not confined to obligations of a particular kind, and may be invoked in relation to a course of trading to which the director has agreed.
+
+_The directors’ arguments as to the application of s 136 in this case_
+
+-   \[250\] The directors argue that even if the Court of Appeal’s approach to s 136 was correct, the directors had reasonable grounds to believe that the obligations would be met when due. They also say that the Court of Appeal’s findings were in breach of natural justice because it was not put to the directors that they lacked the relevant reasonable grounds at each of the two breach dates — 31 January 2011 and 5 July 2012. As well, adoption of the 5 July 2012 breach date (in respect of which there were no tailored quantum evidence) necessitated the Court of Appeal remitting the issue of quantum back to the High Court, inappropriately allowing the liquidators to have a second chance at proving quantum.
+
+_How the case was pleaded and run_
+
+-   \[251\] The third amended statement of claim alleged breaches of s 136 expressed in this way:
+
+\[The\] directors breached \[s 136\] by agreeing to \[Mainzeal\] continuing to trade and incurring new obligations at a time when reasonable grounds did not exist for the belief that \[Mainzeal\] would be able to perform those obligations ...
+
+The prayers for relief included claims for $75.3 million (by reference to the 31 January 2011 breach date) and $69.4 million (by reference to the 31 July 2011 breach date). These were particularised in a schedule, albeit in global terms rather than identified by reference to particular obligations. There was no mention of 5 July 2012 as a possible breach date.
+
+-   \[252\] In opening, counsel for the liquidator summarised the s 136 claim in this way:
+
+The directors should have ceased trading from January 2011 if not before. The plaintiffs’ case is that by no later than that date, the directors allowed \[Mainzeal\] to carry on business (s 135) and agreed to incur specific obligations (s 136) that involved significant and illegitimate risks to the creditors.
+
+-   \[253\] This was fleshed out a by reference to new obligations associated with the four major projects:
+
+... Given \[Mainzeal’s\] lamentable financial position in late 2011 and in 2012, the directors, in breach of duty, failed to turn their mind to whether \[Mainzeal\] was incurring obligations which it could not meet, let alone undertake a sober assessment of the risks involved for \[Mainzeal\] and the creditors associated with the New Contracts. These creditors could have little idea that they were contracting with a hopelessly insolvent entity or of the risks they faced.
+
+...
+
+The claim with respect to the New Contracts falls to be considered in terms of s 136. The defendant directors agreed to \[Mainzeal\] incurring the obligations associated with the New Contracts when there was no reasonable basis to believe that \[Mainzeal\] would be able to meet those obligations when required. The plaintiffs do not need to prove that the defendants did not believe that \[Mainzeal\] would be able to perform the New Contracts, although there is no evidence that they turned their minds to this issue. The primary challenge is as to the reasonableness of the grounds on which they based their decision to proceed given \[Mainzeal’s\] long-standing balance sheet insolvency, loss‑making performance, mounting liability for leaky building claims and the previous failure of group companies to honour their obligations or assurances.
+
+-   \[254\] When the directors gave evidence, limited attention was paid to their roles in the decision-making that led to Mainzeal committing to the four major projects and incurring associated obligations. Likewise, there was limited focus on their states of mind at the particular times the obligations were incurred. Nor was there much in the way of detailed evidence led as to the nature of the contracts and associated obligations. No attention was paid either at trial or at the hearing of the appeal to 5 July 2012 as a possible breach date.
+-   \[255\] The evidence adduced by the liquidators as to quantum addressed specifically the obligations incurred by Mainzeal in relation to the four major projects, emphasising again that a s 136 claim in relation to those obligations was being pursued. However, the evidence adduced as to quantum was not prepared and given with a 5 July 2012 date in mind.
+
+_Our approach: the four major projects_
+
+-   \[256\] We have already made findings that as at 31 January 2011 the manner in which the directors allowed Mainzeal to trade exposed creditors to a substantial risk of serious loss. We do not rehearse all of the factual findings, but what is clear from the narrative set out above is that after 31 January 2011 the directors did not have reasonable grounds to believe that Mainzeal would, in the medium to long term, be able to pay its debts. Each of the four major projects involved Mainzeal incurring medium to long‑term obligations. It follows that when the directors agreed, as they did, to Mainzeal entering into the obligations associated with the four major projects they did not have reasonable grounds to believe that those obligations would be honoured. Therefore, the liquidators’ claims in relation to the four major projects and associated obligations are made out. As will be apparent, our approach to this is substantially the same as that of the Court of Appeal.
+-   \[257\] What of the complaint of a lack of natural justice? As to this, it seems to us that the particular breaches of s 136 identified by the Court of Appeal were squarely on the table at trial. The obligations associated with the four major projects were identified as being the subject of the s 136 claim in the High Court in opening and closing. Calculations as to loss on a new debt basis in relation to these projects formed part of the liquidators’ case. Information in relation to the four major projects was in board papers and some directors were questioned at the trial about some aspects of the projects. Directors were cross-examined as to what was discussed at a board level, and as to Mainzeal’s circumstances and vulnerability from before January 2011 through to receivership. Therefore, while the directors were not generally cross‑examined on their states of mind by reference to the particular dates material to the four major projects, they were cross‑examined on the assessments they were making during that time and sometimes in relation to those projects specifically.
+-   \[258\] If the directors wished to deny having agreed to the incurring of the relevant obligations, they could have done so when giving evidence. As it happens, however, it is perfectly clear that they did “agree” (in the ordinary sense of the word) to those obligations being incurred. On that basis, the substantial issue on this aspect of the case was whether their belief that they would be honoured was based on reasonable grounds, an issue that we think was addressed fairly by the Court of Appeal.
+
+_Our approach: all obligations incurred after 5 July 2012_
+
+-   \[259\] The Court of Appeal considered that until mid-2012 there were reasonable grounds to believe that short‑term obligations would be met.<sup>[\[167\]](#fn167)</sup> Its finding that those grounds no longer existed after 5 July 2012 was based on a number of considerations:<sup>[\[168\]](#fn168)</sup>
+
+> (a) Mainzeal was in a vulnerable financial position, it had been balance sheet insolvent for a long time and it had depleted cashflow resources. The Court referred to the following evidence:
+> 
+> > (i) The Chief Financial Officer, Mr Pearce, advised the board meeting on 27 June 2012 that cashflow remained critical. His report referred to “\[e\]xtreme cashflow pressures resulting in micro-management on a daily basis which has been covered by temporary banking facilities on a month by month basis”.
+> > 
+> > (ii) Before the next board meeting, on 5 July 2012, Sir Paul Collins sent an email to Mr Yan in which he described Mainzeal as in a “precarious position to say the least” and described unsecured creditors as “seriously exposed”.<sup>[\[169\]](#fn169)</sup>
+> 
+> (b) Its ability to pay creditors depended on a short‑term BNZ facility, which could be withdrawn.
+> 
+> (c) BNZ had previously agreed to provide this short-term funding in the form of a $4 million “excess” facility. But BNZ was no longer satisfied with its security over the company’s assets and sought a personal guarantee from Mr Yan over his Remuera home and required daily cashflow information.
+> 
+> (d) Mainzeal was not meeting its obligations as they fell due. By June 2012 overdue accounts represented almost half of the company’s accounts payable.
+
+-   \[260\] The Court of Appeal concluded:
+
+\[475\] Whatever the position may have been in 2011, we consider that by 5 July 2012 the directors did not have reasonable grounds for believing that the company would be able to meet new short-term (unsecured) obligations when they fell due. It was in fact failing to do so: as the graph<sup>\[[\[170\]](#fn170)\]</sup> ... above demonstrates, from March 2012 onwards, and especially in June 2012, the company had significant overdue debt. The company’s “precarious position” could result in failure at any time, in particular, if BNZ decided to withdraw the temporary facilities on which the company’s continuing trading depended at any of the scheduled monthly reviews. The directors knew all of this: these matters were squarely on the table at the 27 June and 5 July 2012 board meetings. By 5 July \[2012\] at the latest the directors lacked reasonable grounds for believing that Mainzeal would be able to meet any newly incurred obligations when they fell due.
+
+\[476\] It follows that the directors breached s 136 in relation to all obligations incurred from 5 July 2012 onwards. ...
+
+-   \[261\] In a broad sense, the generality of the pleaded claim left it open to the Court of Appeal to fix a breach date later than those pleaded. What is in issue is whether (a) fairness to the directors requires us to set aside the conclusion of the Court of Appeal and (b) there was material error in its approach. These two questions overlap partly.
+-   \[262\] There are two considerations material to determining whether the Court of Appeal’s adoption of a 5 July 2012 breach date was fair to the directors:
+
+> (a) The effect of the reshaping of the case by the Court of Appeal is that there was a finding as to liability (all obligations incurred after 5 July 2012 that were unpaid at liquidation) in respect of which quantum calculations had not been prepared. If the consequence of this is that there will have to be a further substantial hearing in the High Court more than 10 years after Mainzeal’s collapse, this will bear heavily on the fairness of the course adopted.
+> 
+> (b) The way in which this aspect of the case was reshaped by the Court of Appeal means that the directors did not have an opportunity to meet the line of reasoning on which the Court of Appeal relied. The cogency of this consideration is affected by how convincing we find the reasoning of the Court of Appeal on this aspect of the case in light of the directors’ arguments now advanced on appeal — the arguments which they did not have the opportunity to advance before the Court of Appeal. As to this, we note that the appeal to this Court is by way of rehearing.
+
+-   \[263\] We consider that the first point is not critical. This is because, as we will explain later, the approach the liquidators have taken to quantum and, in particular, a reasonably major concession the liquidators have made means that the practical difficulties of fixing quantum in respect of all obligations entered into after 5 July 2012 have fallen away.<sup>[\[171\]](#fn171)</sup>
+-   \[264\] Against that background, we turn to the fairness issue and how convincing we find the Court of Appeal’s reasoning.
+-   \[265\] For ease of discussion, we reproduce the graph referred to by the Court of Appeal here:<sup>[\[172\]](#fn172)</sup>
+
+What were broadly the same issues, albeit over a narrower time frame, were addressed by Mr Grant Graham, who gave evidence for the directors. He summarised his conclusions in this table:
+
+**Table \[3\]: Subcontractor and creditor ageing ($ million)**
+
+<table><tbody><tr valign="top"><td valign="top" width="130"><br></td><td valign="top" width="57"><div><b>Jul 12</b></div></td><td valign="top" width="57"><div><b>Aug 12</b></div></td><td valign="top" width="57"><div><b>Sep 12</b></div></td><td valign="top" width="57"><div><b>Oct 12</b></div></td><td valign="top" width="57"><div align="right"><b>Nov 12</b></div></td><td valign="top" width="57"><div align="right"><b>Dec 12</b></div></td></tr><tr valign="top"><td valign="top" width="130"><div>Accruals</div></td><td valign="top" width="57"><div align="right">31.033</div></td><td valign="top" width="57"><div align="right">28.696</div></td><td valign="top" width="57"><div align="right">25.906</div></td><td valign="top" width="57"><div align="right">24.487</div></td><td valign="top" width="57"><div align="right">29.609</div></td><td valign="top" width="57"><div align="right">14.862</div></td></tr><tr valign="top"><td valign="top" width="130"><div>Current creditors</div></td><td valign="top" width="57"><div align="right">9.695</div></td><td valign="top" width="57"><div align="right">8.039</div></td><td valign="top" width="57"><div align="right">5.541</div></td><td valign="top" width="57"><div align="right">6.311</div></td><td valign="top" width="57"><div align="right">13.642</div></td><td valign="top" width="57"><div align="right">10.444</div></td></tr><tr valign="top"><td valign="top" width="130"><div>1-30 days past due</div></td><td valign="top" width="57"><div align="right">5.492</div></td><td valign="top" width="57"><div align="right">2.449</div></td><td valign="top" width="57"><div align="right">2.990</div></td><td valign="top" width="57"><div align="right">2.820</div></td><td valign="top" width="57"><div align="right">4.955</div></td><td valign="top" width="57"><div align="right">2.393</div></td></tr><tr valign="top"><td valign="top" width="130"><div>31-60 days past due</div></td><td valign="top" width="57"><div align="right">0.100</div></td><td valign="top" width="57"><div align="right">0.190</div></td><td valign="top" width="57"><div align="right">0.604</div></td><td valign="top" width="57"><div align="right">0.587</div></td><td valign="top" width="57"><div align="right">0.254</div></td><td valign="top" width="57"><div align="right">0.270</div></td></tr><tr valign="top"><td valign="top" width="130"><div>61+ days past due</div></td><td valign="top" width="57"><div align="right">0.111</div></td><td valign="top" width="57"><div align="right">0.100</div></td><td valign="top" width="57"><div align="right">0.093</div></td><td valign="top" width="57"><div align="right">0.422</div></td><td valign="top" width="57"><div align="right">0.308</div></td><td valign="top" width="57"><div align="right">0.432</div></td></tr><tr valign="top"><td valign="top" width="130"><div><b>Total</b></div></td><td valign="top" width="57"><div align="right"><b>46.430</b></div></td><td valign="top" width="57"><div align="right"><b>39.473</b></div></td><td valign="top" width="57"><div align="right"><b>35.134</b></div></td><td valign="top" width="57"><div align="right"><b>34.627</b></div></td><td valign="top" width="57"><div align="right"><b>48.768</b></div></td><td valign="top" width="57"><div align="right"><b>28.400</b></div></td></tr><tr valign="top"><td valign="top" width="130"><div>Accruals</div></td><td valign="top" width="57"><div align="right">66.8%</div></td><td valign="top" width="57"><div align="right">72.7%</div></td><td valign="top" width="57"><div align="right">73.7%</div></td><td valign="top" width="57"><div align="right">70.7%</div></td><td valign="top" width="57"><div align="right">60.7%</div></td><td valign="top" width="57"><div align="right">52.3%</div></td></tr><tr valign="top"><td valign="top" width="130"><div>Current creditors</div></td><td valign="top" width="57"><div align="right">20.9%</div></td><td valign="top" width="57"><div align="right">20.4%</div></td><td valign="top" width="57"><div align="right">15.8%</div></td><td valign="top" width="57"><div align="right">18.2%</div></td><td valign="top" width="57"><div align="right">28.0%</div></td><td valign="top" width="57"><div align="right">36.8%</div></td></tr><tr valign="top"><td valign="top" width="130"><div>1-30 days past due</div></td><td valign="top" width="57"><div align="right">11.8%</div></td><td valign="top" width="57"><div align="right">6.2%</div></td><td valign="top" width="57"><div align="right">8.5%</div></td><td valign="top" width="57"><div align="right">8.1%</div></td><td valign="top" width="57"><div align="right">10.2%</div></td><td valign="top" width="57"><div align="right">8.4%</div></td></tr><tr valign="top"><td valign="top" width="130"><div>31-60 days past due</div></td><td valign="top" width="57"><div align="right">0.2%</div></td><td valign="top" width="57"><div align="right">0.5%</div></td><td valign="top" width="57"><div align="right">1.7%</div></td><td valign="top" width="57"><div align="right">1.7%</div></td><td valign="top" width="57"><div align="right">0.5%</div></td><td valign="top" width="57"><div align="right">1.0%</div></td></tr><tr valign="top"><td valign="top" width="130"><div>61+ days past due</div></td><td valign="top" width="57"><div align="right">0.2%</div></td><td valign="top" width="57"><div align="right">0.3%</div></td><td valign="top" width="57"><div align="right">0.3%</div></td><td valign="top" width="57"><div align="right">1.2%</div></td><td valign="top" width="57"><div align="right">0.6%</div></td><td valign="top" width="57"><div align="right">1.5%</div></td></tr><tr valign="top"><td valign="top" width="130"><div><b>Total</b></div></td><td valign="top" width="57"><div align="right"><b>100.0%</b></div></td><td valign="top" width="57"><div align="right"><b>100.0%</b></div></td><td valign="top" width="57"><div align="right"><b>100.0%</b></div></td><td valign="top" width="57"><div align="right"><b>100.0%</b></div></td><td valign="top" width="57"><div align="right"><b>100.0%</b></div></td><td valign="top" width="57"><div align="right"><b>100.0%</b></div></td></tr></tbody></table>
+
+-   \[266\] The graph shows that cashflow difficulties were particularly acute in June 2012. As can also be seen from the table we have reproduced, there was then improvement in July and August (presumably helped by money provided by Richina Pacific and BNZ). The position in relation to overdue creditors did not materially deteriorate between July and December. Although we are inclined to see the inclusion of accrued but not invoiced debts in Mr Graham’s table as something of a distraction, it is fair to say, as Mr Graham made clear in his evidence and counsel for the directors stressed in argument, that Mainzeal was distinctly more current with its creditors than is commonly the case with companies on the verge of liquidation. However, recognising as we do that these considerations provide a measure of support for the position of the directors, we see the result arrived at by the Court of Appeal as correct.
+-   \[267\] We have considered the contemporaneous material that was adduced in evidence. Much of this has been set out above at [\[84\]](https://www.nzlii.org/cgi-bin/sinodisp/nz/cases/NZSC/2023/2023_113.html#_Ref138323707)–[\[95\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138323717?query=title(%222023%20NZSC%20113%22)). Having done so, we are in agreement with the approach the Court of Appeal took. Mainzeal’s position was extremely precarious given inter-related issues as to cashflow, legacy claims and insufficiency of capital. The need for additional capital was recognised but such capital was not forthcoming. Mr Yan’s support for Mainzeal was patently shaky, and he was obviously troubled in relation to the security that BNZ required of him. Despite the money that came in under the standby letters of credit (as advances and not capital), it was distinctly uncertain whether Richina Pacific would provide whatever money was required to meet Mainzeal’s liabilities. And looking at what the directors were saying and being told, we think it clear that they did not have reasonable grounds for believing that obligations incurred after 5 July 2012 would be honoured.
+-   \[268\] As we have noted, directors had the opportunity in this Court to advance their factual challenges to the Court of Appeal’s reasoning. Having heard those arguments, we are satisfied, by a comfortable margin, that the approach of the Court of Appeal to the facts was correct. Given these considerations, we see no unfairness to the directors in upholding that approach. Accordingly, in accordance with the conclusion of the Court of Appeal, we hold that the directors were in breach of s 136 in relation to all obligations entered into after 5 July 2012.
+
+**Implications for the future of our approach to liability under ss 135 and 136**
+
+-   \[269\] It is important that the principles this judgment establishes are accessible enough to provide guidance to directors. We therefore set out the implications of this judgment for directors in the future.
+-   \[270\] Directors have a continuing obligation to monitor the performance and prospects of their company. If they do not do so, they will be in breach of their duty to exercise the care, diligence and skill of a reasonable director. Directors should squarely address the future of the company if such monitoring reveals that by reason of the company’s solvency position, or other adverse factors, there is:
+
+> (a) potential for substantial risk of serious loss to creditors; or
+> 
+> (b) doubt as to whether there is a continuing reasonable basis for belief that obligations to be incurred will be able to be honoured.
+
+-   \[271\] This is consistent with their obligations under ss 135 and 136 and also under s 137 to exercise the skill, care and diligence of a reasonable director in the same circumstances. If there is potential for such risk of loss to creditors or doubt as to whether there is a reasonable basis for belief that new obligations will be honoured, the directors must decide how the potential for breaches of ss 135 and 136 can be avoided. To do this, directors may need to take professional or expert advice from sources independent of the company.<sup>[\[173\]](#fn173)</sup> The courts will allow a reasonable time for directors to decide what course of action they should take. If deciding what course of action to take, directors should deal directly with the issues that have given rise to concern. They should determine whether the associated risks can be eliminated (for instance, if they are a function of lack of capital, by recapitalisation) or sufficiently managed and mitigated under a plan for continued trading that offers a reasonable basis for concluding that: (a) there is not a substantial risk of serious loss to creditors and (b) they can be confident that obligations incurred will be honoured. Principles of sound corporate governance should be adhered to in terms of developing a strategy for continued trading (if this is what the directors opt to do) and monitoring progress. By directing themselves to these questions and in this way directors will be appropriately taking into account the interests of creditors.
+-   \[272\] Directors should also recognise that a long-term strategy of trading while balance sheet insolvent is generally not acceptable. As will be noted, we have used the word “generally” as we accept that there may be circumstances in which it will be legitimate for such a long-term policy to be followed, most particularly where there are assurances of support from a parent or sister company or third parties that can reasonably be relied on.<sup>[\[174\]](#fn174)</sup> Where that is the case, the preconditions of liability under ss 135 and 136 will not be satisfied.
+-   \[273\] As we have explained, we consider that the courts must apply a standard of reasonableness when assessing the decisions of directors. In doing so, the courts will recognise that such decisions are likely to involve the exercise of business judgment. So, in applying ss 135 and 136:
+
+> (a) In relation to decisions to trade on, the courts will accept that business judgment is involved, as liability under s 135 turns on not just an objective assessment by the court of the likelihood of substantial risk of serious loss to creditors but also whether, in their decision-making as to whether to allow continued trading, the directors applied reasonable care, skill and diligence.
+> 
+> (b) Judges will allow a reasonable time for directors to assess risk, review the options to meet that risk and decide what course to take, including time to take advice.
+> 
+> (c) Where advice has been taken, this must be factored into the assessment of the reasonableness of the directors’ actions, both generally and under s 138.
+> 
+> (d) Judges will recognise and adjust for the danger of hindsight bias.<sup>[\[175\]](#fn175)</sup> This means that they will identify the danger of treating a bad outcome as having been more predictable before the event than it actually was. And, it follows, judges will acknowledge that decisions that were reasonable when made may nonetheless turn out badly and that in difficult situations there will often be scope for more than one reasonable course of action.
+> 
+> (e) The reality that directors are often required to make complex decisions under pressure of time and events and sometimes with knowledge that remains incomplete despite their best efforts will also be acknowledged.
+> 
+> (f) Although directors will not normally be liable for continuing to trade during the taking stock period, that may not be the case if substantial new obligations are taken on without measures in place to allow for them to be met.
+
+**Measurement of loss in relation to ss 135 and 136: principles and quantification**
+
+_The issues_
+
+-   \[274\] Very much in contest between the parties is how loss should be assessed for breach of ss 135 and 136. The liquidators maintain that a new debt approach provides an appropriate measure of loss in respect of both the ss 135 and 136 claims and that there is sufficient evidence to enable the court to calculate the loss.
+-   \[275\] The directors contend that net deterioration is the only basis for calculation of loss available in the present circumstances and that no such loss has been established. In the alternative, they submit that if we conclude loss has been established, quantification of that loss should be referred back to the High Court.
+-   \[276\] In this section of the judgment we address the appropriate measure and quantification of loss for breaches of ss 135 and 136 and leave for later discussion the extent of any discretion under s 301 to depart from that measure.
+
+_Our approach to assessing loss_
+
+-   \[277\] Much earlier in this judgment we addressed some context we regard as relevant to the interpretation and application of ss 135, 136 and 301.<sup>[\[176\]](#fn176)</sup> In particular, we discussed the provenance of these sections, their legislative antecedents, how those antecedents were applied by the courts, the background to the enactment of the 1993 Act, and, finally, recent case law. We pick some of that material up again in the context of how loss should be assessed for breaches of ss 135 and 136.
+
+Practice under s 320 of the 1955 Act (and equivalent legislation)
+
+-   \[278\] As we have explained,<sup>[\[177\]](#fn177)</sup> in _Re William C Leitch Brothers Ltd (No 1)_, in dealing with a statutory provision in broadly the same terms as s 320 of the 1955 Act, Maugham J considered that “in general” an award would be limited “to the amount of the debts of those creditors proved to have been defrauded”.<sup>[\[178\]](#fn178)</sup> And in New Zealand cases under s 320 of the 1955 Act, this approach was usually followed, with the general focus on debts illegitimately incurred and no indication of a net deterioration limit to the recovery.<sup>[\[179\]](#fn179)</sup>
+-   \[279\] Things changed with the _South Pacific Shipping_ case.<sup>[\[180\]](#fn180)</sup> In the High Court judgment, the starting point for the assessment was all debts owing at the date of liquidation; this on the basis it was a fair inference that all such debts had been incurred after the point (to which we will refer loosely as “the breach date”<sup>[\[181\]](#fn181)</sup>) where the director’s conduct came within s 320(1). There was, however, a recognition that the defendant should have an allowance for what would have been the losses to creditors assuming a cessation of business at the breach date.<sup>[\[182\]](#fn182)</sup> This was in substance a net deterioration approach, albeit not so described.<sup>[\[183\]](#fn183)</sup> On appeal from that judgment, the Court of Appeal adopted a net deterioration approach:<sup>[\[184\]](#fn184)</sup>
+
+\[78\] Section 320 of the 1955 Act conferred a power on the Court in the exercise of its judgment, if it thought it proper to do so, to impose personal liability without limitation on an impugned officer of a company for all or any part of its debts. The principal purpose of the section was to compensate those who suffered loss as a result of illegitimate trading, the extent of the required contribution being a matter for the Court’s judgment. ...
+
+\[79\] The element of causation is concerned with the link between the carrying on of the company’s business recklessly, to the knowledge of the impugned director, and the indebtedness of the company for which it is sought to impose personal liability. In a case such as the present that involves an assessment of how much the liabilities of the company were increased because of the illegitimate delay in its ceasing to trade and the identification of a point in time when the director knew that continuing to trade would be reckless. ...
+
+Net deterioration and s 135
+
+-   \[280\] With the duty under s 135 being owed to the company and not the creditors, it might be thought to follow that the net deterioration in the company’s finances caused by the directors’ breach of duty determines the approach to the quantum of loss (subject to any discretion under s 301). But whether this is so, and if so, why, warrants discussion.
+-   \[281\] We are of the view that s 135 is not addressed to the preservation of shareholders’ funds. For this reason, payment of what would be necessary to see all creditors paid will satisfy liability under it. Relief in respect of any loss to the company over and above that suffered by creditors can only be sought under other provisions. It follows from this that the total loss to creditors is at least material (in the sense of setting a cap) to what can be awarded under s 135.
+-   \[282\] Assessment of loss based on net deterioration is necessarily premised on a counterfactual that assumes cessation of trading, and in practical terms liquidation, at breach date. Where that is not the appropriate counterfactual, there is no occasion for a net deterioration calculation. As well, there may be other situations in which other measures of loss will be appropriate. Measures of loss other than net deterioration may be necessary, or appropriate, where:
+
+> (a) the breach of s 135 is itself the cause of the company’s failure, in which case the entire deficiency may be the basis of the award;<sup>[\[185\]](#fn185)</sup>
+> 
+> (b) the records of the company do not enable its affairs as at the breach date to be adequately reconstructed, in which again entire deficiency may be the measure of loss;<sup>[\[186\]](#fn186)</sup> or
+> 
+> (c) the director has acted in breach of s 135 and derived a benefit from having done so, in which case compensation can be calculated by reference to the value of benefit illegitimately obtained.<sup>[\[187\]](#fn187)</sup>
+
+-   \[283\] The Court of Appeal discussed another situation in which net deterioration may not be the appropriate measure — where more diligent action by directors might, but would not necessarily have, prevented liquidation. It noted that in such a situation there would be scope for argument that a “loss of a chance” claim may be available in relation to a proportion of the entire deficiency. This was alluded to in the Court of Appeal judgment but not discussed at length as such a claim was not pursued by the liquidators.<sup>[\[188\]](#fn188)</sup>
+-   \[284\] The liquidators do not challenge the conclusion of the Court of Appeal that the relevant counterfactual is liquidation at breach date. But they argue for a new debt measure on the basis that this reflects the loss caused to creditors by the breach of s 135 and as well they rely upon the difficulty and expense of establishing loss measured by net deterioration. We accept that insistence on a net deterioration approach can lead to practical difficulties. This is especially so in litigation concerning the failure of substantial and complex companies. In the case of such companies, it will often be difficult, to the point sometimes of being impracticable, to establish with any confidence the financial position of the company at breach date. There may be, as here, a number of possible breach dates. On a net deterioration approach, there will have to be a complex notional liquidation assessment in respect of each breach date. There will also always be the possibility that the court will pick another breach date (as the Court of Appeal did here in relation to s 136). Each calculation will involve an extremely difficult, uncertain and expensive exercise. The practical requirement for a number of such exercises means that there will be much wasted expenditure. The alternative of split trials as to liability and quantum (with a first trial to determine breach date and a second to assess quantum) is likely to prove problematic (and expensive) in practice.
+-   \[285\] Having said all of this, and recognising the strength of the arguments against a net deterioration approach, we uphold the approach of the Court of Appeal on this issue. This is for the following reasons.
+-   \[286\] Net deterioration is consistent with the authorities. Thus, in _Mason v Lewis_, it was said:<sup>[\[189\]](#fn189)</sup>
+
+\[109\] The standard approach has been to begin by looking to the deterioration in the company’s financial position between the date inadequate corporate governance became evident (really the “breach” date) and the date of liquidation.
+
+This was also the approach adopted in _Debut Homes_ for breaches of s 135, where this Court commented:<sup>[\[190\]](#fn190)</sup>
+
+\[164\] In terms of a breach of s 135, we accept that in most cases the appropriate starting point would be an amount equal to the deterioration in the company’s financial position between the date when trading should have ceased and the date of actual liquidation (the net deficiency approach). This is because the section looks at the creditors and the business as a whole.
+
+So, recent appellate authority favours net deterioration as a general measure of loss for breach of s 135.<sup>[\[191\]](#fn191)</sup>
+
+-   \[287\] A net deterioration cap is consistent with that duty being owed to the company, as indeed it is. But significantly, given the different approach we propose to take in relation to s 136, it also reflects the loss to creditors, providing that loss is assessed by reference to creditors “as a whole”, as it was put in the passage just cited from _Debut Homes_. This passage from _Debut Homes_ recognise that the language of s 135 is not focused on individual transactions and individual creditors, but rather is directed to the interests of the general body of creditors.
+-   \[288\] As well, despite the practical difficulties with a net deterioration approach in this case, many claims under s 135 will involve straightforward liquidations in which a comparison of the financial positions of the company at breach date and liquidation will be perfectly practicable. This means that adopting a net deterioration approach will not have the practical effect of making s 135 a dead letter as a consequence of the difficulty of proving loss.
+-   \[289\] Accordingly, we conclude that as the relevant counterfactual we must apply is liquidation at breach date, the appropriate measure of damages under s 135 in this case is net deterioration. We reject the liquidators’ cross-appeal challenging the appropriateness of the net deterioration measure for s 135. Because the liquidators have not challenged the Court of Appeal’s finding that a net deterioration was not proved, it follows that the liquidators are not entitled to an award of compensation in respect of the established breach of s 135.
+
+Net deterioration or new debt under s 136
+
+-   \[290\] Despite adopting a net deterioration approach to the measure of loss for the purposes of the s 135 claim, we consider, as did the Court of Appeal, that a different approach to compensation is appropriate under s 136. There are two reasons for this:
+
+> (a) the logic of s 136; and
+> 
+> (b) the authority of _Debut Homes_.
+
+-   \[291\] Dealing first with the logic of s 136, there is an apparent difference in focus between ss 135 and 136. Whereas s 135 is concerned with the general conduct of the business of the company and the risk that such conduct poses to creditors, s 136 addresses the incurring of obligations to creditors. Section 135 is expressed in terms that are consistent with treating creditors as a class in relation to compensation. In contrast, s 136, as we construe it, does not treat all creditors as a class but rather contemplates both (a) an obligation‑by‑obligation, and thus a creditor‑by‑creditor, approach and (b) as we have found, an approach based on categories of obligations and therefore creditors. So, the wording is consistent with the view that the damage for which compensation should be available under s 136 is the incurring of obligations that were not met and that such damage is most logically measured by the deficiency in respect of those obligations. This was substantially the approach taken in the _Leitch_ cases and New Zealand cases prior to the _South Pacific Shipping_ case (which, in any event, is best seen as directed to s 135).<sup>[\[192\]](#fn192)</sup>
+-   \[292\] We have already discussed the legislative history of s 301 in some detail. If construed in accordance with its legislative purpose, it contemplates the grant of compensation direct to creditors and in this way supports the availability of a new debt approach in at least some cases that a creditor might bring under s 301.<sup>[\[193\]](#fn193)</sup> The most obvious circumstance for granting such relief to a creditor would be in relation to s 136 and such relief would presumably be based on the loss suffered by the creditor. We accept that this is contrary to one of the themes that emerges from the _Sequana_ judgment — that creditors should be treated collectively. However, as we have noted, the United Kingdom legislation that provided the backdrop to that case contains nothing equivalent to s 136.
+-   \[293\] In _Debut Homes,_ the Court, having held that net deterioration was usually the appropriate basis on which to calculate compensation under s 135, took a different view in relation to compensation under s 136. This view is set out in \[165\]–\[166\] of that judgment, paragraphs that we have already reproduced.<sup>[\[194\]](#fn194)</sup> In respect of s 136 it said that relief was not limited to net deterioration and could be calculated on a new debt basis if that was necessary to respond to the harm.<sup>[\[195\]](#fn195)</sup>
+-   \[294\] Counsel for the directors stressed in argument that when adopting a new debt approach the Court in _Debut Homes_ referred to particular aspects of the conduct of the sole director, Mr Cooper: he had recognised that the company would fail (so knew that new creditors would not be paid), pursued his self-interest in terms of debts that were paid and had targeted one particular creditor — the Commissioner of Inland Revenue. These facts, they say, distinguish that case as comparable criticisms of Mainzeal’s directors cannot be made.
+-   \[295\] Counsel for the directors argued that the conduct of Mr Cooper was far more culpable than that of their clients. Opinions may differ as to this.<sup>[\[196\]](#fn196)</sup> But even if his culpability was significantly greater than that of the directors, it would not provide a basis for distinguishing _Debut Homes_ as to the appropriate measure of compensation under s 136. In legal terms, the breaches of duty by both Mr Cooper and the Mainzeal directors in this case were the same — they had agreed to the incurring of obligations without belief on reasonable grounds they would be honoured. If the incurring of those obligations is a harm to the company capable of being compensated only on a net deterioration approach, there is no logical reason why the arguably more culpable nature of Mr Cooper’s breach should have made a new debt approach appropriate. In this context, we consider that the discussion of the aggravated culpability of Mr Cooper’s conduct in _Debut Homes_ should be treated as directed to the exercise of discretion under s 301. We will return later, in a different context, to the extent and nature of this discretion.
+-   \[296\] As will be apparent, we accept that the duty under s 136 is owed by the directors to the company. However, for the reasons we have explained, we are satisfied that relief calculated by reference to the losses to creditors is available. This can be rationalised on the bases either that in this instance, the loss to the creditors is to be treated as a loss to the company or, more generally, because a new debt approach accords with the purpose of the legislature and in particular, is consistent with s 301. It is also consistent with our adoption in this case of a net deterioration approach in relation to s 135, loss so calculated corresponds to the loss to the creditors as whole. Accordingly, we conclude that the Court of Appeal was correct to direct compensation in relation to s 136 on a new debt basis as such an approach best responds to the harm caused by the breaches of s 136.
+
+_Quantification of loss_
+
+-   \[297\] Now that we have determined on what basis loss can be assessed under ss 135 and 136 we turn to consider the issue of whether loss in this case can be quantified in relation to s 136.
+
+The approach of the Court of Appeal to quantification
+
+-   \[298\] As we have discussed, the Court of Appeal found breaches of s 136 in respect of the following:<sup>[\[197\]](#fn197)</sup>
+
+> (a) obligations to principals and bond providers under the four \[major projects\] entered into after 31 January 2011;
+> 
+> (b) obligations to subcontractors under those contracts in relation to retentions; and
+> 
+> (c) all obligations incurred on or after 5 July 2012.
+
+-   \[299\] As to the obligations under the four major projects, the Court of Appeal recorded that:
+
+> (a) $20.3 million was owed to principals and bond providers;<sup>[\[198\]](#fn198)</sup> and
+> 
+> (b) $11.2 million was owed to subcontractors.<sup>[\[199\]](#fn199)</sup>
+
+These figures total $31.5 million.
+
+-   \[300\] As to how much is owed in relation to liabilities incurred after 5 July 2012, the liquidators’ evidence was that:<sup>[\[200\]](#fn200)</sup>
+
+> (i) subcontractor claims, as at liquidation, totalled $45.4 million, of which $11.2 million can be excluded (to avoid duplication) as owed to subcontractors in relation to the four major projects, leaving a total of $34.2 million; and
+> 
+> (ii) trade creditor claims, as at liquidation, totalled $9.5 million.
+
+-   \[301\] These figures provided a starting point for the assessment of compensation along the following lines:
+
+> (a) liabilities in relation to four major projects: $31.5 million
+> 
+> (b) additional subcontractor claims: $34.2 million
+> 
+> (c) trade creditors: $9.5 million
+
+TOTAL: $75.2 million
+
+-   \[302\] The liquidators acknowledged in the Court of Appeal that the $75.2 million should be reduced by some $11.7 million advanced by related parties and which has not been claimed in the liquidation.<sup>[\[201\]](#fn201)</sup> For this reason, $11.7 million should be subtracted from the gross figure of $75.2 million. This produces $63.5 million which is the amount the liquidators sought in the Court of Appeal.
+-   \[303\] The Court of Appeal observed:<sup>[\[202\]](#fn202)</sup>
+
+\[535\] It seems likely that a substantial proportion of this figure is represented by obligations in respect of which we have found the directors liable under s 136: claims by principals (or bond providers who have indemnified those principals) in respect of the four significant construction contracts entered into after 31 January 2011, subcontractor retention claims in respect of those contracts, and claims in respect of obligations incurred from 5 July 2012 onwards. But we do not have sufficient information to determine that issue.
+
+\[536\] The liquidators’ figures also do not appear ... to include any allowance for dividends paid or payable to the relevant creditors from other recoveries in the liquidation. _We consider that only the net deficit to relevant creditors after 31 January 2011, after making an allowance for all payments received by them before liquidation_ or during the liquidation (other than, of course, as a result of these proceedings), can be recovered for breach of s 136.
+
+\[537\] The liquidators’ figures also do not, as we understand the position, make any allowance for interest since the date of liquidation, and may not make any allowance for interest at all.
+
+\[538\] We are not in a position to determine the figure that is potentially recoverable for breach of s 136, in light of the outstanding issues identified above ... The determination of that figure will need to be referred back to the High Court.
+
+-   \[304\] The words we have emphasised in \[536\] of the above passage show that the Court of Appeal envisaged that payments received by creditors prior to liquidation would have to be brought to account by deducting them from the amount claimed. We consider that this reference to an allowance only relates to part payments in respect of obligations entered into after the relevant breach date. Such payments should be reflected in outstanding balances due to creditors. We do not think that the Court of Appeal envisaged factoring in payments received by creditors in relation to other obligations after the relevant breach dates. Thus at \[296\] of its judgment, the Court of Appeal observed:
+
+... it follows from the Supreme Court’s approach in _Debut Homes_ that compensation for breach of s 136 will generally be assessed by adopting a “new debt” measure that focuses on the gross amounts of the unsatisfied obligations undertaken in breach of s 136. This approach reflects the policy rationale underpinning s 136, and ensures that the provision is practically relevant in typical insolvent trading scenarios. That is the approach we adopt.
+
+The parties’ contentions
+
+-   \[305\] The liquidators argue that there is sufficient evidence before this Court to enable quantum to be fixed and that, although precision is not attainable, a pragmatic approach will produce an award that will not overcompensate for the breach. They ask that we not remit the issue of quantum to the High Court as the Court of Appeal did — they say that this would add unnecessary expense and delay to this already protracted litigation. To meet the issues mentioned by the Court of Appeal and relied on by the directors, they are prepared to make certain concessions, which we will explain shortly.
+-   \[306\] The directors’ general position is that quantum should be assessed with substantial precision which is not possible on the information available. They say that the evidence for the liquidators was addressed to breach dates other than 5 July 2012 and for this reason is not specific as to when the subcontractor and trade creditor obligations were entered into. They contend that the liquidators have therefore not proved their case and should not be able to have a second go at it, whether before us or in the High Court. Therefore, say the directors, even if breach is found, no compensation should be awarded against them. If this Court is of the view that compensation should be awarded, the directors maintain that this should be fixed by the High Court.
+-   \[307\] The specific concerns identified by the directors in connection with proof of quantum are:
+
+> (a) Admitted proofs of debt are not a good proxy for the actual indebtedness of the company.
+> 
+> (b) There is not precise debt by debt analysis of what subcontractor and trade creditor claims were incurred after 5 July 2012. The creditors are identified by name but there is no analysis of the ageing of the debts. Accordingly, the amount claimed might include litigation legacy claims and recurring obligations such as employee claims and lease obligations.
+> 
+> (c) The liquidators’ proposed assessment proceeds on the basis that because Mainzeal was reasonably current with its creditors, any debts owing at liquidation would have been incurred after 5 July 2012, an approach that the directors say is insufficiently precise.
+> 
+> (d) The amount owing to the subcontractors at liquidation included retentions of $18.1 million. The makeup of these retentions is not clear. They include some liabilities to subcontractors that neither relate to the four major projects nor were incurred after 5 July 2012 and, for this reason, fall outside of the obligations in respect of which the Court of Appeal held that s 136 had been breached. The difficulty is that we do not know for sure how much of the retentions fall into this category.
+> 
+> (e) The amount of the potential dividends from the liquidation is uncertain and may depend on later challenges by the directors to the actions of the liquidators.
+> 
+> (f) In the case of the bond issuer, Vero/AAI, the exposure improved between the counterfactual dates and liquidation.
+
+-   \[308\] It will also be necessary for us to address interest, an issue raised by the Court of Appeal at \[537\] of its judgment. We address this after we have discussed the s 301 discretion.
+
+Our approach to quantifying compensation
+
+-   \[309\] Practicalities must be respected. The scope for argument over the details of Mainzeal’s financial position at liquidation is extensive. And when it comes to counterfactual analysis (for instance in relation to the Vero/AAI exposure, based on what would have happened if the directors had acted differently on dates material to that exposure), the scope for argument is practically limitless, depending, as it must, on a range of necessarily hypothetical assumptions. Against this background, it would be unrealistic to expect precise calculations of loss. In light of this, we proceed on the basis that we may enter judgment for the amount sought by liquidators if satisfied on the balance on probabilities that it is less than the losses actually suffered.
+-   \[310\] Dealing with the first objection, we agree that accepted proofs of debt are not necessarily an accurate proxy for determining the indebtedness of Mainzeal. However, this is because (as noted by the Court of Appeal) the total of admitted debts is likely to be less than the actual indebtedness of the company.<sup>[\[203\]](#fn203)</sup> The evidence shows that many creditors did not bother lodging proofs of debt. For these reasons any inaccuracies introduced into the calculation by use of accepted proofs of debts will generally favour the directors. Further, we are satisfied that the liquidators’ approach to the proofs of debts that were lodged, although vigorously challenged in cross‑examination, was appropriate.
+-   \[311\] As to the second ground of objection, the evidence on behalf of the liquidators gives no indication of historic leaky building claims or recurring employee or lease obligations being included in the subcontractor and trade creditor figures. As well, as the debts included in the calculations were detailed in schedules produced in evidence, it was open to the directors to cross-examine on that issue if they wished to argue that obligations incurred before 31 January 2011 were included. They did not. That leaves a possible lacuna as to whether the calculations include debts incurred after 31 January 2011 but before 5 July 2012.<sup>[\[204\]](#fn204)</sup> However, we have seen no indication of this and we were not taken to such obligations in argument.
+-   \[312\] As to the objection noted at [\[307\](c)](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138323955?query=title(%222023%20NZSC%20113%22)), it is true that there is not a precise, creditor‑by‑creditor analysis of the ages of the debts as they were at the date of liquidation. But, given that Mainzeal was always reasonably up to date with its creditors, it is a fair assumption (and distinctly more probable than not) that, leaving aside retentions, any particular debt owing to a subcontractor or trade creditor as at liquidation had been incurred after 5 July 2012. To put this more generally, the vast majority of the debts owed at liquidation must have been incurred after 5 July 2012.
+-   \[313\] Turning to the retentions issue referred to at [\[307\](d)](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143186132?query=title(%222023%20NZSC%20113%22)), as noted, of the $45.4 million owed to subcontractors, $18.1 million represented retentions. As is apparent, we think it likely, to say the least, that much (possibly most) of this money related to liabilities that accrued after the relevant breach dates (by way of example, retentions held in respect of the four major projects and work carried out after 5 July 2012). But we accept that at least some of the retentions did not arise in those ways and thus represent obligations not incurred in brea[\[205\]](#fn205)of s 136.<sup>205</sup> And we accept that we cannot be confident as to what proportion of the retentions is in this category. But any concern that the directors have been prejudiced by the absence of calculations showing how the $18.1 million was made up is met by the liquidators’ concession that a deduction of the full amount of the retentions of $18.1 million should be made from the amount claimed, a concession that resolves all uncertainties in the directors’ favour.
+-   \[314\] As to allowance for possible dividends ([\[307\](e)](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143186445?query=title(%222023%20NZSC%20113%22))), the liquidators propose to allow a credit for all funds currently held by the liquidators, $5.6 million; this despite the reality that dividends ultimately paid will be diminished by further liquidation costs and expenses. We see no need for a remittal to the High Court to enable the directors to challenge the way the liquidators have managed the liquidation on the hypothesis that a successful challenge might increase the dividend. Challenges to the way the liquidation was conducted, if meritorious, could and should have been advanced much earlier. We are not prepared to prolong the proceedings by permitting such challenges to be pursued now, ahead of quantification of compensation. So, on the basis of the material before us, we see no practical requirement for adjustment to the credit proposed by the liquidators in relation to possible dividends.
+-   \[315\] As to the objection at [\[307\](f)](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143246435?query=title(%222023%20NZSC%20113%22)), of the $20.3 million owed to principals and bond providers, approximately $3.8 million was owed to Vero/AAI in relation to bonds it had provided in respect of two of the four major projects, the Manukau Institute of Technology contract, entered into in February 2012, and the Ministry of Justice Manukau Precinct contract, entered into in November 2012. As at December 2011, the total exposure of Vero/AAI on the bonds it had issued was $22.4 million. At liquidation, that exposure was down to approximately $12.7 million. The arguments for the directors on this aspect of the case assume that liquidation at, say, February 2012 would have been the corollary of Mainzeal not entering into projects such as the Manukau Institute of Technology contract. On that assumption, the losses Vero/AAI suffered as a result of the bonds issued in relation to those two contracts was probably more than offset by Mainzeal finishing other projects and thus reducing its overall exposure.
+-   \[316\] Inquiry into the factual issues raised by this argument would be time consuming and, we suspect, speculative. We are not convinced that immediate liquidation would necessarily have been the consequence of the Mainzeal directors declining to commit the company to medium- to long-term contracts unless adequately capitalised. Further, as the wrong under s 136 is the incurring of obligations without belief on reasonable grounds that they will be met, the losses associated with the failure to honour those obligations provides the most obvious measure of compensation. That this was the view of the Court of Appeal is apparent from the passage from its judgment set out above at [\[303\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143241834?query=title(%222023%20NZSC%20113%22)) above. The general logic of this approach to the new debt calculation of loss in relation to s 136 was not specifically challenged by counsel for th[\[206\]](#fn206)irectors.<sup>206</sup> In this context, refined inquiry into the history of prior dealings between the creditor and the company and associated counter-factual analysis of the kind postulated by the directors would be beside the point.
+-   \[317\] For the reasons just given, we are satisfied that we can calculate compensation on the basis proposed by the liquidators — we are satisfied that it is more likely than not that the losses for which compensation can be awarded exceed the amount now claimed. Indeed, we are of the view that this figure provides a considerable margin of comfort. The allowance proposed by the liquidators for dividends to be received (approximately $5.6 million) is generous. More significantly, the deduction from the amount claimed of the retentions figure of $18.1 million resolves, by a comfortable margin, not only all uncertainties in relation to retentions in favour of the directors but also any remote possibility of injustice to the directors in relation to other aspects of the calculation (for instance, the possibility that some trade or subcontractor debts included in the new debt calculation were incurred before 5 July 2012).
+-   \[318\] To put all of this in figures, we reduce the figure claimed in the Court of Appeal of $63.5 million by $18.1 million for retentions and $5.6 million for likely dividends producing a final figure of $39.8 million.
+
+**Relief under s 301**
+
+_The issue_
+
+-   \[319\] The liquidators seek relief under s 301 of the 1993 Act. Despite the repetition, it is helpful to set s 301(1) out again given how far we have travelled in this judgment since we last discussed it:<sup>[\[207\]](#fn207)</sup>  1.  **Power of court to require persons to repay money or return property**
+
+> (1) If, in the course of the liquidation of a company, it appears to the court that a person who has taken part in the formation or promotion of the company, or a past or present director, manager, administrator, liquidator, or receiver of the company, has misapplied, or retained, or become liable or accountable for, money or property of the company, or been guilty of negligence, default, or breach of duty or trust in relation to the company, _the court may_, on the application of the liquidator or a creditor or shareholder,—
+
+...
+
+(b) order that person—
+
+> (i) to repay or restore the money or property or any part of it with interest at a rate the court thinks just; or
+> 
+> (ii) _to contribute such sum to the assets of the company by way of compensation as the court thinks just_; or
+> 
+> (c) where the application is made by a creditor, order that person to pay or transfer the money or property or any part of it with interest at a rate the court thinks just to the creditor.
+
+\[320\] The maximum amount that can be awarded under s 301 is the loss that we have just calculated. In issue now is (a) the extent, if any, to which the orders as to compensation that we make should be for less than that amount and (b) apportionment between the directors.
+
+-   \[321\] Our discussion of this issue is organised under the following headings:
+
+> (a) the parties’ contentions;
+> 
+> (b) approach in the lower Courts;
+> 
+> (c) the legal context (reviewing the approach taken under s 321 of the 1955 Act and similar provisions, the approach taken under s 320 of the 1955 Act, whether a company in liquidation may sue directly under ss 135 and 136 and the authorities as to the scope of the s 301 discretion);
+> 
+> (d) our approach as to the nature of the discretion; and
+> 
+> (e) application of the discretion in this case.
+
+_The parties’ contentions_
+
+-   \[322\] The directors argue that s 301 creates a broad discretion — that the language of “compensation” and “thinks just” is not accidental. The directors submit that the s 301 inquiry is an aid to the liquidation process, and not a direct substitute for an orthodox proceeding for damages brought by the company in liquidation. This is because in the liquidation process and s 301 inquiry, the court will become aware of the complexity of the causes of the collapse and the role of each director in it. They say that a two-stage approach is necessary, citing the Court of Appeal decision in _Mason v Lewis._<sup>[\[208\]](#fn208)</sup> The first stage is an objective assessment of the loss calculated by reference to usual legal principles in relation to the particular misfeasance that has been established. The second stage involves determining what proportion of that loss should be met by the directors, taking into account causation, culpability and duration.
+-   \[323\] The directors say that in exercising this broad discretion we should decline to award compensation at all or, if compensation is to be awarded, it should be for less than the loss suffered, as quantified by this Court, for the breaches of s 136.
+-   \[324\] The liquidators say that s 301 is to be viewed as a procedural provision only — it provides a pathway for obtaining relief for wrongs that exist independently of its provisions. Like the directors, they rely upon the legislative scheme and purpose which they argue are inconsistent with a wide discretion to reduce the relief available to liquidators for the benefit of creditors. First, they say that such a discretion is inconsistent with the scope of ss 135 and 136, and in particular that it is difficult to identify a reason for leaving stakeholders in the company’s liquidation worse off under s 301 than they would have been if the company had sued the directors. Secondly, they say that a wide discretion is inconsistent with the policy choice apparent in Parliament’s decision not to carry through into the 1993 Act a statutory defence for directors who have acted honestly and reasonably along the lines of that provided for by s 468(1) of the 1955 Act. This provided:
+
+If in any proceeding for negligence, default, breach of duty, or breach of trust against an officer of a company ... it appears to the Court ... that the officer ... is or may be liable ... but that he has acted honestly and reasonably, and that, having regard to all the circumstances of the case, including those connected with his appointment, he ought fairly to be excused ... that Court may relieve him, either wholly or partly, from his liability on such terms as the Court may think fit.
+
+-   \[325\] The liquidators therefore argue that there cannot, and should not, be a reduction in the overall sum awarded. In the event we were to conclude that the discretion was not narrow, the liquidators argue that in light of the significant concessions they have made in relation to quantum and the circumstances of the directors’ breaches, there should be no, or only a minimal, reduction.
+
+_Approaches in the lower Courts_
+
+-   \[326\] The High Court Judge approached this issue in the context of a breach of s 135. He first addressed the loss caused by the breach, identifying as a starting point for this analysis the entire deficiency on liquidation of approximately $110 million.<sup>[\[209\]](#fn209)</sup> He identified as relevant to the exercise of the discretion under s 301 three factors — causation, culpability and duration of breach.<sup>[\[210\]](#fn210)</sup> As will become apparent, these were the considerations that were seen as relevant to the exercise of the discretion under s 320 of the 1955 Act. Having considered the discretionary factors, “standing back” he found a just contribution by the directors to that $110 million loss would be $36 million.<sup>[\[211\]](#fn211)</sup>
+-   \[327\] He then, more materially for present purposes, addressed the liability of individual directors, and whether that liability should be joint and several or some form of several liability only. He proceeded on the basis that while joint and several liability is usually imposed on directors, that is not always the case as culpability may differ between directors.<sup>[\[212\]](#fn212)</sup> Finding Mr Yan most culpable, he found him liable for the full amount of $36 million.<sup>[\[213\]](#fn213)</sup> As to the other directors, he found no relevant distinction in their positions but that they had lesser personal culpability in all the circumstances. He held them each jointly liable with Mr Yan for $6 million.<sup>[\[214\]](#fn214)</sup>
+-   \[328\] In the Court of Appeal, there was a difference of opinion between the Judges as to how s 301 should be applied:
+
+\[307\] The argument before us did not squarely address the scope of the court’s discretion in relation to relief under s 301, and the principles on which that discretion should be exercised ... In particular, the manner in which that power should be exercised in respect of a finding of liability for breach of s 136 was not canvassed in any detail before us. The provisional views of the panel hearing this appeal differ in relation to the breadth of the s 301 discretion. Kós P and Miller J provisionally consider that they are bound by _Debut Homes_ to proceed on the basis that the discretion is a broad one, to be exercised having regard to all the circumstances of the breach including concepts of causation, culpability, and duration of any breach. Goddard J provisionally considers that this issue is not foreclosed by _Debut Homes_, and that it remains arguable that the discretion is relatively confined, reflecting the essentially procedural nature of s 301, and should only be exercised where there are factors such as knowledge on the part of a creditor that justify a reduction in the amount of compensation to be awarded against one or more directors. ...
+
+-   \[329\] Because the Court of Appeal remitted the issues of quantum and apportionment of liability to the High Court, it did not have to determine how s 301 should be applied.
+
+_The legal context_
+
+Approach taken under s 321 of the 1955 Act and similar provisions
+
+-   \[330\] As mentioned earlier, the wording of s 301 was drawn largely from s 321 of the 1955 Act. Section 321(1) (as amended in 1980) was addressed to company officers who had:
+
+...misapplied or retained or become liable or accountable for any money or property of the company, or been guilty of any negligence, default, or breach of duty or trust in relation to the company...
+
+Under s 321(1), the court could compel an officer:
+
+... to repay or restore the money or property or any part thereof respectively with interest at such rate as the Court thinks just, or to contribute such sum to the assets of the company by way of compensation in respect of the misapplication, retainer, negligence, default, or breach of duty or trust as the Court thinks just.
+
+-   \[331\] The general practice was to treat s 321 as providing a summary procedure for the resolution of claims the company was otherwise entitled to pursue — in other words, to treat the section as procedural only.<sup>[\[215\]](#fn215)</sup> Claims under s 321 were treated as equivalent to claims by the company in relation to the underlying cause of action. For instance, the limitation period commenced at the point when the company had a cause of action rather than at liquidation.<sup>[\[216\]](#fn216)</sup> Defendants to proceedings under s 321 were entitled to the usual rights of alleged tortfeasors or those said to have breached fiduciary obligations to seek indemnity or contribution amongst each other and against third parties.<sup>[\[217\]](#fn217)</sup> In one case, in apparent reference to the language “as the Court thinks just”, Cooke P observed that “\[t\]he discretion vested in the Court extends to the amount of any relief”.<sup>[\[218\]](#fn218)</sup> But he then went on, by way of apparent qualification, to say that “it may be that no set off is permitted”.<sup>[\[219\]](#fn219)</sup> And, in general, the courts seemed to have proceeded on the basis that any relief from liability would be under s 468.<sup>[\[220\]](#fn220)</sup>
+-   \[332\] A similar approach has been taken under s 212 of the Insolvency Act (UK) which corresponds quite closely to s 321 of the 1955 Act. The practice of the courts in relation to s 212 (and its precursors) was reviewed reasonably extensively in the Court of Appeal judgment in _Re Paycheck Services_<sup>[\[221\]](#fn221)</sup> and somewhat less extensively in the judgment of the United Kingdom Supreme Court<sup>[\[222\]](#fn222)</sup> on appeal from that judgment. The facts in the _Paycheck_ litigation were reasonably complex. They related to the wrongful declaration of dividends. The prima facie remedy for misapplication of a company’s money is to require the directors to reimburse the company for the amount of the misapplied funds.<sup>[\[223\]](#fn223)</sup> On the very particular facts of that case, relief on that basis, if granted, would have resulted in what would arguably have been a windfall for the plaintiff creditor. In the Court of Appeal, two of the Judges thought that such a result would have been sufficiently anomalous as to justify a reduced award, responding only to what they saw as the plaintiff creditor’s legitimate complaint and no more.<sup>[\[224\]](#fn224)</sup> The third judge disagreed.<sup>[\[225\]](#fn225)</sup> In the Supreme Court three of the Judges commented on this issue, with the split of opinion being the other way around.<sup>[\[226\]](#fn226)</sup> As we read the reasons, however, there was a general consensus as to the nature of the discretion, which was fairly captured by Lord Walker:<sup>[\[227\]](#fn227)</sup>
+
+The discretion conferred by section 212(3) of the Insolvency Act 1986 is not a wide discretion. It does not replicate or extend the court’s power to grant relief under section 727 of the Companies Act 1985 \[corresponding to s 468 of the 1955 Act\]. What it does is to enable the court to adjust the remedy to the circumstances of the particular case (some examples are given by Dillon LJ in _West Mercia_ ...).
+
+For the sake of completeness, we set out the passage from _West Mercia_ cited by Lord Walker:<sup>[\[228\]](#fn228)</sup>
+
+The court has a discretion over the matter of relief, and it is permissible for the delinquent director to submit that the wind should be tempered because, for instance, full repayment would produce a windfall to third parties, or, alternatively, because it would involve money going round in a circle or passing through the hands of someone else whose position is equally tainted.
+
+-   \[333\] What we take from the discussion in the English cases is that the discretion to fix compensation under provisions equivalent to s 321 of the 1955 Act at less than the normal measure of loss is primarily seen as being of utility where that measure of loss would produce some sort of anomaly — such as overcompensation or rewarding a party implicated in the breach of duty.
+
+Approach taken under s 320 of the 1955 Act
+
+-   \[334\] As will be recalled, section 320 of the 1955 Act provided that the court could:
+
+... declare that the \[liable director\] shall be personally responsible ... for all or any part of the debts and other liabilities of the company as the Court may direct.
+
+-   \[335\] The discretion created by this provision was exercised more liberally than the discretion under s 321. As we have explained, liability under s 320 did not depend on breach of any other statutory provision or rule of law.<sup>[\[229\]](#fn229)</sup> In contradistinction to the approach under s 321, limitation in relation to a s 320 claim commenced only on liquidation.<sup>[\[230\]](#fn230)</sup> And unlike the practice under s 321, there was much discussion as to the discretionary nature of relief. The cases proceeded on the basis that the discretion should be exercised by reference to causation, culpability and duration of the illegitimate trading and therefore that the courts could order compensation in a sum less than the assessed loss.<sup>[\[231\]](#fn231)</sup>
+
+May a company in liquidation bring proceedings as a plaintiff under ss 135 and 136?
+
+-   \[336\] The directors’ argument as to the operation of the discretion under s 301 is constructed in part on the proposition that a claim under s 301 for breach of ss 135 and 136 in relation to a company in liquidation is not to be seen as a substitute for a claim by the company. Conversely, the liquidators maintained that their application under s 301 was just a procedural alternative to a claim by Mainzeal for breach of those sections, in respect of which there would have been no basis for a discretionary downwards adjustment of compensation. If Mainzeal could have sued for the breaches and recovered damages for the total loss suffered by the creditors (with no discretion to reduce the award), it would be illogical to allow for a broad discretion under s 301 when it could, on this hypothesis, be easily sidestepped by the liquidators bringing the claim in the name of the company.
+-   \[337\] There is no suggestion in the cases dealing with s 321 of the 1955 Act that what was said to be the “summary” procedure it provided was to the exclusion of the ability of a company in liquidation to prosecute claims in its own name. It is accepted in the United Kingdom that an alternative to bringing proceedings under s 212 of the Insolvency Act (the equivalent of s 321 of the 1955 Act) by a liquidator is the company in liquidation bringing a direct claim.<sup>[\[232\]](#fn232)</sup> And in the only case we are aware of in which an at least broadly similar issue has been considered in relation to s 301, the proposition that this section occupies the ground, to the exclusion of claims brought outside of s 301, was rejected.<sup>[\[233\]](#fn233)</sup>
+-   \[338\] The cases just referred to provide some support for the liquidators’ arguments.<sup>[\[234\]](#fn234)</sup> But although s 301 is derived primarily from s 321 of the 1955 Act, the section, in conjunction with ss 135 and 136, also operates functionally as a replacement for s 320 of that Act. Section 320, which created a sui generis liability, did confer a broad discretion. So, if the courts were to recognise only a limited discretion in respect of claims under ss 135 and 136, this would have the practical effect of expanding the legal exposure of directors significantly beyond what it was under the 1955 Act.
+-   \[339\] We recognise that unlike the position under s 320 of the 1955 Act, liability under ss 135 and 136 is premised on breaches of duties owed by directors and so read as if they create statutory torts. However, there is scope for doubt whether a tort analysis is appropriate. There must be few, if any, situations in which the law of torts imposes a duty on A (here the directors) owed to B (here the company) to protect the interests of C (here the creditors). Given this, and the reality that enforcement of such duties is almost always going to occur after liquidation, there is substantial room for argument along the lines of that advanced by Mr Hodder that the legislative scheme is premised on an assumption that claims for breaches of ss 135 and 136 will be advanced by liquidators, rather than by the company, and thus dealt with under s 301. As well, if a claim for a breach of ss 135 and 136 were to be advanced by a company, there would also be room for argument as to the nature of the relief that should be granted; perhaps along the lines that:
+
+> (a) it should be refused on the basis that the loss suffered is that of creditors and not the company and thus cannot be recovered by the company; or
+> 
+> (b) the scheme of the legislation envisages that breaches of ss 135 and 136 result in liability of a kind that is subject to discretionary adjustment and this irrespective of who the plaintiff is.
+
+-   \[340\] Given the limited argument we received on the point and the practical, albeit limited, potential for claims under ss 135 and 136 to be pursued in the name of companies that are not in liquidation,<sup>[\[235\]](#fn235)</sup> we do not propose to determine whether a company in liquidation is a proper plaintiff under ss 135 and 136 and can recover damages representing, and calculated by reference to, losses suffered by creditors. It is sufficient for us to recognise, as we do, that claims under ss 135 and 136 address losses to creditors (whether as a class or individually) and thus differ in essence from the other types of claims that can be pursued under s 301 that focus on more orthodox harm done to the company.
+
+Authorities as to the scope of the s 301 discretion
+
+-   \[341\] Up until now s 301 has been generally construed as contemplating an award of compensation that is less than the loss caused by the breaches. As the directors note, _Mason v Lewis_ is an example,<sup>[\[236\]](#fn236)</sup> with the Court of Appeal relying on the cases under s 320 of the 1955 Act. As well, in _Debut Homes_, this Court observed:<sup>[\[237\]](#fn237)</sup>
+
+\[182\] Where there have been breaches of duties, any relief ordered under s 301 must respond to and provide redress for the particular duty or combination of duties breached. Relief can be compensatory or restitutionary in nature and must take account of all of the circumstances, including the nature of the breach or breaches, the level of culpability of the director, causation, duration of the breach, holding the director to account and reversing the harm to the company.
+
+As will be apparent, this language of culpability, causation and duration of breach is similar to that used in the cases under s 320 of the 1955 Act.
+
+-   \[342\] In _Sojourner v Robb_, in dealing with a claim that related to a loss suffered by the company, the Court of Appeal said of s 301:<sup>[\[238\]](#fn238)</sup>
+
+\[53\] The section provides a procedural short cut by which a liquidator, creditor or shareholder may pursue the claims which a company in liquidation may have against, inter alia, its former directors. ...
+
+\[54\] Logic also dictates that the liability of the former directors to the company in liquidation must cap the extent to which relief under s 301 may be granted. To put this another way, former directors cannot be required to pay more under s 301 than could have been awarded against them in a claim by the company in liquidation.
+
+\[55\] The section is cast in discretionary terms. It also covers a wide range of possible causes of action. The courts have sometimes emphasised the discretionary nature of the jurisdiction and have treated as relevant the degree of the defendant’s culpability. But in a context such as the present, where the s 301 claim is very much a proxy for a direct claim by \[the company\] against the former directors, it is difficult to identify any reason for leaving \[the creditors\] worse off under s 301 than they would have been if \[the company\] had sued \[the directors\], recovered what was due and owing and distributed the proceeds of the claims to the creditors.
+
+_Our approach as to the nature of the discretion_
+
+-   \[343\] The language of s 301, including the use of the word “may” and the stipulation for compensation to be in such amount as “the court thinks just”, is evocative of discretion.
+-   \[344\] We do not accept the liquidators’ argument that much can be taken from the omission of the s 468 defence. We agree that on first impressions the removal might be thought to be indicative of a generally tougher approach to director liability than under the 1955 Act. But in large measure the circumstances that would have provided a defence under s 468 are now directly addressed in the liability creating provisions as we construe them. As we have explained, we are of the view that a director who has acted honestly and reasonably will not be liable under ss 135 and 136. Accordingly, we consider that nothing tangible is to be taken from s 468 of the 1955 Act not having been carried through into the 1993 Act.
+-   \[345\] More generally, we see the approach advanced by the liquidators as generally appropriate to cases such as _Sojourner v Robb_ in which the claim under s 301 is a true proxy for a claim that could have been brought by the company for losses that it has suffered. However, we do not see that approach as applicable in relation to claims based on ss 135 and 136.
+-   \[346\] We have already explained the unusual nature of the duties created by ss 135 and 136 and discussed whether Mainzeal was a proper plaintiff in relation to the claims under ss 135 and 136,<sup>[\[239\]](#fn239)</sup> and, if so, the nature of the relief it could have obtained.
+-   \[347\] Our discussion of the legislative history of s 301 points to a desire on the part of the legislature to carry into the 1993 Act a jurisdiction broadly equivalent to that under the old s 320.<sup>[\[240\]](#fn240)</sup> There is nothing to suggest a purpose of imposing more stringent liability on directors in relation to creditors’ losses, which would be the corollary of adopting the liquidators’ arguments as to discretion.
+-   \[348\] The purpose of the discretion under s 320 of the 1955 Act was to allow the courts to respond to the multiplicity of circumstances in which relief would come to be ordered. We consider that the policy considerations that underpinned that approach continue to apply under the 1993 Act. A strict tort approach to awarding damages, without possibility of substantial adjustment, for the entire loss to either creditors as a class (under s 135) or new creditors (under s 136) would be a blunt instrument capable of producing injustice. It would not allow for the reality that such losses, while avoidable if the directors had acted differently, may have a number of other causes. As well, there will often be scope, as here, for attributing levels of culpability that differ between directors in ways that go beyond what would be possible in orthodox proceedings in tort.
+-   \[349\] Further, there may conceivably have been something equivalent to contributory negligence or conscious risk taking on the part of creditors (insufficient to exclude liability altogether) or some other factor that might warrant allowance that is most conveniently provided by the exercise of a discretion. A possible example is provided in this case by the allowance the Court of Appeal made in favour of the directors in respect of the advances made by Richina Pacific to Mainzeal after May 2012. These advances are not obviously relevant to a strictly conducted new debt calculation of loss by reference to obligations owed at liquidation. However, they might be thought material to what would be a “just” award of compensation. More generally, although s 301 can only be invoked in the context of a liquidation, applications can be brought by liquidators, shareholders and creditors. And, likewise, the range of possible defendants is broad. It follows that there will be a multiplicity of circumstances in which relief will come to be ordered.
+-   \[350\] It will be recalled that the discretion under s 320 of the 1955 Act was said to involve an assessment of causation, culpability and duration. On our approach, causation is assessed separately, with the losses attributable to the breach setting a cap on the compensation that can be awarded. Duration might be thought to be a component of culpability. We accept that “limited” culpability may be a basis for awarding less by way of compensation than the losses caused by the breach. However, the starting point for assessing compensation will be those losses. As well, compensation for the full extent of such losses is not reserved for cases in which the breach of duty was egregious. Rather it should be regarded as the norm; this on the basis that the relevant culpability standard is that provided for by the legislature. Culpability assessment is likely to be most relevant when it comes to fixing the incidence of liability between directors.
+-   \[351\] For the reasons just outlined, we consider that flexibility in remedial response for breach of ss 135 and 136 is appropriate to respond to facts of particular cases, making it appropriate for the courts to be free to tailor relief in ways that respond to the particular breach or wrong, to the harm that flows from that and, at least to some extent, the culpability (particularly amongst themselves) of the directors.
+
+_Application of the discretion in this case_
+
+-   \[352\] The various arguments advanced by the directors as to why the discretion should be exercised in their favour are essentially along the lines that their culpability does not warrant the imposition of liability that reflects the losses suffered. These arguments depend in part on views of the scope of liability under ss 135 and 136 and the application of those provisions to the facts of this case — views that we have already rejected and are no more compelling in the present context. The directors did, however, also contend that they had acted honestly and in good faith and had not derived personal benefit from the breaches of s 136. We accept these latter contentions in relation to Dame Jenny and Messrs Tilby and Gomm. As we will explain, the situation in relation to Mr Yan is rather more complex. We accept, however, that he acted honestly.
+-   \[353\] The obvious starting point for liability under s 301 is an order imposing on the directors’ joint and several liability for $39.8 million.
+-   \[354\] Such an approach would not be in accordance with the approach adopted by Cooke J who imposed liability on Mr Yan for the full amount of the compensation he awarded ($36 million), with the other directors each liable for a maximum of one sixth of the total, that is $6 million each. The reasons that motivated this apportionment reflected his assessments of the differing culpability of the directors.
+-   \[355\] We obviously have power to apportion liability rather than impose joint and several liability for the total amount of the loss. We see this as a necessary corollary of the wording of s 301.
+-   \[356\] The appropriateness of joint and several liability for joint tortfeasors of differing culpability is open to debate.<sup>[\[241\]](#fn241)</sup> Given our views, set out below, as to the very different levels of culpability between Mr Yan on the one hand and Dame Jenny and Messrs Tilby and Gomm on the other, we conclude that such an award would not be “just” within the meaning of s 301(1)(b)(ii) of the 1993 Act. For these reasons, we propose to exercise our discretion on a basis that is informed by the assessments of relative culpability made by Cooke J.
+-   \[357\] We take into account the following considerations:
+
+> (a) We see Mr Yan as far more culpable than the other directors. From the time when the directors’ obligations to Mainzeal required them to have at least substantial regard for the interests of creditors, his interest as the representative of the shareholder of Mainzeal created a potential conflict. Furthermore, in a practical sense, the assurances the other directors relied on came from him. If he was not in a position to ensure that the assurances were honoured by the parties who formally gave them, they should not have been given. If he was in a position to ensure that assurances were honoured, then they should have been honoured. As well, his actions in the events that immediately precipitated the collapse of Mainzeal were in stark contradiction to the spirit of the assurances. That Mainzeal continued to trade while insolvent and in this way caused the losses to the creditors at the time of its collapse is fundamentally his fault. We see no reason why his liability should be for less than the assessed loss.
+> 
+> (b) As to the relative culpability of the other directors, counsel for the liquidators may be right that Dame Jenny lent her reputation to the company and that, therefore, there might be some basis for treating her as more culpable than Messrs Tilby and Gomm. Nevertheless, on what is ultimately a matter of impression, Cooke J, who saw and heard all the directors, was better placed than we are to assess relative culpability. We are not prepared to depart from his conclusions, effectively, that they were equally culpable but far less so than Mr Yan.
+
+-   \[358\] This means that we direct the directors to pay $39.8 million by way of compensation with the liability of Dame Jenny and Messrs Tilby and Gomm each capped at one sixth of that amount, which we round down to $6.6 million. Interest will then be added, calculated from the date of liquidation until the date of payment.<sup>[\[242\]](#fn242)</sup>
+
+**Summary**
+
+-   \[359\] Sections 135 and 136 are premised on the policy that where a company is insolvent or bordering on insolvency, creditors have an economic interest in the company which requires consideration by directors. While creating duties owed to the company, the sections are to be construed and applied as having the purpose of creditor protection ([\[189\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref140849662?query=title(%222023%20NZSC%20113%22))). They must also be construed in accordance with the scheme of the 1993 Act as a whole, and in particular in accordance with the other sections that deal with the obligations of directors. These include s 137, which requires that directors exercise the care, diligence, and skill that a reasonable director would exercise in the same circumstances ([\[208\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143096007?query=title(%222023%20NZSC%20113%22))). Sections 135 and 136 are to be construed as imposing standards of reasonableness and diligence upon directors.
+-   \[360\] Construed in this way, liability under s 135 depends upon ([\[211\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143096053?query=title(%222023%20NZSC%20113%22))):
+
+> (a) A manner of trading that creates a likelihood of substantial risk of serious loss to creditors. Whether or not the trading in question creates this risk is to be assessed objectively; and
+> 
+> (b) Fault on the part of directors by agreeing to the company trading, or allowing or causing the company to trade, in that manner in circumstances in which they either recognised, or if they had acted reasonably and diligently, would have recognised, that risk.
+
+-   \[361\] Section 135 is addressed to the conduct of a company’s business and the associated risks to the general body of creditors. But this does not mean that directors of an insolvent company, when deciding whether to trade on, can legitimately set off against the risk to future creditors (essentially those who will be out of pocket at liquidation) the advantages to current creditors of continued trading. The s 135 standard — whether the manner of trading creates a substantial risk of serious loss to creditors — proceeds, at least in part, on the premise that it is undesirable for a company to trade on in circumstances in which those who deal with it in the future are exposed to substantial risk of serious loss; this irrespective of the benefit trading on may confer on existing creditors ([\[213\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143096095?query=title(%222023%20NZSC%20113%22))–[\[214\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143096108?query=title(%222023%20NZSC%20113%22))).
+-   \[362\] Having said that, we accept that the directors of an insolvent, or nearly insolvent, company are entitled to time to take stock of the situation of the company and, for this purpose, to obtain advice. We have discussed the appropriate steps directors should take in order to “take stock” at [\[215\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143096126?query=title(%222023%20NZSC%20113%22)) and [\[271\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143096540?query=title(%222023%20NZSC%20113%22)).
+-   \[363\] Assurances of support on which the directors can reasonably rely may be material to whether directors can be appropriately satisfied that continued trading in the circumstances of balance sheet insolvency will not breach s 135. However, if such assurances were not legally or practically enforceable and not honoured (as in this case), there are likely to be questions as to the reasonableness of reliance on them ([\[216\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143096205?query=title(%222023%20NZSC%20113%22))).
+-   \[364\] As to the test for liability under s 136, a standard of reasonableness is provided for in its text (“believes ... on reasonable grounds”). This section operates on the premise that directors should not agree to a company incurring obligations unless confident on reasonable grounds that they will be honoured. The section should be applied by reference to the ordinary meaning of the statutory language ([\[244\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143096254?query=title(%222023%20NZSC%20113%22)) and [\[246\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143096273?query=title(%222023%20NZSC%20113%22))). On this basis, agreement to continuation of trading encompasses the incurring of obligations that are the inevitable corollary of that continuation of trading. It is not appropriate, as was argued before us, to read the section down so as to limit its application to (a) any specific kind of obligation, for instance obligations other than ordinary trade debts; (b) particular obligations as opposed, as in this case, to groups of obligations; and (c) obligations incurred only with the explicit agreement of directors as opposed to obligations incurred as the corollary of courses of action to which the directors, by their conduct, have agreed ([\[248\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143096310?query=title(%222023%20NZSC%20113%22))–[\[249\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143096320?query=title(%222023%20NZSC%20113%22))).
+-   \[365\] We have described the implications of the principles in respect of the test for liability established by this judgment for directors in the future at [\[269\]](https://www.nzlii.org/cgi-bin/sinodisp/nz/cases/NZSC/2023/2023_113.html#_Ref138322713)–[\[273\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143691609?query=title(%222023%20NZSC%20113%22)).
+-   \[366\] Both ss 135 and 136 are focused on loss suffered by creditors but differ in focus as to the manner or type of those creditors’ losses.
+-   \[367\] In a case such as the present, where the relevant counterfactual to what happened was liquidation at breach date, assessment of loss for breach of s 135 should usually proceed on the basis of net deterioration between breach date and liquidation as reflecting the loss to creditors as a whole, with the shortfall to creditors acting as a cap on recovery ([\[281\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143096853?query=title(%222023%20NZSC%20113%22))–[\[282\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143096885?query=title(%222023%20NZSC%20113%22))).
+-   \[368\] Net deterioration does not provide the only measure of loss in respect of a breach of s 135. We have discussed other circumstances where other measures of loss may be appropriate ([\[282\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143096885?query=title(%222023%20NZSC%20113%22))–[\[283\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143506845?query=title(%222023%20NZSC%20113%22))).
+-   \[369\] Whereas s 135 is concerned with the general conduct of the business of the company and the risk that such conduct poses to creditors, s 136 addresses the incurring of obligations to creditors. Section 135 is expressed in terms that are consistent with treating creditors as a class in relation to compensation. In contrast, s 136 does not treat all creditors as a class but rather contemplates both (a) an obligation‑by‑obligation, and thus a creditor‑by‑creditor, approach and (b) as we have found, an approach based on categories of obligations and therefore creditors. So, since the damage for which compensation should be available under s 136 is the incurring of obligations without belief on reasonable grounds that they will be honoured, the extent to which the creditors are out of pocket by reason of the failure to honour those obligations provides the most logical method of quantifying loss ([\[291\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143097499?query=title(%222023%20NZSC%20113%22)) and [\[296\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142305424?query=title(%222023%20NZSC%20113%22))).
+-   \[370\] In claims under s 301 that are premised on breaches of ss 135 and 136, s 301 confers a discretion on the court in relation to relief, in order to enable the court to respond to the facts of particular cases, making it appropriate for the courts to be free to tailor relief in ways that respond to the particular breach or wrong, to the harm that flows from that and to, at least to some extent, the culpability (particularly as amongst themselves) of the directors ([\[350\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143098019?query=title(%222023%20NZSC%20113%22))–[\[351\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143098030?query=title(%222023%20NZSC%20113%22))).
+-   \[371\] The directors were in breach of their s 135 duty from 31 January 2011 ([\[236\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143098096?query=title(%222023%20NZSC%20113%22))). They ought to have recognised by 2010 that, without a substantial injection of capital or assurances of support on which reliance could reasonably be placed, continued trading by Mainzeal posed a likelihood of substantial risk of serious loss to creditors ([\[234\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref140849861?query=title(%222023%20NZSC%20113%22))). The assurances of support the directors received from related companies could not be reasonably relied upon ([\[227\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143098207?query=title(%222023%20NZSC%20113%22))–[\[229\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143098214?query=title(%222023%20NZSC%20113%22))). The limited actions the directors took were insufficient to reduce the risk to the extent required to ensure compliance with s 135 ([\[235\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143098247?query=title(%222023%20NZSC%20113%22))). In not recognising this, the directors acted unreasonably.
+-   \[372\] The liquidators challenged neither the Court of Appeal’s conclusion that liquidation at breach date was the appropriate counterfactual nor its finding that a net deterioration from 31 January 2011 to the date of liquidation had not been proved. Accordingly, the liquidators are not entitled to an award of compensation in respect of the established breach of s 135 ([\[289\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143098324?query=title(%222023%20NZSC%20113%22))).
+-   \[373\] The directors also acted in breach of s 136 in respect of:
+
+> (a) the four major projects entered into by the Mainzeal after 31 January 2011, as these projects entailed Mainzeal taking on medium- to long-term obligations, and by 31 January 2011 the directors did not have reasonable grounds to believe that Mainzeal would, in the medium to long term, be able to pay its debts ([\[256\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref140849961?query=title(%222023%20NZSC%20113%22))–[\[258\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143098397?query=title(%222023%20NZSC%20113%22))); and
+> 
+> (b) all obligations incurred after 5 July 2012 ([\[259\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref140849972?query=title(%222023%20NZSC%20113%22))–[\[268\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143098417?query=title(%222023%20NZSC%20113%22))).
+
+-   \[374\] As to quantification of loss, the liquidators have made concessions that adequately addressed all factual uncertainties to the point that we are satisfied that it is more likely than not that the losses for which compensation can be awarded exceed the amount now claimed by the liquidators ([\[309\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142301280?query=title(%222023%20NZSC%20113%22))–[\[317\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143098448?query=title(%222023%20NZSC%20113%22))). Taking into account those concessions, we fix the loss calculated on a new debt basis at $39.8 million ([\[318\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143098462?query=title(%222023%20NZSC%20113%22))).
+-   \[375\] Treating culpability as the critical factor, the Court has directed the directors to pay compensation of $39.8 million together with interest apportioned on the basis that Mr Yan is responsible for the entire amount, with the liability of the other directors limited to $6.6 million and interest each ([\[358\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143098495?query=title(%222023%20NZSC%20113%22))).
+
+**Concluding comments**
+
+-   \[376\] There is a tension between the purpose of s 301 and its text as to the ability of creditors to obtain direct relief. We have resolved this tension with an interpretation that gives priority to its purpose because (a) that purpose is clear and (b) the statutory language, if construed literally, makes no sense. There remains a more general incoherence in relation to ss 135, 136 and 301 as to distribution of the proceeds of a successful claim. In this case, the compensation awarded will be shared between all creditors and not merely those whose debts were taken into account in the new debt calculation. The problems just highlighted are not the only ones that have emerged from our consideration of the present case and we endorse the view expressed by the Court of Appeal that a review of the relevant provisions would be appropriate.
+
+**Disposition**
+
+-   \[377\] The orders of the Court are:
+
+> (a) The appeals by the directors are dismissed.
+> 
+> (b) The cross-appeal by the liquidators is allowed to the extent that in lieu of the remittal of the proceedings back to the High Court, we order the directors to contribute to the assets of Mainzeal $39.8 million together with interest at prescribed rates since 28 February 2013 with the liabilities of Dame Jennifer Shipley and Messrs Tilby and Gomm each limited to $6.6 million and interest.
+> 
+> (c) The directors must pay costs to the liquidators of $65,000 plus usual disbursements.
+
+  
+  
+Solicitors:  
+LeeSalmonLong, Auckland for Mr Yan  
+Chapman Tripp, Auckland for Dame Jennifer Shipley and Messrs Tilby and Gomm  
+MinterEllisonRuddWatts, Auckland for Mainzeal Property and Construction Ltd (in liq) and Messrs Bethell and McKay
+
+---
+
+<sup>[\[1\]](#fnB1)</sup> Receivers were appointed on 6 February 2013. Liquidation commenced on 28 February 2013.
+
+<sup>[\[2\]](#fnB2)</sup> They were directors of Mainzeal throughout the time critical to the ss 135 and 136 claims.
+
+<sup>[\[3\]](#fnB3)</sup> _Mainzeal Property and Construction Ltd (in liq) v Yan_ [\[2019\] NZHC 255](http://www.nzlii.org/nz/cases/NZHC/2019/255.html "View Case") \[HC judgment\] at \[292\].
+
+<sup>[\[4\]](#fnB4)</sup> _Yan v Mainzeal Property and Construction Ltd (in liq)_ [\[2021\] NZCA 99](http://www.nzlii.org/nz/cases/NZCA/2021/99.html "View Case"), [\[2021\] 3 NZLR 598 (K](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b2021%5d%203%20NZLR%20598?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord")ós P, Miller and Goddard JJ) \[CA judgment\].
+
+<sup>[\[5\]](#fnB5)</sup> At \[452\].
+
+<sup>[\[6\]](#fnB6)</sup> At \[516\].
+
+<sup>[\[7\]](#fnB7)</sup> At \[480\].
+
+<sup>[\[8\]](#fnB8)</sup> At \[531\] and \[536\].
+
+<sup>[\[9\]](#fnB9)</sup> At \[538\]–\[540\].
+
+<sup>[\[10\]](#fnB10)</sup> _Yan v Mainzeal Property and Construction Ltd (in liq)_ [\[2021\] NZSC 109.](http://www.nzlii.org/nz/cases/NZSC/2021/109.html "View Case")
+
+<sup>[\[11\]](#fnB11)</sup> Beginning at [\[111\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322241?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[12\]](#fnB12)</sup> In the period between 2004 and 2009, there were other directors of Mainzeal. But because they were not on the board at the times that are most material to the litigation, they were not defendants in the High Court litigation.
+
+<sup>[\[13\]](#fnB13)</sup> For ease of discussion, we will refer to this company as RGREL, even in relation to events that preceded its change of name.
+
+<sup>[\[14\]](#fnB14)</sup> All figures recorded in this judgment are approximate figures to one decimal point.
+
+<sup>[\[15\]](#fnB15)</sup> MLG bought back shares from Richina Pacific for $19 million. On the basis of the financial statements for MLG for the 2004 and 2005 years, the amount paid appears to have no correlation to MLG’s net assets. No explanation for this transaction was offered.
+
+<sup>[\[16\]](#fnB16)</sup> HC judgment, above n [3](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322260?query=title(%222023%20NZSC%20113%22)), at \[243\].
+
+<sup>[\[17\]](#fnB17)</sup> The amounts involved were significant. By way of example, as at the end of each month between January and October 2010, Mainzeal’s working capital calculations recorded “construction overclaims” of between $27.4 million and $37.2 million.
+
+<sup>[\[18\]](#fnB18)</sup> HC judgment, above n [3](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322260?query=title(%222023%20NZSC%20113%22)), at \[193\].
+
+<sup>[\[19\]](#fnB19)</sup> See above at [\[30\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322304?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[20\]](#fnB20)</sup> See below at [\[80\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322334?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[21\]](#fnB21)</sup> Such letters of support are often referred to as “letters of comfort”. Whether they give rise to legal obligations depends upon their wording and the context in which they are written: Stephen Todd and Matthew Barber (eds) _Law of Contract in New Zealand_ (Lexis Nexis, 7th ed, Wellington, 2022) at \[5.4.4\].
+
+<sup>[\[22\]](#fnB22)</sup> There were in fact two companies referred to as King Façade but for the purposes of our narrative it is not necessary to distinguish between them.
+
+<sup>[\[23\]](#fnB23)</sup> On the evidence, this agreement was unenforceable under Chinese law. For this reason, the accounting treatment may not have been correct. However, in practice, the agreement was able to be implemented with appropriate approvals being obtained on a transaction-by-transaction basis.
+
+<sup>[\[24\]](#fnB24)</sup> HC judgment, above n [3](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322260?query=title(%222023%20NZSC%20113%22)), at \[117\]–\[118\]; and CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[148\]–\[150\].
+
+<sup>[\[25\]](#fnB25)</sup> HC judgment, above n [3](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322260?query=title(%222023%20NZSC%20113%22)), at \[218\].
+
+<sup>[\[26\]](#fnB26)</sup> At \[275\].
+
+<sup>[\[27\]](#fnB27)</sup> Emphasis added.
+
+<sup>[\[28\]](#fnB28)</sup> The initials on the right-hand column refer to Messrs Reegan Pearce, Richard Yan and Peter Gomm.
+
+<sup>[\[29\]](#fnB29)</sup> HC judgment, above n [3](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322260?query=title(%222023%20NZSC%20113%22)), at \[98\]–\[99\]; and CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[126\].
+
+<sup>[\[30\]](#fnB30)</sup> Below at [\[89\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322562?query=title(%222023%20NZSC%20113%22))–[\[96\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322572?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[31\]](#fnB31)</sup> HC judgment, above n [3](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322260?query=title(%222023%20NZSC%20113%22)), at \[246\].
+
+<sup>[\[32\]](#fnB32)</sup> Note that we have amended minor syntactical and typographic errors throughout these excerpts where they do not alter the meaning of the text.
+
+<sup>[\[33\]](#fnB33)</sup> CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[475\].
+
+<sup>[\[34\]](#fnB34)</sup> HC judgment, above n [3](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322260?query=title(%222023%20NZSC%20113%22)), at \[299\] and \[304\].
+
+<sup>[\[35\]](#fnB35)</sup> At \[309\].
+
+<sup>[\[36\]](#fnB36)</sup> At \[291\]–\[292\].
+
+<sup>[\[37\]](#fnB37)</sup> The liquidators’ approach at trial in relation to the s 135 claim involved something of a variation on the new debt approach we have outlined in that their calculations allowed offsets for any payments creditors received after breach date in respect of debts owing at breach date. It is not necessary to discuss this variant of the new debt approach in any detail; this given (a) our conclusions in relation to s 135 and (b) the arguments addressed to us in relation to the assessment of loss for breach of s 136.
+
+<sup>[\[38\]](#fnB38)</sup> At \[415\]–\[416\].
+
+<sup>[\[39\]](#fnB39)</sup> At \[445\].
+
+<sup>[\[40\]](#fnB40)</sup> At \[456\].
+
+<sup>[\[41\]](#fnB41)</sup> At \[395\]–\[400\].
+
+<sup>[\[42\]](#fnB42)</sup> CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[443\]–\[452\].
+
+<sup>[\[43\]](#fnB43)</sup> At \[493\]–\[502\].
+
+<sup>[\[44\]](#fnB44)</sup> At \[503\]–\[507\].
+
+<sup>[\[45\]](#fnB45)</sup> At \[516\].
+
+<sup>[\[46\]](#fnB46)</sup> At \[529\].
+
+<sup>[\[47\]](#fnB47)</sup> At \[460\].
+
+<sup>[\[48\]](#fnB48)</sup> At \[461\].
+
+<sup>[\[49\]](#fnB49)</sup> At \[464\].
+
+<sup>[\[50\]](#fnB50)</sup> At \[475\].
+
+<sup>[\[51\]](#fnB51)</sup> _Madsen-Ries (as liquidators of Debut Homes Ltd (in liq)) v Cooper_ [\[2020\] NZSC 100](http://www.nzlii.org/nz/cases/NZSC/2020/100.html "View Case")_,_ [\[2021\] 1 NZLR 43](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b2021%5d%201%20NZLR%2043?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") \[_Debut Homes_\].
+
+<sup>[\[52\]](#fnB52)</sup> CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[530\].
+
+<sup>[\[53\]](#fnB53)</sup> At \[538\].
+
+<sup>[\[54\]](#fnB54)</sup> At \[539\]–\[540\].
+
+<sup>[\[55\]](#fnB55)</sup> The statutory provisions in relation to directors’ duties only displace the existing common law to the extent that they are incompatible with it: _Benton v Priore_ [\[2003\] 1 NZLR 564 (HC)](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b2003%5d%201%20NZLR%20564?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") at \[46\]; and _Sojourner v Robb_ [\[2006\] NZHC 1676](http://www.nzlii.org/nz/cases/NZHC/2006/1676.html "View Case"); [\[2006\] 3 NZLR 808 (HC)](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b2006%5d%203%20NZLR%20808?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") at [\[100\]](http://www.nzlii.org/nz/cases/NZHC/2006/1676.html#para100) (affirmed in [\[2007\] NZCA 493](http://www.nzlii.org/nz/cases/NZCA/2007/493.html "View Case"), [\[2008\] 1 NZLR 751).](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b2008%5d%201%20NZLR%20751?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord")
+
+<sup>[\[56\]](#fnB56)</sup> _Debut Homes_, above n [51](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138234252?query=title(%222023%20NZSC%20113%22)); _BTI 2014 LLC v Sequana SA_ [\[2022\] UKSC 25](http://www.bailii.org/uk/cases/UKSC/2022/25.html "View Case"), [\[2022\] 3 WLR 709](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b2022%5d%203%20WLR%20709?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord"); and _Stanford International Bank Ltd (in liq) v HSBC Bank plc_ [\[2022\] UKSC 34](http://www.bailii.org/uk/cases/UKSC/2022/34.html "View Case"), [\[2023\] AC 761.](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b2023%5d%20AC%20761?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord")
+
+<sup>[\[57\]](#fnB57)</sup> The test under s 131 is subjective: _Debut Homes,_ above n [51](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138234252?query=title(%222023%20NZSC%20113%22)), at \[112\].
+
+<sup>[\[58\]](#fnB58)</sup> [Companies Act 1993](http://www.nzlii.org/nz/legis/consol_act/ca1993107/index.html) \[1993 Act\], s 253.
+
+<sup>[\[59\]](#fnB59)</sup> _Allied Concrete Ltd v Meltzer_ [\[2015\] NZSC 7](http://www.nzlii.org/nz/cases/NZSC/2015/7.html "View Case"), [\[2016\] 1 NZLR 141](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b2016%5d%201%20NZLR%20141?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") at [\[1(a)\]](http://www.nzlii.org/nz/cases/NZSC/2015/7.html#para1) per McGrath, Glazebrook and Arnold JJ. See also the fuller discussion of these provisions in _Debut Homes,_ above n [51](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138234252?query=title(%222023%20NZSC%20113%22)), at \[36\]–\[48\].
+
+<sup>[\[60\]](#fnB60)</sup> Section 292 provides that certain “insolvent transactions” are voidable by the liquidator. Section 293 provides that certain charges are voidable by the liquidator. Section 297 enables the liquidator to bring a claim where a transaction was entered into with a third party at an undervalue, in certain circumstances. Section 298 provides for claims in relation to transactions for inadequate or excessive consideration with directors and certain other persons connected with the company and its controllers. Section 299 provides that a liquidator may apply to the court for an order setting aside securities and charges in favour of certain persons connected with the company and its controllers.
+
+<sup>[\[61\]](#fnB61)</sup> Company Law Amendment Committee _1925–26_ _Report_ (His Majesty’s Stationery Office, Cmd 2657, 1926) at \[61\]–\[62\].
+
+<sup>[\[62\]](#fnB62)</sup> Companies Act 1929 (UK) 19 & 20 Geo V c 23 (now repealed). The current provision now appears in s 214 of the Insolvency Act 1986 (UK).
+
+<sup>[\[63\]](#fnB63)</sup> [Companies Amendment Act 1980](http://www.nzlii.org/nz/legis/hist_act/caa19801980n43214/index.html), s 32. The new section was enacted as a response to a recommendation made in the Macarthur Report: I H Macarthur _Final Report of the Special Committee to Review the Companies Act_ (Government Printer, Wellington, 1973) at \[325\]–\[329\] and the adoption of similar provisions in England and Wales and Australia: Companies Amendment Bill 1979 (146-1) (explanatory note) at i.
+
+<sup>[\[64\]](#fnB64)</sup> _Re William C Leitch Brothers Ltd_ [\[1932\] 2 Ch 71 (Ch).](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b1932%5d%202%20Ch%2071?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord")
+
+<sup>[\[65\]](#fnB65)</sup> _Re William C Leitch Brothers Ltd (No 2)_ [\[1933\] Ch 261 (Ch).](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b1933%5d%20Ch%20261?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord")
+
+<sup>[\[66\]](#fnB66)</sup> At 266.
+
+<sup>[\[67\]](#fnB67)</sup> At 266–267.
+
+<sup>[\[68\]](#fnB68)</sup> _Re Cyona Distributors Ltd_ [\[1967\] Ch 889 (CA).](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b1967%5d%20Ch%20889?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord")
+
+<sup>[\[69\]](#fnB69)</sup> At 902 (emphasis in original) (footnotes omitted).
+
+<sup>[\[70\]](#fnB70)</sup> At 904.
+
+<sup>[\[71\]](#fnB71)</sup> At 907–909.
+
+<sup>[\[72\]](#fnB72)</sup> _Re Gerald Cooper Chemicals Ltd_ [\[1978\] Ch 262 (Ch).](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b1978%5d%20Ch%20262?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord")
+
+<sup>[\[73\]](#fnB73)</sup> _Re Casual Capers Ltd (in liq)_ [\[1983\] NZHC 205](http://www.nzlii.org/nz/cases/NZHC/1983/205.html "View Case"); [(1983) 1 NZCLC 95-074 (HC)](https://www.nzlii.org/cgi-bin/LawCite?cit=%281983%29%201%20NZCLC%2095%2d074?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") at 98,597.
+
+<sup>[\[74\]](#fnB74)</sup> At 98,598.
+
+<sup>[\[75\]](#fnB75)</sup> See below at [\[165\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322662?query=title(%222023%20NZSC%20113%22))–[\[167\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322671?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[76\]](#fnB76)</sup> Section 321 was drawn from similarly worded provisions in the United Kingdom Companies Act: Peter Watts _Directors’ Powers and Duties_ (3rd ed, LexisNexis, Wellington, 2022) at 232. See also Fidelis Oditah “Misfeasance proceedings against company directors” [\[1992\] LMCLQ 207.](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b1992%5d%20LLOYDSMARITIME%20%26%20COMMERCIALLAWQUARTERLY%20207?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord")
+
+<sup>[\[77\]](#fnB77)</sup> [Companies Amendment Act](http://www.nzlii.org/nz/legis/hist_act/caa19801980n43214/index.html), s 33.
+
+<sup>[\[78\]](#fnB78)</sup> This would be by way of analogy with the principle established in _Re Yagerphone Ltd_ [\[1935\] Ch 392 (Ch)](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b1935%5d%20Ch%20392?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord"), which was a case relating to voidable preferences and the proceeds of any claims brought by a liquidator. If relief were granted direct to a creditor, it might be thought to follow that the relief would not be subject to a charge over the assets of the company: see _Marshall Futures Ltd v Marshall_ [\[1991\] NZHC 2244](http://www.nzlii.org/nz/cases/NZHC/1991/2244.html "View Case"); [\[1992\] 1 NZLR 316 (HC)](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b1992%5d%201%20NZLR%20316?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") at 332–333. The point is alluded to in _Debut Homes_, above n [51](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138234252?query=title(%222023%20NZSC%20113%22)), at \[142\], n 159.
+
+<sup>[\[79\]](#fnB79)</sup> See above at [\[121\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322692?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[80\]](#fnB80)</sup> See below at [\[269\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322713?query=title(%222023%20NZSC%20113%22))–[\[272\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322722?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[81\]](#fnB81)</sup> _Nicholson v Permakraft (NZ) Ltd_ [\[1985\] NZCA 15](http://www.nzlii.org/nz/cases/NZCA/1985/15.html "View Case"); [\[1985\] 1 NZLR 242 (CA)](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b1985%5d%201%20NZLR%20242?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") concerned an unsuccessful claim by the liquidator, in the name of the company, against the directors to recover monies paid to shareholders two years prior to liquidation. Upon winding up, all secured and preferential creditors were paid in full whilst nothing remained for unsecured creditors. Cooke J noted that “creditors are entitled to consideration” when the “company is insolvent, or near-insolvent, or of doubtful solvency, or if a contemplated payment or other course of action would jeopardise its solvency”: at 249.
+
+<sup>[\[82\]](#fnB82)</sup> _Kinsela v Russell Kinsela Pty Ltd (in liq)_ [(1986) 4 NSWLR 722 (NSWCA)](https://www.nzlii.org/cgi-bin/LawCite?cit=%281986%29%204%20NSWLR%20722?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") concerned a claim by the liquidator that a lease, entered into shortly before the company went into liquidation, was voidable. In determining whether the directors’ powers had been exercised validly Street CJ noted that “where a company is insolvent the interests of the creditors intrude”: at 730.
+
+<sup>[\[83\]](#fnB83)</sup> _West Mercia Safetywear Ltd (in liq) v Dodd_ [\[1988\] BCLC 250 (CA)](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b1988%5d%20BCLC%20250?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") concerned a claim by the liquidator that a payment of a debt out of company funds by Mr Dodd, the sole director of the company, prior to liquidation was in breach of his duties owed to the company. Dillon LJ, referring to the comments made in _Kinsela,_ held that Mr Dodd was in breach of his duty when he transferred the monies “in disregard of the interests of the general creditors of this insolvent company”: at 253.
+
+<sup>[\[84\]](#fnB84)</sup> See below at [\[170\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322738?query=title(%222023%20NZSC%20113%22))–[\[188\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322749?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[85\]](#fnB85)</sup> Law Commission _Company Law: Reform and Restatement_ (NZLC R9, 1989).
+
+<sup>[\[86\]](#fnB86)</sup> In May 1990 the Law Commission submitted to the Minister of Justice a revised version of their draft Act: Law Commission _Company Law Reform: Transition and Revision_ (NZLC R16, 1990). The revisions made, however, are not material to our discussion of the draft Act. We therefore refer throughout this judgment to the June 1989 version.
+
+<sup>[\[87\]](#fnB87)</sup> At \[214\].
+
+<sup>[\[88\]](#fnB88)</sup> At \[215\].
+
+<sup>[\[89\]](#fnB89)</sup> At \[518\].
+
+<sup>[\[90\]](#fnB90)</sup> Companies Bill 1990 (50-1) (explanatory note) at vii.
+
+<sup>[\[91\]](#fnB91)</sup> At x.
+
+<sup>[\[92\]](#fnB92)</sup> Although the ideas underlying cl 113 were derived from the old s 320.
+
+<sup>[\[93\]](#fnB93)</sup> Companies Bill 1992 (50-2) at 101.
+
+<sup>[\[94\]](#fnB94)</sup> Justice and Law Reform Committee “Report of the Justice and Law Reform Committee on the Companies Bill” \[1991–1993\] XXIII I AJHR 8A at 5–6.
+
+<sup>[\[95\]](#fnB95)</sup> Companies Bill 1992 (50-2) at 260.
+
+<sup>[\[96\]](#fnB96)</sup> 1993 Act, s 301(b)(i)–(ii).
+
+<sup>[\[97\]](#fnB97)</sup> Section 301(1)(c).
+
+<sup>[\[98\]](#fnB98)</sup> _DHC Assets Ltd v Arnerich_ [\[2019\] NZHC 1695](http://www.nzlii.org/nz/cases/NZHC/2019/1695.html "View Case") at [\[249\]](http://www.nzlii.org/nz/cases/NZHC/2019/1695.html#para249) and \[347\] citing _Sanders v Flay_ [(2005) 9 NZCLC 96-989 (HC).](https://www.nzlii.org/cgi-bin/LawCite?cit=%282005%29%209%20NZCLC%2096%2d989?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") The point was left open in the Court of Appeal: see _Arnerich v DHC Assets Ltd_ [\[2021\] NZCA 225](http://www.nzlii.org/nz/cases/NZCA/2021/225.html "View Case"), [\[2021\] NZCCLR 25](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b2021%5d%20NZCCLR%2025?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") at [\[142\]](http://www.nzlii.org/nz/cases/NZCA/2021/225.html#para142).
+
+<sup>[\[99\]](#fnB99)</sup> _Mitchell v Hesketh_ [(1998) 8 NZCLC 96-757 (HC)](https://www.nzlii.org/cgi-bin/LawCite?cit=%281998%29%208%20NZCLC%2096%2d757?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") at 261,562–261,563; and _Banks v Farmer_ [\[2021\] NZHC 1922](http://www.nzlii.org/nz/cases/NZHC/2021/1922.html "View Case") at [\[557\]](http://www.nzlii.org/nz/cases/NZHC/2021/1922.html#para557)–\[585\].
+
+<sup>[\[100\]](#fnB100)</sup> William Porter “You’ve Got to Be in It to Win It: Direct Recovery by Creditors under [Section 301](http://www.nzlii.org/nz/legis/consol_act/ca1993107/s301.html) of the [Companies Act 1993](http://www.nzlii.org/nz/legis/consol_act/ca1993107/index.html)” [(2022) 26 NZBLQ 163.](https://www.nzlii.org/cgi-bin/LawCite?cit=%282022%29%2026%20New%20Zealand%20Business%20Law%20Quarterly%20163?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord")
+
+<sup>[\[101\]](#fnB101)</sup> At Appendix 2 referring to Department of Justice “Submission to the Justice and Law Reform Committee on the Companies Bill 1990” (8 September 1992).
+
+<sup>[\[102\]](#fnB102)</sup> _Marshall Futures Ltd,_ above n [78](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref139548172?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[103\]](#fnB103)</sup> At 333–334.
+
+<sup>[\[104\]](#fnB104)</sup> Porter, above n [100](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322784?query=title(%222023%20NZSC%20113%22)), at 171.
+
+<sup>[\[105\]](#fnB105)</sup> _Re Esal Commodities Ltd_ [\[1993\] BCLC 872 (Ch).](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b1993%5d%20BCLC%20872?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord")
+
+<sup>[\[106\]](#fnB106)</sup> _Re Esal Commodities Ltd_ [\[1997\] 1 BCLC 705 (CA).](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b1997%5d%201%20BCLC%20705?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord")
+
+<sup>[\[107\]](#fnB107)</sup> _Morphitis v Bernasconi_ [\[2003\] EWCA Civ 289](http://www.bailii.org/ew/cases/EWCA/Civ/2003/289.html "View Case"), [\[2003\] Ch 552](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b2003%5d%20Ch%20552?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") at [\[47\]](http://www.bailii.org/ew/cases/EWCA/Civ/2003/289.html#para47).
+
+<sup>[\[108\]](#fnB108)</sup> See below beginning at [\[341\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142301456?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[109\]](#fnB109)</sup> _Debut Homes_, above n [51](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138234252?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[110\]](#fnB110)</sup> At \[70\].
+
+<sup>[\[111\]](#fnB111)</sup> At \[26\].
+
+<sup>[\[112\]](#fnB112)</sup> At \[70\], \[95\] and \[185\]–\[186\]. Mr Cooper was also found to be in breach of s 131.
+
+<sup>[\[113\]](#fnB113)</sup> Footnote omitted.
+
+<sup>[\[114\]](#fnB114)</sup> Footnotes omitted.
+
+<sup>[\[115\]](#fnB115)</sup> _Sequana_, above n [56](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138234511?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[116\]](#fnB116)</sup> At \[12\] and \[45\] per Lord Reed P, \[147\] and \[164\]–\[165\] per Lord Briggs and Lord Kitchin, \[246\] per Lord Hodge DP and \[256\] per Lady Ardern.
+
+<sup>[\[117\]](#fnB117)</sup> At \[123\]–\[124\] and \[151\] per Lord Brigg and Lord Kitchin and \[225\] and \[234\] per Lord Hodge DP.
+
+<sup>[\[118\]](#fnB118)</sup> _Stanford_, above n [56](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138234511?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[119\]](#fnB119)</sup> See above at n [83](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322940?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[120\]](#fnB120)</sup> At \[78\].
+
+<sup>[\[121\]](#fnB121)</sup> At \[75\] and \[83\].
+
+<sup>[\[122\]](#fnB122)</sup> At \[96\]–\[99\] and \[107\].
+
+<sup>[\[123\]](#fnB123)</sup> At \[111\].
+
+<sup>[\[124\]](#fnB124)</sup> See above at [\[113\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref141346836?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[125\]](#fnB125)</sup> See above at [\[128\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138323013?query=title(%222023%20NZSC%20113%22))–[\[135\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142302482?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[126\]](#fnB126)</sup> The American Law Institute _Principles of Corporate Governance: Analysis and Recommendations_ (American Law Institute Publishers, St Paul, 1994).
+
+<sup>[\[127\]](#fnB127)</sup> The American Law Institute noted that “rational” was deliberately used instead of “reasonable” in order “to permit a significantly wider range of discretion” and allow conduct that might otherwise seem “unreasonable” but which ought not to attract liability: at 142.
+
+<sup>[\[128\]](#fnB128)</sup> See above at [\[143\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref141972189?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[129\]](#fnB129)</sup> A feature of the formal mechanisms, discussed above at [\[123\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143156844?query=title(%222023%20NZSC%20113%22)), is that they “have carefully worked out processes for decision‑making and involve either an independent person or consultation with all affected creditors. None of these formal regimes involve continued unfettered decision-making by directors”: _Debut Homes,_ above n [51](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138234252?query=title(%222023%20NZSC%20113%22)), at \[49\].
+
+<sup>[\[130\]](#fnB130)</sup> HC judgment, above n [3](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322260?query=title(%222023%20NZSC%20113%22)), at \[161(e)\]; and CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[259(c)\].
+
+<sup>[\[131\]](#fnB131)</sup> _Re Bennett, Keane & White Ltd (in liq) (No 2)_ (1988) 4 NZCLC 96‑216 (HC) at 64,333.
+
+<sup>[\[132\]](#fnB132)</sup> This language comes from the Justice and Law Reform Committee, above n [94](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref141972600?query=title(%222023%20NZSC%20113%22)), at 6 and it accurately summarises the position.
+
+<sup>[\[133\]](#fnB133)</sup> See above at [\[150\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138323102?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[134\]](#fnB134)</sup> 1993 Act, s 137.
+
+<sup>[\[135\]](#fnB135)</sup> These facts are taken from _Grayburn v Laing_ [\[1991\] 1 NZLR 482 (HC).](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b1991%5d%201%20NZLR%20482?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord")
+
+<sup>[\[136\]](#fnB136)</sup> [Corporations Act 2001](http://www.austlii.edu.au/au/legis/cth/consol_act/ca2001172/index.html) (Cth), s 180(2). This was inserted into the Act by [Corporate Law Economic Reform Program Act 1999](http://www.austlii.edu.au/au/legis/cth/consol_act/clerpa1999375/index.html) (Cth), sch 1.
+
+<sup>[\[137\]](#fnB137)</sup> See, for example, _Australian Securities and Investments Commission v Rich_ [\[2009\] NSWSC 1229](http://www.austlii.edu.au/au/cases/nsw/NSWSC/2009/AppendixD.html "View Case"), [(2009) 236 FLR 1](https://www.nzlii.org/cgi-bin/LawCite?cit=%282009%29%20236%20FLR%201?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") at \[7285\]–\[7289\]; and _Australian Securities and Investments Commission v Mariner Corp_ [\[2015\] FCA 589](http://www.austlii.edu.au/au/cases/cth/FCA/2015/589.html "View Case"), [(2015) 241 FCR 502.](https://www.nzlii.org/cgi-bin/LawCite?cit=%282015%29%20241%20FCR%20502?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") See also Michael Legg and Dean Jordan “The Australian Business Judgment Rule after _ASIC v RICH_: Balancing Directory Authority and Accountability” [\[2013\] AdelLawRw 21](http://www.austlii.edu.au/au/journals/AdelLawRw/2013/21.html "View Case"); [(2014) 34 Adel L Rev 403.](https://www.nzlii.org/cgi-bin/LawCite?cit=%282014%29%2034%20Adelaide%20Law%20Review%20403?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord")
+
+1.  <sup>[\[138\]](#fnB138)</sup> _Maple Leaf Foods Inc v Schneider Corp_ [(1998) 42 OR (3d) 177 (ONCA)](https://www.nzlii.org/cgi-bin/LawCite?cit=%281998%29%2042%20OR%20%283d%29%20177?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") at 192 (emphasis in original). See also _Kerr v Daniel Leather Inc_ [2007 SCC 44](http://scc.lexum.umontreal.ca/en/2007/2007scc44/2007scc44.html "View Case"), [\[2007\] 3 SCR 331](http://scc.lexum.umontreal.ca/en/2007/2007scc44/2007scc44.html "View Case") at \[54\]; and _Sharbern Holding Inc v Vancouver Airport Centre Ltd_ [2011 SCC 23](https://www.nzlii.org/cgi-bin/LawCite?cit=2011%20SCC%2023?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord"), [\[2011\] 2 SCR 175](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b2011%5d%202%20SCR%20175?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord")  
+    at \[55\]–\[57\].
+
+<sup>[\[139\]](#fnB139)</sup> _Daniels v Anderson_ [(1995) 16 ACSR 607 (NSWCA)](https://www.nzlii.org/cgi-bin/LawCite?cit=%281995%29%2016%20ACSR%20607?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") at 668 cited with approval in _Re Barrings plc (No 5)_ [\[1999\] 1 BCLC 433 (Ch)](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b1999%5d%201%20BCLC%20433?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") at 488. See also _Kee v Public Prosecutor_ \[2003\] 1 LRC 658 (High Court of Singapore).
+
+<sup>[\[140\]](#fnB140)</sup> See above at [\[182\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322978?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[141\]](#fnB141)</sup> _Debut Homes_, above n [51](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138234252?query=title(%222023%20NZSC%20113%22)), at \[70\]–\[77\].
+
+<sup>[\[142\]](#fnB142)</sup> CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[445(e)\].
+
+<sup>[\[143\]](#fnB143)</sup> See above at [\[48\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142985613?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[144\]](#fnB144)</sup> See above at [\[24\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138323210?query=title(%222023%20NZSC%20113%22))–[\[28\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143164262?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[145\]](#fnB145)</sup> HC judgment, above n [3](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322260?query=title(%222023%20NZSC%20113%22)), at \[235\]–\[236\]; and CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[445\].
+
+<sup>[\[146\]](#fnB146)</sup> HC judgment, above n [3](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322260?query=title(%222023%20NZSC%20113%22)), at \[99\]; and CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[126\].
+
+<sup>[\[147\]](#fnB147)</sup> CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[443\].
+
+<sup>[\[148\]](#fnB148)</sup> Note that both the High Court and Court of Appeal erroneously referred to this sum as being $11.7 million.
+
+<sup>[\[149\]](#fnB149)</sup> HC judgment, above n [3](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322260?query=title(%222023%20NZSC%20113%22)), at \[222\]–\[225\].
+
+<sup>[\[150\]](#fnB150)</sup> At \[225\].
+
+<sup>[\[151\]](#fnB151)</sup> HC judgment, above n [3](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322260?query=title(%222023%20NZSC%20113%22)), at \[265\]–\[269\]; and CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[443\].
+
+<sup>[\[152\]](#fnB152)</sup> HC Judgment, above n [3](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322260?query=title(%222023%20NZSC%20113%22)), at \[269\].
+
+<sup>[\[153\]](#fnB153)</sup> HC judgment, above n [3](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322260?query=title(%222023%20NZSC%20113%22)), at \[293\]; and CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[451\].
+
+<sup>[\[154\]](#fnB154)</sup> CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[447\]–\[448\].
+
+<sup>[\[155\]](#fnB155)</sup> HC judgment, above n [3](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322260?query=title(%222023%20NZSC%20113%22)), at \[423\].
+
+<sup>[\[156\]](#fnB156)</sup> CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[450\].
+
+<sup>[\[157\]](#fnB157)</sup> HC judgment, above n [3](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322260?query=title(%222023%20NZSC%20113%22)), at \[291\].
+
+<sup>[\[158\]](#fnB158)</sup> At \[292\].
+
+<sup>[\[159\]](#fnB159)</sup> CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[452\].
+
+<sup>[\[160\]](#fnB160)</sup> We were not invited by counsel for the liquidators to identify an earlier date.
+
+<sup>[\[161\]](#fnB161)</sup> CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[462\]–\[464\].
+
+<sup>[\[162\]](#fnB162)</sup> At \[462\].
+
+<sup>[\[163\]](#fnB163)</sup> At \[475\].
+
+<sup>[\[164\]](#fnB164)</sup> _Peace and Glory Society Ltd (in liq) v Samsa_ [\[2009\] NZCA 396](http://www.nzlii.org/nz/cases/NZCA/2009/396.html "View Case"), [\[2010\] 2 NZLR 57](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b2010%5d%202%20NZLR%2057?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") at [\[44\]](http://www.nzlii.org/nz/cases/NZCA/2009/396.html#para44) citing John Farrar _Corporate Governance: Theories, Principles and Practice_ (3rd ed, Oxford University Press, South Melbourne, 2008) at 174.
+
+<sup>[\[165\]](#fnB165)</sup> See _Goatlands Ltd (in liq) v Borrell_ [\[2006\] NZHC 1576](http://www.nzlii.org/nz/cases/NZHC/2006/1576.html "View Case"); [(2006) 3 NZCCLR 726 (HC)](https://www.nzlii.org/cgi-bin/LawCite?cit=%282006%29%203%20NZCCLR%20726?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") where, at \[114\], Lang J said that s 136 requires directors to hold a belief with some “degree of certainty” that the company will be able to perform the obligation when required to do so. There is further support for this view in respect of commentary and cases relating to s 320 of the 1955 Act after that provision was amended in 1980: _Re Casual Capers Ltd (in liq),_ above n [73](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138323419?query=title(%222023%20NZSC%20113%22)), at 98,594 referring to Andrew Beck (ed) _Morison’s Company Law and Securities Law_ (4th ed, Butterworths, Wellington, 1981) vol 3 at 1454.
+
+<sup>[\[166\]](#fnB166)</sup> See _Debut Homes,_ above n [51](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138234252?query=title(%222023%20NZSC%20113%22)), at \[91\]–\[95\] for a discussion of s 136.
+
+<sup>[\[167\]](#fnB167)</sup> CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[470\]–\[473\].
+
+<sup>[\[168\]](#fnB168)</sup> At \[474\]–\[476\].
+
+<sup>[\[169\]](#fnB169)</sup> See above at [\[83\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142305472?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[170\]](#fnB170)</sup> See below at [\[265\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143503409?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[171\]](#fnB171)</sup> See below at [\[313\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142045794?query=title(%222023%20NZSC%20113%22))–[\[314\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142045802?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[172\]](#fnB172)</sup> CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[471\].
+
+<sup>[\[173\]](#fnB173)</sup> 1993 Act, s 138.
+
+<sup>[\[174\]](#fnB174)</sup> See above at [\[216\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143096205?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[175\]](#fnB175)</sup> See, for instance, _Permakraft_, above n [81](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138323736?query=title(%222023%20NZSC%20113%22)), at 253 per Cooke J.
+
+<sup>[\[176\]](#fnB176)</sup> See above at [\[111\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322241?query=title(%222023%20NZSC%20113%22))–[\[189\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref140849662?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[177\]](#fnB177)</sup> See above at [\[127\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138323755?query=title(%222023%20NZSC%20113%22))–[\[135\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142302482?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[178\]](#fnB178)</sup> _Re William C Leitch Brothers Ltd,_ above n [64](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143000807?query=title(%222023%20NZSC%20113%22)), at 80.
+
+<sup>[\[179\]](#fnB179)</sup> _Re Casual Capers Ltd (in liq)_, above n [73](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138323419?query=title(%222023%20NZSC%20113%22)), at 98,597; _Thompson v Innes_ (1985) 2 NZCLC 96‑064 (HC) at 99,472–99,473; _Re Petherick Exclusive Fashions Ltd (in liq)_ (1987) 3 NZCLC 96‑136 (HC) at 99,960; _Re Bennett, Keane and White Ltd_ _(in liq) (No 2),_ above n [131](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143604992?query=title(%222023%20NZSC%20113%22)), at 64,333; and _Re Wait Investments Ltd (in liq_) [(1997) 8 NZCLC 96-732 (HC)](https://www.nzlii.org/cgi-bin/LawCite?cit=%281997%29%208%20NZCLC%2096%2d732?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") at 261,391.
+
+<sup>[\[180\]](#fnB180)</sup> _Re South Pacific Shipping Ltd (in liq)_ (2004) 9 NZCLC 96-964 (HC).
+
+<sup>[\[181\]](#fnB181)</sup> We say “loosely” as s 320 was not premised on a duty that was breached.
+
+<sup>[\[182\]](#fnB182)</sup> At \[164\]–\[167\].
+
+<sup>[\[183\]](#fnB183)</sup> The orders made in _Re South Pacific Shipping Co Ltd (in liq),_ affirmed in _Löwer v Traveller_ [\[2005\] NZCA 187](http://www.nzlii.org/nz/cases/NZCA/2005/187.html "View Case"); [\[2005\] 3 NZLR 479 (CA)](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b2005%5d%203%20NZLR%20479?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord"), discriminated between trade creditors (who were not aware of the company’s financial circumstances) and related-party creditors (who had been aware) but this reflected an agreement between the parties. In the High Court, the Judge recognised that there was scope for argument whether, absent such agreement, there was jurisdiction to ensure that the trade creditors received the benefit of the compensation ordered to be paid: at \[164\].
+
+<sup>[\[184\]](#fnB184)</sup> _Löwer v Traveller_, above n [183](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142054387?query=title(%222023%20NZSC%20113%22)). We note in passing that the language in \[79\] “the carrying on of the company’s business recklessly, to the knowledge of the impugned director” reflected the wording of s 320 of the 1955 Act and in the context of the judgment as a whole is not to be read as requiring a subjective approach to liability.
+
+<sup>[\[185\]](#fnB185)</sup> In this instance, liquidation at breach date would not be the relevant counterfactual. Rather, the counterfactual would simply be not trading in breach of s 135.
+
+<sup>[\[186\]](#fnB186)</sup> The absence of records at the counterfactual date would preclude a net deterioration assessment. In this situation, s 300 would provide an alternative mechanism for recovery.
+
+<sup>[\[187\]](#fnB187)</sup> Such relief would be on the basis that the relevant counterfactual was the director not having sought to obtain a benefit. In this situation, relief might also be obtained on the basis of requiring the director to disgorge any benefit.
+
+<sup>[\[188\]](#fnB188)</sup> CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[506\]–\[507\].
+
+<sup>[\[189\]](#fnB189)</sup> _Mason v Lewis_ [\[2006\] NZCA 55](http://www.nzlii.org/nz/cases/NZCA/2006/55.html "View Case"); [\[2006\] 3 NZLR 225 (CA).](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b2006%5d%203%20NZLR%20225?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord")
+
+<sup>[\[190\]](#fnB190)</sup> Footnote omitted.
+
+<sup>[\[191\]](#fnB191)</sup> It is also the general approach taken by the English courts under their broadly corresponding provision, s 214 of the Insolvency Act, above n [62](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143538298?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[192\]](#fnB192)</sup> See above at [\[127\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138323755?query=title(%222023%20NZSC%20113%22))–[\[135\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142302482?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[193\]](#fnB193)</sup> We are of course not dealing with a claim by a creditor but nevertheless whether a creditor would have a claim and how the loss would be quantified are relevant to the issues we are grappling with.
+
+<sup>[\[194\]](#fnB194)</sup> See above at [\[175\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138323895?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[195\]](#fnB195)</sup> We would not exclude entire deficiency or net deterioration approaches to the quantification of compensation for breaches of s 136 if those methodologies would respond more appropriately to the harm caused by the breach.
+
+<sup>[\[196\]](#fnB196)</sup> Mr Cooper was running what in effect was a one-man company that was far from comparable with Mainzeal, making culpability comparisons difficult and at least contestable. We agree that Mr Cooper’s conduct was egregious, in that he adopted a policy that significantly advanced his own interests and, at the same time, targeted a single creditor. This was not the case with Dame Jenny and Messrs Tilby and Gomm. As to Mr Yan, we refer to our comments later at [\[357\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143095454?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[197\]](#fnB197)</sup> CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[480\].
+
+<sup>[\[198\]](#fnB198)</sup> At \[466\].
+
+<sup>[\[199\]](#fnB199)</sup> At \[467\].
+
+<sup>[\[200\]](#fnB200)</sup> The directors maintain that it is unclear exactly how much of the subcontractor and general creditor claims were incurred prior to 5 July 2012. We address this uncertainty later in our reasons.
+
+<sup>[\[201\]](#fnB201)</sup> CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[534\]. We note that the net figure actually advanced was $9.0 million and not $11.7 million. We were not, however, invited to reconsider this concession (whether for arithmetical error or its legal premises).
+
+<sup>[\[202\]](#fnB202)</sup> Emphasis added.
+
+<sup>[\[203\]](#fnB203)</sup> CA judgment, above n [4](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322375?query=title(%222023%20NZSC%20113%22)), at \[514\].
+
+<sup>[\[204\]](#fnB204)</sup> Given the 31 January 2011 breach date that was in issue in the High Court, there was no occasion for counsel for the directors to focus on whether obligations outstanding at liquidation that had been taken on after 31 January 2011 had been incurred before or after 5 July 2012.
+
+<sup>[\[205\]](#fnB205)</sup> For instance, the liquidators accepted that approximately $838,000 of the retentions accrued prior to 31 January 2011.
+
+<sup>[\[206\]](#fnB206)</sup> They did, of course, challenge the availability of a new debt approach in relation to s 136. But in the reasons they advanced as to why this Court should not assess quantum, there was no general contention that post-breach date payments received by creditors in relation to pre-breach date obligations should be offset against what was owing to them at liquidation in relation to post-breach date obligations.
+
+<sup>[\[207\]](#fnB207)</sup> Emphasis added.
+
+<sup>[\[208\]](#fnB208)</sup> _Mason v Lewis,_ above n [189](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138323986?query=title(%222023%20NZSC%20113%22)), at \[55\] and \[110\]. The directors also rely on _Peace and Glory Society Ltd (in liq) v Samsa,_ above n [164](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142307621?query=title(%222023%20NZSC%20113%22)), at \[64\].
+
+<sup>[\[209\]](#fnB209)</sup> HC judgment, above n [3](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322260?query=title(%222023%20NZSC%20113%22)), at \[427\].
+
+<sup>[\[210\]](#fnB210)</sup> At \[428\].
+
+<sup>[\[211\]](#fnB211)</sup> At \[445\].
+
+<sup>[\[212\]](#fnB212)</sup> At \[451\].
+
+<sup>[\[213\]](#fnB213)</sup> At \[453\] and \[456\].
+
+<sup>[\[214\]](#fnB214)</sup> At \[459\].
+
+<sup>[\[215\]](#fnB215)</sup> See, for example, _Grayburn v Laing_, above n [135](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142302612?query=title(%222023%20NZSC%20113%22)), at 491.
+
+<sup>[\[216\]](#fnB216)</sup> _Arataki Properties Ltd v Craig_ \[1986\] 2 NZLR 294 (CA) at 297 per Cooke P.
+
+<sup>[\[217\]](#fnB217)</sup> _Re Securitibank Ltd_ [\[1986\] 2 NZLR 280 (HC).](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b1986%5d%202%20NZLR%20280?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord")
+
+<sup>[\[218\]](#fnB218)</sup> _Arataki Properties Ltd v Craig_, above n [216](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref139443799?query=title(%222023%20NZSC%20113%22)), at 298 per Cooke P.
+
+<sup>[\[219\]](#fnB219)</sup> At 298 per Cooke P.
+
+<sup>[\[220\]](#fnB220)</sup> See, for example, _Re Securitibank,_ above n [217](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref139443816?query=title(%222023%20NZSC%20113%22)), at 287.
+
+<sup>[\[221\]](#fnB221)</sup> _Re Paycheck Services 3 Ltd_ [\[2009\] EWCA Civ 625](http://www.bailii.org/ew/cases/EWCA/Civ/2009/625.html "View Case"), [\[2009\] 2 BCLC 309.](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b2009%5d%202%20BCLC%20309?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord")
+
+<sup>[\[222\]](#fnB222)</sup> _Holland v Revenue and Customs Commissioners_ [\[2010\] UKSC 51](http://www.bailii.org/uk/cases/UKSC/2010/51.html "View Case"), [\[2010\] 1 WLR 2793.](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b2010%5d%201%20WLR%202793?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord")
+
+<sup>[\[223\]](#fnB223)</sup> _West Mercia,_ above n [83](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322940?query=title(%222023%20NZSC%20113%22)), at 253 per Dillon LJ.
+
+<sup>[\[224\]](#fnB224)</sup> _Re Paycheck Services 3 Ltd,_ above n [221](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref139443845?query=title(%222023%20NZSC%20113%22)), at \[134\] per Elias LJ and \[143\] per Ward LJ.
+
+<sup>[\[225\]](#fnB225)</sup> At \[110\]–\[112\] per Rimer LJ.
+
+<sup>[\[226\]](#fnB226)</sup> _Holland v Revenue and Customs Commissioners,_ above n [222](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref139443856?query=title(%222023%20NZSC%20113%22)). Lord Hope DP agreed with the position taken in the Court of Appeal by Elias LJ and Ward LJ, that it was appropriate to exercise the discretion under s 212 to limit the award: at \[49\]. However, he agreed with Rimer LJ that the discretion does not allow the court to decline to give an order for damages at all: at \[51\]. Lord Walker and Lord Clarke agreed with Rimer LJ as to the nature of the discretion under s 212 and whether it was appropriately exercised: at \[124\] and \[146\]. Lord Collins and Lord Saville did not comment on the issue.
+
+<sup>[\[227\]](#fnB227)</sup> At \[124\].
+
+<sup>[\[228\]](#fnB228)</sup> _West Mercia,_ above n [83](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138322940?query=title(%222023%20NZSC%20113%22)), at 253.
+
+<sup>[\[229\]](#fnB229)</sup> See above at [\[128\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138323013?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[230\]](#fnB230)</sup> _Re Maney and Sons De Luxe Service Station Ltd_ [\[1969\] NZLR 116 (CA)](https://www.nzlii.org/cgi-bin/LawCite?cit=%5b1969%5d%20NZLR%20116?query=title(%222023%20NZSC%20113%22) "View LawCiteRecord") at 128 per North P.
+
+<sup>[\[231\]](#fnB231)</sup> See, for instance, the discussion in _Re Petherick Exclusive Fashions Ltd (in liq_), above n [179](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142495299?query=title(%222023%20NZSC%20113%22)), at 99,961–99,962.
+
+<sup>[\[232\]](#fnB232)</sup> Kristin Van Zwieten (ed) _Goode on Principles of Corporate Insolvency Law_ (5th ed, Sweet & Maxwell, London, 2018) at 751.
+
+<sup>[\[233\]](#fnB233)</sup> _Benton v Priore_, above n [55](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142307841?query=title(%222023%20NZSC%20113%22)), at \[47\].
+
+<sup>[\[234\]](#fnB234)</sup> See above at [\[337\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref143504636?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[235\]](#fnB235)</sup> We have in mind claims brought in the name of a company in receivership but not liquidation.
+
+<sup>[\[236\]](#fnB236)</sup> _Mason v Lewis,_ above n [189](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref138323986?query=title(%222023%20NZSC%20113%22)), at \[116\] and \[118\].
+
+<sup>[\[237\]](#fnB237)</sup> Footnote omitted.
+
+<sup>[\[238\]](#fnB238)</sup> _Sojourner v Robb,_ above n [55](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142307841?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[239\]](#fnB239)</sup> Mainzeal, in liquidation, was a plaintiff (along with the liquidators) but the relief sought in relation to ss 135 and 136 was expressed to be pursuant to s 301.
+
+<sup>[\[240\]](#fnB240)</sup> Above at [\[155\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref140849603?query=title(%222023%20NZSC%20113%22))–[\[169\]](https://www.nzlii.org/nz/cases/NZSC/2023/2023_113.html#_Ref142307968?query=title(%222023%20NZSC%20113%22)).
+
+<sup>[\[241\]](#fnB241)</sup> Law Commission _Review of Joint and Several Liability_ (NZLC IP32, 2012).
+
+<sup>[\[242\]](#fnB242)</sup> [Judicature Act 1908](http://www.nzlii.org/nz/legis/consol_act/ja1908123/index.html), s 87. This Act has now been repealed. However, because these proceedings were commenced prior to the repeal, this Act applies to the present proceedings: [Interest on Money Claims Act 2016](http://www.nzlii.org/nz/legis/consol_act/iomca2016268/index.html), [s 5.](http://www.nzlii.org/nz/legis/consol_act/iomca2016268/s5.html)
+
+---
+
+**NZLII:** [Copyright Policy](https://www.nzlii.org/nzlii/copyright.html?query=title(%222023%20NZSC%20113%22)) **|** [Disclaimers](https://www.nzlii.org/nzlii/disclaimers.html?query=title(%222023%20NZSC%20113%22)) **|** [Privacy Policy](https://www.nzlii.org/nzlii/privacy.html?query=title(%222023%20NZSC%20113%22)) **|** [Feedback](https://www.nzlii.org/nzlii/feedback.html?query=title(%222023%20NZSC%20113%22))  
+URL: _http://www.nzlii.org/nz/cases/NZSC/2023/113.html_
