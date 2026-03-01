@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "title": "100 Investments Ltd v Walker",
+    "citation": "[2025] NZHC 3486",
+    "court": "High Court of New Zealand",
+    "date": "2025-11-17",
+    "judges": [
+      "Campbell J"
+    ],
+    "outcome_summary": "Judgment for defendants dismissing all plaintiffs' claims; judgment for Walker, LPF, and SPF on counterclaims for breach of a settlement deed and indemnities.",
+    "parties": {
+      "appellants_or_plaintiffs": [
+        {
+          "name": "100 Investments Limited",
+          "role": "First Plaintiff in 1160 proceeding, claiming to be a secured creditor"
+        },
+        {
+          "name": "FTG Securities Limited",
+          "role": "Second Plaintiff in 1160 proceeding, claiming to be a secured creditor"
+        },
+        {
+          "name": "RFD Finance Limited",
+          "role": "Third Plaintiff in 1160 proceeding, claiming to be a secured creditor"
+        },
+        {
+          "name": "Tomanovich Holdings Limited",
+          "role": "Fourth Plaintiff in 1160 proceeding, claiming to be a secured creditor"
+        },
+        {
+          "name": "Kevin John Whitley",
+          "role": "First Plaintiff in 274 proceeding, current liquidator of PVL and subsidiaries"
+        },
+        {
+          "name": "Property Ventures Limited (in liquidation)",
+          "role": "Second Plaintiff in 274 proceeding"
+        }
+      ],
+      "respondents_or_defendants": [
+        {
+          "name": "Robert Bruce Walker",
+          "role": "Former liquidator of PVL and subsidiaries"
+        },
+        {
+          "name": "LPF Group Limited",
+          "role": "Litigation funder parent company"
+        },
+        {
+          "name": "SPF No.10 Limited (in liquidation)",
+          "role": "Litigation funder subsidiary"
+        }
+      ]
+    }
+  },
+  "overview": {
+    "summary": "The case involves claims by four companies (the 100 Parties) claiming to be secured creditors, and the current liquidator of Property Ventures Limited (the Whitley Parties), against the former liquidator (Walker) and litigation funders (LPF and SPF). The plaintiffs challenged the validity of a litigation funding agreement and a subsequent Distribution Agreement that divided proceeds from settlements with PVL's former directors and auditors. The High Court dismissed all plaintiffs' claims, finding the former liquidator did not breach his duties or act under undue influence when making commercial compromises with the funders. The Court also held that the liquidator was entitled to recoup reasonable costs—including litigation funding success fees—in priority to any secured creditors under the salvage principle, and that the 100 Parties failed to prove they were secured creditors.",
+    "legal_issues": [
+      "Did SPF reach a binding agreement with the liquidator to hold any surplus payable under the Allied security for the benefit of unsecured creditors?",
+      "Did the liquidator breach fiduciary or other duties by entering into the Services Deed or Distribution Agreement?",
+      "Were the PVL subsidiaries bound by the terms of the Services Deed?",
+      "Was the liquidator unduly influenced by the litigation funders in entering the Distribution Agreement?",
+      "Are the 100 Parties secured creditors of the PVL subsidiaries?",
+      "To what extent does a liquidator enjoy a right to recoup costs and remuneration in priority to secured creditors under the salvage principle?",
+      "Does s 284 of the Companies Act 1993 confer jurisdiction to make substantive orders affecting third party rights?",
+      "Are the claims under s 301 of the Companies Act 1993 out of time under s 16(1)(i) of the Limitation Act 2010?"
+    ],
+    "topics": [
+      "litigation_funding",
+      "liquidator_duties",
+      "breach_of_fiduciary_duty",
+      "undue_influence",
+      "secured_creditors",
+      "salvage_principle",
+      "s284",
+      "s301",
+      "limitation_act",
+      "companies_act",
+      "abuse_of_process",
+      "distribution_agreement"
+    ]
+  },
+  "propositions": [
+    {
+      "id": "p1",
+      "proposition": "Where parties negotiate on the basis that their agreement will be recorded in a formal agreement signed by both parties, the ordinary inference is that they do not intend to be bound until both have signed that formal agreement.",
+      "type": "ratio",
+      "section_refs": [
+        "s_issue_1"
+      ],
+      "topics": [
+        "contract_formation"
+      ]
+    },
+    {
+      "id": "p2",
+      "proposition": "A liquidator is not generally under any duty to obtain court approval for commercial decisions, such as entering into a litigation funding agreement or a distribution compromise.",
+      "type": "ratio",
+      "section_refs": [
+        "s_issue_2",
+        "s_issue_4"
+      ],
+      "topics": [
+        "liquidator_duties",
+        "s284"
+      ]
+    },
+    {
+      "id": "p3",
+      "proposition": "The duty of a liquidator to act in good faith in what they believe to be the best interests of the company is a subjective duty.",
+      "type": "ratio",
+      "section_refs": [
+        "s_issue_4"
+      ],
+      "topics": [
+        "liquidator_duties",
+        "breach_of_fiduciary_duty"
+      ]
+    },
+    {
+      "id": "p4",
+      "proposition": "Where a liquidator has incurred costs and performed services in preserving and realising secured assets, the liquidator is entitled to recoup their reasonable costs and reasonable remuneration from the proceeds of realisation in priority to the claim of a secured creditor.",
+      "type": "ratio",
+      "section_refs": [
+        "s_issue_8"
+      ],
+      "topics": [
+        "salvage_principle",
+        "liquidator_remuneration"
+      ]
+    },
+    {
+      "id": "p5",
+      "proposition": "A liquidator's priority for reasonable costs of realisation extends to a success fee payable to a litigation funder under a litigation funding agreement.",
+      "type": "ratio",
+      "section_refs": [
+        "s_issue_8"
+      ],
+      "topics": [
+        "salvage_principle",
+        "litigation_funding"
+      ]
+    },
+    {
+      "id": "p6",
+      "proposition": "Section 284(1)(a) of the Companies Act 1993 does not confer jurisdiction on the court to make substantive determinations of rights against third parties under the guise of giving directions.",
+      "type": "ratio",
+      "section_refs": [
+        "s_issue_9"
+      ],
+      "topics": [
+        "s284"
+      ]
+    },
+    {
+      "id": "p7",
+      "proposition": "Section 284(1)(b) of the Companies Act 1993 empowers a court to reverse a concluded transaction by a liquidator such that the rights of a third party are affected, though this discretion is generally exercised only in cases of fraud, lack of good faith, or unreasonableness.",
+      "type": "ratio",
+      "section_refs": [
+        "s_issue_9"
+      ],
+      "topics": [
+        "s284"
+      ]
+    },
+    {
+      "id": "p8",
+      "proposition": "In section 16(1)(i) of the Limitation Act 2010, the special start date based on the date 'the liquidator' was appointed means the date the first liquidator was appointed, not a successor liquidator.",
+      "type": "ratio",
+      "section_refs": [
+        "s_issue_11"
+      ],
+      "topics": [
+        "limitation_act",
+        "s301"
+      ]
+    }
+  ],
+  "reasoning_chains": [
+    {
+      "id": "rc1",
+      "question": "Were the 100 Parties secured creditors of the PVL subsidiaries?",
+      "section_sequence": [
+        "s_issue_6"
+      ],
+      "conclusion": "The 100 Parties failed to prove valid assignments of debts and securities, and thus are not secured creditors."
+    },
+    {
+      "id": "rc2",
+      "question": "Is the liquidator entitled to priority over secured creditors for litigation funding costs?",
+      "section_sequence": [
+        "s_issue_8"
+      ],
+      "conclusion": "Yes, under the salvage principle the liquidator can recoup reasonable costs, including litigation funding fees, before secured creditors take any portion of the proceeds."
+    },
+    {
+      "id": "rc3",
+      "question": "Did the liquidator breach duties in entering the Distribution Agreement?",
+      "section_sequence": [
+        "s_issue_4"
+      ],
+      "conclusion": "No, the liquidator made a reasonable commercial compromise, had no duty to obtain court approval, and was not unduly influenced by the litigation funders."
+    },
+    {
+      "id": "rc4",
+      "question": "Are the claims under s 301 of the Companies Act time-barred?",
+      "section_sequence": [
+        "s_issue_11"
+      ],
+      "conclusion": "Yes, the limitation period starts on the appointment of the first liquidator, meaning the claims brought by the successor liquidator and the 100 Parties were filed out of time."
+    }
+  ],
+  "sections": [
+    {
+      "id": "s_facts",
+      "title": "Factual outline",
+      "anchor_start": 1,
+      "anchor_end": 326,
+      "paragraph_range": "[1]-[93]",
+      "summary": "Details the background of the PVL collapse, the appointment of liquidators, negotiations for litigation funding with SPF/LPF, the commencement of proceedings against PVL's former directors, auditors (PwC), and valuers (Fright Aubrey), and the subsequent settlements and disputes over the distribution of proceeds.",
+      "topics": [
+        "litigation_funding",
+        "pvl_collapse",
+        "settlements"
+      ],
+      "relevance": 2
+    },
+    {
+      "id": "s_proceedings_issues",
+      "title": "The current consolidated proceedings and issues",
+      "anchor_start": 327,
+      "anchor_end": 388,
+      "paragraph_range": "[94]-[114]",
+      "summary": "Outlines the claims brought by the 100 Parties (claiming to be secured creditors) and the Whitley Parties (the current liquidator), the defendants' affirmative defences including a Settlement Deed, and lists the key issues for determination.",
+      "topics": [
+        "causes_of_action",
+        "affirmative_defences"
+      ],
+      "relevance": 2
+    },
+    {
+      "id": "s_procedure_evidence",
+      "title": "Procedural matters and The evidence",
+      "anchor_start": 389,
+      "anchor_end": 495,
+      "paragraph_range": "[115]-[161]",
+      "summary": "Addresses procedural issues including late discovery and litigation privilege, and evaluates the credibility of key witnesses. The Court notably finds that Mr Henderson lied about undocumented funding arrangements for the liquidator.",
+      "topics": [
+        "discovery",
+        "litigation_privilege",
+        "witness_credibility"
+      ],
+      "relevance": 2
+    },
+    {
+      "id": "s_issue_1",
+      "title": "Issue 1: Did SPF reach a binding agreement with Mr Walker that it would hold any surplus payable under the Allied security for the benefit of unsecured creditors?",
+      "anchor_start": 496,
+      "anchor_end": 565,
+      "paragraph_range": "[162]-[191]",
+      "summary": "Assesses whether SPF reached a binding agreement with the liquidator to hold any surplus under the Allied security for unsecured creditors. The Court finds no binding agreement existed as the parties did not intend to be bound until formal documentation was signed.",
+      "topics": [
+        "contract_formation",
+        "intention_to_be_bound",
+        "allied_security"
+      ],
+      "relevance": 4,
+      "key_passages": [
+        {
+          "anchor_start": 542,
+          "anchor_end": 544,
+          "description": "Court states that where parties negotiate subject to formal funding documentation, they do not intend to be immediately bound."
+        }
+      ]
+    },
+    {
+      "id": "s_issue_2",
+      "title": "Issue 2: Did Mr Walker breach any fiduciary or other duty by entering into the Services Deed?",
+      "anchor_start": 566,
+      "anchor_end": 624,
+      "paragraph_range": "[192]-[219]",
+      "summary": "Evaluates claims that the liquidator breached duties by entering into the Services Deed. The Court finds no duty to obtain court approval for commercial decisions, and that the liquidator properly reviewed the deed and acted for the benefit of creditors.",
+      "topics": [
+        "liquidator_duties",
+        "fiduciary_duties",
+        "services_deed"
+      ],
+      "relevance": 4,
+      "key_passages": [
+        {
+          "anchor_start": 579,
+          "anchor_end": 581,
+          "description": "Court holds that entry into the Services Deed was a commercial decision and the liquidator was not under a duty to obtain court approval."
+        }
+      ]
+    },
+    {
+      "id": "s_issue_3",
+      "title": "Issue 3: Were the PVL subsidiaries bound by the terms of the Services Deed?",
+      "anchor_start": 625,
+      "anchor_end": 636,
+      "paragraph_range": "[220]-[228]",
+      "summary": "Analyzes whether PVL subsidiaries were bound by the Services Deed despite not signing it. The Court finds they were bound by conduct, as they accepted funding and participated in the litigation under its terms.",
+      "topics": [
+        "contract_by_conduct",
+        "services_deed"
+      ],
+      "relevance": 3
+    },
+    {
+      "id": "s_issue_4",
+      "title": "Issue 4: Did Mr Walker breach any fiduciary or other duties, or was he unduly influenced, in entering into the Distribution Agreement?",
+      "anchor_start": 637,
+      "anchor_end": 1052,
+      "paragraph_range": "[229]-[415]",
+      "summary": "An exhaustive review of negotiations leading to the Distribution Agreement. The Court holds the liquidator did not breach fiduciary or statutory duties, had no duty to obtain court approval, and was not unduly influenced by the litigation funders in agreeing to the compromise.",
+      "topics": [
+        "undue_influence",
+        "liquidator_duties",
+        "distribution_agreement"
+      ],
+      "relevance": 5,
+      "key_passages": [
+        {
+          "anchor_start": 938,
+          "anchor_end": 940,
+          "description": "Court explains that the Distribution Agreement was a commercial compromise of a dispute and the liquidator was not under a duty to seek court approval."
+        },
+        {
+          "anchor_start": 956,
+          "anchor_end": 962,
+          "description": "Court confirms the liquidator's duty of good faith is a subjective duty."
+        }
+      ]
+    },
+    {
+      "id": "s_issue_5",
+      "title": "Issue 5: Was the Services Deed, as amended by the Distribution Agreement, unlawful as an abuse of process?",
+      "anchor_start": 1053,
+      "anchor_end": 1058,
+      "paragraph_range": "[416]-[419]",
+      "summary": "Dismisses the claim that the Services Deed, as amended by the Distribution Agreement, was unlawful as an abuse of process.",
+      "topics": [
+        "abuse_of_process",
+        "unlawful_agreement"
+      ],
+      "relevance": 2
+    },
+    {
+      "id": "s_issue_6",
+      "title": "Issue 6: Are the 100 Parties secured creditors of the PVL subsidiaries?",
+      "anchor_start": 1059,
+      "anchor_end": 1274,
+      "paragraph_range": "[420]-[518]",
+      "summary": "Detailed analysis of the 100 Parties' claims to be secured creditors via assignment of loans and GSAs. The Court finds they failed to prove valid assignments and thus failed to establish secured creditor status.",
+      "topics": [
+        "secured_creditors",
+        "assignments",
+        "hearsay_evidence"
+      ],
+      "relevance": 4
+    },
+    {
+      "id": "s_issue_7",
+      "title": "Issue 7: If the 100 Parties are secured creditors of the PVL subsidiaries, what portion of the settlement proceeds are the PVL subsidiaries entitled to?",
+      "anchor_start": 1275,
+      "anchor_end": 1324,
+      "paragraph_range": "[519]-[552]",
+      "summary": "Evaluates what portion of the settlement proceeds belonged to the PVL subsidiaries. The Court determines the subsidiaries made only a very modest contribution (around 4%) to the PwC settlement proceeds.",
+      "topics": [
+        "mixed_funds",
+        "apportionment"
+      ],
+      "relevance": 3
+    },
+    {
+      "id": "s_issue_8",
+      "title": "Issue 8: If the 100 Parties are secured creditors of the PVL subsidiaries, to what extent does Mr Walker enjoy a prior right to recoup from the PVL settlement proceeds his costs and remuneration in obtaining those proceeds?",
+      "anchor_start": 1325,
+      "anchor_end": 1473,
+      "paragraph_range": "[553]-[628]",
+      "summary": "Applies the 'salvage principle', holding that the liquidator is entitled to recoup reasonable costs and remuneration from the settlement proceeds in priority to any secured creditors. Holds that litigation funding fees are reasonably incurred costs of realisation.",
+      "topics": [
+        "salvage_principle",
+        "liquidator_remuneration",
+        "litigation_funding"
+      ],
+      "relevance": 5,
+      "key_passages": [
+        {
+          "anchor_start": 1338,
+          "anchor_end": 1340,
+          "description": "Court states the principle that priority extends to a success fee payable to a litigation funder."
+        },
+        {
+          "anchor_start": 1434,
+          "anchor_end": 1435,
+          "description": "Court explains the need to resist hindsight when assessing the reasonableness of costs under litigation funding agreements."
+        }
+      ]
+    },
+    {
+      "id": "s_issue_9",
+      "title": "Issue 9: Does s 284 of the Companies Act confer jurisdiction to make the orders sought by Mr Whitley affecting the rights of Mr Walker, LPF and SPF?",
+      "anchor_start": 1474,
+      "anchor_end": 1539,
+      "paragraph_range": "[629]-[651]",
+      "summary": "Analyzes jurisdiction under s 284 of the Companies Act. Holds s 284(1)(a) does not allow substantive determinations of third-party rights, while s 284(1)(b) can reverse decisions affecting third parties but will only do so for fraud or unreasonableness.",
+      "topics": [
+        "s284",
+        "companies_act",
+        "jurisdiction"
+      ],
+      "relevance": 5,
+      "key_passages": [
+        {
+          "anchor_start": 1523,
+          "anchor_end": 1525,
+          "description": "Court concludes that s 284(1)(a) does not confer jurisdiction to make substantive determinations of rights."
+        },
+        {
+          "anchor_start": 1538,
+          "anchor_end": 1540,
+          "description": "Court confirms s 284(1)(b) can affect third party rights, but the discretion is reserved for fraud, bad faith, or unreasonableness."
+        }
+      ]
+    },
+    {
+      "id": "s_issue_10",
+      "title": "Issue 10: In light of the Settlement Deed, are any of the claims against Mr Walker an abuse of process?",
+      "anchor_start": 1540,
+      "anchor_end": 1587,
+      "paragraph_range": "[652]-[673]",
+      "summary": "Examines the Settlement Deed between Walker and Henderson. Finds the Whitley Parties are associated with Henderson, rendering their pursuit of the 274 proceeding and new fiduciary claims an abuse of process.",
+      "topics": [
+        "abuse_of_process",
+        "settlement_deed"
+      ],
+      "relevance": 4
+    },
+    {
+      "id": "s_issue_11",
+      "title": "Issue 11: Are the claims under s 301 of the Companies Act out of time under the Limitation Act 2010?",
+      "anchor_start": 1588,
+      "anchor_end": 1666,
+      "paragraph_range": "[674]-[706]",
+      "summary": "Interprets s 16(1)(i) of the Limitation Act 2010. Holds that the limitation period for s 301 claims starts when the first liquidator is appointed, meaning the plaintiffs' claims are time-barred.",
+      "topics": [
+        "limitation_act",
+        "s301",
+        "statutory_interpretation"
+      ],
+      "relevance": 5,
+      "key_passages": [
+        {
+          "anchor_start": 1640,
+          "anchor_end": 1642,
+          "description": "Court holds that the date 'the liquidator' was appointed in s 16(1)(i) means the date the first liquidator was appointed."
+        }
+      ]
+    },
+    {
+      "id": "s_disposition",
+      "title": "Disposition of claims and counterclaims",
+      "anchor_start": 1667,
+      "anchor_end": 1812,
+      "paragraph_range": "[707]-[796]",
+      "summary": "Formally dismisses all plaintiffs' causes of action and grants judgment for the defendants on their counterclaims for breaches of the Settlement Deed and indemnities.",
+      "topics": [
+        "judgment",
+        "counterclaims",
+        "costs"
+      ],
+      "relevance": 2
+    }
+  ],
+  "legislation_referenced": [
+    {
+      "title": "Companies Act 1993",
+      "sections": [
+        "s 260",
+        "s 284",
+        "s 301",
+        "Schedule 7"
+      ],
+      "relevance": "central"
+    },
+    {
+      "title": "Limitation Act 2010",
+      "sections": [
+        "s 11",
+        "s 14",
+        "s 16(1)(i)",
+        "s 50"
+      ],
+      "relevance": "central"
+    },
+    {
+      "title": "Evidence Act 2006",
+      "sections": [
+        "s 17",
+        "s 19"
+      ],
+      "relevance": "supporting"
+    }
+  ],
+  "cases_cited": [
+    {
+      "name": "Fletcher Challenge Energy Ltd v Electricity Corporation of New Zealand Ltd",
+      "citation": "[2002] 2 NZLR 433 (CA)",
+      "relationship": "applied",
+      "relevance_note": "Applied for principles governing contract formation and intention to be immediately bound."
+    },
+    {
+      "name": "Waterhouse v Contractors Bonding Ltd",
+      "citation": "[2013] NZSC 89, [2014] 1 NZLR 91",
+      "relationship": "applied",
+      "relevance_note": "Cited for the proposition that the court does not act as a general regulator of litigation funding arrangements."
+    },
+    {
+      "name": "Stewart v Atco Controls Pty Ltd (in liq)",
+      "citation": "[2014] HCA 15, (2014) 252 CLR 307",
+      "relationship": "followed",
+      "relevance_note": "Followed as the leading statement on the salvage principle and a liquidator's priority to recoup costs from realised funds."
+    },
+    {
+      "name": "IMF (Australia) Ltd v Meadow Springs Fairway Resort Ltd (in liq)",
+      "citation": "[2009] FCAFC 9, (2009) 253 ALR 240",
+      "relationship": "followed",
+      "relevance_note": "Followed to hold that a liquidator's priority for costs extends to reasonably incurred litigation funding success fees."
+    },
+    {
+      "name": "Dalton v Mackley",
+      "citation": "[2021] NZHC 2329",
+      "relationship": "considered",
+      "relevance_note": "Considered regarding the scope of the court's jurisdiction under s 284(1)(a) of the Companies Act."
+    },
+    {
+      "name": "Callis v Pardington",
+      "citation": "(1996) 1 BCSLR 211 (CA)",
+      "relationship": "followed",
+      "relevance_note": "Followed as authority that s 284(1)(b) of the Companies Act can be used to reverse a liquidator's decision affecting third party rights."
+    },
+    {
+      "name": "Arataki Properties Ltd v Craig",
+      "citation": "[1986] 2 NZLR 294 (CA)",
+      "relationship": "considered",
+      "relevance_note": "Considered for the historical interpretation of limitation periods for liquidator claims, illuminating the purpose of s 16(1)(i) of the Limitation Act."
+    }
+  ]
+}
